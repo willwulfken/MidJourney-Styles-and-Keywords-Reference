@@ -5,7 +5,7 @@
 ### [Discussion](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/discussions) is open for ideas pertaining to this repository and additions you'd like to see
 
 <details>
-  <summary>Links to other style references</summary>
+  <summary>🔗 Links to other style references</summary>
 
 [Midjourney Dictionary](https://www.midjourney.com/app/library/dictionary/)
 
@@ -20,7 +20,7 @@
 ---
 
 <details>
-  <summary>Control Image and Seed</summary>
+  <summary>⚪ Control Image and Seed</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -31,7 +31,7 @@
 
   
 <details>
-  <summary>Themes</summary>
+  <summary>🎭 Themes</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -52,7 +52,7 @@
   
 
 <details>
-  <summary>Design Styles</summary>
+  <summary>🖼 Design Styles</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -111,7 +111,7 @@
 
   
 <details>
-  <summary>Materials</summary>
+  <summary>🧱 Materials</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -139,7 +139,7 @@
 
 
 <details>
-  <summary>Material Properties</summary>
+  <summary>📦 Material Properties</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -166,7 +166,7 @@
 
   
 <details>
-  <summary>Drawing and Art Mediums</summary>
+  <summary>🖌 Drawing and Art Mediums</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -194,7 +194,7 @@
 
 
 <details>
-  <summary>Colors, Palettes, and Color Styles</summary>
+  <summary>🎨 Colors, Palettes, and Color Styles</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -225,7 +225,7 @@
 
 
 <details>
-  <summary>Computer Graphics</summary>
+  <summary>🖥 Computer Graphics</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -265,7 +265,7 @@
   
 
 <details>
-  <summary>Game Engines</summary>
+  <summary>🎮 Game Engines</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -282,7 +282,7 @@
   
   
 <details>
-  <summary>1-bit - 16-bit</summary>
+  <summary>🟩 1-bit - 16-bit</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -303,7 +303,7 @@
 
 
 <details>
-  <summary>Dimensionality (ex. 4-dimensional, overdimenional, etc.)</summary>
+  <summary>🌌 Dimensionality (ex. 4-dimensional, overdimenional, etc.)</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -330,7 +330,7 @@
   
 
 <details>
-  <summary>Lighting</summary>
+  <summary>💡 Lighting</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -354,7 +354,7 @@
   
   
 <details>
-  <summary>SFX, Post-Processing, and Shaders</summary>
+  <summary>🌈 SFX, Post-Processing, and Shaders</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -388,7 +388,7 @@
   
   
 <details>
-  <summary>Camera</summary>
+  <summary>📷 Camera, Camera Properties, Camera Lenges/Effects, etc.</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -434,7 +434,7 @@
 
   
 <details>
-  <summary>Miscellaneous</summary>
+  <summary>🎛 Miscellaneous</summary>
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
