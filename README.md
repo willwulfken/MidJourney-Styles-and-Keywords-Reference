@@ -102,45 +102,206 @@
 |Transparent| ![image](https://user-images.githubusercontent.com/6042799/177029915-3a228fa5-c7be-4eb0-b065-51b2b3ff6fc7.png) |
 |Translucent| ![image](https://user-images.githubusercontent.com/6042799/177029919-ac5b05d6-2ab8-44ee-a9e5-7b1330cba851.png) |
 |Opaque| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_opaque.png?raw=true) |
-|Vibrance|  |
-|infrared|  |
-|ultraviolet|  |
-|UV|  |
-|High contrast|  |
-|Low contrast|  |
-|Glassy|  |
-|Plastic|  |
-|Metallic|  |
-|Liquid|  |
-|chromatic aberration|  |
-|Light|  |
-|Dark|  |
-|Light Mode|  |
-|Dark Mode|  |
-|Airbrush|  |
-|Illustration|  |
-|Sketch|  |
-|Drawing|  |
-|Pencil Art|  |
-|Marker Art|  |
-|Line Art|  |
-|Pastel Art|  |
-|Charcoal Art|  |
-|hand-drawn|  |
-|Crosshatch|  |
-|Painting|  |
-|Paint|  |
-|Acrylic Paint|  |
-|Oil Paint|  |
-|Puffy Paint|  |
-|Halftone|  |
-|1980s airbrush art|  |
-|Stylized|  |
-|Colorful|  |
-|Black and White|  |
-|Sepia|  |
-|Video Game|  |
-|Shaders|  |
-|Post Processing|  |
-|Wide Angle|  |
-|Ultra-Wide Angle|  |
+|Vibrance| ![image]() |
+|infrared| ![image]() |
+|ultraviolet| ![image]() |
+|UV| ![image]() |
+|High contrast| ![image]() |
+|Low contrast| ![image]() |
+|Glassy| ![image]() |
+|Plastic| ![image]() |
+|Metallic| ![image]() |
+|Liquid| ![image]() |
+|chromatic aberration| ![image]() |
+|Light| ![image]() |
+|Dark| ![image]() |
+|Light Mode| ![image]() |
+|Dark Mode| ![image]() |
+|Airbrush| ![image]() |
+|Illustration| ![image]() |
+|Sketch| ![image]() |
+|Drawing| ![image]() |
+|Pencil Art| ![image]() |
+|Marker Art| ![image]() |
+|Line Art| ![image]() |
+|Pastel Art| ![image]() |
+|Charcoal Art| ![image]() |
+|hand-drawn| ![image]() |
+|Crosshatch| ![image]() |
+|Painting| ![image]() |
+|Paint| ![image]() |
+|Acrylic Paint| ![image]() |
+|Oil Paint| ![image]() |
+|Puffy Paint| ![image]() |
+|Halftone| ![image]() |
+|1980s airbrush art| ![image]() |
+|Stylized| ![image]() |
+|Colorful| ![image]() |
+|Black and White| ![image]() |
+|Sepia| ![image]() |
+|Video Game| ![image]() |
+|Shaders| ![image]() |
+|Post Processing| ![image]() |
+|Wide Angle| ![image]() |
+|Ultra-Wide Angle| ![image]() |
+|Panorama| ![image]() |
+|360 Panorama| ![image]() |
+|360 Angle| ![image]() |
+|Rainbow| ![image]() |
+|Galaxy| ![image]() |
+|Origami| ![image]() |
+|Sci-fi| ![image]() |
+|Tones of Black| ![image]() |
+|Tones of <color>| ![image]() |
+|Tones of Black in Background| ![image]() |
+|Tones of <color> in background| ![image]() |
+|Does not always put the color in the background, only works sometimes| ![image]() |
+|Complex| ![image]() |
+|Simple| ![image]() |
+|painting by Salvador Dali| ![image]() |
+|painting by Van Gogh| ![image]() |
+|CryEngine| ![image]() |
+|2-Dimensional| ![image]() |
+|2D| ![image]() |
+|3-Dimensional| ![image]() |
+|3D| ![image]() |
+|4-Dimensional| ![image]() |
+|4D| ![image]() |
+|5-Dimensional| ![image]() |
+|5D| ![image]() |
+|Ambient occlusion| ![image]() |
+|Prismatic| ![image]() |
+|Crystalline| ![image]() |
+|Overdimensional| ![image]() |
+|Underdimensional| ![image]() |
+|Hyperdimensional| ![image]() |
+|Omnidimensional| ![image]() |
+|Everdimensional| ![image]() |
+|Extradimensional| ![image]() |
+|Beyond-Dimensional| ![image]() |
+|excessively-dimensional| ![image]() |
+|Alldimensional| ![image]() |
+|Multiverse| ![image]() |
+|jpeg| ![image]() |
+|outlined| ![image]() |
+|bright| ![image]() |
+|ultrabright| ![image]() |
+|dirty| ![image]() |
+|with imperfections| ![image]() |
+|Global Illumination| ![image]() |
+|Lumen Global Illumination| ![image]() |
+|Screen Space Global Illumination| ![image]() |
+|Ray Tracing Global Illumination| ![image]() |
+|Ray Traced| ![image]() |
+|Ray Tracing Reflections| ![image]() |
+|Lumen Reflections| ![image]() |
+|Screen Space Reflections| ![image]() |
+|Ambient Occlusion| ![image]() |
+|Ray Tracing Ambient Occlusion| ![image]() |
+|Film Grain| ![image]() |
+|Color Grading| ![image]() |
+|Tone Mapping| ![image]() |
+|photography| ![image]() |
+|bokeh| ![image]() |
+|depth of field| ![image]() |
+|exposure| ![image]() |
+|Long exposure| ![image]() |
+|Short exposure| ![image]() |
+|ISO 200| ![image]() |
+|ISO 1200| ![image]() |
+|ISO 3200| ![image]() |
+|shutter speed 1/1000| ![image]() |
+|shutter speed 1/2| ![image]() |
+|f/2.8| ![image]() |
+|f/22| ![image]() |
+|lens flare| ![image]() |
+|vignette| ![image]() |
+|50s| ![image]() |
+|60s| ![image]() |
+|70s| ![image]() |
+|80s| ![image]() |
+|90s| ![image]() |
+|Y2K Design| ![image]() |
+|Extreme| ![image]() |
+|Seems to try to place an X on subject| ![image]() |
+|Deep dream| ![image]() |
+|Anti-design| ![image]() |
+|Ukiyo-e flat design| ![image]() |
+|Grunge revival design| ![image]() |
+|Bubble design| ![image]() |
+|Extreme bubble design| ![image]() |
+|Flat Design| ![image]() |
+|Psychedelic Design| ![image]() |
+|Tactile Design| ![image]() |
+|Retro-futurism| ![image]() |
+|Pop-art| ![image]() |
+|Intricate maximalism| ![image]() |
+|Bauhaus style | ![image]() |
+|Frasurbane| ![image]() |
+|Escapism| ![image]() |
+|Patterns| ![image]() |
+|Parametric patterns| ![image]() |
+|AR| ![image]() |
+|VR| ![image]() |
+|Monochrome| ![image]() |
+|Jewel tones | ![image]() |
+|Glass and Crystals| ![image]() |
+|Anti-aliasing| ![image]() |
+|Fog| ![image]() |
+|Lens Distortion| ![image]() |
+|Gamma| ![image]() |
+|Panini Projection| ![image]() |
+|Orthographic| ![image]() |
+|Split Toning| ![image]() |
+|White Balance| ![image]() |
+|carving| ![image]() |
+|Anaglyph| ![image]() |
+|Bump map| ![image]() |
+|Normal map| ![image]() |
+|cel shading| ![image]() |
+|dithering| ![image]() |
+|Crepuscular rays| ![image]() |
+|scattering| ![image]() |
+|Night vision| ![image]() |
+|posterization| ![image]() |
+|Scan lines| ![image]() |
+|Sobel operator| ![image]() |
+|Edge Detection| ![image]() |
+|Gradient| ![image]() |
+|Layered| ![image]() |
+|Photobash| ![image]() |
+|flat| ![image]() |
+|gas| ![image]() |
+|smoke| ![image]() |
+|vapor| ![image]() |
+|plasma| ![image]() |
+|inlay| ![image]() |
+|wooden| ![image]() |
+|weave| ![image]() |
+|cloth| ![image]() |
+|stone| ![image]() |
+|ceramic| ![image]() |
+|clay| ![image]() |
+|enamel| ![image]() |
+|tile| ![image]() |
+|distortion| ![image]() |
+|interlaced| ![image]() |
+|glitchy| ![image]() |
+|magnification| ![image]() |
+|microscopic| ![image]() |
+|telephoto| ![image]() |
+|compound design| ![image]() |
+|retro| ![image]() |
+|futuristic| ![image]() |
+|modern| ![image]() |
+|moire patterns| ![image]() |
+|technicolor| ![image]() |
+|schlieren| ![image]() |
+|Kinemacolor| ![image]() |
+|Kodachrome| ![image]() |
+|Cinecolor| ![image]() |
+|Agfacolor| ![image]() |
+|perspective| ![image]() |
+|physics| ![image]() |
+|vaporwave| ![image]() |
+|illusion| ![image]() |
