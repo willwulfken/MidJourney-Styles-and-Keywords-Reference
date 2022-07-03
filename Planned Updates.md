@@ -1,9 +1,8 @@
 # Planned Updates
-- Make images a tad bit smaller, for easier viewing (images inside the repository are planned to reamin full size. This is only for Readme.md)
 - Better Categorization for some things (subgroups)
 - Addition of "made out of" column for tables
 - <details>
-    <summary>More Style Additions</summary>
+    <summary> More Style Additions</summary>
   
     |Planned Style Additions|
     |---|
@@ -129,7 +128,7 @@
 - ✔ Categorization of Styles/Keywords
 
 - <details>
-    <summary>✔ Add Links to other references</summary>
+    <summary> ✔ Add Links to other references</summary>
 
     |Links|
     |---|
@@ -139,3 +138,5 @@
     |[Artwork Styles](https://www.wikiart.org/en/paintings-by-style)|
   
   </details>
+  
+- ✔ Make images a tad bit smaller, for easier viewing (images inside the repository are planned to reamin full size. This is only for Readme.md)
