@@ -1,6 +1,16 @@
 # Planned Updates
 - ✔ Categorization of Styles/Keywords
 - Better Categorization for some things (subgroups)
+- Add Links to other references
+
+|Links|
+|---|
+|[Midjourney Dictionary](https://www.midjourney.com/app/library/dictionary/)|
+|[Midjourney Styles](https://www.midjourney.com/app/library/styles/)|
+|[Understanding MidJourney Through Teapots](https://rexwang8.github.io/resource/ai/teapot)|
+|[Artwork Styles](https://www.wikiart.org/en/paintings-by-style)|
+
+- Addition of "made out of" column for tables
 - More Additions
 
 |Planned Style Additions|
@@ -73,3 +83,50 @@
 |=-=-=-=-=-=-=-=-=-=-=-=|
 |fractal|
 |algorithmic|
+|=-=-=-=-=-=-=-=-=-=-=-=|
+|concrete|
+|metal|
+|copper|
+|tin|
+|bronze|
+|brass|
+|aluminum|
+|iron|
+|steel|
+|gold|
+|platinum|
+|silver|
+|pottery|
+|paper|
+|marble|
+|granite|
+|yarn|
+|wax|
+|ice|
+|ivory|
+|mud brick|
+|brick|
+|pewter|
+|styrofoam|
+|=-=-=-=-=-=-=-=-=-=-=-=|
+|steampunk|
+|solarpunk|
+|bronzepunk|
+|dieselpunk|
+|decopunk|
+|atompunk|
+|biopunk|
+|cuberpunk|
+|postcyberpunk|
+|cypernoir|
+|clockpunk|
+|decopunk|
+|formicapunk|
+|synthwave|
+|retrowave|
+|Future Funk|
+|=-=-=-=-=-=-=-=-=-=-=-=|
+|16k|
+|Bloom|
+|cinematic|
+|digital art|
