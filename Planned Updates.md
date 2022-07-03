@@ -1,5 +1,6 @@
 # Planned Updates
-- Categorization of Styles/Keywords
+- ✔ Categorization of Styles/Keywords
+- Better Categorization for some things (subgroups)
 - More Additions
 
 |Planned Style Additions|
