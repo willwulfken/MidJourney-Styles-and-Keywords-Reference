@@ -111,6 +111,34 @@
 
   
 <details>
+  <summary>🖌 Drawing and Art Mediums</summary>
+
+| Keyword        | Example      |
+| ------------- |:-------------:|
+|Airbrush| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_airbrush.png?raw=true" width="256" height="256" />
+|Illustration| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_illustration.png?raw=true" width="256" height="256" />
+|Sketch| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_sketch.png?raw=true" width="256" height="256" />
+|Drawing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_drawing.png?raw=true" width="256" height="256" />
+|Pencil Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_pencilart.png?raw=true" width="256" height="256" />
+|Marker Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_markerart.png?raw=true" width="256" height="256" />
+|Line Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lineart.png?raw=true" width="256" height="256" />
+|Pastel Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_pastelart.png?raw=true" width="256" height="256" />
+|Charcoal Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_charcoalart.png?raw=true" width="256" height="256" />
+|hand-drawn| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hand-drawn.png?raw=true" width="256" height="256" />
+|Crosshatch| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_crosshatch.png?raw=true" width="256" height="256" />
+|Painting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_painting.png?raw=true" width="256" height="256" />
+|Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_paint.png?raw=true" width="256" height="256" />
+|Acrylic Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_acrylicpaint.png?raw=true" width="256" height="256" />
+|Oil Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_oilpaint.png?raw=true" width="256" height="256" />
+|Puffy Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_puffypaint.png?raw=true" width="256" height="256" />
+|Origami| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Origami.png?raw=true" width="256" height="256" />
+|outlined| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_outlined.png?raw=true" width="256" height="256" />
+|carving| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Carving.png?raw=true" width="256" height="256" />
+
+</details>
+
+  
+<details>
   <summary>🧱 Materials</summary>
 
 | Keyword        | Example      |
@@ -162,34 +190,6 @@
 |Normal map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_normalmap.png?raw=true" width="256" height="256" />
 |scattering| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_scattering.png?raw=true" width="256" height="256" />
   
-</details>
-
-  
-<details>
-  <summary>🖌 Drawing and Art Mediums</summary>
-
-| Keyword        | Example      |
-| ------------- |:-------------:|
-|Airbrush| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_airbrush.png?raw=true" width="256" height="256" />
-|Illustration| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_illustration.png?raw=true" width="256" height="256" />
-|Sketch| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_sketch.png?raw=true" width="256" height="256" />
-|Drawing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_drawing.png?raw=true" width="256" height="256" />
-|Pencil Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_pencilart.png?raw=true" width="256" height="256" />
-|Marker Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_markerart.png?raw=true" width="256" height="256" />
-|Line Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lineart.png?raw=true" width="256" height="256" />
-|Pastel Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_pastelart.png?raw=true" width="256" height="256" />
-|Charcoal Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_charcoalart.png?raw=true" width="256" height="256" />
-|hand-drawn| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hand-drawn.png?raw=true" width="256" height="256" />
-|Crosshatch| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_crosshatch.png?raw=true" width="256" height="256" />
-|Painting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_painting.png?raw=true" width="256" height="256" />
-|Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_paint.png?raw=true" width="256" height="256" />
-|Acrylic Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_acrylicpaint.png?raw=true" width="256" height="256" />
-|Oil Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_oilpaint.png?raw=true" width="256" height="256" />
-|Puffy Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_puffypaint.png?raw=true" width="256" height="256" />
-|Origami| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Origami.png?raw=true" width="256" height="256" />
-|outlined| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_outlined.png?raw=true" width="256" height="256" />
-|carving| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Carving.png?raw=true" width="256" height="256" />
-
 </details>
 
 
