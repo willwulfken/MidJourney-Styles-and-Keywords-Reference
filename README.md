@@ -2,6 +2,8 @@
 ### Styles and Keywords that you can use with MidJourney AI
 ###### DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.
 
+# *Please note that only the images from `c4d` to `anaglyph` are currently shown. The rest are in the repository, but this page does not contain them yet.*
+
 ---
 
 | Keyword        | Example      |
