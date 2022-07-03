@@ -1,4 +1,5 @@
 # Planned Updates
+- Make images a tad bit smaller, for easier viewing (images inside the repository are planned to reamin full size. This is only for Readme.md)
 - Better Categorization for some things (subgroups)
 - Addition of "made out of" column for tables
 - <details>
