@@ -101,7 +101,7 @@
 |Macro view| ![image](https://user-images.githubusercontent.com/6042799/177029912-89514130-9692-4a83-a789-8f1d4cb7b123.png) |
 |Transparent| ![image](https://user-images.githubusercontent.com/6042799/177029915-3a228fa5-c7be-4eb0-b065-51b2b3ff6fc7.png) |
 |Translucent| ![image](https://user-images.githubusercontent.com/6042799/177029919-ac5b05d6-2ab8-44ee-a9e5-7b1330cba851.png) |
-|Opaque|  |
+|Opaque| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_opaque.png?raw=true) |
 |Vibrance|  |
 |infrared|  |
 |ultraviolet|  |
