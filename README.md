@@ -1,6 +1,6 @@
 # MidJourney-Styles-and-Keywords
 ### Styles and Keywords that you can use with MidJourney AI
-#### DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service
+DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
@@ -98,9 +98,9 @@
 |volumetric lighting| ![image](https://user-images.githubusercontent.com/6042799/177029876-465826b5-f0c6-4a58-9e42-70d1d18060d7.png) |
 |volumetric| ![image](https://user-images.githubusercontent.com/6042799/177029880-a41926b5-ba24-4349-81e8-c86b72d4df9c.png) |
 |backlight| ![image](https://user-images.githubusercontent.com/6042799/177029884-6ccec1f0-10fa-4bcc-9eee-364ffada5839.png) |
-|Macro view|  |
-|Transparent|  |
-|Translucent|  |
+|Macro view| ![image](https://user-images.githubusercontent.com/6042799/177029912-89514130-9692-4a83-a789-8f1d4cb7b123.png) |
+|Transparent| ![image](https://user-images.githubusercontent.com/6042799/177029915-3a228fa5-c7be-4eb0-b065-51b2b3ff6fc7.png) |
+|Translucent| ![image](https://user-images.githubusercontent.com/6042799/177029919-ac5b05d6-2ab8-44ee-a9e5-7b1330cba851.png) |
 |Opaque|  |
 |Vibrance|  |
 |infrared|  |
