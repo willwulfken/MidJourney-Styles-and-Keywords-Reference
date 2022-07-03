@@ -417,7 +417,6 @@
 
     |=-=-=-=-=[🎛 Miscellaneous]=-=-=-=-=|
     |---|
-    |<none>|
     |massive scale|
     |mandala|
     |fractal|
