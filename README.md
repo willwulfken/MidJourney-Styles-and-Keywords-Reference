@@ -2,7 +2,8 @@
 ###### DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.
 
 
-## *❗ Please note that only the images from `c4d` to `anaglyph` are currently shown. The rest are in the repository, but this page does not contain them yet.*
+### If you notice any missing images, please feel free to add it to the [Issues](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/issues)
+### [Discussion](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/discussions) is open for ideas pertaining to this repository and additions you'd like to see
 
 ---
 
