@@ -26,6 +26,18 @@
 | **`sphere, <style> --seed 4776` is used for all of these images** |  |
   
 </details>
+  
+
+<details><summary>🔤 Prompt Parameters</summary>
+
+| Keyword        | Example      |
+| ------------- |:-------------:|
+| sphere --seed 4776 --hd | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--hd.png?raw=true" width="256" height="256" /> |
+| sphere --seed 4776 --vibe | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--vibe.png?raw=true" width="256" height="256" /> |
+| sphere --seed 4776 --fast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--fast.png?raw=true" width="256" height="256" /> |
+| sphere --seed 4776 --vibefast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--vibefast.png?raw=true" width="256" height="256" /> |
+  
+</details>
 
   
 <details><summary>🎭 Themes</summary>
