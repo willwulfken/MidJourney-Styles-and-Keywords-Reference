@@ -115,8 +115,8 @@
 |chromatic aberration| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_chromaticaberration.png?raw=true) |
 |Light| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_light.png?raw=true) |
 |Dark| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dark.png?raw=true) |
-|Light Mode| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lightMode.png?raw=true) |
-|Dark Mode| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_darkMode.png?raw=true) |
+|Light Mode| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LightMode.png?raw=true) |
+|Dark Mode| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_DarkMode.png?raw=true) |
 |Airbrush| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_airbrush.png?raw=true) |
 |Illustration| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_illustration.png?raw=true) |
 |Sketch| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_sketch.png?raw=true) |
@@ -193,11 +193,10 @@
 |Ray Tracing Reflections| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RayTracingReflections.png?raw=true) |
 |Lumen Reflections| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LumenReflections.png?raw=true) |
 |Screen Space Reflections| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ScreenSpaceReflections.png?raw=true) |
-|Ambient Occlusion| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AmbientOcclusion.png?raw=true) |
 |Ray Tracing Ambient Occlusion| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RayTracingAmbientOcclusion.png?raw=true) |
 |Film Grain| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_FilmGrain.png?raw=true) |
 |Color Grading| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ColorGrading.png?raw=true) |
-|Tone Mapping| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ToneMapping.png?raw=true) |
+|Tone Mapping| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tonemapping.png?raw=true) |
 |photography| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_.png?raw=true) |
 |bokeh| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_.png?raw=true) |
 |depth of field| ![image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_.png?raw=true) |
