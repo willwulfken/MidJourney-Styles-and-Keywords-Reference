@@ -1,14 +1,14 @@
 # Planned Updates
 - Make caps in style names consistent (ex. "Infrared" instead of "infrared")
-- Better Categorization for some things (subgroups)
-- Addition of "made out of" column for tables
+- Better Categorization for some things (subgroups and reordering)
 - <details>
     <summary> New Categories</summary>
   Categories:
 
-  - Prompt Arguments
-  - Artists
+  - 🔤 Prompt Parameters
+  - 📔 Artists
   </details>
+- Addition of "made out of" column for tables
 - <details>
     <summary> More Style Additions</summary>
   
