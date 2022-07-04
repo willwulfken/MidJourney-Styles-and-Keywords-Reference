@@ -1,10 +1,8 @@
 # Planned Updates
 - Make caps in style names consistent (ex. "Infrared" instead of "infrared")
 - Better Categorization for some things (subgroups and reordering)
-
-
-
 - Addition of "made out of" column for tables
+- Sort pictures inside repository (using categorized folders)
 
 	
 - More Style Additions
