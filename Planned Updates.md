@@ -1,12 +1,7 @@
 # Planned Updates
 - Make caps in style names consistent (ex. "Infrared" instead of "infrared")
 - Better Categorization for some things (subgroups and reordering)
-- <details><summary> New Categories</summary>
-  Categories:
 
-  - 🔤 Prompt Parameters
-  - 📔 Artists
-  </details>
 
 
 - Addition of "made out of" column for tables
@@ -14,18 +9,6 @@
 	
 - More Style Additions
 - <details><summary>More Style Additions</summary>
-
-  - <details><summary>🔤 Prompt Parameters</summary>
-
-    |=-=-=-=-=[🔤 Prompt Parameters]=-=-=-=-=|
-    |---|
-    |--hd|
-    |--vibe|
-    |--fast|
-    |--vibefast|
-    </details>
-
-
 
   - <details><summary>🎭 Themes</summary>
 
@@ -440,3 +423,23 @@
   </details>
   
 - ✔ Make images a tad bit smaller, for easier viewing (images inside the repository are planned to reamin full size. This is only for Readme.md)
+
+- <details><summary> ✔ New Categories</summary>
+  Categories:
+
+  - 🔤 Prompt Parameters
+  - 📔 Artists
+  </details>
+
+- <details><summary> ✔ Style Additions</summary>
+
+  - <details><summary>🔤 Prompt Parameters</summary>
+
+    |=-=-=-=-=[🔤 Prompt Parameters]=-=-=-=-=|
+    |---|
+    |--hd|
+    |--vibe|
+    |--fast|
+    |--vibefast|
+    </details>
+  </details>	
