@@ -44,26 +44,26 @@
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
-|realistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realistic.png?raw=true" width="256" height="256" /> | 
-|hyperrealistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hyperrealistic.png?raw=true" width="256" height="256" /> | 
-|dreamlike| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dreamlike.png?raw=true" width="256" height="256" /> | 
-|otherworldly| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_otherworldly.png?raw=true" width="256" height="256" /> | 
-|abstract| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstract.png?raw=true" width="256" height="256" /> | 
-|abstraction| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstraction.png?raw=true" width="256" height="256" /> | 
-|lucid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lucid.png?raw=true" width="256" height="256" /> | 
-|ethereal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ethereal.png?raw=true" width="256" height="256" /> | 
+|Realistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realistic.png?raw=true" width="256" height="256" /> | 
+|Hyperrealistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hyperrealistic.png?raw=true" width="256" height="256" /> | 
+|Dreamlike| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dreamlike.png?raw=true" width="256" height="256" /> | 
+|Otherworldly| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_otherworldly.png?raw=true" width="256" height="256" /> | 
+|Abstract| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstract.png?raw=true" width="256" height="256" /> | 
+|Abstraction| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstraction.png?raw=true" width="256" height="256" /> | 
+|Lucid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lucid.png?raw=true" width="256" height="256" /> | 
+|Ethereal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ethereal.png?raw=true" width="256" height="256" /> | 
 |Sci-fi| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sci-fi.png?raw=true" width="256" height="256" /> | 
 |Galaxy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Galaxy.png?raw=true" width="256" height="256" /> | 
-|vaporwave| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vaporwave.png?raw=true" width="256" height="256" /> | 
-|illusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_illustration.png?raw=true" width="256" height="256" /> | 
+|Vaporwave| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vaporwave.png?raw=true" width="256" height="256" /> | 
+|Illusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_illustration.png?raw=true" width="256" height="256" /> | 
 |Minimalist| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_minimalist.png?raw=true" width="256" height="256" /> | 
 |Maximalist| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_maximalist.png?raw=true" width="256" height="256" /> | 
-|Intricate maximalism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Intricatemaximalism.png?raw=true" width="256" height="256" /> | 
-|modern| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_modern.png?raw=true" width="256" height="256" /> | 
-|retro| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_retro.png?raw=true" width="256" height="256" /> | 
-|futuristic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_futuristic.png?raw=true" width="256" height="256" /> | 
-|Retro-futurism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Retro-futurism.png?raw=true" width="256" height="256" /> | 
-|brutalism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_brutalism.png?raw=true" width="256" height="256" /> | 
+|Intricate Maximalism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Intricatemaximalism.png?raw=true" width="256" height="256" /> | 
+|Modern| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_modern.png?raw=true" width="256" height="256" /> | 
+|Retro| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_retro.png?raw=true" width="256" height="256" /> | 
+|Futuristic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_futuristic.png?raw=true" width="256" height="256" /> | 
+|Retro-Futurism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Retro-futurism.png?raw=true" width="256" height="256" /> | 
+|Brutalism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_brutalism.png?raw=true" width="256" height="256" /> | 
 |Escapism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Escapism.png?raw=true" width="256" height="256" /> | 
 
 </details>
@@ -76,42 +76,42 @@
 |Gradient| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_gradient.png?raw=true" width="256" height="256" /> | 
 |Layered| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_layered.png?raw=true" width="256" height="256" /> | 
 |Photobash| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_photobash.png?raw=true" width="256" height="256" /> | 
-|topographic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_topographic.png?raw=true" width="256" height="256" /> | 
+|Topographic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_topographic.png?raw=true" width="256" height="256" /> | 
 |Extreme| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_extreme.png?raw=true" width="256" height="256" /> | 
 |Patterns| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_patterns.png?raw=true" width="256" height="256" /> | 
-|Parametric patterns| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Parametricpatterns.png?raw=true" width="256" height="256" /> | 
-|flat| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_flat.png?raw=true" width="256" height="256" /> | 
+|Parametric Patterns| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Parametricpatterns.png?raw=true" width="256" height="256" /> | 
+|Flat| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_flat.png?raw=true" width="256" height="256" /> | 
 |Lo-fi| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lo-fi.png?raw=true" width="256" height="256" /> | 
 |Hi-fi| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hi-fi.png?raw=true" width="256" height="256" /> | 
 |Vibrance| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vibrance.png?raw=true" width="256" height="256" /> | 
 |Stylized| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_stylized.png?raw=true" width="256" height="256" /> | 
 |Complex| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Complex.png?raw=true" width="256" height="256" /> | 
 |Simple| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Simple.png?raw=true" width="256" height="256" /> | 
-|compound design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_compounddesign.png?raw=true" width="256" height="256" /> | 
+|Compound Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_compounddesign.png?raw=true" width="256" height="256" /> | 
 |Halftone| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_halftone.png?raw=true" width="256" height="256" /> | 
 |1980s airbrush art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_1980sairbrushart.png?raw=true" width="256" height="256" /> | 
-|skeuomorphism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_skeuomorphism.png?raw=true" width="256" height="256" /> | 
+|Skeuomorphism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_skeuomorphism.png?raw=true" width="256" height="256" /> | 
 |Neumorphism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_neumorphism.png?raw=true" width="256" height="256" /> | 
-|glassmorphism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_glassmorphism.png?raw=true" width="256" height="256" /> | 
-|claymorphism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_claymorphism.png?raw=true" width="256" height="256" /> | 
+|Glassmorphism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_glassmorphism.png?raw=true" width="256" height="256" /> | 
+|Claymorphism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_claymorphism.png?raw=true" width="256" height="256" /> | 
 |50s| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_50s.png?raw=true" width="256" height="256" /> | 
 |60s| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_60s.png?raw=true" width="256" height="256" /> | 
 |70s| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_70s.png?raw=true" width="256" height="256" /> | 
 |80s| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_80s.png?raw=true" width="256" height="256" /> | 
 |90s| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_90s.png?raw=true" width="256" height="256" /> | 
 |Y2K Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Y2Kdesign.png?raw=true" width="256" height="256" /> | 
-|Anti-design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Anti-design.png?raw=true" width="256" height="256" /> | 
-|Ukiyo-e flat design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Ukiyo-eflatdesign.png?raw=true" width="256" height="256" /> | 
-|Grunge revival design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Grungerevivaldesign.png?raw=true" width="256" height="256" /> | 
-|Bubble design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bubbledesign.png?raw=true" width="256" height="256" /> | 
-|Extreme bubble design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Extremebubbledesign.png?raw=true" width="256" height="256" /> | 
+|Anti-Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Anti-design.png?raw=true" width="256" height="256" /> | 
+|Ukiyo-e Flat Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Ukiyo-eflatdesign.png?raw=true" width="256" height="256" /> | 
+|Grunge Revival Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Grungerevivaldesign.png?raw=true" width="256" height="256" /> | 
+|Bubble Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bubbledesign.png?raw=true" width="256" height="256" /> | 
+|Extreme Bubble Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Extremebubbledesign.png?raw=true" width="256" height="256" /> | 
 |Flat Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_FlatDesign.png?raw=true" width="256" height="256" /> | 
 |Psychedelic Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_PsychedelicDesign.png?raw=true" width="256" height="256" /> | 
 |Tactile Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_TactileDesign.png?raw=true" width="256" height="256" /> | 
-|Pop-art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Pop-art.png?raw=true" width="256" height="256" /> | 
-|Bauhaus style | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Bauhausstyle.png?raw=true" width="256" height="256" /> | 
+|Pop-Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Pop-art.png?raw=true" width="256" height="256" /> | 
+|Bauhaus Style | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Bauhausstyle.png?raw=true" width="256" height="256" /> | 
 |Frasurbane| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Frasurbane.png?raw=true" width="256" height="256" /> | 
-|Jewel tones | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Jeweltones.png?raw=true" width="256" height="256" /> | 
+|Jewel Tones | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Jeweltones.png?raw=true" width="256" height="256" /> | 
   
 </details>
 
@@ -120,8 +120,8 @@
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
-|painting by Salvador Dali| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_paintingbySalvadorDali.png?raw=true" width="256" height="256" /> | 
-|painting by Van Gogh| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_paintingbyVanGogh.png?raw=true" width="256" height="256" /> | 
+|Painting by Salvador Dali| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_paintingbySalvadorDali.png?raw=true" width="256" height="256" /> | 
+|Painting by Van Gogh| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_paintingbyVanGogh.png?raw=true" width="256" height="256" /> | 
   
 </details>
   
@@ -139,7 +139,7 @@
 |Line Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lineart.png?raw=true" width="256" height="256" /> | 
 |Pastel Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_pastelart.png?raw=true" width="256" height="256" /> | 
 |Charcoal Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_charcoalart.png?raw=true" width="256" height="256" /> | 
-|hand-drawn| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hand-drawn.png?raw=true" width="256" height="256" /> | 
+|Hand-Drawn| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hand-drawn.png?raw=true" width="256" height="256" /> | 
 |Crosshatch| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_crosshatch.png?raw=true" width="256" height="256" /> | 
 |Painting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_painting.png?raw=true" width="256" height="256" /> | 
 |Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_paint.png?raw=true" width="256" height="256" /> | 
@@ -147,8 +147,8 @@
 |Oil Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_oilpaint.png?raw=true" width="256" height="256" /> | 
 |Puffy Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_puffypaint.png?raw=true" width="256" height="256" /> | 
 |Origami| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Origami.png?raw=true" width="256" height="256" /> | 
-|outlined| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_outlined.png?raw=true" width="256" height="256" /> | 
-|carving| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Carving.png?raw=true" width="256" height="256" /> | 
+|Outlined| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_outlined.png?raw=true" width="256" height="256" /> | 
+|Carving| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Carving.png?raw=true" width="256" height="256" /> | 
 
 </details>
 
@@ -163,19 +163,19 @@
 |Plastic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_plastic.png?raw=true" width="256" height="256" /> | 
 |Metallic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_metallic.png?raw=true" width="256" height="256" /> | 
 |Liquid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_liquid.png?raw=true" width="256" height="256" /> | 
-|gas| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_gas.png?raw=true" width="256" height="256" /> | 
-|smoke| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_smoke.png?raw=true" width="256" height="256" /> | 
-|vapor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vapor.png?raw=true" width="256" height="256" /> | 
-|plasma| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_plasma.png?raw=true" width="256" height="256" /> | 
-|inlay| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_inlay.png?raw=true" width="256" height="256" /> | 
-|wooden| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_wooden.png?raw=true" width="256" height="256" /> | 
-|weave| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_weave.png?raw=true" width="256" height="256" /> | 
-|cloth| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cloth.png?raw=true" width="256" height="256" /> | 
-|stone| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_stone.png?raw=true" width="256" height="256" /> | 
-|ceramic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ceramic.png?raw=true" width="256" height="256" /> | 
-|clay| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_clay.png?raw=true" width="256" height="256" /> | 
-|enamel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_enamel.png?raw=true" width="256" height="256" /> | 
-|tile| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_tile.png?raw=true" width="256" height="256" /> | 
+|Gas| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_gas.png?raw=true" width="256" height="256" /> | 
+|Smoke| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_smoke.png?raw=true" width="256" height="256" /> | 
+|Vapor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vapor.png?raw=true" width="256" height="256" /> | 
+|Plasma| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_plasma.png?raw=true" width="256" height="256" /> | 
+|Inlay| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_inlay.png?raw=true" width="256" height="256" /> | 
+|Wooden| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_wooden.png?raw=true" width="256" height="256" /> | 
+|Weave| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_weave.png?raw=true" width="256" height="256" /> | 
+|Cloth| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cloth.png?raw=true" width="256" height="256" /> | 
+|Stone| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_stone.png?raw=true" width="256" height="256" /> | 
+|Ceramic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ceramic.png?raw=true" width="256" height="256" /> | 
+|Clay| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_clay.png?raw=true" width="256" height="256" /> | 
+|Enamel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_enamel.png?raw=true" width="256" height="256" /> | 
+|Tile| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_tile.png?raw=true" width="256" height="256" /> | 
 
 </details>
 
@@ -184,24 +184,24 @@
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
-|iridescent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_iridescent.png?raw=true" width="256" height="256" /> | 
-|dispersion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dispersion.png?raw=true" width="256" height="256" /> | 
-|reflective| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_reflective.png?raw=true" width="256" height="256" /> | 
-|glowing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_glowing.png?raw=true" width="256" height="256" /> | 
-|bioluminescence| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bioluminescence.png?raw=true" width="256" height="256" /> | 
-|optics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_optics.png?raw=true" width="256" height="256" /> | 
-|shiny| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shiny.png?raw=true" width="256" height="256" /> | 
-|refractive| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_refractive.png?raw=true" width="256" height="256" /> | 
+|Iridescent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_iridescent.png?raw=true" width="256" height="256" /> | 
+|Dispersion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dispersion.png?raw=true" width="256" height="256" /> | 
+|Reflective| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_reflective.png?raw=true" width="256" height="256" /> | 
+|Glowing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_glowing.png?raw=true" width="256" height="256" /> | 
+|Bioluminescence| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bioluminescence.png?raw=true" width="256" height="256" /> | 
+|Optics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_optics.png?raw=true" width="256" height="256" /> | 
+|Shiny| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shiny.png?raw=true" width="256" height="256" /> | 
+|Refractive| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_refractive.png?raw=true" width="256" height="256" /> | 
 |Transparent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_transparent.png?raw=true" width="256" height="256" /> | 
 |Translucent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_translucent.png?raw=true" width="256" height="256" /> | 
 |Opaque| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_opaque.png?raw=true" width="256" height="256" /> | 
 |Materiality| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_materiality.png?raw=true" width="256" height="256" /> | 
-|chromatic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_chromatic.png?raw=true" width="256" height="256" /> | 
+|Chromatic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_chromatic.png?raw=true" width="256" height="256" /> | 
 |Prismatic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_prismatic.png?raw=true" width="256" height="256" /> | 
-|Ambient occlusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AmbientOcclusion.png?raw=true" width="256" height="256" /> | 
-|Bump map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bumpmap.png?raw=true" width="256" height="256" /> | 
-|Normal map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_normalmap.png?raw=true" width="256" height="256" /> | 
-|scattering| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_scattering.png?raw=true" width="256" height="256" /> | 
+|Ambient Occlusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AmbientOcclusion.png?raw=true" width="256" height="256" /> | 
+|Bump Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bumpmap.png?raw=true" width="256" height="256" /> | 
+|Normal Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_normalmap.png?raw=true" width="256" height="256" /> | 
+|Scattering| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_scattering.png?raw=true" width="256" height="256" /> | 
   
 </details>
 
@@ -210,24 +210,24 @@
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
-|Warm color palette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_warmcolorpalette.png?raw=true" width="256" height="256" /> | 
-|Cool color palette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_coolcolorpalette.png?raw=true" width="256" height="256" /> | 
+|Warm Color Palette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_warmcolorpalette.png?raw=true" width="256" height="256" /> | 
+|Cool Color Palette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_coolcolorpalette.png?raw=true" width="256" height="256" /> | 
 |Colorful| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_colorful.png?raw=true" width="256" height="256" /> | 
 |Rainbow| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Rainbow.png?raw=true" width="256" height="256" /> | 
 |Monochrome| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Monochrome.png?raw=true" width="256" height="256" /> | 
 |Black and White| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_blackandwhite.png?raw=true" width="256" height="256" /> | 
 |Sepia| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_sepia.png?raw=true" width="256" height="256" /> | 
-|tonal colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_tonalcolors.png?raw=true" width="256" height="256" /> | 
-|neon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_neon.png?raw=true" width="256" height="256" /> | 
-|High contrast| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_highcontrast.png?raw=true" width="256" height="256" /> | 
-|Low contrast| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lowcontrast.png?raw=true" width="256" height="256" /> | 
+|Tonal Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_tonalcolors.png?raw=true" width="256" height="256" /> | 
+|Neon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_neon.png?raw=true" width="256" height="256" /> | 
+|High Contrast| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_highcontrast.png?raw=true" width="256" height="256" /> | 
+|Low Contrast| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lowcontrast.png?raw=true" width="256" height="256" /> | 
 |Light| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_light.png?raw=true" width="256" height="256" /> | 
 |Dark| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dark.png?raw=true" width="256" height="256" /> | 
 |Light Mode| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LightMode.png?raw=true" width="256" height="256" /> | 
 |Dark Mode| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_DarkMode.png?raw=true" width="256" height="256" /> | 
 |Tones of Black| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_tonesofblack.png?raw=true" width="256" height="256" /> | 
 |Tones of Black in Background| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_tonesofblackinbackground.png?raw=true" width="256" height="256" /> | 
-|technicolor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_technicolor.png?raw=true" width="256" height="256" /> | 
+|Technicolor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_technicolor.png?raw=true" width="256" height="256" /> | 
 |Kinemacolor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Kinemacolor.png?raw=true" width="256" height="256" /> | 
 |Kodachrome| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Kodachrome.png?raw=true" width="256" height="256" /> | 
 |Cinecolor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cinecolor.png?raw=true" width="256" height="256" /> | 
@@ -243,17 +243,17 @@
 |4k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_4k.png?raw=true" width="256" height="256" /> | 
 |8k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_8k.png?raw=true" width="256" height="256" /> | 
 |90s computer graphics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_90scomputergraphics.png?raw=true" width="256" height="256" /> | 
-|bitmap| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bitmap.png?raw=true" width="256" height="256" /> | 
-|jpeg| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_jpeg.png?raw=true" width="256" height="256" /> | 
-|Pixel art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_pixelart.png?raw=true" width="256" height="256" /> | 
-|Voxel art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_voxelart.png?raw=true" width="256" height="256" /> | 
+|Bitmap| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bitmap.png?raw=true" width="256" height="256" /> | 
+|Jpeg| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_jpeg.png?raw=true" width="256" height="256" /> | 
+|Pixel Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_pixelart.png?raw=true" width="256" height="256" /> | 
+|Voxel Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_voxelart.png?raw=true" width="256" height="256" /> | 
 |3D Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_3Drender.png?raw=true" width="256" height="256" /> | 
 |3D Model| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_3Dmodel.png?raw=true" width="256" height="256" /> | 
 |Vector Graphics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vectorgraphics.png?raw=true" width="256" height="256" /> | 
 |Video Game| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_videogame.png?raw=true" width="256" height="256" /> | 
-|holographic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_holographic.png?raw=true" width="256" height="256" /> | 
-|matrix| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_matrix.png?raw=true" width="256" height="256" /> | 
-|glitchy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_glitchy.png?raw=true" width="256" height="256" /> | 
+|Holographic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_holographic.png?raw=true" width="256" height="256" /> | 
+|Matrix| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_matrix.png?raw=true" width="256" height="256" /> | 
+|Glitchy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_glitchy.png?raw=true" width="256" height="256" /> | 
 |CMYK| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CMYK.png?raw=true" width="256" height="256" /> | 
 |VGA| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_VGA.png?raw=true" width="256" height="256" /> | 
 |EGA| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_EGA.png?raw=true" width="256" height="256" /> | 
@@ -269,8 +269,8 @@
 |Amiga OCS Graphics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AmigaOCSGraphics.png?raw=true" width="256" height="256" /> | 
 |AR| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AR.png?raw=true" width="256" height="256" /> | 
 |VR| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_VR.png?raw=true" width="256" height="256" /> | 
-|Deep dream| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_deepdream.png?raw=true" width="256" height="256" /> | 
-|dithering| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dithering.png?raw=true" width="256" height="256" /> | 
+|Deep Dream| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_deepdream.png?raw=true" width="256" height="256" /> | 
+|Dithering| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dithering.png?raw=true" width="256" height="256" /> | 
 
 </details>
   
@@ -279,8 +279,8 @@
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
-|c4d| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_c4d.png?raw=truehttps://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_c4d.png?raw=true" width="256" height="256" /> | 
-|octane| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_octane.png?raw=true" width="256" height="256" /> | 
+|C4d| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_c4d.png?raw=truehttps://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_c4d.png?raw=true" width="256" height="256" /> | 
+|Octane| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_octane.png?raw=true" width="256" height="256" /> | 
 |Unreal Engine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_unrealengine.png?raw=true" width="256" height="256" /> | 
 |Unity Engine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_unityengine.png?raw=true" width="256" height="256" /> | 
 |Cycles Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cyclesrender.png?raw=true" width="256" height="256" /> | 
@@ -330,7 +330,7 @@
 |Everdimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Everdimensional.png?raw=true" width="256" height="256" /> | 
 |Extradimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Extradimensional.png?raw=true" width="256" height="256" /> | 
 |Beyond-Dimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Beyond-Dimensional.png?raw=true" width="256" height="256" /> | 
-|excessively-dimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_excessively-dimensional.png?raw=true" width="256" height="256" /> | 
+|Excessively-dimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_excessively-dimensional.png?raw=true" width="256" height="256" /> | 
 |Alldimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Alldimensional.png?raw=true" width="256" height="256" /> | 
 |Multiverse| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Multiverse.png?raw=true" width="256" height="256" /> | 
 
@@ -341,21 +341,21 @@
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
-|moody lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_moodylighting.png?raw=true" width="256" height="256" /> | 
-|cinematic lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cinematiclighting.png?raw=true" width="256" height="256" /> | 
-|studio lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_studiolighting.png?raw=true" width="256" height="256" /> | 
-|Soft lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_softlighting.png?raw=true" width="256" height="256" /> | 
-|Hard lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hardlighting.png?raw=true" width="256" height="256" /> | 
+|Moody Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_moodylighting.png?raw=true" width="256" height="256" /> | 
+|Cinematic Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cinematiclighting.png?raw=true" width="256" height="256" /> | 
+|Studio Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_studiolighting.png?raw=true" width="256" height="256" /> | 
+|Soft Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_softlighting.png?raw=true" width="256" height="256" /> | 
+|Hard Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hardlighting.png?raw=true" width="256" height="256" /> | 
 |Spotlight| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_spotlight.png?raw=true" width="256" height="256" /> | 
-|volumetric lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_volumetriclighting.png?raw=true" width="256" height="256" /> | 
-|volumetric| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_volumetric.png?raw=true" width="256" height="256" /> | 
-|backlight| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_backlight.png?raw=true" width="256" height="256" /> | 
-|infrared| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_infrared.png?raw=true" width="256" height="256" /> | 
-|ultraviolet| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ultraviolet.png?raw=true" width="256" height="256" /> | 
+|Volumetric Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_volumetriclighting.png?raw=true" width="256" height="256" /> | 
+|Volumetric| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_volumetric.png?raw=true" width="256" height="256" /> | 
+|Backlight| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_backlight.png?raw=true" width="256" height="256" /> | 
+|Infrared| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_infrared.png?raw=true" width="256" height="256" /> | 
+|Ultraviolet| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ultraviolet.png?raw=true" width="256" height="256" /> | 
 |UV| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_UV.png?raw=true" width="256" height="256" /> | 
-|bright| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bright.png?raw=true" width="256" height="256" /> | 
-|ultrabright| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ultrabright.png?raw=true" width="256" height="256" /> | 
-|Crepuscular rays| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Crepuscularrays.png?raw=true" width="256" height="256" /> | 
+|Bright| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bright.png?raw=true" width="256" height="256" /> | 
+|Ultrabright| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ultrabright.png?raw=true" width="256" height="256" /> | 
+|Crepuscular Rays| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Crepuscularrays.png?raw=true" width="256" height="256" /> | 
 
 </details>
   
@@ -373,22 +373,22 @@
 |Lumen Reflections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LumenReflections.png?raw=true" width="256" height="256" /> | 
 |Screen Space Reflections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ScreenSpaceReflections.png?raw=true" width="256" height="256" /> | 
 |Ray Tracing Ambient Occlusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RayTracingAmbientOcclusion.png?raw=true" width="256" height="256" /> | 
-|Anti-aliasing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Anti-aliasing.png?raw=true" width="256" height="256" /> | 
-|chromatic aberration| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_chromaticaberration.png?raw=true" width="256" height="256" /> | 
+|Anti-Aliasing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Anti-aliasing.png?raw=true" width="256" height="256" /> | 
+|Chromatic Aberration| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_chromaticaberration.png?raw=true" width="256" height="256" /> | 
 |Shaders| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shaders.png?raw=true" width="256" height="256" /> | 
 |Post Processing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_postprocessing.png?raw=true" width="256" height="256" /> | 
-|cel shading| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_celshading.png?raw=true" width="256" height="256" /> | 
+|Cel Shading| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_celshading.png?raw=true" width="256" height="256" /> | 
 |Anaglyph| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Anaglyph.png?raw=true" width="256" height="256" /> | 
-|Scan lines| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_scanlines.png?raw=true" width="256" height="256" /> | 
-|posterization| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_posterization.png?raw=true" width="256" height="256" /> | 
-|Sobel operator| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sobeloperator.png?raw=true" width="256" height="256" /> | 
+|Scan Lines| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_scanlines.png?raw=true" width="256" height="256" /> | 
+|Posterization| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_posterization.png?raw=true" width="256" height="256" /> | 
+|Sobel Operator| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sobeloperator.png?raw=true" width="256" height="256" /> | 
 |Edge Detection| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_edgedetection.png?raw=true" width="256" height="256" /> | 
-|dirty| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dirty.png?raw=true" width="256" height="256" /> | 
-|with imperfections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_withimperfections.png?raw=true" width="256" height="256" /> | 
+|Dirty| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dirty.png?raw=true" width="256" height="256" /> | 
+|With Imperfections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_withimperfections.png?raw=true" width="256" height="256" /> | 
 |Tone Mapping| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tonemapping.png?raw=true" width="256" height="256" /> | 
-|distortion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_distortion.png?raw=true" width="256" height="256" /> | 
-|interlaced| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_interlaced.png?raw=true" width="256" height="256" /> | 
-|moire patterns| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_moirepatterns.png?raw=true" width="256" height="256" /> | 
+|Distortion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_distortion.png?raw=true" width="256" height="256" /> | 
+|Interlaced| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_interlaced.png?raw=true" width="256" height="256" /> | 
+|Moire Patterns| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_moirepatterns.png?raw=true" width="256" height="256" /> | 
 
 </details>
   
@@ -397,39 +397,39 @@
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
-|photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_photography.png?raw=true" width="256" height="256" /> | 
+|Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_photography.png?raw=true" width="256" height="256" /> | 
 |Macro| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_macro.png?raw=true" width="256" height="256" /> | 
-|Macro view| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_macroview.png?raw=true" width="256" height="256" /> | 
-|telephoto| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_telephoto.png?raw=true" width="256" height="256" /> | 
-|magnification| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_magnification.png?raw=true" width="256" height="256" /> | 
-|microscopic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_microscopic.png?raw=true" width="256" height="256" /> | 
-|schlieren| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_schlieren.png?raw=true" width="256" height="256" /> | 
+|Macro View| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_macroview.png?raw=true" width="256" height="256" /> | 
+|Telephoto| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_telephoto.png?raw=true" width="256" height="256" /> | 
+|Magnification| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_magnification.png?raw=true" width="256" height="256" /> | 
+|Microscopic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_microscopic.png?raw=true" width="256" height="256" /> | 
+|Schlieren| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_schlieren.png?raw=true" width="256" height="256" /> | 
 |Cinematic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cinematic.png?raw=true" width="256" height="256" /> | 
 |Dramatic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dramatic.png?raw=true" width="256" height="256" /> | 
-|Night vision| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_nightvision.png?raw=true" width="256" height="256" /> | 
+|Night Vision| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_nightvision.png?raw=true" width="256" height="256" /> | 
 |Color Grading| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ColorGrading.png?raw=true" width="256" height="256" /> | 
 |Film Grain| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_FilmGrain.png?raw=true" width="256" height="256" /> | 
-|Blur effect| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_blureffect.png?raw=true" width="256" height="256" /> | 
-|Tilt blur| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_tiltblur.png?raw=true" width="256" height="256" /> | 
+|Blur Effect| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_blureffect.png?raw=true" width="256" height="256" /> | 
+|Tilt Blur| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_tiltblur.png?raw=true" width="256" height="256" /> | 
 |Wide Angle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_wideangle.png?raw=true" width="256" height="256" /> | 
 |Ultra-Wide Angle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ultra-wideangle.png?raw=true" width="256" height="256" /> | 
 |Panorama| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_panorama.png?raw=true" width="256" height="256" /> | 
 |360 Panorama| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_360panorama.png?raw=true" width="256" height="256" /> | 
 |360 Angle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_360angle.png?raw=true" width="256" height="256" /> | 
-|bokeh| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bokeh.png?raw=true" width="256" height="256" /> | 
-|depth of field| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_depthoffield.png?raw=true" width="256" height="256" /> | 
-|exposure| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_exposure.png?raw=true" width="256" height="256" /> | 
-|Long exposure| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_longexposure.png?raw=true" width="256" height="256" /> | 
-|Short exposure| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shortexposure.png?raw=true" width="256" height="256" /> | 
-|shutter speed 1/1000| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shutterspeed11000.png?raw=true" width="256" height="256" /> | 
-|shutter speed 1/2| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shutterspeed12.png?raw=true" width="256" height="256" /> | 
-|f/2.8| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_f2.8.png?raw=true" width="256" height="256" /> | 
-|f/22| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_f22.png?raw=true" width="256" height="256" /> | 
-|lens flare| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lensflare.png?raw=true" width="256" height="256" /> | 
-|vignette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vignette.png?raw=true" width="256" height="256" /> | 
+|Bokeh| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bokeh.png?raw=true" width="256" height="256" /> | 
+|Depth of Field| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_depthoffield.png?raw=true" width="256" height="256" /> | 
+|Exposure| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_exposure.png?raw=true" width="256" height="256" /> | 
+|Long Exposure| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_longexposure.png?raw=true" width="256" height="256" /> | 
+|Short Exposure| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shortexposure.png?raw=true" width="256" height="256" /> | 
+|Shutter Speed 1/1000| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shutterspeed11000.png?raw=true" width="256" height="256" /> | 
+|Shutter Speed 1/2| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shutterspeed12.png?raw=true" width="256" height="256" /> | 
+|F/2.8| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_f2.8.png?raw=true" width="256" height="256" /> | 
+|F/22| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_f22.png?raw=true" width="256" height="256" /> | 
+|Lens Flare| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lensflare.png?raw=true" width="256" height="256" /> | 
+|Vignette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vignette.png?raw=true" width="256" height="256" /> | 
 |Lens Distortion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LensDistortion.png?raw=true" width="256" height="256" /> | 
 |Gamma| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Gamma.png?raw=true" width="256" height="256" /> | 
-|perspective| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_perspective.png?raw=true" width="256" height="256" /> | 
+|Perspective| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_perspective.png?raw=true" width="256" height="256" /> | 
 |Panini Projection| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_PaniniProjection.png?raw=true" width="256" height="256" /> | 
 |Orthographic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Orthographic.png?raw=true" width="256" height="256" /> | 
 |Split Toning| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_SplitToning.png?raw=true" width="256" height="256" /> | 
@@ -442,10 +442,10 @@
 
 | Keyword        | Example      |
 | ------------- |:-------------:|
-|serendipity| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_serendipity.png?raw=true" width="256" height="256" /> | 
+|Serendipity| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_serendipity.png?raw=true" width="256" height="256" /> | 
 |Acidic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_acidic.png?raw=true" width="256" height="256" /> | 
 |Basic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_basic.png?raw=true" width="256" height="256" /> | 
-|physics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_physics.png?raw=true" width="256" height="256" /> | 
+|Physics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_physics.png?raw=true" width="256" height="256" /> | 
 |Fog| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Fog.png?raw=true" width="256" height="256" /> | 
 
 </details>
