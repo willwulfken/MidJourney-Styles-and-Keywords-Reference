@@ -1,7 +1,9 @@
 # Planned Updates
+- More additions
 - Addition of "made out of" column for tables
 - Addition of "made by" column for Artists
 - Sort pictures inside repository (using categorized folders)
+- Fix displaying images on mobile
 
 
 # Completed
