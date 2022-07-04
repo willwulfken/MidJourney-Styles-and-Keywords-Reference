@@ -1,5 +1,4 @@
 # Planned Updates
-- Make caps in style names consistent (ex. "Infrared" instead of "infrared")
 - Better Categorization for some things (subgroups and reordering)
 - Addition of "made out of" column for tables
 - Sort pictures inside repository (using categorized folders)
@@ -409,6 +408,7 @@
 # Completed
 - ✔ Categorization of Styles/Keywords
 
+
 - <details><summary> ✔ Add Links to other references</summary>
 
     |Links|
@@ -419,8 +419,10 @@
     |[Artwork Styles](https://www.wikiart.org/en/paintings-by-style)|
   
   </details>
-  
+ 
+
 - ✔ Make images a tad bit smaller, for easier viewing (images inside the repository are planned to reamin full size. This is only for Readme.md)
+
 
 - <details><summary> ✔ New Categories</summary>
   Categories:
@@ -428,6 +430,7 @@
   - 🔤 Prompt Parameters
   - 📔 Artists
   </details>
+
 
 - <details><summary> ✔ Style Additions</summary>
 
@@ -440,4 +443,7 @@
     |--fast|
     |--vibefast|
     </details>
-  </details>	
+  </details>
+
+
+- ✔ Make caps in style names consistent (ex. "Infrared" instead of "infrared")
