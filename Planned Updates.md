@@ -1,5 +1,4 @@
 # Planned Updates
-- Better Categorization for some things (subgroups and reordering)
 - Addition of "made out of" column for tables
 - Addition of "made by" column for Artists
 - Sort pictures inside repository (using categorized folders)
@@ -448,3 +447,4 @@
 
 
 - ✔ Make caps in style names consistent (ex. "Infrared" instead of "infrared")
+- ✔ Better Categorization for some things (subgroups and reordering)
