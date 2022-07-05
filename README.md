@@ -1068,7 +1068,7 @@
     </details>
   
   
-  - <details><summary>📷⚙ Camera Settings (Apreture, Exposure, Color and White Balance, etc.)</summary>
+  - <details><summary>📷⚙ Camera Settings (Aperture, Exposure, Color and White Balance, etc.)</summary>
   
     | Keyword        | Example      |
     | ------------- |:-------------:|
