@@ -6,6 +6,8 @@
 
 <details><summary>🔗 Links to other style references</summary>
 
+[Midjourney Documentation](https://midjourney.gitbook.io/docs/)
+
 [Midjourney Dictionary](https://www.midjourney.com/app/library/dictionary/)
 
 [Midjourney Styles](https://www.midjourney.com/app/library/styles/)
