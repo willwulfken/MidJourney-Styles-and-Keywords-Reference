@@ -168,7 +168,7 @@
     </details>
   
   
-  - <details><summary>🖼🎨 Color Based Designs and Patterns</summary>
+  - <details><summary>🖼🎨 Patterns and Color Based Designs</summary>
   
     | Keyword        | Example      |
     | ------------- |:-------------:|
