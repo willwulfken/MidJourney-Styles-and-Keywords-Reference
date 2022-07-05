@@ -977,7 +977,7 @@
   
   
   
-- <details><summary>📷 Camera, Camera Properties, Camera Lenges/Effects, etc.</summary>
+- <details><summary>📷 Camera, Camera Properties, Camera Lenses/Effects, etc.</summary>
 
   - <details><summary>📷🌇 Camera and Scenes</summary>
   
