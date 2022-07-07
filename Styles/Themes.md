@@ -63,7 +63,7 @@
 | Impossible | ![Impossible](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true){:height="256px" width="256px"} |
 |--
     
-    {::options parse_block_html="true" /}
+{::options parse_block_html="true" /}
 
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
   
