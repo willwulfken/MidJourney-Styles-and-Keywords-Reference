@@ -1,9 +1,15 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 ## 🎭 Themes
 
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
   
     | Keyword        | Example      |
-    |||
+    | ------------- |:-------------:|
     |Realistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realistic.png?raw=true" width="256" height="256" /> | 
     |Hyperrealistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hyperrealistic.png?raw=true" width="256" height="256" /> | 
 	|Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realism.png?raw=true" width="256" height="256" /> |
@@ -20,6 +26,7 @@
     |Lucid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lucid.png?raw=true" width="256" height="256" /> | 
     |Ethereal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ethereal.png?raw=true" width="256" height="256" /> | 
     |Impossible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true" width="256" height="256" /> |
+	{: .tablelines}
   
     </details>
   
@@ -34,6 +41,7 @@
     |Futuristic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_futuristic.png?raw=true" width="256" height="256" /> | 
 	|Future Funk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_FutureFunk.png?raw=true" width="256" height="256" /> |
     |Retro-Futurism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Retro-futurism.png?raw=true" width="256" height="256" /> | 
+	{: .tablelines}
 
     </details>
   
@@ -50,6 +58,7 @@
 	|Magic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_magic.png?raw=true" width="256" height="256" /> |
     |Magical| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Magical.png?raw=true" width="256" height="256" /> |
     |Mystical| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mystical.png?raw=true" width="256" height="256" /> |
+	{: .tablelines}
   
     </details>
   
@@ -76,6 +85,8 @@
     |Pluto| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Pluto.png?raw=true" width="256" height="256" /> |
     |Sun| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sun.png?raw=true" width="256" height="256" /> |
     |Asteroid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Asteroid.png?raw=true" width="256" height="256" /> |
+	{: .tablelines}
+	
     </details>
   
   
@@ -94,6 +105,7 @@
 	|Architecture| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Architecture.png?raw=true" width="256" height="256" /> |
 	|Machine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Machine.png?raw=true" width="256" height="256" /> |
 	|Christmas| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Christmas.png?raw=true" width="256" height="256" /> |
+	{: .tablelines}
   
     </details>
 	
@@ -121,6 +133,7 @@
     |Dollpunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dollpunk.png?raw=true" width="256" height="256" /> |
     |Raypunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_raypunk.png?raw=true" width="256" height="256" /> |
     |Rococopunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_rococopunk.png?raw=true" width="256" height="256" /> |
+	{: .tablelines}
   
     </details>
   
@@ -131,5 +144,6 @@
     | ------------- |:-------------:|
 	|MLG| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MLG.png?raw=true" width="256" height="256" /> |
 	|Materialisimo| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_materialisimo.png?raw=true" width="256" height="256" /> |
+	{: .tablelines}
   
     </details>
