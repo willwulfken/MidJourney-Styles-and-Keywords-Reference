@@ -6,3 +6,4 @@ relative_links:
   collections: true
 include:
   - index.md
+  - Styles/Themes.md
