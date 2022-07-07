@@ -2,9 +2,8 @@
 
 {::options parse_block_html="true" /}
 
-<div>
+<em>
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
-	<em>
 	
     |---
     | Keyword | Example |
@@ -27,11 +26,10 @@
     |Impossible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true" width="256" height="256" /> |
     |--
 		
-	</em>
     </details>
-</div>
+  </em>
   
-  
+	
   - <details><summary>🎭💾 Retro/Modern</summary>
 	
     |---
