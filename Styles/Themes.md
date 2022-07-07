@@ -2,25 +2,25 @@
 
 ### This table is for testing the layout
 |---
-    | Keyword | Example |
-    | :-: | :-: |
-    |Realistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realistic.png?raw=true" width="256" height="256" /> | 
-    |Hyperrealistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hyperrealistic.png?raw=true" width="256" height="256" /> | 
-	|Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realism.png?raw=true" width="256" height="256" /> |
-    |Magic Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_magicrealism.png?raw=true" width="256" height="256" /> |
-    |Fantastic Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_fantasticrealism.png?raw=true" width="256" height="256" /> |
-    |Classical Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_classicalrealism.png?raw=true" width="256" height="256" /> |
-	|New Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_newrealism.png?raw=true" width="256" height="256" /> |
-    |Surreal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_surreal.png?raw=true" width="256" height="256" /> |
-    |Surrealism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_surrealism.png?raw=true" width="256" height="256" /> |
-    |Dreamlike| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dreamlike.png?raw=true" width="256" height="256" /> | 
-    |Otherworldly| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_otherworldly.png?raw=true" width="256" height="256" /> | 
-    |Abstract| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstract.png?raw=true" width="256" height="256" /> | 
-    |Abstraction| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstraction.png?raw=true" width="256" height="256" /> | 
-    |Lucid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lucid.png?raw=true" width="256" height="256" /> | 
-    |Ethereal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ethereal.png?raw=true" width="256" height="256" /> | 
-    |Impossible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true" width="256" height="256" /> |
-    |--
+| Keyword | Example |
+| :-: | :-: |
+|Realistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realistic.png?raw=true" width="256" height="256" /> | 
+|Hyperrealistic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hyperrealistic.png?raw=true" width="256" height="256" /> | 
+|Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realism.png?raw=true" width="256" height="256" /> |
+|Magic Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_magicrealism.png?raw=true" width="256" height="256" /> |
+|Fantastic Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_fantasticrealism.png?raw=true" width="256" height="256" /> |
+|Classical Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_classicalrealism.png?raw=true" width="256" height="256" /> |
+|New Realism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_newrealism.png?raw=true" width="256" height="256" /> |
+|Surreal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_surreal.png?raw=true" width="256" height="256" /> |
+|Surrealism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_surrealism.png?raw=true" width="256" height="256" /> |
+|Dreamlike| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dreamlike.png?raw=true" width="256" height="256" /> | 
+|Otherworldly| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_otherworldly.png?raw=true" width="256" height="256" /> | 
+|Abstract| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstract.png?raw=true" width="256" height="256" /> | 
+|Abstraction| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstraction.png?raw=true" width="256" height="256" /> | 
+|Lucid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lucid.png?raw=true" width="256" height="256" /> | 
+|Ethereal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ethereal.png?raw=true" width="256" height="256" /> | 
+|Impossible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true" width="256" height="256" /> |
+|--
     
     
 
