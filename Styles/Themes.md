@@ -1,72 +1,9 @@
 ## 🎭 Themes
 
-### These tables is for testing the layout
-
-#### Without Bottom Line
-
-|---
-| A   | B   |
-| :-: | :-: |
-| C   | D   |
-| E   | F   |
-|---
-| G   | H   |
-| I   | J   |
-|---
-| K   |     |
-| L   |     |
-
-#### With Bottom Line
-
-|---
-| A   | B   |
-| :-: | :-: |
-| C   | D   |
-| E   | F   |
-|---
-| G   | H   |
-| I   | J   |
-|---
-| K   |     |
-| L   |     |
-|---
-
-#### With Footer
-
-|---
-| A   | B   |
-| :-: | :-: |
-| C   | D   |
-| E   | F   |
-|===
-| G   | H   |
-|---
-
-|---
-| Keyword | Example |
-| :-: | :-: |
-| Realistic | ![Realistic](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realistic.png?raw=true){:height="256px" width="256px"} | 
-| Hyperrealistic | ![Hyperrealistic](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_hyperrealistic.png?raw=true){:height="256px" width="256px"} | 
-| Realism | ![Realism](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_realism.png?raw=true){:height="256px" width="256px"} |
-| Magic Realism | ![Magic Realism](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_magicrealism.png?raw=true){:height="256px" width="256px"} |
-| Fantastic Realism | ![Fantastic Realism](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_fantasticrealism.png?raw=true){:height="256px" width="256px"} |
-| Classical Realism | ![Classical Realism](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_classicalrealism.png?raw=true){:height="256px" width="256px"} |
-| New Realism | ![New Realism](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_newrealism.png?raw=true){:height="256px" width="256px"} |
-| Surreal | ![Surreal](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_surreal.png?raw=true){:height="256px" width="256px"} |
-| Surrealism | ![Surrealism](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_surrealism.png?raw=true){:height="256px" width="256px"} |
-| Dreamlike | ![Dreamlike](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dreamlike.png?raw=true){:height="256px" width="256px"} | 
-| Otherworldly | ![Otherworldly](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_otherworldly.png?raw=true){:height="256px" width="256px"} | 
-| Abstract | ![Abstract](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstract.png?raw=true){:height="256px" width="256px"} | 
-| Abstraction | ![Abstraction](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_abstraction.png?raw=true){:height="256px" width="256px"} | 
-| Lucid | ![Lucid](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_lucid.png?raw=true){:height="256px" width="256px"} | 
-| Ethereal | ![Ethereal](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ethereal.png?raw=true){:height="256px" width="256px"} | 
-| Impossible | ![Impossible](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true){:height="256px" width="256px"} |
-|--
-    
-{::options parse_block_html="true" /}
-
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
-  
+	
+{::options parse_block_html="true" /}
+	
     |---
     | Keyword | Example |
     | :-: | :-: |
@@ -92,23 +29,29 @@
   
   
   - <details><summary>🎭💾 Retro/Modern</summary>
-  
-    | Keyword        | Example      |
-    | ------------- |:-------------:|
+	
+    {::options parse_block_html="true" /}
+	
+    |---
+    | Keyword | Example |
+    | :-: | :-: |
     |Modern| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_modern.png?raw=true" width="256" height="256" /> | 
     |Retro| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_retro.png?raw=true" width="256" height="256" /> | 
 	|Retrowave| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_retrowave.png?raw=true" width="256" height="256" /> |
     |Futuristic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_futuristic.png?raw=true" width="256" height="256" /> | 
 	|Future Funk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_FutureFunk.png?raw=true" width="256" height="256" /> |
     |Retro-Futurism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Retro-futurism.png?raw=true" width="256" height="256" /> | 
-
+    |---
+	
     </details>
   
   
   - <details><summary>🎭🪐 Sci-fi</summary>
-  
-    | Keyword        | Example      |
-    | ------------- |:-------------:|
+	
+	{::options parse_block_html="true" /}
+	
+    | Keyword | Example |
+    | :-: | :-: |
     |Sci-fi| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sci-fi.png?raw=true" width="256" height="256" /> | 
     |Galaxy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Galaxy.png?raw=true" width="256" height="256" /> | 
     |Supernova| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Supernova.png?raw=true" width="256" height="256" /> |
@@ -117,7 +60,8 @@
 	|Magic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_magic.png?raw=true" width="256" height="256" /> |
     |Magical| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Magical.png?raw=true" width="256" height="256" /> |
     |Mystical| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mystical.png?raw=true" width="256" height="256" /> |
-  
+    |---
+	
     </details>
   
   
