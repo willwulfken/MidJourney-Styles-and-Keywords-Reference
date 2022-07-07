@@ -1,6 +1,51 @@
 ## 🎭 Themes
 ![smiley](smiley.png){:height="36px" width="36px"}
-### This table is for testing the layout
+### These tables is for testing the layout
+
+#### Without Bottom Line
+|---
+| A   | B   |
+| :-: | :-: |
+| C   | D   |
+| E   | F   |
+|---
+| G   | H   |
+| I   | J   |
+|---
+| K   |     |
+| L   |     |
+
+#### With Bottom Line
+|---
+| A   | B   |
+| :-: | :-: |
+| C   | D   |
+| E   | F   |
+|---
+| G   | H   |
+| I   | J   |
+|---
+| K   |     |
+| L   |     |
+|---
+
+#### With Footer
+|---
+| A   | B   |
+| :-: | :-: |
+| C   | D   |
+| E   | F   |
+|===
+| G   | H   |
+|---
+
+#### Single Body
+|---
+| A   | B   |
+| :-: | :-: |
+| C   | D   |
+| E   | F   |
+
 |---
 | Keyword | Example |
 | :-: | :-: |
