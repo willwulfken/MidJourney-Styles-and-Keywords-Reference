@@ -2,7 +2,7 @@
 
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
 	
-{::options parse_span_html="true" /}
+{::options html_to_native="true" /}
 	
     |---
     | Keyword | Example |
