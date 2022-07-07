@@ -2,7 +2,7 @@
 
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
 	
-{::options parse_block_html="true" /}
+	{::options parse_block_html="true" /}
 	
     |---
     | Keyword | Example |
@@ -25,6 +25,8 @@
     |Impossible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true" width="256" height="256" /> |
     |--
   
+	{::options parse_block_html="false" /}
+	
     </details>
   
   
