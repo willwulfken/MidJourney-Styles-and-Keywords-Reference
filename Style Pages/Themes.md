@@ -109,8 +109,9 @@
     |Bronzepunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bronzepunk.png?raw=true" height="256" /> |
     |Clockpunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_clockpunk.png?raw=true" height="256" /> |
     |Dieselpunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dieselpunk.png?raw=true" height="256" /> |
-    |Cuberpunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cuberpunk.png?raw=true" height="256" /> |
+    |Cyberpunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cyberpunk.png?raw=true" height="256" /> |
     |Postcyberpunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_postcyberpunk.png?raw=true" height="256" /> |
+    |Cuberpunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cuberpunk.png?raw=true" height="256" /> |
     |Atompunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_atompunk.png?raw=true" height="256" /> |
     |Solarpunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_solarpunk.png?raw=true" height="256" /> |
     |Decopunk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_decopunk.png?raw=true" height="256" /> |
