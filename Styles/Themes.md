@@ -1,8 +1,9 @@
 ## 🎭 Themes
-![smiley](smiley.png){:height="36px" width="36px"}
+
 ### These tables is for testing the layout
 
 #### Without Bottom Line
+
 |---
 | A   | B   |
 | :-: | :-: |
@@ -16,6 +17,7 @@
 | L   |     |
 
 #### With Bottom Line
+
 |---
 | A   | B   |
 | :-: | :-: |
@@ -30,6 +32,7 @@
 |---
 
 #### With Footer
+
 |---
 | A   | B   |
 | :-: | :-: |
@@ -40,6 +43,7 @@
 |---
 
 #### Single Body
+
 |---
 | A   | B   |
 | :-: | :-: |
