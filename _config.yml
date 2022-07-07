@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
-markdown: kramdown
+markdown: GFM
 plugins:
   - jekyll-relative-links
 relative_links:
