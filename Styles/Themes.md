@@ -2,7 +2,7 @@
 
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
 	
-{::options parse_block_html="true" /}
+{::options parse_span_html="true" /}
 	
     |---
     | Keyword | Example |
@@ -24,15 +24,11 @@
     |Ethereal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ethereal.png?raw=true" width="256" height="256" /> | 
     |Impossible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true" width="256" height="256" /> |
     |--
-  
-{::options parse_block_html="false" /}
 	
     </details>
   
   
   - <details><summary>🎭💾 Retro/Modern</summary>
-	
-    {::options parse_block_html="true" /}
 	
     |---
     | Keyword | Example |
@@ -45,14 +41,10 @@
     |Retro-Futurism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Retro-futurism.png?raw=true" width="256" height="256" /> | 
     |---
 	
-    {::options parse_block_html="false" /}
-	
     </details>
   
   
   - <details><summary>🎭🪐 Sci-fi</summary>
-	
-	{::options parse_block_html="true" /}
 	
     | Keyword | Example |
     | :-: | :-: |
@@ -65,8 +57,6 @@
     |Magical| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Magical.png?raw=true" width="256" height="256" /> |
     |Mystical| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mystical.png?raw=true" width="256" height="256" /> |
     |---
-	
-	{::options parse_block_html="false" /}
 	
     </details>
   
