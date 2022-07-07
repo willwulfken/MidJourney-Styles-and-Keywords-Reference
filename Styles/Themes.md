@@ -1,8 +1,5 @@
 ## 🎭 Themes
 
-{::options parse_block_html="true" /}
-
-<em>
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
 	
     |---
@@ -27,7 +24,6 @@
     |--
 		
     </details>
-  </em>
   
 	
   - <details><summary>🎭💾 Retro/Modern</summary>
