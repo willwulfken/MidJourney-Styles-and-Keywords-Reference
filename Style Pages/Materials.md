@@ -342,7 +342,7 @@
     </details>
 
 
-    - <details><summary>🧱🍣 Food and Consumables</summary>
+- <details><summary>🧱🍣 Food and Consumables</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -392,6 +392,7 @@
     |Mycelium| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mycelium.png?raw=true" height="256" /> |
     |Moldy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Moldy.png?raw=true" height="256" /> |
 
+    </details>
 
 - <details><summary>🧱 Other</summary>
 
