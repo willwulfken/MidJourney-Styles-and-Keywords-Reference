@@ -2,7 +2,7 @@
 
 {::options parse_block_html="true" /}
 
-<p>
+<div>
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
 	<em>
 	
@@ -29,7 +29,7 @@
 		
 	</em>
     </details>
-</p>
+</div>
   
   
   - <details><summary>🎭💾 Retro/Modern</summary>
