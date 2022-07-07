@@ -1,8 +1,10 @@
 ## 🎭 Themes
 
+{::options parse_block_html="true" /}
+
+<p>
   - <details><summary>🎭⛱ Realism/Abstraction</summary>
-	
-{::options html_to_native="true" /}
+</p>
 	
     |---
     | Keyword | Example |
@@ -24,10 +26,12 @@
     |Ethereal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ethereal.png?raw=true" width="256" height="256" /> | 
     |Impossible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true" width="256" height="256" /> |
     |--
-	
+
+<p>
     </details>
+</p>
   
-  
+<p>
   - <details><summary>🎭💾 Retro/Modern</summary>
 	
     |---
@@ -42,7 +46,7 @@
     |---
 	
     </details>
-  
+  </p>
   
   - <details><summary>🎭🪐 Sci-fi</summary>
 	
