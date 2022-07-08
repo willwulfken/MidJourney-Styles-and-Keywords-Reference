@@ -1,32 +1,4 @@
-## 🎨 Colors, Palettes, and Color Styles
-
-- <details><summary>🎨 Colors</summary>
-
-    | Keyword        | Example      |
-    | ------------- |:-------------:|
-	|White| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_White.png?raw=true" width="256" /> |
-	|Light-Gray| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Light-Gray.png?raw=true" width="256" /> |
-	|Gray| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Gray.png?raw=true" width="256" /> |
-	|Dark-Gray| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Dark-Gray.png?raw=true" width="256" /> |
-	|Black| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Black.png?raw=true" width="256" /> |
-	|Brown| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Brown.png?raw=true" width="256" /> |
-	|Maroon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Maroon.png?raw=true" width="256" /> |
-	|Red| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Red.png?raw=true" width="256" /> |
-	|Orange| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Orange.png?raw=true" width="256" /> |
-	|Yellow| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Yellow.png?raw=true" width="256" /> |
-	|Lime| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Lime.png?raw=true" width="256" /> |
-	|Green| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Green.png?raw=true" width="256" /> |
-	|Cyan| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Cyan.png?raw=true" width="256" /> |
-	|Teal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Teal.png?raw=true" width="256" /> |
-	|Blue| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Blue.png?raw=true" width="256" /> |
-	|Indigo| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Indigo.png?raw=true" width="256" /> |
-	|Purple| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Purple.png?raw=true" width="256" /> |
-	|Violet| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Violet.png?raw=true" width="256" /> |
-	|Fuchsia| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Fuchsia.png?raw=true" width="256" /> |
-	|Magenta| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Magenta.png?raw=true" width="256" /> |
-	|Pink| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Pink.png?raw=true" width="256" /> |
-
-    </details>
+## 🎨 Palettes and Color Styles
 
 - <details><summary>🎨🖌 Palettes</summary>
 
