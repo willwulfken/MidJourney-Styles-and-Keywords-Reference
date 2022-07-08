@@ -55,6 +55,29 @@
     </details>
 
 
+- <details><summary>📦🗺 Maps</summary>
+
+    | Keyword        | Example      |
+    | ------------- |:-------------:|
+    |Bump Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bumpmap.png?raw=true" width="256" /> | 
+    |Bump Mapped| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_BumpMapped.png?raw=true" width="256" /> |
+    |Bump Mapping| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_BumpMapping.png?raw=true" width="256" /> |
+    |Normal Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_normalmap.png?raw=true" width="256" /> | 
+    |Depth Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_depthmap.png?raw=true" width="256" /> |
+
+    </details>
+
+
+- <details><summary>📦🧊 Soft Body</summary>
+
+    | Keyword        | Example      |
+    | ------------- |:-------------:|
+    |Soft Body| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_SoftBody.png?raw=true" width="256" /> |
+    |Squishy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Squishy.png?raw=true" width="256" /> |
+
+    </details>
+
+
 - <details><summary>📦 Other</summary>
 
     | Keyword        | Example      |
@@ -62,17 +85,10 @@
     |Optics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_optics.png?raw=true" width="256" /> | 
     |Materiality| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_materiality.png?raw=true" width="256" /> | 
     |Ambient Occlusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AmbientOcclusion.png?raw=true" width="256" /> | 
-    |Bump Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bumpmap.png?raw=true" width="256" /> | 
-    |Bump Mapped| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_BumpMapped.png?raw=true" width="256" /> |
-    |Bump Mapping| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_BumpMapping.png?raw=true" width="256" /> |
-    |Normal Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_normalmap.png?raw=true" width="256" /> | 
-    |Depth Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_depthmap.png?raw=true" width="256" /> |
     |Scattering| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_scattering.png?raw=true" width="256" /> | 
     |Anisotropy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Anisotropy.png?raw=true" width="256" /> |
     |Carbonated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Carbonated.png?raw=true" width="256" /> |
     |Effervescent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Effervescent.png?raw=true" width="256" /> |
-    |Squishy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Squishy.png?raw=true" width="256" /> |
-    |Soft Body| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_SoftBody.png?raw=true" width="256" /> |
     |Corrugated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Corrugated.png?raw=true" width="256" /> |
     |Perforated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Perforated.png?raw=true" width="256" /> |
 
