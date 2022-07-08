@@ -48,12 +48,11 @@
 	|Octahedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Octahedron.png?raw=true" width="256" /> |
 	|Dodecahedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Dodecahedron.png?raw=true" width="256" /> |
 	|Icosahedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Icosahedron.png?raw=true" width="256" /> |
-	|Kepler–Poinsot Polyhedra|
+	|Kepler–Poinsot Polyhedra| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_KeplerPoinsotPolyhedra.png?raw=true" width="256" /> |
 	|Cuboctahedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Cuboctahedron.png?raw=true" width="256" /> |
 	|Rhombicuboctahedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Rhombicuboctahedron.png?raw=true" width="256" /> |
 	|Icosidodecahedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Icosidodecahedron.png?raw=true" width="256" /> |
 	|Rhombicosidodecahedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Rhombicosidodecahedron.png?raw=true" width="256" /> |
-	|Rhombicuboctahedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Rhombicuboctahedron.png?raw=true" width="256" /> |
 	|Trapezohedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Trapezohedron.png?raw=true" width="256" /> |
 	|Cupola| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Cupola.png?raw=true" width="256" /> |
 	|Anticupola| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Anticupola.png?raw=true" width="256" /> |
