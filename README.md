@@ -28,7 +28,7 @@
 
   | Keyword        | Example      |
   | ------------- |:-------------:|
-  | sphere --seed 4776| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true"  height="256" /> |
+  | sphere --seed 4776| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /> |
   | **`sphere, <style> --seed 4776` is used for all of these images** |  |
   
   </details>
@@ -40,10 +40,10 @@
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
-    | sphere --seed 4776 --hd | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--hd.png?raw=true" height="256" /> |
-    | sphere --seed 4776 --vibe | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--vibe.png?raw=true" height="256" /> |
-    | sphere --seed 4776 --fast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--fast.png?raw=true" height="256" /> |
-    | sphere --seed 4776 --vibefast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--vibefast.png?raw=true" height="256" /> |
+    | sphere --seed 4776 --hd | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--hd.png?raw=true" width="256" /> |
+    | sphere --seed 4776 --vibe | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--vibe.png?raw=true" width="256" /> |
+    | sphere --seed 4776 --fast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--fast.png?raw=true" width="256" /> |
+    | sphere --seed 4776 --vibefast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--vibefast.png?raw=true" width="256" /> |
   
     </deatils>
     
@@ -51,13 +51,13 @@
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
-    | sphere --seed 4776 --wallpaper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--wallpaper.png?raw=true" height="256" /> |
-    | sphere --seed 4776 --sl | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--sl.png?raw=true" height="256" /> |
-    | sphere --seed 4776 --ml | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--ml.png?raw=true" height="256" /> |
-    | sphere --seed 4776 --ll | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--ll.png?raw=true" height="256" /> |
-    | sphere --seed 4776 --sp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--sp.png?raw=true" height="256" /> |
-    | sphere --seed 4776 --mp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--mp.png?raw=true" height="256" /> |
-    | sphere --seed 4776 --lp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--lp.png?raw=true" height="256" /> |
+    | sphere --seed 4776 --wallpaper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--wallpaper.png?raw=true" width="256" /> |
+    | sphere --seed 4776 --sl | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--sl.png?raw=true" width="256" /> |
+    | sphere --seed 4776 --ml | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--ml.png?raw=true" width="256" /> |
+    | sphere --seed 4776 --ll | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--ll.png?raw=true" width="256" /> |
+    | sphere --seed 4776 --sp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--sp.png?raw=true" width="256" /> |
+    | sphere --seed 4776 --mp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--mp.png?raw=true" width="256" /> |
+    | sphere --seed 4776 --lp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--lp.png?raw=true" width="256" /> |
 
     </details>
   
