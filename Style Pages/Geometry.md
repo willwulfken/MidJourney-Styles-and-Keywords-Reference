@@ -123,7 +123,7 @@
 	|Polyhedral| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Polyhedral.png?raw=true" width="256" /> |
 	|Platonic Solids| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_PlatonicSolids.png?raw=true" width="256" /> |
 	|Archimedean Solids| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_ArchimedeanSolids.png?raw=true" width="256" /> |
-	|Catalan solids| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Catalansolids.png?raw=true" width="256" /> |
+	|Catalan solids| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_CatalanSolids.png?raw=true" width="256" /> |
 
     </details>
 
@@ -153,7 +153,7 @@
 	|Isohedral| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Isohedral.png?raw=true" width="256" /> |
 	|Stellation| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Stellation.png?raw=true" width="256" /> |
 	|Ehrhart Polynomial| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_EhrhartPolynomial.png?raw=true" width="256" /> |
-	|Ideal polyhedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Idealpolyhedron.png?raw=true" width="256" /> |
+	|Ideal polyhedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_IdealPolyhedron.png?raw=true" width="256" /> |
 	|Polytope| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/Geometry/sphere_Polytope.png?raw=true" width="256" /> |
 
     </details>
