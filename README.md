@@ -79,6 +79,8 @@
 
 - [🎨 Palettes and Color Styles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Colors_Palettes_and_Color_Styles.md)
 
+- [💠 Geometry](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Geometry.md)
+
 - [🖥 Computer Graphics](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Computer_Graphics.md)
 
 - [🌌 Dimensionality (ex. 4-dimensional, overdimenional, etc.)](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Dimensionality.md)
