@@ -28,7 +28,7 @@
 
   | Keyword        | Example      |
   | ------------- |:-------------:|
-  | sphere --seed 4776| <a href="url"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true" height="256" /></a> |
+  | sphere --seed 4776| <img srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true" sizes="(max-width: 256px) 512px," src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true"  height="256" /> |
   | **`sphere, <style> --seed 4776` is used for all of these images** |  |
   
   </details>
