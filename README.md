@@ -63,7 +63,7 @@
   
 </details>
 
-- [🖼 Themes and Design Styles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Design_Styles.md)
+- [🖼 Themes and Design Styles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Themes_and_Design_Styles.md)
 
 - [📔 Artists](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Artists.md)
 
@@ -79,13 +79,13 @@
 
 - [💠 Geometry](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Geometry.md)
 
-- [🖥 Computer Display and Rendering](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Computer_Graphics.md)
+- [🖥 Computer Display and Rendering](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Computer_Display.md)
 
 - [🌌 Dimensionality (ex. 4-dimensional, overdimenional, etc.)](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Dimensionality.md)
 
 - [💡 Lighting](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Lighting.md)
 
-- [🌈 SFX, Post-Processing, and Shaders](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/SFX_Post-Processing_and_Shaders.md)
+- [🌈 SFX, Post-Processing, and Shaders](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/SFX_and_Shaders.md)
 
 - [📷 Camera, Camera Properties, Camera Lenses/Effects, etc.](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Camera.md)
 
