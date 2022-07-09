@@ -1,7 +1,7 @@
 ## 📔 Artists
 
 
-- <details><summary>📔 Realism</summary>
+- <details><summary>📔⛱ Realism</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -14,7 +14,7 @@
   </details>
 
 
-- <details><summary>📔 Surrealism</summary>
+- <details><summary>📔❇ Surrealism</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -26,7 +26,7 @@
   </details>
 
 
-- <details><summary>📔 Abstract</summary>
+- <details><summary>📔💮 Abstract</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -35,7 +35,7 @@
   </details>
 
 
-- <details><summary>📔 Post-Impressionism</summary>
+- <details><summary>📔➿ Post-Impressionism</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -44,7 +44,7 @@
   </details>
 
 
-- <details><summary>📔 Art Nouveau</summary>
+- <details><summary>📔⚜ Art Nouveau</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -53,7 +53,7 @@
   </details>
 
 
-- <details><summary>📔 Luminism</summary>
+- <details><summary>📔🌄 Luminism</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -63,7 +63,7 @@
   </details>
 
 
-- <details><summary>📔 Futurism</summary>
+- <details><summary>📔🔳 Futurism</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -72,7 +72,7 @@
   </details>
 
 
-- <details><summary>📔 Gothic</summary>
+- <details><summary>📔⬛ Gothic</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -82,7 +82,7 @@
   </details>
 
 
-- <details><summary>📔 Psychedelic</summary>
+- <details><summary>📔☯ Psychedelic</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -92,7 +92,7 @@
   </details>
 
 
-- <details><summary>📔 Pop Art</summary>
+- <details><summary>📔🔴 Pop Art</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -101,7 +101,7 @@
   </details>
 
 
-- <details><summary>📔 Concept Art</summary>
+- <details><summary>📔🧿 Concept Art</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -110,7 +110,7 @@
   </details>
 
 
-- <details><summary>📔 Romanticism</summary>
+- <details><summary>📔❤ Romanticism</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -119,7 +119,7 @@
   </details>
 
 
-- <details><summary>📔 Renaissance</summary>
+- <details><summary>📔✡️ Renaissance</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -128,7 +128,7 @@
   </details>
 
 
-- <details><summary>📔 Vedute Painting Style</summary>
+- <details><summary>📔🌇 Vedute Painting Style</summary>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
