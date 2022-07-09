@@ -73,7 +73,7 @@
 
 - [📦 Material Properties](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Material_Properties.md)
 
-- [🎨Colors](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Colors.md)
+- [🎨 Colors](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Colors.md)
 
 - [🎨 Palettes and Color Styles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Colors_Palettes_and_Color_Styles.md)
 
