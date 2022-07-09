@@ -338,7 +338,7 @@
 	</details>
 
 
-  - <details><summary>🖼🔮 Neo </summary>
+  - <details><summary>🖼🔮 Neo</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
