@@ -16,7 +16,7 @@
     </details>
 
 
-- <details><summary>🌌 Other</summary>
+- <details><summary>🌌 Overdimensional, Multiverse, etc.</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|

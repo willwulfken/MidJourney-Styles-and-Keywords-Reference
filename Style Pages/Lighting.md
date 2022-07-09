@@ -66,12 +66,5 @@
     </details>
 
 
-- <details><summary>💡 Other</summary>
-
-    | Keyword        | Example      |
-    | ------------- |:-------------:|
-
-    </details>
-        
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

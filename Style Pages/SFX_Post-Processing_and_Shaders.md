@@ -40,11 +40,15 @@
     |Convolution Matrix| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ConvolutionMatrix.png?raw=true" width="256" /> |
     |Dilate| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Dilate.png?raw=true" width="256" /> |
     |Erode| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Erode.png?raw=true" width="256" /> |
+    |Dirty| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dirty.png?raw=true" width="256" /> | 
+    |With Imperfections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_withimperfections.png?raw=true" width="256" /> | 
+    |Distortion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_distortion.png?raw=true" width="256" /> | 
+    |Lenticular| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lenticular.png?raw=true" width="256" /> |
 
     </details>
 
 
-- <details><summary>🌈 Other</summary>
+- <details><summary>🌈🕶 Shaders and Post Processing</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -55,16 +59,12 @@
     |Post Processing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_postprocessing.png?raw=true" width="256" /> |
     |Post-Production| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Post-Production.png?raw=true" width="256" /> | 
     |Cel Shading| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_celshading.png?raw=true" width="256" /> | 
-    |Dirty| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dirty.png?raw=true" width="256" /> | 
-    |With Imperfections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_withimperfections.png?raw=true" width="256" /> | 
     |Tone Mapping| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tonemapping.png?raw=true" width="256" /> | 
-    |Distortion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_distortion.png?raw=true" width="256" /> | 
-    |Lenticular| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lenticular.png?raw=true" width="256" /> |
     |CGI| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CGI.png?raw=true" width="256" /> |
     |VFX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_VFX.png?raw=true" width="256" /> |
     |SFX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_SFX.png?raw=true" width="256" /> |
-
     </details>
-        
+
+
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)
