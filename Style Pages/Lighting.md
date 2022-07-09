@@ -1,6 +1,6 @@
 ## 💡 Lighting
 
-- <details><summary>💡 Types of Lights</summary>
+- <details><summary>💡🏮 Types of Lights</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -52,7 +52,7 @@
     </details>
 
 
-- <details><summary>💡 Types of Displays</summary>
+- <details><summary>💡📺 Types of Displays</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -71,7 +71,7 @@
     </details>
 
 
-- <details><summary>💡 Lighting Styles and Techniques</summary>
+- <details><summary>💡🔦 Lighting Styles and Techniques</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -90,7 +90,7 @@
     </details>
 
 
-- <details><summary>💡 Global Illumination</summary>
+- <details><summary>💡🌐 Global Illumination</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
