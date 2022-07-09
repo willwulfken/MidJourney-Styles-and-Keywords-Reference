@@ -8,6 +8,12 @@
     |Cool Color Palette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_coolcolorpalette.png?raw=true" width="256" /> | 
     |Colorful| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_colorful.png?raw=true" width="256" /> | 
     |Rainbow| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Rainbow.png?raw=true" width="256" /> | 
+	|Spectral Color| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_SpectralColor.png?raw=true" width="256" /> |
+	|Chroma| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Chroma.png?raw=true" width="256" /> |
+	|Dichromatism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Dichromatism.png?raw=true" width="256" /> |
+	|Tetrachromacy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tetrachromacy.png?raw=true" width="256" /> |
+	|Saturated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Saturated.png?raw=true" width="256" /> |
+	|Desaturated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Desaturated.png?raw=true" width="256" /> |
     |Monochrome| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Monochrome.png?raw=true" width="256" /> | 
     |Black and White| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_blackandwhite.png?raw=true" width="256" /> | 
     |Sepia| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_sepia.png?raw=true" width="256" /> | 

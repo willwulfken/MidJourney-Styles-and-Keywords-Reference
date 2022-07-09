@@ -4,9 +4,7 @@
 | ------------- |:-------------:|
 |Serendipity| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_serendipity.png?raw=true" width="256" /> | 
 |Acidic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_acidic.png?raw=true" width="256" /> | 
-|Basic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_basic.png?raw=true" width="256" /> | 
 |Physics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_physics.png?raw=true" width="256" /> | 
-|Massive Scale| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_massivescale.png?raw=true" width="256" /> |
 |Red Shift Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RedShiftRender%20(2).png?raw=true" width="256" /> |
 |Artstation| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Artstation.png?raw=true" width="256" /> |
 |Pythagoras Tree| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_PythagorasTree.png?raw=true" width="256" /> |
@@ -20,6 +18,10 @@
 |Mold| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mold.png?raw=true" width="256" /> |
 |Floss| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Floss.png?raw=true" width="256" /> |
 |Lava Lamp| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LavaLamp.png?raw=true" width="256" /> |
+|Trending on Artstation| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_TrendingonArtstation.png?raw=true" width="256" /> |
+|Mayo| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mayo.png?raw=true" width="256" /> |
+|Crab Pulsar| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CrabPulsar.png?raw=true" width="256" /> |
+|Eggcrate| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Eggcrate.png?raw=true" width="256" /> |
     
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

@@ -6,6 +6,8 @@
     | ------------- |:-------------:|
     |2-Dimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_2-Dimensional.png?raw=true" width="256" /> | 
     |2D| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_2D.png?raw=true" width="256" /> | 
+	|2.5-Dimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_2.5-Dimensional.png?raw=true" width="256" /> |
+	|2.5D| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_2.5D.png?raw=true" width="256" /> |
     |3-Dimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_3-Dimensional.png?raw=true" width="256" /> | 
     |3D| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_3D.png?raw=true" width="256" /> | 
     |4-Dimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_4-Dimensional.png?raw=true" width="256" /> | 

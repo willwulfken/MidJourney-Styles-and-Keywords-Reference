@@ -21,11 +21,16 @@
     |Unreal Engine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_unrealengine.png?raw=true" width="256" /> | 
     |Unity Engine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_unityengine.png?raw=true" width="256" /> | 
     |Rendered in Houdini| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RenderedInHoudini.png?raw=true" width="256" /> |
+	|Houdini-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Houdini-Render.png?raw=true" width="256" /> |
     |Cycles Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cyclesrender.png?raw=true" width="256" /> | 
     |Blender Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_blenderrender.png?raw=true" width="256" /> | 
     |Vray| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vray.png?raw=true" width="256" /> | 
     |CryEngine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CryEngine.png?raw=true" width="256" /> | 
+	|OptiX-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_OptiX-Render.png?raw=true" width="256" /> |
     |Redshift Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RedshiftRender.png?raw=true" width="256" /> |
+	|OpenGL| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_OpenGL.png?raw=true" width="256" /> |
+	|DirectX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_DirectX.png?raw=true" width="256" /> |
+
 
     </details>
 
@@ -39,14 +44,22 @@
     |VGA| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_VGA.png?raw=true" width="256" /> | 
     |EGA| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_EGA.png?raw=true" width="256" /> | 
     |CGA| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CGA.png?raw=true" width="256" /> | 
-    |CRT| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CRT.png?raw=true" width="256" /> | 
-    |LCD| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LCD.png?raw=true" width="256" /> | 
-    |LED| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LED.png?raw=true" width="256" /> | 
-    |OLED| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_OLED.png?raw=true" width="256" /> | 
     |HDR| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_HDR.png?raw=true" width="256" /> | 
     |Atari Graphics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AtariGraphics.png?raw=true" width="256" /> | 
     |IIGS Graphics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_IIGSGraphics.png?raw=true" width="256" /> | 
     |Amiga OCS Graphics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AmigaOCSGraphics.png?raw=true" width="256" /> | 
+	|sRGB| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_sRGB.png?raw=true" width="256" /> |
+	|Adobe RGB| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AdobeRGB.png?raw=true" width="256" /> |
+	|DCI-P3| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_DCI-P3.png?raw=true" width="256" /> |
+	|HSV| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_HSV.png?raw=true" width="256" /> |
+	|HSL| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_HSL.png?raw=true" width="256" /> |
+	|HCL| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_HCL.png?raw=true" width="256" /> |
+	|YCbCr| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_YCbCr.png?raw=true" width="256" /> |
+	|YPbPr| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_YPbPr.png?raw=true" width="256" /> |
+	|scRGB| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_scRGB.png?raw=true" width="256" /> |
+	|Coloroid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Coloroid.png?raw=true" width="256" /> |
+	|Pantone| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Pantone.png?raw=true" width="256" /> |
+	|ProPhoto RGB| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ProPhotoRGB.png?raw=true" width="256" /> |
 
     </details>
 

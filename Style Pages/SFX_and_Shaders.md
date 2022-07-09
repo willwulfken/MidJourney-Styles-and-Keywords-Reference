@@ -17,9 +17,15 @@
     | Keyword        | Example      |
     | ------------- |:-------------:|
     |Chromatic Aberration| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_chromaticaberration.png?raw=true" width="256" /> | 
+	|RGB Displacement| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RGBDisplacement.png?raw=true" width="256" /> |
     |Anaglyph| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Anaglyph.png?raw=true" width="256" /> | 
+	|Multiscopy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Multiscopy.png?raw=true" width="256" /> |
+	|Autostereoscopy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Autostereoscopy.png?raw=true" width="256" /> |
+	|Stereoscopy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Stereoscopy.png?raw=true" width="256" /> |
+	|Parallax| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Parallax.png?raw=true" width="256" /> |
     |Scan Lines| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_scanlines.png?raw=true" width="256" /> | 
     |Posterization| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_posterization.png?raw=true" width="256" /> | 
+	|Quantization| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Quantization.png?raw=true" width="256" /> |
     |Sobel Operator| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sobeloperator.png?raw=true" width="256" /> | 
     |Edge Detection| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_edgedetection.png?raw=true" width="256" /> | 
     |Interlaced| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_interlaced.png?raw=true" width="256" /> | 
@@ -44,6 +50,8 @@
     |With Imperfections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_withimperfections.png?raw=true" width="256" /> | 
     |Distortion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_distortion.png?raw=true" width="256" /> | 
     |Lenticular| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lenticular.png?raw=true" width="256" /> |
+	|Cropped| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cropped.png?raw=true" width="256" /> |
+
 
     </details>
 

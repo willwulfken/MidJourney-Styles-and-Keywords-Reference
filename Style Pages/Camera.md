@@ -5,6 +5,7 @@
     | Keyword        | Example      |
     | ------------- |:-------------:|
     |Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_photography.png?raw=true" width="256" /> |
+	|Filmic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Filmic.png?raw=true" width="256" /> |
     |Cinematic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_cinematic.png?raw=true" width="256" /> | 
     |Dramatic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_dramatic.png?raw=true" width="256" /> | 
     |Glamor Shot| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_glamorshot.png?raw=true" width="256" /> |
@@ -16,6 +17,7 @@
     |Color Grading| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ColorGrading.png?raw=true" width="256" /> | 
     |Film Grain| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_FilmGrain.png?raw=true" width="256" /> | 
     |Bokeh| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_bokeh.png?raw=true" width="256" /> | 
+	|Dashcam-Footage| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Dashcam-Footage.png?raw=true" width="256" /> |
     |Editorial Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_editorialphotography.png?raw=true" width="256" /> |
     |War Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_warphotography.png?raw=true" width="256" /> |
     |Photojournalism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_photojournalism.png?raw=true" width="256" /> |
@@ -31,6 +33,7 @@
     |Night Vision| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_nightvision.png?raw=true" width="256" /> | 
     |Polaroid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_polaroid.png?raw=true" width="256" /> |
     |35mm| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_35mm.png?raw=true" width="256" /> |
+	|Tri-X 400 TX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tri-X400TX.png?raw=true" width="256" /> |
     |Vintage| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_vintage.png?raw=true" width="256" /> |
     |Pinhole Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_pinholephotography.png?raw=true" width="256" /> |
     |Photogram| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_photogram.png?raw=true" width="256" /> |
@@ -82,6 +85,7 @@
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
+	|Blurry| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Blurry.png?raw=true" width="256" /> |
     |Blur Effect| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_blureffect.png?raw=true" width="256" /> | 
     |Tilt Blur| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_tiltblur.png?raw=true" width="256" /> | 
     |Lens Distortion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LensDistortion.png?raw=true" width="256" /> | 
