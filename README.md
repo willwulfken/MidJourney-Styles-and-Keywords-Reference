@@ -81,13 +81,13 @@
 
 - [🖥 Computer Display and Rendering](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Computer_Display.md)
 
-- [🌌 Dimensionality (ex. 4-dimensional, overdimenional, etc.)](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Dimensionality.md)
+- [🌌 Dimensionality](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Dimensionality.md)
 
 - [💡 Lighting](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Lighting.md)
 
 - [🌈 SFX, Post-Processing, and Shaders](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/SFX_and_Shaders.md)
 
-- [📷 Camera, Camera Properties, Camera Lenses/Effects, etc.](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Camera.md)
+- [📷 Camera, Film Types, Lenses, Perspective, etc.](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Camera.md)
 
 - [➰ Intangibles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Intangibles.md)
 
