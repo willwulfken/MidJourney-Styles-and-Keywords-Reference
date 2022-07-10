@@ -1,4 +1,5 @@
-# Midjourney Styles and Keywords Reference
+![Midjourney Styles and Keywords  Reference Repo Banner](https://user-images.githubusercontent.com/6042799/178131414-93171289-16ae-46a5-ab51-8077944c392d.png)
+<!--# Midjourney Styles and Keywords Reference)-->
 >###### DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.
 
 ### If you notice any missing images, please feel free to add it to the [Issues](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/issues) page
