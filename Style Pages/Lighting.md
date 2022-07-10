@@ -23,6 +23,10 @@
     |Fluorescent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Fluorescent.png?raw=true" width="256" /> |
     |Fluorescent Lamp| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_FluorescentLamp.png?raw=true" width="256" /> |
     |Glow Stick| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_GlowStick.png?raw=true" width="256" /> |
+	|Plasma Globe| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_PlasmaGlobe.png?raw=true" width="256" /> |
+	|Tesla Coil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_TeslaCoil.png?raw=true" width="256" /> |
+	|Electric Arc| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ElectricArc.png?raw=true" width="256" /> |
+	|Crackle Tube| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CrackleTube.png?raw=true" width="256" /> |
     |Edison Bulb| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_EdisonBulb.png?raw=true" width="256" /> |
     |Vacuum Tube Lamp| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_VacuumTubeLamp.png?raw=true" width="256" /> |
     |Nixie Tube| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_NixieTube.png?raw=true" width="256" /> |
@@ -61,6 +65,8 @@
     |LED| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LED.png?raw=true" width="256" /> | 
     |OLED| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_OLED.png?raw=true" width="256" /> | 
 	|AMOLED| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_AMOLED.png?raw=true" width="256" /> |
+	|7 Segment Display| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_7SegmentDisplay.png?raw=true" width="256" /> |
+	|Dot Matrix Display| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_DotMatrixDisplay.png?raw=true" width="256" /> |
 	|Electroluminescent Display| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ElectroluminescentDisplay.png?raw=true" width="256" /> |
 	|Vacuum Fluorescent Display| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_VacuumFluorescentDisplay.png?raw=true" width="256" /> |
 	|Phosphor Display| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_PhosphorDisplay.png?raw=true" width="256" /> |

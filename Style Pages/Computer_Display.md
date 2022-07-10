@@ -7,6 +7,7 @@
     |4k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_4k.png?raw=true" width="256" /> | 
     |8k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_8k.png?raw=true" width="256" /> | 
     |16k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_16k.png?raw=true" width="256" /> |
+	|Megapixel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Megapixel.png?raw=true" width="256" /> |
 
     </details>
 
@@ -28,6 +29,11 @@
     |CryEngine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CryEngine.png?raw=true" width="256" /> | 
 	|OptiX-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_OptiX-Render.png?raw=true" width="256" /> |
     |Redshift Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RedshiftRender.png?raw=true" width="256" /> |
+	|LuxCoreRender| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LuxCoreRender.png?raw=true" width="256" /> |
+	|MentalRay-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MentalRay-Render.png?raw=true" width="256" /> |
+	|Raylectron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Raylectron.png?raw=true" width="256" /> |
+	|Infini-D-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Infini-D-Render.png?raw=true" width="256" /> |
+	|Zbrush| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Zbrush.png?raw=true" width="256" /> |
 	|OpenGL| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_OpenGL.png?raw=true" width="256" /> |
 	|DirectX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_DirectX.png?raw=true" width="256" /> |
 

@@ -1,4 +1,4 @@
-## 🌌 Dimensionality (ex. 4-dimensional, overdimenional, etc.)
+## 🌌 Dimensionality
 
 - <details><summary>🌌 2D-5D</summary>
 
@@ -25,6 +25,7 @@
     |Overdimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Overdimensional.png?raw=true" width="256" /> | 
     |Underdimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Underdimensional.png?raw=true" width="256" /> | 
     |Hyperdimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Hyperdimensional.png?raw=true" width="256" /> | 
+	|Subdimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Subdimensional.png?raw=true" width="256" /> |
     |Omnidimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Omnidimensional.png?raw=true" width="256" /> | 
     |Everdimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Everdimensional.png?raw=true" width="256" /> | 
     |Extradimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Extradimensional.png?raw=true" width="256" /> | 

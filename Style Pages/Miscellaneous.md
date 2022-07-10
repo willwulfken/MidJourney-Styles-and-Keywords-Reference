@@ -22,6 +22,9 @@
 |Mayo| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mayo.png?raw=true" width="256" /> |
 |Crab Pulsar| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CrabPulsar.png?raw=true" width="256" /> |
 |Eggcrate| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Eggcrate.png?raw=true" width="256" /> |
+|Amethyst-Deceiver| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Amethyst-Deceiver.png?raw=true" width="256" /> |
+|Indigo-Milk-Cap| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Indigo-Milk-Cap.png?raw=true" width="256" /> |
+|Indigo-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Indigo-Render.png?raw=true" width="256" /> |
     
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

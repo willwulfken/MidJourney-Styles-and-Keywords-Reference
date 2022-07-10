@@ -19,24 +19,37 @@
 	|Birch-Wood| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Birch-Wood.png?raw=true" width="256" /> |
 	|Acacia-Wood| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Acacia-Wood.png?raw=true" width="256" /> |
 	|Cedar-Wood| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cedar-Wood.png?raw=true" width="256" /> |
+	|Wood-Stain| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Wood-Stain.png?raw=true" width="256" /> |
 	|Planks| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Planks.png?raw=true" width="256" /> |
 	|Wooden Planks| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_WoodenPlanks.png?raw=true" width="256" /> |
 	|Nailed-Wood| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Nailed-Wood.png?raw=true" width="256" /> |
     |Wooden Fence| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_WoodenFence.png?raw=true" width="256" /> |
     |Cardboard| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cardboard.png?raw=true" width="256" /> |
+	|Corrugated Fiberboard| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CorrugatedFiberboard.png?raw=true" width="256" /> |
+	|Paperboard| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Paperboard.png?raw=true" width="256" /> |
+	|Cardstock| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cardstock.png?raw=true" width="256" /> |
     |Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_paper.png?raw=true" width="256" /> |
     |Construction Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ConstructionPaper.png?raw=true" width="256" /> |
     |Tissue Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_TissuePaper.png?raw=true" width="256" /> |
+	|Graph Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_GraphPaper.png?raw=true" width="256" /> |
+	|Kraft Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_KraftPaper.png?raw=true" width="256" /> |
+	|Washi| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Washi.png?raw=true" width="256" /> |
+	|Wasli| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Wasli.png?raw=true" width="256" /> |
+	|Papyrus| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Papyrus.png?raw=true" width="256" /> |
+	|Manuscript Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ManuscriptPaper.png?raw=true" width="256" /> |
     |Wrapping Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_WrappingPaper.png?raw=true" width="256" /> |
     |Parchment| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Parchment.png?raw=true" width="256" /> |
     |Parchment Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ParchmentPaper.png?raw=true" width="256" /> |
     |Toilet Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ToiletPaper.png?raw=true" width="256" /> |
     |Paper Towel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_PaperTowel.png?raw=true" width="256" /> |
+	|Manila Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ManilaPaper.png?raw=true" width="256" /> |
     |Manila Folder| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Manilafolder.png?raw=true" width="256" /> |
 	|Envelope| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Envelope.png?raw=true" width="256" /> |
     |Hemp Fiber| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_HempFiber.png?raw=true" width="256" /> |
     |Hemp Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_HempPaper.png?raw=true" width="256" /> |
     |Cellulose| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cellulose.png?raw=true" width="256" /> |
+	|Plastic-Coated Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Plastic-CoatedPaper.png?raw=true" width="256" /> |
+	|Tar Paper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_TarPaper.png?raw=true" width="256" /> |
 
     </details>
 
@@ -67,12 +80,17 @@
     |Pebbles| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Pebbles.png?raw=true" width="256" /> |
     |Rock| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Rock.png?raw=true" width="256" /> |
     |Rocky| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Rocky.png?raw=true" width="256" /> |
+	|Bedrock| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Bedrock.png?raw=true" width="256" /> |
     |Flint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Flint.png?raw=true" width="256" /> |
+	|Sandstone| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sandstone.png?raw=true" width="256" /> |
     |Basalt| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Basalt.png?raw=true" width="256" /> |
     |Marble| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_marble.png?raw=true" width="256" /> |
     |Granite| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_granite.png?raw=true" width="256" /> |
+	|Diorite| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Diorite.png?raw=true" width="256" /> |
+	|Andesite| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Andesite.png?raw=true" width="256" /> |
     |Gypsum| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Gypsum.png?raw=true" width="256" /> |
 	|Coal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Coal.png?raw=true" width="256" /> |
+	|Sulfur| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sulfur.png?raw=true" width="256" /> |
     |Graphene| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Graphene.png?raw=true" width="256" /> |
     |Carbon Nanotubes| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CarbonNanotubes.png?raw=true" width="256" /> |
     |Carbon Fiber| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Carbonfiber.png?raw=true" width="256" /> |
@@ -148,9 +166,11 @@
     |Nichrome| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Nichrome.png?raw=true" width="256" /> |
     |Damascus| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Damascus.png?raw=true" width="256" /> |
     |Iron Filings| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_IronFilings.png?raw=true" width="256" /> |
+	|Copper-Sulfate| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Copper-Sulfate.png?raw=true" width="256" /> |
     |Solder| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Solder.png?raw=true" width="256" /> |
     |Metallic Fiber| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MetallicFiber.png?raw=true" width="256" /> |
     |Armature Wire| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ArmatureWire.png?raw=true" width="256" /> |
+	|Metal Foam| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MetalFoam.png?raw=true" width="256" /> |
 	|Needle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Needle.png?raw=true" width="256" /> |
 	|Screw| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Screw.png?raw=true" width="256" /> |
 	|Nail| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Nail.png?raw=true" width="256" /> |
@@ -194,6 +214,7 @@
     |Citrine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Citrine.png?raw=true" width="256" /> |
     |Fluorite| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Fluorite.png?raw=true" width="256" /> |
     |Onyx| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Onyx.png?raw=true" width="256" /> |
+	|Lapis Lazuli| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LapisLazuli.png?raw=true" width="256" /> |
     |Obsidian| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Obsidian.png?raw=true" width="256" /> |
     |Selenite| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Selenite.png?raw=true" width="256" /> |
     |Jasper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Jasper.png?raw=true" width="256" /> |
@@ -206,6 +227,7 @@
     |Aventurine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Aventurine.png?raw=true" width="256" /> |
 	|Borax Crystals| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_BoraxCrystals.png?raw=true" width="256" /> |
 	|Jewelry| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Jewelry.png?raw=true" width="256" /> |
+	|Colloidal Crystal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ColloidalCrystal.png?raw=true" width="256" /> |
 
     </details>
 
@@ -230,10 +252,16 @@
     |Velvet| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Velvet.png?raw=true" width="256" /> |
     |Corduroy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Corduroy.png?raw=true" width="256" /> |
     |Nylon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Nylon.png?raw=true" width="256" /> |
+	|Polyamide| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Polyamide.png?raw=true" width="256" /> |
     |Kevlar| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Kevlar.png?raw=true" width="256" /> |
+	|Spandex| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Spandex.png?raw=true" width="256" /> |
     |Rayon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Rayon.png?raw=true" width="256" /> |
     |Microfiber| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Microfiber.png?raw=true" width="256" /> |
     |Fibers| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Fibers.png?raw=true" width="256" /> |	
+	|Lyocell| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lyocell.png?raw=true" width="256" /> |
+	|Cordura| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cordura.png?raw=true" width="256" /> |
+	|Lurex| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lurex.png?raw=true" width="256" /> |
+	|Nomex| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Nomex.png?raw=true" width="256" /> |
     |Quilt| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_quilt.png?raw=true" width="256" /> |
     |Memory Foam| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MemoryFoam.png?raw=true" width="256" /> |
     |Lint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lint.png?raw=true" width="256" /> |
@@ -261,6 +289,7 @@
     |Band-Aid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Band-Aid.png?raw=true" width="256" /> |
     |Bandage| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Bandage.png?raw=true" width="256" /> |
     |Gauze| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Gauze.png?raw=true" width="256" /> |	
+	|Spider Web| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_SpiderWeb.png?raw=true" width="256" /> |
 
     </details>
 
@@ -275,6 +304,11 @@
     |Cling Wrap| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ClingWrap.png?raw=true" width="256" /> |
     |Teflon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Teflon.png?raw=true" width="256" /> |
     |Lego| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lego.png?raw=true" width="256" /> |
+	|Polyurethane| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Polyurethane.png?raw=true" width="256" /> |
+	|Polyethylene| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Polyethylene.png?raw=true" width="256" /> |
+	|Polyvinyl| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Polyvinyl.png?raw=true" width="256" /> |
+	|Polypropylene| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Polypropylene.png?raw=true" width="256" /> |
+	|Polyimide| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Polyimide.png?raw=true" width="256" /> |
     |Styrofoam| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_styrofoam.png?raw=true" width="256" /> |
     |Foam| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Foam.png?raw=true" width="256" /> |
 
@@ -288,6 +322,7 @@
     |Rubber| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Rubber.png?raw=true" width="256" /> |
 	|Rubber Band| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RubberBand.png?raw=true" width="256" /> |
 	|Rubber Band Ball| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RubberBandBall.png?raw=true" width="256" /> |
+	|Balloon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Balloon.png?raw=true" width="256" /> |
     |Latex| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_latex.png?raw=true" width="256" /> |
     |Nitrile| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Nitrile.png?raw=true" width="256" /> |
     |Silicone| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Silicone.png?raw=true" width="256" /> |
@@ -305,9 +340,8 @@
 	|Softgel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Softgel.png?raw=true" width="256" /> |
 	|Silica Gel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_SilicaGel.png?raw=true" width="256" /> |
 	|Ballistic Gel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_BallisticGel.png?raw=true" width="256" /> |
+	|Jellyfish| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Jellyfish.png?raw=true" width="256" /> |
 	|Ballistic Foam| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_BallisticFoam.png?raw=true" width="256" /> |
-	|Metal Foam| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MetalFoam.png?raw=true" width="256" /> |
-	|Sea Foam| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_SeaFoam.png?raw=true" width="256" /> |
     |Sponge| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sponge.png?raw=true" width="256" /> |
     |Spongy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Spongy.png?raw=true" width="256" /> |
 
@@ -333,6 +367,7 @@
     | Keyword        | Example      |
     | ------------- |:-------------:|
     |Ice| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_ice.png?raw=true" width="256" /> |
+	|Blue-Ice| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Blue-Ice.png?raw=true" width="256" /> |
     |Dry Ice| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_DryIce.png?raw=true" width="256" /> |
     |Snow| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Snow.png?raw=true" width="256" /> |
     |Snowflake| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Snowflake.png?raw=true" width="256" /> |
@@ -344,9 +379,13 @@
     | ------------- |:-------------:|
     |Hairy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Hairy.png?raw=true" width="256" /> |
     |Furry| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Furry.png?raw=true" width="256" /> |
+	|Fuzz| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Fuzz.png?raw=true" width="256" /> |
+	|Beard| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Beard.png?raw=true" width="256" /> |
+	|Mustache| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mustache.png?raw=true" width="256" /> |
     |Feathers| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Feathers.png?raw=true" width="256" /> |
     |Zebra| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Zebra.png?raw=true" width="256" /> |
     |Tiger| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tiger.png?raw=true" width="256" /> |
+	|Dust-Bunny| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Dust-Bunny.png?raw=true" width="256" /> |
 
     </details>
 
@@ -362,6 +401,11 @@
     |Wires| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Wires.png?raw=true" width="256" /> |
     |Cables| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cables.png?raw=true" width="256" /> |
 	|Googly Eyes| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_GooglyEyes.png?raw=true" width="256" /> |
+	|Bone| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Bone.png?raw=true" width="256" /> |
+	|Cells| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cells.png?raw=true" width="256" /> |
+	|Cellular| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cellular.png?raw=true" width="256" /> |
+	|Transistor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Transistor.png?raw=true" width="256" /> |
+	|Diode| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Diode.png?raw=true" width="256" /> |
 
     </details>
 
@@ -380,17 +424,17 @@
     |Ferro Fluid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_FerroFluid.png?raw=true" width="256" /> |
 	|Liquid Crystal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_LiquidCrystal.png?raw=true" width="256" /> |
     |Oil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Oil.png?raw=true" width="256" /> |
-	|Vegetable Oil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_VegetableOil.png?raw=true" width="256" /> |
-	|Olive Oil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_OliveOil.png?raw=true" width="256" /> |
-	|Soda| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Soda.png?raw=true" width="256" /> |
-	|Coffee| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Coffee.png?raw=true" width="256" /> |
-	|Tea| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tea.png?raw=true" width="256" /> |
-    |Cream| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cream.png?raw=true" width="256" /> |
+	|Gasoline| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Gasoline.png?raw=true" width="256" /> |
+	|Turpentine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Turpentine.png?raw=true" width="256" /> |
+	|Mineral Oil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MineralOil.png?raw=true" width="256" /> |
+	|Motor Oil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MotorOil.png?raw=true" width="256" /> |
+	|Sea Foam| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_SeaFoam.png?raw=true" width="256" /> |
     |Waterfall| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Waterfall.png?raw=true" width="256" /> |
     |River| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_River.png?raw=true" width="256" /> |
     |Lake| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lake.png?raw=true" width="256" /> |
     |Ocean| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Ocean.png?raw=true" width="256" /> |
     |Emulsion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Emulsion.png?raw=true" width="256" /> |
+	|Lipid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lipid.png?raw=true" width="256" /> |
 
   </details>
 
@@ -422,6 +466,7 @@
     |Kapton| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Kapton.png?raw=true" width="256" /> |
     |Kapton Tape| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Kaptontape.png?raw=true" width="256" /> |
 	|Adhesive| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Adhesive.png?raw=true" width="256" /> |
+	|Glue| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Glue.png?raw=true" width="256" /> |
     |Epoxy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Epoxy.png?raw=true" width="256" /> |
 
     </details>
@@ -431,6 +476,7 @@
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
+	|Polymer| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Polymer.png?raw=true" width="256" /> |
     |Orbeez| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Orbeez.png?raw=true" width="256" /> |
     </details>
 
@@ -445,6 +491,7 @@
     |Clouds| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Clouds.png?raw=true" width="256" /> |
     |Fog| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Fog.png?raw=true" width="256" /> | 
     |Gas| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_gas.png?raw=true" width="256" /> | 
+	|Aerosol| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Aerosol.png?raw=true" width="256" /> |
 
   </details>
 
@@ -493,6 +540,8 @@
 	|Egg| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Egg.png?raw=true" width="256" /> |
 	|Egg Yolk| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_EggYolk.png?raw=true" width="256" /> |
     |Beans| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Beans.png?raw=true" width="256" /> |
+	|Pretzel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Pretzel.png?raw=true" width="256" /> |
+	|Churros| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Churros.png?raw=true" width="256" /> |
     |Bread| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Bread.png?raw=true" width="256" /> |
     |Made of Bread| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MadeOfBread.png?raw=true" width="256" /> |
     |Cake| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cake.png?raw=true" width="256" /> |
@@ -501,19 +550,26 @@
 	|Mayonnaise| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mayonnaise.png?raw=true" width="256" /> |
     |Syrup| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Syrup.png?raw=true" width="256" /> |
     |Maple Syrup| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_MapleSyrup.png?raw=true" width="256" /> |
+    |Cream| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cream.png?raw=true" width="256" /> |
     |Whipped Cream| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_WhippedCream.png?raw=true" width="256" /> |
     |Candy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Candy.png?raw=true" width="256" /> |
 	|Lollipop| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lollipop.png?raw=true" width="256" /> |
 	|Chocolate| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Chocolate.png?raw=true" width="256" /> |
+	|Cinnamon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cinnamon.png?raw=true" width="256" /> |
     |Caramel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Caramel.png?raw=true" width="256" /> |
     |Taffy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Taffy.png?raw=true" width="256" /> |
     |Honeycomb| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Honeycomb.png?raw=true" width="256" /> |
     |Gum| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Gum.png?raw=true" width="256" /> |
     |Toothpaste| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Toothpaste.png?raw=true" width="256" /> |
+	|Vegetable Oil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_VegetableOil.png?raw=true" width="256" /> |
+	|Olive Oil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_OliveOil.png?raw=true" width="256" /> |
+	|Soda| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Soda.png?raw=true" width="256" /> |
+	|Coffee| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Coffee.png?raw=true" width="256" /> |
+	|Tea| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tea.png?raw=true" width="256" /> |
 
     </details>
 
-  - <details><summary>🧱🌱 Plants and Fungi</summary>
+  - <details><summary>🧱🌱 Plants</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -527,16 +583,45 @@
 	|Pinecone| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Pinecone.png?raw=true" width="256" /> |
 	|Acorn| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Acorn.png?raw=true" width="256" /> |
     |Moss| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Moss.png?raw=true" width="256" /> |
+	|Bamboo| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Bamboo.png?raw=true" width="256" /> |
     |Cactus| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cactus.png?raw=true" width="256" /> |
     |Straw| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Straw.png?raw=true" width="256" /> |
     |Straw-Bale| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Straw-Bale.png?raw=true" width="256" /> |
     |Hay| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Hay.png?raw=true" width="256" /> |
     |Hay-Bale| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Hay-Bale.png?raw=true" width="256" /> |
     |Hemp| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Hemp.png?raw=true" width="256" /> |
-    |Mycelium| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mycelium.png?raw=true" width="256" /> |
-    |Moldy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Moldy.png?raw=true" width="256" /> |
 
     </details>
+
+
+  - <details><summary>🧱🍄 Fungi</summary>
+
+    | Keyword        | Example      |
+    | ------------- |:-------------:|
+	|Fungi| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Fungi.png?raw=true" width="256" /> |
+	|Mushrooms| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mushrooms.png?raw=true" width="256" /> |
+    |Mycelium| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mycelium.png?raw=true" width="256" /> |
+    |Moldy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Moldy.png?raw=true" width="256" /> |
+	|Lactarius-Indigo| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Lactarius-Indigo.png?raw=true" width="256" /> |
+	|Latticed-Stinkhorn| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Latticed-Stinkhorn.png?raw=true" width="256" /> |
+	|Clathrus-Ruber| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Clathrus-Ruber.png?raw=true" width="256" /> |
+	|Laccaria-Amethystina| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Laccaria-Amethystina.png?raw=true" width="256" /> |
+	|Entoloma-Hochstetteri| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Entoloma-Hochstetteri.png?raw=true" width="256" /> |
+	|Clavaria-Zollingeri| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Clavaria-Zollingeri.png?raw=true" width="256" /> |
+	|Chlorociboria| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Chlorociboria.png?raw=true" width="256" /> |
+	|Golden-Scruffy-Collybia| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Golden-Scruffy-Collybia.png?raw=true" width="256" /> |
+	|Cyptotrama-Asprata| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cyptotrama-Asprata.png?raw=true" width="256" /> |
+	|Mycena Acicula| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Mycena-Acicula.png?raw=true" width="256" /> |
+	|Hygrocybe-Cantharellus| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Hygrocybe-Cantharellus.png?raw=true" width="256" /> |
+	|Amanita-Muscaria| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Amanita-Muscaria.png?raw=true" width="256" /> |
+	|Favolaschia-Calocera| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Favolaschia-Calocera.png?raw=true" width="256" /> |
+	|Marasmius-Haematocephalus| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Marasmius-Haematocephalus.png?raw=true" width="256" /> |
+	|Cystoagaricus-Trisulphuratus| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cystoagaricus-Trisulphuratus.png?raw=true" width="256" /> |
+	|Tremella-Mesenterica| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tremella-Mesenterica.png?raw=true" width="256" /> |
+	|Tremella-Fuciformis| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Tremella-Fuciformis.png?raw=true" width="256" /> |
+
+    </details>
+
 
   - <details><summary>🧱🎷 Instruments</summary>
 
@@ -552,6 +637,7 @@
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
+	|Seashell| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Seashell.png?raw=true" width="256" /> |
     |Cage| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Cage.png?raw=true" width="256" /> |
     |Cheese Grater| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_CheeseGrater.png?raw=true" width="256" /> |
 

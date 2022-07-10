@@ -59,6 +59,8 @@
     | sphere --seed 4776 --sp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--sp.png?raw=true" width="256" /> |
     | sphere --seed 4776 --mp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--mp.png?raw=true" width="256" /> |
     | sphere --seed 4776 --lp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--lp.png?raw=true" width="256" /> |
+	|sphere --seed 4776 --ar 16:9| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--ar16-9.png?raw=true" width="256" /> |
+	|sphere --seed 4776 --ar 9:16| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/_sphere_--ar9-16.png?raw=true" width="256" /> |
 
     </details>
   

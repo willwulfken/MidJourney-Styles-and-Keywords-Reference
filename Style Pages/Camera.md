@@ -1,4 +1,4 @@
-## 📷 Camera, Camera Properties, Camera Lenses/Effects, etc.
+## 📷 Camera, Film Types, Lenses, Perspective, etc.
 
 - <details><summary>📷🌇 Camera and Scenes</summary>
 

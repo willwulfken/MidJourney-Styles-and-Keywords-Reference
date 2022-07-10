@@ -64,6 +64,8 @@
     |Ray Tracing Ambient Occlusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_RayTracingAmbientOcclusion.png?raw=true" width="256" /> | 
     |Anti-Aliasing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Anti-aliasing.png?raw=true" width="256" /> | 
     |Shaders| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_shaders.png?raw=true" width="256" /> | 
+	|OpenGL-Shaders| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_OpenGL-Shaders.png?raw=true" width="256" /> |
+	|GLSL-Shaders| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_GLSL-Shaders.png?raw=true" width="256" /> |
     |Post Processing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_postprocessing.png?raw=true" width="256" /> |
     |Post-Production| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Post-Production.png?raw=true" width="256" /> | 
     |Cel Shading| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_celshading.png?raw=true" width="256" /> | 

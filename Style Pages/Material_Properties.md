@@ -47,6 +47,7 @@
 	|Candoluminescence| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Candoluminescence.png?raw=true" width="256" /> |
 	|Fractoluminescence| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Fractoluminescence.png?raw=true" width="256" /> |
 	|Sonoluminescence| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Sonoluminescence.png?raw=true" width="256" /> |
+	|Translucidluminescence| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Translucidluminescence.png?raw=true" width="256" /> |
     |Shadows| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/MidJourney%20Styles%20(sphere)/sphere_Shadows.png?raw=true" width="256" /> |
 
     </details>
