@@ -3,8 +3,7 @@
 >###### DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.
 
 ### If you notice any missing images, please feel free to add it to the [Issues](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/issues) page
-#### [Discussion](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/discussions) is open for ideas pertaining to this repository and additions you'd like to see
-
+#### [Discussions](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/discussions) are open for any ideas, additions, and changes you'd like to suggest
 <details><summary>🔗 Links to official documentation</summary>
 
 [Midjourney Documentation](https://midjourney.gitbook.io/docs/)
