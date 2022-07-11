@@ -17,7 +17,9 @@
 
 <details><summary>🔗 Links to other style references</summary>
 
-[Understanding MidJourney Through Teapots](https://rexwang8.github.io/resource/ai/teapot)
+[Understanding MidJourney Through Teapots by Bob](https://rexwang8.github.io/resource/ai/teapot)
+
+[Artist Visual Style Encyclopedia by Sincarnate](https://docs.google.com/spreadsheets/d/10i9Ip8tVSERAuMWbc6-H6BUFCoUGOQ91YzDvX--c4bk/edit?usp=sharing)
 
 [Artwork Styles](https://www.wikiart.org/en/paintings-by-style)
 
