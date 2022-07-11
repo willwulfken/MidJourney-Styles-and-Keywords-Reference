@@ -97,3 +97,7 @@
 - [➰ Intangibles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Intangibles.md)
 
 - [🎛 Miscellaneous](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Miscellaneous.md)
+
+---
+
+- [⌨ Prompt Format Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison_Summary.md)
