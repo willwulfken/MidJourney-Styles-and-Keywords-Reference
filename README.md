@@ -2,9 +2,6 @@
 <!--# Midjourney Styles and Keywords Reference)-->
 >###### DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.
 
-### If you notice any missing images, please feel free to add it to the [Issues](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/issues) page
-#### [Discussion](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/discussions) is open for ideas pertaining to this repository and additions you'd like to see
-
 <details><summary>🔗 Links to official documentation</summary>
 
 [Midjourney Documentation](https://midjourney.gitbook.io/docs/)
@@ -67,6 +64,10 @@
     </details>
   
 </details>
+	
+- [⌨ Prompt Format Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison_Summary.md)
+
+---
 
 - [🖼 Themes and Design Styles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Themes_and_Design_Styles.md)
 
@@ -97,7 +98,3 @@
 - [➰ Intangibles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Intangibles.md)
 
 - [🎛 Miscellaneous](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Miscellaneous.md)
-
----
-
-- [⌨ Prompt Format Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison_Summary.md)
