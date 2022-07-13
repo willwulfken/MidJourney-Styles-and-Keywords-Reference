@@ -29,7 +29,9 @@
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
-	|Painting by Jean Delville| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByJeanDelville.png?raw=true" width="256" /> | 
+	|Painting by Jean Delville| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByJeanDelville.png?raw=true" width="256" /> |
+	
+  </details>
 
 - <details><summary>📔💮 Abstract</summary>
 
