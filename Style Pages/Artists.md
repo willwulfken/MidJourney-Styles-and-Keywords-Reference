@@ -203,7 +203,7 @@
 	
 	| Keyword	| Example	|
 	| ------------ |:--------------:|
-	|Painting by Bob Ross| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_ArtByJunjiIto.png?raw=true" width="256" /> |
+	|Painting by Junji Ito| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_ArtByJunjiIto.png?raw=true" width="256" /> |
 	
   </details>
 
