@@ -29,7 +29,7 @@
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
-	|Painting by Jean Delville| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByJeanDelville.png?raw=true" width="256" /> |
+	|<small><br/></small>Painting by Jean Delville<p><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p>| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByJeanDelville.png?raw=true" width="256" /> |
 	
   </details>
 
@@ -195,7 +195,7 @@
 	|Art by Uon.visuals| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ArtbyUon.visuals.png?raw=true" width="256" /> |
 	|Artofethan| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Artofethan.png?raw=true" width="256" /> |
 	|Art by artofethan| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Artbyartofethan.png?raw=true" width="256" /> |
-	|Painting by Peter Mohrbacher| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByPeterMohrbacher.png?raw=true" width="256" /> |
+	|<small><br/></small>Painting by Peter Mohrbacher<p><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p>| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByPeterMohrbacher.png?raw=true" width="256" /> |
 
   </details>
 
@@ -203,7 +203,7 @@
 	
 	| Keyword	| Example	|
 	| ------------ |:--------------:|
-	|Painting by Junji Ito| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_ArtByJunjiIto.png?raw=true" width="256" /> |
+	|<small><br/></small>Painting by Junji Ito<p><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p>| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_ArtByJunjiIto.png?raw=true" width="256" /> |
 	
   </details>
 
