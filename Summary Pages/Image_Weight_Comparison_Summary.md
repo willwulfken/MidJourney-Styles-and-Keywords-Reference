@@ -4,7 +4,7 @@
 ---
 
 
-- <details><summary>Rainbow Sphere Image<p><img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/Input%20Images/inputimg_sphere_rainbow_512x.png?raw=true" width="128" /></p></summary>
+- <details><summary>Rainbow Sphere Image<p><br/><img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/Input%20Images/inputimg_sphere_rainbow_512x.png?raw=true" width="128" /></p></summary>
 
 	| Style | --iw -1 | --iw -0.5 | | --iw 0.25 | --iw 0.5 | --iw 0.75 | --iw 1 | --iw 2 |
 	| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -14,11 +14,11 @@
 	| Spray Paint | <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/sphererainbow_SprayPaint_--iw-1.png?raw=true" width="256" /> | <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/sphererainbow_SprayPaint_--iw-0.5.png?raw=true" width="256" /> | | <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/sphererainbow_SprayPaint_--iw0.25.png?raw=true" width="256" /> | <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/sphererainbow_SprayPaint_--iw0.5.png?raw=true" width="256" /> | <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/sphererainbow_SprayPaint_--iw0.75.png?raw=true" width="256" /> | <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/sphererainbow_SprayPaint_--iw1.png?raw=true" width="256" /> | <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/sphererainbow_SprayPaint_--iw2.png?raw=true" width="256" /> |
 
 </details>
-<br/><br/>
+<br/><br/><br/>
 
 
 
-- <details><summary>Sunset Image<p><img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/Input%20Images/inputimg_sunset_512x.png?raw=true" width="128" /></p></summary>
+- <details><summary>Sunset Image<p><br/><img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/Input%20Images/inputimg_sunset_512x.png?raw=true" width="128" /></p></summary>
 
 	| Style | --iw -1 | --iw -0.5 | | --iw 0.25 | --iw 0.5 | --iw 0.75 | --iw 1 | --iw 2 |
 	| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
