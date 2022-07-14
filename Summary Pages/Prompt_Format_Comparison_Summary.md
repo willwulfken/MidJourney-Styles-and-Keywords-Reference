@@ -1,5 +1,5 @@
 ## ⌨ Prompt Format Comparison Summary
-###### seed 4776 is used for all images
+###### **seed 4776** is used for all images
 
 ---
 
