@@ -1,4 +1,7 @@
 ## ⌨ Prompt Format Comparison Summary
+###### seed 4776 is used for all images
+
+---
 
 - <details><summary><b>🔤 Basic Prompt Formats:</b> <p><i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere</p> </summary>
 

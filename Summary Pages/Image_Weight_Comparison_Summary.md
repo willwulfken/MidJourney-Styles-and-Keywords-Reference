@@ -1,4 +1,7 @@
 ## 🏋️‍ Image Weight Comparison Summary
+###### seed 4776 is used for all images
+
+---
 
 
 - <details><summary>Rainbow Sphere Image<p><img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images/Image%20Weight%20Comparison/Input%20Images/inputimg_sphere_rainbow_512x.png?raw=true" width="128" /></p></summary>
