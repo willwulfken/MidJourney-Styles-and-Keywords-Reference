@@ -68,7 +68,7 @@
 ---
 
 - [⌨ Prompt Format Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison_Summary.md)
-- [🚀 Image Upscale Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison_Summary.md)
+- [🚀 Image Upscale Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Summary.md)
 - [📏 Image Resolution Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison_Summary.md)
 - [🏋️‍ Image Weight Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Weight_Comparison_Summary.md)
 ---
