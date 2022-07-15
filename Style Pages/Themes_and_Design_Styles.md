@@ -556,6 +556,34 @@
 
 	</details>
 
+- <details><summary>🎮 Rendering Engines</summary>
+
+    | Keyword        | Example      |
+    | ------------- |:-------------:|
+    |Cinema4D| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Cinema4D.png?raw=true" width="256" /> |
+    |C4d| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_c4d.png?raw=truehttps://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_c4d.png?raw=true" width="256" /> | 
+    |Octane| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_octane.png?raw=true" width="256" /> | 
+    |Unreal Engine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_unrealengine.png?raw=true" width="256" /> | 
+    |Unity Engine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_unityengine.png?raw=true" width="256" /> | 
+    |Rendered in Houdini| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RenderedInHoudini.png?raw=true" width="256" /> |
+	|Houdini-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Houdini-Render.png?raw=true" width="256" /> |
+    |Cycles Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_cyclesrender.png?raw=true" width="256" /> | 
+    |Blender Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_blenderrender.png?raw=true" width="256" /> | 
+    |Vray| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_vray.png?raw=true" width="256" /> | 
+    |CryEngine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_CryEngine.png?raw=true" width="256" /> | 
+	|OptiX-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_OptiX-Render.png?raw=true" width="256" /> |
+    |Redshift Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RedshiftRender.png?raw=true" width="256" /> |
+	|LuxCoreRender| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LuxCoreRender.png?raw=true" width="256" /> |
+	|MentalRay-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_MentalRay-Render.png?raw=true" width="256" /> |
+	|Raylectron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Raylectron.png?raw=true" width="256" /> |
+	|Infini-D-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Infini-D-Render.png?raw=true" width="256" /> |
+	|Zbrush| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Zbrush.png?raw=true" width="256" /> |
+	|OpenGL| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_OpenGL.png?raw=true" width="256" /> |
+	|DirectX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_DirectX.png?raw=true" width="256" /> |
+
+
+    </details>
+
   </details>
 
 

@@ -89,7 +89,7 @@
 
 - [💠 Geometry](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Geometry.md)
 
-- [🖥 Computer Display and Rendering](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Computer_Display.md)
+- [🖥 Computer Display and Color Models](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Computer_Display.md)
 
 - [🌌 Dimensionality](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Dimensionality.md)
 
