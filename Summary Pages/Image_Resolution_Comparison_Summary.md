@@ -3,7 +3,7 @@
 
 ---
 
-- <details><summary><b>🔳 Aspect Ratio Resolutions (--ar) </summary>
+- <details><summary><b>🔳 Aspect Ratio Resolutions (--ar) </summary><p>
 
 	| Ratio | 1:x | 2:x | 3:x | 4:x | 5:x | 6:x | 7:x | 8:x | 9:x |
 	| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -17,12 +17,12 @@
 	| x:8 | | | | | | | | | |
 	| x:9 | | | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar4-9.png?raw=true" width="256" /><p>512x1152</p> | | | | | |
 
-</details>
+  </p></details>
 
 
 
-- <details><summary><b>📐 Square Resolutions (--w --h) </summary>
-
+- <details><summary><b>📐 Square Resolutions (--w --h) </summary><p>
+  
 	| Resolution | Image |
 	| :----: | :----: |
 	| 64x64 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh64.png?raw=true" width="64" /> |
@@ -37,4 +37,4 @@
 	| 896x896 (--hd) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh896_hd.png?raw=true" width="896" /> |
 	| 1280x1280 (--hd) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh1280_hd.png?raw=true" width="1280" /> |
 
-</details>
+  </p></details>

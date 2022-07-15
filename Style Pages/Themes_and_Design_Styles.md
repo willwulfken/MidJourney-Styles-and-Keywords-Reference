@@ -1,8 +1,8 @@
 ## 🖼 Themes and Design Styles
 
-- <details><summary>🎭 Themes</summary>
+- <details><summary>🎭 Themes</summary><p>
 
-  - <details><summary>🎭⛱ Realism/Abstraction</summary>
+  - <details><summary>🎭⛱ Realism/Abstraction</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -27,10 +27,10 @@
     |Ethereal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ethereal.png?raw=true" width="256" /> | 
     |Impossible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Impossible.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🎭💾 Retro/Modern</summary>
+  - <details><summary>🎭💾 Retro/Modern</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -47,10 +47,10 @@
     |Cassette Futurism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_cassettefuturism.png?raw=true" width="256" /> |
 	|Afrofuturist| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Afrofuturist.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🎭🪐 Sci-fi</summary>
+  - <details><summary>🎭🪐 Sci-fi</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -75,10 +75,10 @@
     |Magical| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Magical.png?raw=true" width="256" /> |
     |Mystical| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Mystical.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🎭🌎 Planets</summary>
+  - <details><summary>🎭🌎 Planets</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -100,10 +100,10 @@
     |Pluto| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Pluto.png?raw=true" width="256" /> |
     |Sun| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sun.png?raw=true" width="256" /> |
     |Asteroid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Asteroid.png?raw=true" width="256" /> |
-	</details>
+	</p></details>
 
 
-  - <details><summary>🎭⛩ Styles</summary>
+  - <details><summary>🎭⛩ Styles</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -123,10 +123,10 @@
     |Machine| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Machine.png?raw=true" width="256" /> |
     |Christmas| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Christmas.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🎭🎪 Punk Styles (Steampunk, Cyberpunk, etc.)</summary>
+  - <details><summary>🎭🎪 Punk Styles (Steampunk, Cyberpunk, etc.)</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -159,10 +159,10 @@
 	|Techno| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Techno.png?raw=true" width="256" /> |
 	|Glo-Fi| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Glo-Fi.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🎭 Other</summary>
+  - <details><summary>🎭 Other</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -171,13 +171,13 @@
     |Shpongle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Shpongle.png?raw=true" width="256" /> |
     |In The Style of Shpongle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_inTheStyleofShpongle.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
-  </details>
+  </p></details>
 
-- <details><summary>🖼 Design Styles</summary>
+- <details><summary>🖼 Design Styles</summary><p>
 
-  - <details><summary>🖼🟧 Simplicity/Complexity</summary>
+  - <details><summary>🖼🟧 Simplicity/Complexity</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -198,10 +198,10 @@
     |Ukiyo-e Flat Design| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Ukiyo-eflatdesign.png?raw=true" width="256" /> | 
 	|Flat Shading| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_FlatShading.png?raw=true" width="256" /> |
 	
-	</details>
+	</p></details>
 	
 	
-  - <details><summary>🖼🎨 Patterns and Color Based Designs</summary>
+  - <details><summary>🖼🎨 Patterns and Color Based Designs</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -238,9 +238,9 @@
     |Voronoi| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Voronoi.png?raw=true" width="256" /> |
     |Risograph| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_risograph.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 	
-  - <details><summary>🖼🖥 Digital Art Styles</summary>
+  - <details><summary>🖼🖥 Digital Art Styles</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -284,10 +284,10 @@
 	|Conway's Game of Life| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ConwaysGameofLife.png?raw=true" width="256" /> |
 	|Macroblock| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Macroblock.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 	
 
-  - <details><summary>🖼📊 Charts and Diagrams</summary>
+  - <details><summary>🖼📊 Charts and Diagrams</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -299,10 +299,10 @@
 	|Feynman Diagram| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_FeynmanDiagram.png?raw=true" width="256" /> |
 	|Stabilimentum| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Stabilimentum.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖼🛹 Decade Styles</summary>
+  - <details><summary>🖼🛹 Decade Styles</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -338,10 +338,10 @@
 	|2010s Decor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_2010sDecor.png?raw=true" width="256" /> |
 	|2020s Decor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_2020sDecor.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖼🎰 Morphism (Skeuomorphism, Glassmorphism, etc.)</summary>
+  - <details><summary>🖼🎰 Morphism (Skeuomorphism, Glassmorphism, etc.)</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -350,10 +350,10 @@
     |Glassmorphism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_glassmorphism.png?raw=true" width="256" /> | 
     |Claymorphism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_claymorphism.png?raw=true" width="256" /> | 
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖼🧊 Cubism</summary>
+  - <details><summary>🖼🧊 Cubism</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -363,10 +363,10 @@
 	|Proto-Cubism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Proto-Cubism.png?raw=true" width="256" /> |
 	|Cubo-Futurism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Cubo-Futurism.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖼🦋 Expressionism</summary>
+  - <details><summary>🖼🦋 Expressionism</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -375,10 +375,10 @@
     |Figurative Expressionism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_figurativeexpressionism.png?raw=true" width="256" /> |
     |Abstract Expressionism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_abstractexpressionism.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖼🔮 Neo</summary>
+  - <details><summary>🖼🔮 Neo</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -391,10 +391,10 @@
 	|Neo-Futurism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Neo-Futurism.png?raw=true" width="256" /> |
 	|NeoSon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_NeoSon.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖼🌀 Psychedelic, Fractal, Noise, Hyperbolic, etc.</summary>
+  - <details><summary>🖼🌀 Psychedelic, Fractal, Noise, Hyperbolic, etc.</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -419,10 +419,10 @@
     |Perlin Noise| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PerlinNoise.png?raw=true" width="256" /> |
     |Simplex Noise| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SimplexNoise.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖼🕹 Video Game Styles</summary>
+  - <details><summary>🖼🕹 Video Game Styles</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -431,10 +431,10 @@
     |Terraria| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Terraria.png?raw=true" width="256" /> |
 	|Polybius| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Polybius.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖼💫 Stylized</summary>
+  - <details><summary>🖼💫 Stylized</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -517,9 +517,9 @@
 	|Gliophorus-Psittacinus| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Gliophorus-Psittacinus.png?raw=true" width="256" /> |
 	|Kerkythea| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Kerkythea.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
-  - <details><summary>🖼 Other</summary>
+  - <details><summary>🖼 Other</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -554,9 +554,9 @@
 	|Artifact| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Artifact.png?raw=true" width="256" /> |
 	|Oddly Satisfying| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_OddlySatisfying.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
-- <details><summary>🎮 Rendering Engines</summary>
+- <details><summary>🎮 Rendering Engines</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -582,9 +582,9 @@
 	|DirectX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_DirectX.png?raw=true" width="256" /> |
 
 
-    </details>
+    </p></details>
 
-  </details>
+  </p></details>
 
 
 ---

@@ -1,6 +1,6 @@
 ## 🌌 Dimensionality
 
-- <details><summary>🌌 2D-5D</summary>
+- <details><summary>🌌 2D-5D</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -15,10 +15,10 @@
     |5-Dimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_5-Dimensional.png?raw=true" width="256" /> | 
     |5D| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_5D.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🌌 Overdimensional, Multiverse, etc.</summary>
+- <details><summary>🌌 Overdimensional, Multiverse, etc.</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -34,7 +34,7 @@
     |Alldimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Alldimensional.png?raw=true" width="256" /> | 
     |Multiverse| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Multiverse.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
         
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

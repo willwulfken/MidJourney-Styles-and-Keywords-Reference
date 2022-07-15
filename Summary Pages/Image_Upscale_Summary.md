@@ -2,7 +2,7 @@
 
 <br/>
 
-<details><summary>❔ How To Upscale an Image</summary>
+<details><summary>❔ How To Upscale an Image</summary><p>
 
 | To upscale an image, click any of the upscale buttons. (shown in blue) <p>The numbers correspond to which image will be upscaled.</p> |	<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/Upscale%20Tutorial/how_to_upscale_1.png?raw=true" width="512" /> |
 | :----: | :----: |
@@ -11,7 +11,7 @@
 
 <a href="https://midjourney.gitbook.io/docs/#4.-upscale-your-image:~:text=4.-,Upscale%20Your%20Image,-Two%20rows%20of">Link To The Official Midjourney Documentation</a>
 
-</details>
+</p></details>
 
 <br/><br/>
 | Upscale Type | Original Image | Normal Upscale | Max Upscale |

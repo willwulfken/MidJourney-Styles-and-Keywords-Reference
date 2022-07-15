@@ -1,6 +1,6 @@
 ## 💡 Lighting
 
-- <details><summary>💡🏮 Types of Lights</summary>
+- <details><summary>💡🏮 Types of Lights</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -53,10 +53,10 @@
     |UV| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_UV.png?raw=true" width="256" /> | 
 	|X-Ray| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_X-Ray.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>💡📺 Types of Displays</summary>
+- <details><summary>💡📺 Types of Displays</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -74,10 +74,10 @@
 	|Quantum Dot| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_QuantumDot.png?raw=true" width="256" /> |
 	|Quantum Dot Display| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_QuantumDotDisplay.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>💡🔦 Lighting Styles and Techniques</summary>
+- <details><summary>💡🔦 Lighting Styles and Techniques</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -93,10 +93,10 @@
     |Beautiful Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_beautifullighting.png?raw=true" width="256" /> |
 	|Accent Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_AccentLighting.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>💡🌐 Global Illumination</summary>
+- <details><summary>💡🌐 Global Illumination</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -105,7 +105,7 @@
     |Screen Space Global Illumination| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ScreenSpaceGlobalIllumination.png?raw=true" width="256" /> | 
     |Ray Tracing Global Illumination| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RayTracingGlobalIllumination.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
 ---

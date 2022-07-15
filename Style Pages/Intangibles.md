@@ -1,6 +1,6 @@
 ## ➰ Intangibles
 
-- <details><summary>➰😁 Emotions and Qualities</summary>
+- <details><summary>➰😁 Emotions and Qualities</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -12,10 +12,10 @@
     |Good| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Good.png?raw=true" width="256" /> |
     |Evil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Evil.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>➰🧠 Concepts</summary>
+- <details><summary>➰🧠 Concepts</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -40,19 +40,19 @@
 	|Nano| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Nano.png?raw=true" width="256" /> |
 	|Flexible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Flexible.png?raw=true" width="256" /> |
 	
-    </details>
+    </p></details>
 
 
-- <details><summary>➰☯ Symbols</summary>
+- <details><summary>➰☯ Symbols</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
 	|Yin Yang| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_YinYang.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>➰🔢 Number Systems</summary>
+- <details><summary>➰🔢 Number Systems</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -68,7 +68,7 @@
 	|Decimal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Decimal.png?raw=true" width="256" /> |
 	|Hexadecimal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Hexadecimal.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
 

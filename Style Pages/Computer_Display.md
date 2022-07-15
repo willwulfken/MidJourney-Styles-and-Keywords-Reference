@@ -1,6 +1,6 @@
 ## 🖥 Computer Display and Color Models
 
-- <details><summary>🖥📐 Resolution</summary>
+- <details><summary>🖥📐 Resolution</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -9,11 +9,11 @@
     |16k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_16k.png?raw=true" width="256" /> |
 	|Megapixel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Megapixel.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
 
-- <details><summary>🖥🎨 Color Models and Graphics Adapter Palettes</summary>
+- <details><summary>🖥🎨 Color Models and Graphics Adapter Palettes</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -39,10 +39,10 @@
 	|Pantone| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Pantone.png?raw=true" width="256" /> |
 	|ProPhoto RGB| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ProPhotoRGB.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🖥🟩 1-bit - 16-bit</summary>
+- <details><summary>🖥🟩 1-bit - 16-bit</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -59,17 +59,17 @@
     |12-bit RGB| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_12-bitRGB.png?raw=true" width="256" /> | 
     |16-bit RGB| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_16-bitRGB.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🖥 Other</summary>
+- <details><summary>🖥 Other</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
     |AR| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_AR.png?raw=true" width="256" /> | 
     |VR| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_VR.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
     
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

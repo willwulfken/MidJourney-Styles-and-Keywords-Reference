@@ -1,6 +1,6 @@
 ## 🌈 SFX, Post-Processing, and Shaders
 
-- <details><summary>🌈🔍 Reflections</summary>
+- <details><summary>🌈🔍 Reflections</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -9,10 +9,10 @@
     |Screen Space Reflections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ScreenSpaceReflections.png?raw=true" width="256" /> | 
     |Diffraction Grading| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_DiffractionGrading.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🌈💫 Stylized</summary>
+- <details><summary>🌈💫 Stylized</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -53,10 +53,10 @@
 	|Cropped| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Cropped.png?raw=true" width="256" /> |
 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🌈🕶 Shaders and Post Processing</summary>
+- <details><summary>🌈🕶 Shaders and Post Processing</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -73,7 +73,7 @@
     |CGI| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_CGI.png?raw=true" width="256" /> |
     |VFX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_VFX.png?raw=true" width="256" /> |
     |SFX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SFX.png?raw=true" width="256" /> |
-    </details>
+    </p></details>
 
 
 ---

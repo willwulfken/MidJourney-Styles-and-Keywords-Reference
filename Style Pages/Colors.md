@@ -1,6 +1,6 @@
 ## 🎨 Colors
 
-- <details><summary>🎨🔴 Basic Colors</summary>
+- <details><summary>🎨🔴 Basic Colors</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -26,10 +26,10 @@
 	|Magenta| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Magenta.png?raw=true" width="256" /> |
 	|Pink| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Pink.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🎨🔵 Extended Colors</summary>
+- <details><summary>🎨🔵 Extended Colors</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -42,10 +42,10 @@
 	|Aqua| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Extended_Colors/sphere_Aqua.png?raw=true" width="256" /> |
 	|Azure| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Extended_Colors/sphere_Azure.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🎨⚫ Dark Variations</summary>
+- <details><summary>🎨⚫ Dark Variations</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -63,10 +63,10 @@
 	|Dark-Magenta| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Magenta.png?raw=true" width="256" /> |
 	|Dark-Pink| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Pink.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🎨⚪ Light Variations</summary>
+- <details><summary>🎨⚪ Light Variations</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -84,10 +84,10 @@
 	|Light-Magenta| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Magenta.png?raw=true" width="256" /> |
 	|Light-Pink| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Pink.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🎨🔶 Vivid Variations</summary>
+- <details><summary>🎨🔶 Vivid Variations</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -104,7 +104,7 @@
 	|Vivid-Magenta| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Magenta.png?raw=true" width="256" /> |
 	|Vivid-Pink| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Pink.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

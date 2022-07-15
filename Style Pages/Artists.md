@@ -1,7 +1,8 @@
 ## 📔 Artists
 
 
-- <details><summary>📔⛱ Realism</summary>
+- <details><summary>📔⛱ Realism</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -11,10 +12,12 @@
 	|Painting by Edward Hopper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyEdwardHopper.png?raw=true" width="256" /> |
 	|Painting by Vilhelm Hammershoi| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyVilhelmHammershoi.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔❇ Surrealism</summary>
+- <details><summary>📔❇ Surrealism</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -23,129 +26,157 @@
 	|Painting by Max Ernst| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyMaxErnst.png?raw=true" width="256" /> |
 	|Painting by Rene Magritte| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyReneMagritte.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
   
-- <details><summary>📔🔆 Idealism</summary>
+- <details><summary>📔🔆 Idealism</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|<small><br/></small>Painting by Jean Delville<p><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p>| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByJeanDelville.png?raw=true" width="256" /> |
 	
-  </details>
+    </p>
+  </p></details>
 
-- <details><summary>📔💮 Abstract</summary>
+- <details><summary>📔💮 Abstract</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by Wassily Kandinsky| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByWassilyKandinsky.png?raw=true" width="256" /> |
 	|Painting by Marcia Santore| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingbyMarciaSantore.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔➿ Post-Impressionism</summary>
+- <details><summary>📔➿ Post-Impressionism</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by Van Gogh| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyVanGogh.png?raw=true" width="256" /> | 
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔⚜ Art Nouveau</summary>
+- <details><summary>📔⚜ Art Nouveau</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by Wes Anderson| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyWesAnderson.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔🌄 Luminism</summary>
+- <details><summary>📔🌄 Luminism</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by Albert Bierstadt| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyAlbertBierstadt.png?raw=true" width="256" /> |
 	|Painting by Thomas Kinkade| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyThomasKinkade.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔🔳 Futurism</summary>
+- <details><summary>📔🔳 Futurism</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by David Alabo| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByDavidAlabo.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔⬛ Gothic</summary>
+- <details><summary>📔⬛ Gothic</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by Gerald Brom| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyGeraldBrom.png?raw=true" width="256" /> |
 	|Painting by Grant Wood| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyGrantWood.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔☯ Psychedelic</summary>
+- <details><summary>📔☯ Psychedelic</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by Alex Grey| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyAlexGrey.png?raw=true" width="256" /> |
 	|Painting by Dan Mumford| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyDanmumford.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔🔴 Pop Art</summary>
+- <details><summary>📔🔴 Pop Art</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by David Hockney| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyDavidHockney.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔🧿 Concept Art</summary>
+- <details><summary>📔🧿 Concept Art</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by Marc Simonetti| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyMarcSimonetti.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔❤ Romanticism</summary>
+- <details><summary>📔❤ Romanticism</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by John Constable| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyJohnConstable.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔✡️ Renaissance</summary>
+- <details><summary>📔✡️ Renaissance</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by Hieronymus Bosch| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyHieronymusBosch.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔🌇 Vedute Painting Style</summary>
+- <details><summary>📔🌇 Vedute Painting Style</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
 	|Painting by Canaletto| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyCanaletto.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔👁‍🗨 Dadaism</summary>
+- <details><summary>📔👁‍🗨 Dadaism</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -168,10 +199,12 @@
 	|Painting by Jean Crotti| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingbyJeanCrotti.png?raw=true" width="256" /> |
 	|Art by Sophie Taeuber-Arp| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ArtbySophieTaeuber-Arp.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 
-- <details><summary>📔👁‍🗨 Neo-Dadaism</summary>
+- <details><summary>📔👁‍🗨 Neo-Dadaism</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -185,9 +218,11 @@
 	|Art by Jean Tinguely| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ArtbyJeanTinguely.png?raw=true" width="256" /> |
 	|Art by Masunobu Yoshimura| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ArtbyMasunobuYoshimura.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
-- <details><summary>📔🖼 Instagram Artist</summary>
+- <details><summary>📔🖼 Instagram Artist</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -197,17 +232,21 @@
 	|Art by artofethan| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Artbyartofethan.png?raw=true" width="256" /> |
 	|<small><br/></small>Painting by Peter Mohrbacher<p><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p>| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByPeterMohrbacher.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
-- <details><summary>📔🈯 Manga</summary>
+- <details><summary>📔🈯 Manga</summary><p>
+    <p>
 	
 	| Keyword	| Example	|
 	| ------------ |:--------------:|
 	|<small><br/></small>Painting by Junji Ito<p><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p>| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_ArtByJunjiIto.png?raw=true" width="256" /> |
 	
-  </details>
+    </p>
+  </p></details>
 
-- <details><summary>📔 Other</summary>
+- <details><summary>📔 Other</summary><p>
+    <p>
 
 	| Keyword        | Example      |
 	| ------------- |:-------------:|
@@ -216,7 +255,8 @@
 	|Painting by Hugh Ferriss| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyHughFerriss.png?raw=true" width="256" /> |
 	|Painting by Boris Smirnoff| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingbyBorisSmirnoff.png?raw=true" width="256" /> |
 
-  </details>
+    </p>
+  </p></details>
 
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

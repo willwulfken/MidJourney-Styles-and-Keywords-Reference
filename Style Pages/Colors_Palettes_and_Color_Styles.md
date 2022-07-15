@@ -1,6 +1,6 @@
 ## 🎨 Palettes and Color Styles
 
-- <details><summary>🎨🖌 Chromatic Palettes</summary>
+- <details><summary>🎨🖌 Chromatic Palettes</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -25,10 +25,10 @@
     |Light Blue Foreground| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LightBlueForeground.png?raw=true" width="256" /> |
     |Light Blue| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LightBlue.png?raw=true" width="256" /> |
 
-  </details>
+  </p></details>
 
 
-- <details><summary>🎨🖌 Monochromatic Palettes</summary>
+- <details><summary>🎨🖌 Monochromatic Palettes</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -37,20 +37,20 @@
 	|Desaturated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Desaturated.png?raw=true" width="256" /> |
     |Sepia| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_sepia.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🎨🔲 Contrast</summary>
+- <details><summary>🎨🔲 Contrast</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
     |High Contrast| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_highcontrast.png?raw=true" width="256" /> | 
     |Low Contrast| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_lowcontrast.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🎨🎥 Color Motion Picture Film Systems</summary>
+- <details><summary>🎨🎥 Color Motion Picture Film Systems</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -60,7 +60,7 @@
     |Cinecolor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Cinecolor.png?raw=true" width="256" /> | 
     |Agfacolor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Agfacolor.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
 ---

@@ -1,6 +1,6 @@
 ## 📷 Camera, Film Types, Lenses, Perspective, etc.
 
-- <details><summary>📷🌇 Camera and Scenes</summary>
+- <details><summary>📷🌇 Camera and Scenes</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -22,10 +22,10 @@
     |War Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_warphotography.png?raw=true" width="256" /> |
     |Photojournalism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_photojournalism.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📷🌇 Camera and Film Types</summary>
+- <details><summary>📷🌇 Camera and Film Types</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -42,10 +42,10 @@
     |Calotype| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_calotype.png?raw=true" width="256" /> |
     |Tintype| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_tintype.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📷🏞 Lenses and Perspective</summary>
+- <details><summary>📷🏞 Lenses and Perspective</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -78,10 +78,10 @@
     |Zoom| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_zoom.png?raw=true" width="256" /> |
     |Dolly Zoom| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_dollyzoom.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📷➰ Blur and Distortion</summary>
+- <details><summary>📷➰ Blur and Distortion</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -90,10 +90,10 @@
     |Tilt Blur| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_tiltblur.png?raw=true" width="256" /> | 
     |Lens Distortion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LensDistortion.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📷⚙ Camera Settings (Aperture, Exposure, Color and White Balance, etc.)</summary>
+- <details><summary>📷⚙ Camera Settings (Aperture, Exposure, Color and White Balance, etc.)</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -108,10 +108,10 @@
     |Gamma| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Gamma.png?raw=true" width="256" /> | 
     |White Balance| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_WhiteBalance.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📷 Other</summary>
+- <details><summary>📷 Other</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -119,7 +119,7 @@
     |Vignette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_vignette.png?raw=true" width="256" /> | 
     |Split Toning| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SplitToning.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
         
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

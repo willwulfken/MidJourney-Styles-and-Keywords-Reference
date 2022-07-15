@@ -1,6 +1,6 @@
 ## 💠 Geometry
 
-- <details><summary>💠⬜ 2D Shapes</summary>
+- <details><summary>💠⬜ 2D Shapes</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -26,10 +26,10 @@
 	|Heart| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Heart.png?raw=true" width="256" /> |
 	|Spirangle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Spirangle.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>💠🧊 3D Shapes</summary>
+- <details><summary>💠🧊 3D Shapes</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -75,10 +75,10 @@
 	|Hexaflexagon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Hexaflexagon.png?raw=true" width="256" /> |
 	|Miura fold| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Miurafold.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>💠🔲 4D Hyper Shapes</summary>
+- <details><summary>💠🔲 4D Hyper Shapes</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -97,20 +97,20 @@
 	|Flexible Polyhedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_FlexiblePolyhedron.png?raw=true" width="256" /> |
 	|Klein bottle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Kleinbottle.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>💠〰 Degenerate Shapes</summary>
+- <details><summary>💠〰 Degenerate Shapes</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
 	|Monogon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Monogon.png?raw=true" width="256" /> |
 	|Digon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Digon.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>💠⏹ Geometric Styles</summary>
+- <details><summary>💠⏹ Geometric Styles</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -124,10 +124,10 @@
 	|Archimedean Solids| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_ArchimedeanSolids.png?raw=true" width="256" /> |
 	|Catalan solids| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_CatalanSolids.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>💠⏺ Geometric Properties</summary>
+- <details><summary>💠⏺ Geometric Properties</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -155,7 +155,7 @@
 	|Ideal polyhedron| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_IdealPolyhedron.png?raw=true" width="256" /> |
 	|Polytope| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Polytope.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

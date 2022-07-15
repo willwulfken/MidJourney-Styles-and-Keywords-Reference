@@ -3,7 +3,8 @@
 
 ---
 
-- <details><summary><b>🔤 Basic Prompt Formats:</b> <p><i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere</p> </summary>
+- <details><summary><b>🔤 Basic Prompt Formats:</b> <i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere </summary><p>
+	
 
 	| Style Used | *\<style>* | sphere *\<style>*  | sphere, *\<style>* | *\<style>* sphere |
 	| :----: | :----: | :----: | :----: | :----: |
@@ -33,12 +34,14 @@
 	| Cinematic | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cinematic_sphere.png?raw=true" width="256" /> |
 	| Happy | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Happy_sphere.png?raw=true" width="256" /> |
 
-  </details>
+	
+  </p></details>
 <br/><br/>
 
 
 
-- <details><summary><b>🔣 Other Punctuation Prompt Formats:</b> <p><i><style></i> | sphere; <i><style></i> | sphere:<i><style></i> | <i><style></i> - sphere | sphere (<i><style></i>)</p> </summary>
+- <details><summary><b>🔣 Other Punctuation Prompt Formats:</b> <i><style></i> | sphere; <i><style></i> | sphere:<i><style></i> | <i><style></i> - sphere | sphere (<i><style></i>) </summary><p>
+	
 
 	| Style Used | *\<style>* | sphere; *\<style>*  | sphere:*\<style>* | sphere - *\<style>* | sphere (*\<style>*)|
 	| :----: | :----: | :----: | :----: | :----: | :----: |
@@ -68,12 +71,14 @@
 	| Cinematic | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-semicolon-Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-colon-Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_-_Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere(Cinematic).png?raw=true" width="256" /> |
 	| Happy | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-semicolon-Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-colon-Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_-_Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere(Happy).png?raw=true" width="256" /> |
 
-  </details>
+	
+  </p></details>
 <br/><br/>
 
 
 
-- <details><summary><b>🧊 "Made of" & "Style of" Prompt Formats:</b> <p><i><style></i> | sphere in the style of <i><style></i> | sphere made of <i><style></i> | <i><style></i> of a sphere</p> </summary>
+- <details><summary><b>🧊 "Made of" & "Style of" Prompt Formats:</b> <i><style></i> | sphere in the style of <i><style></i> | sphere made of <i><style></i> | <i><style></i> of a sphere </summary><p>
+	
 
 	| Style Used | *\<style>* | sphere in the style of *\<style>*  | sphere made of *\<style>* | *\<style>* of a sphere |
 	| :----: | :----: | :----: | :----: | :----: |
@@ -103,13 +108,15 @@
 	| Cinematic | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofCinematic.png?raw=true" width="256" /> | - | - |
 	| Happy | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofHappy.png?raw=true" width="256" /> | - | - |
 
-  </details>
+	
+  </p></details>
 <br/><br/>
 
 
 
 
-- <details><summary><b>📊 Charts 1 & 3 Combined:</b> <p>🔤 Basic Prompt Formats & 🧊 "Made of" & "Style of" Prompt Formats Charts Combined</p></summary>
+- <details><summary><b>📊 Charts 1 & 3 Combined:</b> 🔤 Basic Prompt Formats & 🧊 "Made of" & "Style of" Prompt Formats Charts Combined</summary><p>
+	
 
 	| Style Used | *\<style>* | sphere, *\<style>* | sphere *\<style>* | sphere in the style of *\<style>* | sphere made of *\<style>* | *\<style>* of a sphere | *\<style>* sphere|
 	| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -139,19 +146,22 @@
 	| Cinematic | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_Cinematic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofCinematic.png?raw=true" width="256" /> | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cinematic_sphere.png?raw=true" width="256" /> |
 	| Happy | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_Happy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofHappy.png?raw=true" width="256" /> | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Happy_sphere.png?raw=true" width="256" /> |
 
-  </details>
+	
+  </p></details>
 <br/><br/>
 
 
 
 
-- <details><summary><b>🎨 Artist Prompts:</b> <p><i><style></i> | Art Made By <i><style></i> | sphere, Art Made By <i><style></i> | sphere Art Made By <i><style></i> | Painting By <i><style></i> | sphere, Painting By <i><style></i> | sphere in the style of <i><style></i></p></summary>
+- <details><summary><b>🎨 Artist Prompts:</b> <i><style></i> | Art Made By <i><style></i> | sphere, Art Made By <i><style></i> | sphere Art Made By <i><style></i> | Painting By <i><style></i> | sphere, Painting By <i><style></i> | sphere in the style of <i><style></i></summary><p>
+	
 
 	| Style Used | Art Made By *\<artist>* | sphere, Art Made By *\<artist>* | sphere Art Made By *\<artist>* | Painting By *\<artist>* | sphere, Painting By *\<artist>* | sphere in the style of *\<artist>* |
 	| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 	| Alex Grey | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/ArtMadeByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-ArtMadeByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_ArtMadeByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/PaintingByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-PaintingByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofAlexGrey.png?raw=true" width="256" /> |
 	| Bob Ross | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/ArtMadeByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-ArtMadeByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_ArtMadeByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/PaintingByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-PaintingByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofBobRoss.png?raw=true" width="256" /> |
 
+	
   </deatils>
 
 ---

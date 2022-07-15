@@ -1,8 +1,8 @@
 ## 🖌 Drawing and Art Mediums
 
-- <details><summary>🖌✏ Illustration and Drawing</summary>
+- <details><summary>🖌✏ Illustration and Drawing</summary><p>
 
-  - <details><summary>🖌🖼 Drawing Types</summary>
+  - <details><summary>🖌🖼 Drawing Types</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -20,10 +20,10 @@
 	|Anatomical Drawing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_AnatomicalDrawing.png?raw=true" width="256" /> |
     |Cartographic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Cartographic.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖌✏ Pencil and Graphite</summary>
+  - <details><summary>🖌✏ Pencil and Graphite</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -32,10 +32,10 @@
     |Colored Pencil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_coloredpencil.png?raw=true" width="256" /> |
     |Charcoal Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_charcoalart.png?raw=true" width="256" /> | 
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖌🖊 Ink</summary>
+  - <details><summary>🖌🖊 Ink</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -50,10 +50,10 @@
     |Wet-Erase Marker| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Wet-EraseMarker.png?raw=true" width="256" /> |
     |Whiteboard| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Whiteboard.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖌🖍 Crayon, Chalk, and Pastel</summary>
+  - <details><summary>🖌🖍 Crayon, Chalk, and Pastel</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -64,14 +64,14 @@
     |Blackboard| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Blackboard.png?raw=true" width="256" /> |
     |Chalkboard| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Chalkboard.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
-  </details>
+  </p></details>
 
 
-- <details><summary>🖌🎨 Paint</summary>
+- <details><summary>🖌🎨 Paint</summary><p>
 
-  - <details><summary>🖌🖼 Painting Types</summary>
+  - <details><summary>🖌🖼 Painting Types</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -89,10 +89,10 @@
 	|Rock Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RockArt.png?raw=true" width="256" /> |
 	|Cave Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_CaveArt.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖌🎨 Paint Types</summary>
+  - <details><summary>🖌🎨 Paint Types</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -110,12 +110,12 @@
     |Puffy Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_puffypaint.png?raw=true" width="256" /> | 
     |Glass Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_glasspaint.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
-  </details>
+  </p></details>
 
 
-- <details><summary>🖌🔠 Text</summary>
+- <details><summary>🖌🔠 Text</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -127,10 +127,10 @@
     |Says "Hello"| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SaysHello (2).png?raw=true" width="256" /> |
     |Says 'Hello'| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SaysHello (3).png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🖌🖨 Art Types Printed</summary>
+- <details><summary>🖌🖨 Art Types Printed</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -154,12 +154,12 @@
     |Poster| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Poster.png?raw=true" width="256" /> |
     |Sticker| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sticker.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>🖌🎲 Physical Mediums</summary>
+- <details><summary>🖌🎲 Physical Mediums</summary><p>
 
-  - <details><summary>🖌📄 Origami</summary>
+  - <details><summary>🖌📄 Origami</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -171,10 +171,10 @@
 	|Moneygami| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Moneygami.png?raw=true" width="256" /> |
 	|Wet-Folding| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Wet-Folding.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖌🀣 Mosaic</summary>
+  - <details><summary>🖌🀣 Mosaic</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -184,9 +184,9 @@
 	|Photographic Mosaic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PhotographicMosaic.png?raw=true" width="256" /> |
 	|Impressionist Mosaic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ImpressionistMosaic.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
-  - <details><summary>🖌🖼 Framed, Banner, and Decal</summary>
+  - <details><summary>🖌🖼 Framed, Banner, and Decal</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -198,9 +198,9 @@
 	|Banner| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Banner.png?raw=true" width="256" /> |
 	|Signage| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Signage.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
-  - <details><summary>🖌🗿 Carving, Etching, and Modeling</summary>
+  - <details><summary>🖌🗿 Carving, Etching, and Modeling</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -227,10 +227,10 @@
     |Circuit| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_circuit.png?raw=true" width="256" /> |
     |Circuitry| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_circuitry.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
 
-  - <details><summary>🖌🏺 Pottery and Glass</summary>
+  - <details><summary>🖌🏺 Pottery and Glass</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -240,9 +240,9 @@
 	|Neolithic Pottery| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_NeolithicPottery.png?raw=true" width="256" /> |
 	|Bone China| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_BoneChina.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
-  - <details><summary>🖌💡 Light</summary>
+  - <details><summary>🖌💡 Light</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -250,9 +250,9 @@
 	|Light Painting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LightPainting (2).png?raw=true" width="256" /> |
 	|Lightpainting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Lightpainting.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 
-  - <details><summary>🖌🎲 Other</summary>
+  - <details><summary>🖌🎲 Other</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -271,12 +271,12 @@
 	|Hat| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Hat.png?raw=true" width="256" /> |
 	|Hatmaking| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Hatmaking.png?raw=true" width="256" /> |
 
-	</details>
+	</p></details>
 	
-  </details>
+  </p></details>
 
 
-- <details><summary>🖌 Other</summary>
+- <details><summary>🖌 Other</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -289,7 +289,7 @@
     |Glitter| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_glitter.png?raw=true" width="256" /> |
     |Sparkly| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sparkly.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
         
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

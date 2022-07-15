@@ -1,6 +1,6 @@
 ## 📦 Material Properties
 
-- <details><summary>📦🧫 Opacity</summary>
+- <details><summary>📦🧫 Opacity</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -8,10 +8,10 @@
     |Translucent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_translucent.png?raw=true" width="256" /> | 
     |Opaque| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_opaque.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📦🏮 Light Manipulation</summary>
+- <details><summary>📦🏮 Light Manipulation</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -20,10 +20,10 @@
     |Ambient Occlusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_AmbientOcclusion.png?raw=true" width="256" /> | 
     |Scattering| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_scattering.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📦💡 Luminescence</summary>
+- <details><summary>📦💡 Luminescence</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -50,10 +50,10 @@
 	|Translucidluminescence| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Translucidluminescence.png?raw=true" width="256" /> |
     |Shadows| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Shadows.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📦🔍 Reflection and Refraction</summary>
+- <details><summary>📦🔍 Reflection and Refraction</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -66,10 +66,10 @@
     |Caustics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Caustics.png?raw=true" width="256" /> |
     |Refractive| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_refractive.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📦🎨 Color (Dispersion, Chromatic, etc.)</summary>
+- <details><summary>📦🎨 Color (Dispersion, Chromatic, etc.)</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -78,10 +78,10 @@
     |Chromatic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_chromatic.png?raw=true" width="256" /> | 
     |Prismatic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_prismatic.png?raw=true" width="256" /> | 
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📦🗺 Maps</summary>
+- <details><summary>📦🗺 Maps</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -91,20 +91,20 @@
     |Normal Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_normalmap.png?raw=true" width="256" /> | 
     |Depth Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_depthmap.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📦🧊 Soft Body</summary>
+- <details><summary>📦🧊 Soft Body</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
     |Soft Body| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SoftBody.png?raw=true" width="256" /> |
     |Squishy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Squishy.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
 
 
-- <details><summary>📦 Other</summary>
+- <details><summary>📦 Other</summary><p>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -114,7 +114,7 @@
     |Corrugated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Corrugated.png?raw=true" width="256" /> |
     |Perforated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Perforated.png?raw=true" width="256" /> |
 
-    </details>
+    </p></details>
         
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

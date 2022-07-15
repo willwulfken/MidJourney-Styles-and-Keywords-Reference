@@ -2,7 +2,8 @@
 <!--# Midjourney Styles and Keywords Reference)-->
 >###### DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.
 
-<details><summary>🔗 Links to official documentation</summary>
+<details><summary>🔗 Links to official documentation</summary><p>
+
 
 [Midjourney Documentation](https://midjourney.gitbook.io/docs/)
 
@@ -10,9 +11,11 @@
 
 [Midjourney Styles](https://www.midjourney.com/app/library/styles/)
 
-</details>
 
-<details><summary>🔗 Links to other style references</summary>
+</p></details>
+
+<details><summary>🔗 Links to other style references</summary><p>
+
 
 [Understanding MidJourney Through Teapots by Bob](https://rexwang8.github.io/resource/ai/teapot)
 
@@ -20,23 +23,28 @@
 
 [Artwork Styles](https://www.wikiart.org/en/paintings-by-style)
 
-</details>
+
+</p></details>
 
 ---
 
-- <details><summary>⚪ Control Image and Seed</summary>
+- <details><summary>⚪ Control Image and Seed</summary><p>
+  
 
   | Keyword        | Example      |
   | ------------- |:-------------:|
   | sphere --seed 4776| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /> |
   | **`sphere, <style> --seed 4776` is used for all of these images** |  |
+
   
-  </details>
+  </p></details>
+ 
+
+- <details><summary>🔤 Prompt Parameters</summary><p>
   
 
-- <details><summary>🔤 Prompt Parameters</summary>
+  - <details><summary>🔤🎨 Style</summary><p>
 	
-  - <details><summary>🔤🎨 Style</summary>
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -44,10 +52,12 @@
     | sphere --seed 4776 --vibe | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--vibe.png?raw=true" width="256" /> |
     | sphere --seed 4776 --fast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--fast.png?raw=true" width="256" /> |
     | sphere --seed 4776 --vibefast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--vibefast.png?raw=true" width="256" /> |
-  
-    </deatils>
+
+	
+    </p></details>
     
-  - <details><summary>🔤📐 Resolution</summary>
+  - <details><summary>🔤📐 Resolution</summary><p>
+	
 
     | Keyword        | Example      |
     | ------------- |:-------------:|
@@ -60,10 +70,12 @@
     | sphere --seed 4776 --lp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--lp.png?raw=true" width="256" /> |
 	|sphere --seed 4776 --ar 16:9| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--ar16-9.png?raw=true" width="256" /> |
 	|sphere --seed 4776 --ar 9:16| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--ar9-16.png?raw=true" width="256" /> |
+	
+	
+    </p></details>
 
-    </details>
-  
-</details>
+
+</p></details>
 
 ---
 
