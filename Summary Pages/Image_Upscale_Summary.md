@@ -4,10 +4,10 @@
 
 <details><summary>❔ How To Upscale an Image</summary><p>
 
-| To upscale an image, click any of the upscale buttons. (shown in blue) <p>The numbers correspond to which image will be upscaled.</p> |	<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/Upscale%20Tutorial/how_to_upscale_1.png?raw=true" width="512" /> |
+| To upscale an image, click any of the upscale buttons. (shown in blue) <p>The numbers correspond to which image will be upscaled.</p> |	<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Tutorial%20Images/Upscale%20Tutorial/how_to_upscale_1.png?raw=true" width="512" /> |
 | :----: | :----: |
-| After upscaling an image, you then have the options to upscale to max resolution, or to do a light upscale. | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/Upscale%20Tutorial/how_to_upscale_2.png?raw=true" width="512" /> |
-| After doing a light upscale, you are also able to upscale it to max resolution. | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/Upscale%20Tutorial/how_to_upscale_3.png?raw=true" width="512" /> |
+| After upscaling an image, you then have the options to upscale to max resolution, or to do a light upscale. | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Tutorial%20Images/Upscale%20Tutorial/how_to_upscale_2.png?raw=true" width="512" /> |
+| After doing a light upscale, you are also able to upscale it to max resolution. | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Tutorial%20Images/Upscale%20Tutorial/how_to_upscale_3.png?raw=true" width="512" /> |
 
 <a href="https://midjourney.gitbook.io/docs/#4.-upscale-your-image:~:text=4.-,Upscale%20Your%20Image,-Two%20rows%20of">Link To The Official Midjourney Documentation</a>
 
