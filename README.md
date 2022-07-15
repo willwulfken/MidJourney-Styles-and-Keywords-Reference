@@ -2,8 +2,9 @@
 <!--# Midjourney Styles and Keywords Reference)-->
 >###### DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.
 
-<details><summary>🔗 Links to official documentation</summary><p>
+---
 
+<h6><details><summary>🔗 Links to official documentation</summary><p>
 
 [Midjourney Documentation](https://midjourney.gitbook.io/docs/)
 
@@ -12,9 +13,9 @@
 [Midjourney Styles](https://www.midjourney.com/app/library/styles/)
 
 
-</p></details>
+</p></details></h6>
 
-<details><summary>🔗 Links to other style references</summary><p>
+<h6><details><summary>🔗 Links to other style references</summary><p>
 
 
 [Understanding MidJourney Through Teapots by Bob](https://rexwang8.github.io/resource/ai/teapot)
@@ -24,11 +25,11 @@
 [Artwork Styles](https://www.wikiart.org/en/paintings-by-style)
 
 
-</p></details>
+</p></details></h6>
 
 ---
 
-- <details><summary>⚪ Control Image and Seed</summary><p>
+- <h5><details><summary>⚪ Control Image and Seed</summary><p>
   
 
   | Keyword        | Example      |
@@ -37,10 +38,10 @@
   | **`sphere, <style> --seed 4776` is used for all of these images** |  |
 
   
-  </p></details>
+  </p></details></h5>
  
 
-- <details><summary>🔤 Prompt Parameters</summary><p>
+- <h5><details><summary>🔤 Prompt Parameters</summary><p>
   
 
   - <details><summary>🔤🎨 Style</summary><p>
@@ -74,23 +75,25 @@
 	|sphere --seed 4776 --ar 9:16| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--ar9-16.png?raw=true" width="256" /> |
 	
 	
-    </p></details>
+    </p></details></h5>
 
 
 </p></details>
 
 
-
-- [❔ How-To Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md)
-
+- <h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md">❔ How-To Guide</a></h5>
 
 ---
+
+### Summary Pages:
 
 - [⌨ Prompt Format Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison_Summary.md)
 - [🚀 Image Upscale Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Summary.md)
 - [📏 Image Resolution Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison_Summary.md)
 - [🏋️‍ Image Weight Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Weight_Comparison_Summary.md)
 ---
+
+### Styles:
 
 - [🖼 Themes and Design Styles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Themes_and_Design_Styles.md)
 
