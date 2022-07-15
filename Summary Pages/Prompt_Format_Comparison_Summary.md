@@ -3,11 +3,13 @@
 
 ---
 
-<br/><br/>
+<br/>
 
 [❔ How To Create an Image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md#-creating-an-image)
 
-<br/><br/>
+<br/>
+
+---
 
 - <details><summary><b>🔤 Basic Prompt Formats:</b> <i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere </summary><p>
 	
