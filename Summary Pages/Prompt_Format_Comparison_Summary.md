@@ -3,7 +3,7 @@
 
 ---
 
-<small>[❔ How To Create an Image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md#-creating-an-image)</small>
+###### [❔ How To Create an Image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md#-creating-an-image)
 
 ---
 
