@@ -2,18 +2,6 @@
 
 <br/>
 
-<details><summary>❔ How To Upscale an Image</summary><p>
-
-| To upscale an image, click any of the upscale buttons. (shown in blue) <p>The numbers correspond to which image will be upscaled.</p> |	<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Tutorial%20Images/Upscale%20Tutorial/how_to_upscale_1.png?raw=true" width="512" /> |
-| :----: | :----: |
-| After upscaling an image, you then have the options to upscale to max resolution, or to do a light upscale. | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Tutorial%20Images/Upscale%20Tutorial/how_to_upscale_2.png?raw=true" width="512" /> |
-| After doing a light upscale, you are also able to upscale it to max resolution. | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Tutorial%20Images/Upscale%20Tutorial/how_to_upscale_3.png?raw=true" width="512" /> |
-
-<a href="https://midjourney.gitbook.io/docs/#4.-upscale-your-image:~:text=4.-,Upscale%20Your%20Image,-Two%20rows%20of">Link To The Official Midjourney Documentation</a>
-
-</p></details>
-
-<br/><br/>
 | Upscale Type | Original Image | Normal Upscale | Max Upscale |
 | :----: | :----: | :----: | :----: |
 | Upscale (Regular) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_1.png?raw=true" width="256" /><p>256x256</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_1_upscale.png?raw=true" width="512" /><p>1024x1024</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_1_upscale_max.png?raw=true" width="512" /><p>1664x1664</p> |
@@ -24,3 +12,6 @@
 | Upscale (Light) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_3.png?raw=true" width="256" /><p>256x256</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_3_upscale_light.png?raw=true" width="512" /><p>1024x1024</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_3_upscale_light_max.png?raw=true" width="512" /><p>1536x1536</p> |
 | Upscale (Regular) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4.png?raw=true" width="256" /><p>256x256</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale.png?raw=true" width="512" /><p>1024x1024</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale_max.png?raw=true" width="512" /><p>1664x1664</p> |
 | Upscale (Light) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4.png?raw=true" width="256" /><p>256x256</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale_light.png?raw=true" width="512" /><p>1024x1024</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale_light_max.png?raw=true" width="512" /><p>1536x1536</p> |
+
+---
+###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

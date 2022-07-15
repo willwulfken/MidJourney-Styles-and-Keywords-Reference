@@ -38,3 +38,6 @@
 	| 1280x1280 (--hd) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh1280_hd.png?raw=true" width="1280" /> |
 
   </p></details>
+
+---
+###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

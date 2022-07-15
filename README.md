@@ -79,6 +79,11 @@
 
 </p></details>
 
+
+
+- [❔ How-To Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial/How-To%20Guide.md)
+
+
 ---
 
 - [⌨ Prompt Format Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison_Summary.md)
