@@ -1,10 +1,14 @@
 ## 🚀 Image Upscale Summary
 
-<br/><br/>
+---
 
+<small>
 [❔ How To Upscale an Image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md#-how-to-upscale-an-image)
+</small>
 
-<br/><br/>
+---
+
+<br/>
 
 | Upscale Type | Original Image | Normal Upscale | Max Upscale |
 | :----: | :----: | :----: | :----: |
