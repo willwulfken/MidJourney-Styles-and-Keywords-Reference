@@ -55,7 +55,9 @@
 
 	
     </p></details>
-    
+
+
+
   - <details><summary>🔤📐 Resolution</summary><p>
 	
 
