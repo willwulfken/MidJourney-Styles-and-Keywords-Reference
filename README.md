@@ -81,7 +81,7 @@
 
 
 
-- [❔ How-To Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial/How-To%20Guide.md)
+- [❔ How-To Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md)
 
 
 ---
