@@ -45,7 +45,7 @@
     | sphere --seed 4776 --fast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--fast.png?raw=true" width="256" /> |
     | sphere --seed 4776 --vibefast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--vibefast.png?raw=true" width="256" /> |
   
-    </deatils>
+    </details>
     
   - <details><summary>🔤📐 Resolution</summary>
 
