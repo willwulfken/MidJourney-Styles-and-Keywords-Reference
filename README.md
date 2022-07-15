@@ -39,46 +39,6 @@
 
   
   </p></details></h5>
- 
-
-- <h5><details><summary>🔤 Prompt Parameters</summary><p>
-  
-
-  - <details><summary>🔤🎨 Style</summary><p>
-	
-
-    | Keyword        | Example      |
-    | ------------- |:-------------:|
-    | sphere --seed 4776 --hd | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--hd.png?raw=true" width="256" /> |
-    | sphere --seed 4776 --vibe | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--vibe.png?raw=true" width="256" /> |
-    | sphere --seed 4776 --fast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--fast.png?raw=true" width="256" /> |
-    | sphere --seed 4776 --vibefast | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--vibefast.png?raw=true" width="256" /> |
-
-	
-    </p></details>
-
-
-
-  - <details><summary>🔤📐 Resolution</summary><p>
-	
-
-    | Keyword        | Example      |
-    | ------------- |:-------------:|
-    | sphere --seed 4776 --wallpaper| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--wallpaper.png?raw=true" width="256" /> |
-    | sphere --seed 4776 --sl | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--sl.png?raw=true" width="256" /> |
-    | sphere --seed 4776 --ml | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--ml.png?raw=true" width="256" /> |
-    | sphere --seed 4776 --ll | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--ll.png?raw=true" width="256" /> |
-    | sphere --seed 4776 --sp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--sp.png?raw=true" width="256" /> |
-    | sphere --seed 4776 --mp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--mp.png?raw=true" width="256" /> |
-    | sphere --seed 4776 --lp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--lp.png?raw=true" width="256" /> |
-	|sphere --seed 4776 --ar 16:9| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--ar16-9.png?raw=true" width="256" /> |
-	|sphere --seed 4776 --ar 9:16| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--ar9-16.png?raw=true" width="256" /> |
-	
-	
-    </p></details></h5>
-
-
-</p></details>
 
 
 - <h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md">❔ How-To Guide</a></h5>
@@ -90,6 +50,7 @@
 - [⌨ Prompt Format Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison_Summary.md)
 - [🚀 Image Upscale Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Summary.md)
 - [📏 Image Resolution Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison_Summary.md)
+- [🎛 Image Algorithm Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Algorithm_Summary.md)
 - [🏋️‍ Image Weight Comparison Summary](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Weight_Comparison_Summary.md)
 ---
 

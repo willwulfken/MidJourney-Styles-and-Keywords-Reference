@@ -3,6 +3,22 @@
 
 ---
 
+- <details><summary><b>📏 Preset Resolutions </summary><p>
+
+	| Parameter | Image |
+	| :----: | :----: |
+    | --wallpaper | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--wallpaper.png?raw=true" width="1920" /><p>1920x1024 (hd)</p> |
+    | --ll | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--ll.png?raw=true" width="768" /><p>768x512 (hd)</p> |
+    | --ml | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--ml.png?raw=true" width="448" /><p>448x320</p> |
+    | --sl | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--sl.png?raw=true" width="320" /><p>320x256</p> |
+    | --lp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--lp.png?raw=true" width="512" /><p>512x768 (hd)</p> |
+    | --mp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--mp.png?raw=true" width="320" /><p>320x448</p> |
+    | --sp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--sp.png?raw=true" width="256" /><p>256x320</p> |
+
+  </p></details>
+
+
+
 - <details><summary><b>🔳 Aspect Ratio Resolutions (--ar) </summary><p>
 
 	| Ratio | 1:x | 2:x | 3:x | 4:x | 5:x | 6:x | 7:x | 8:x | 9:x |
