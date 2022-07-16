@@ -598,7 +598,7 @@
     |Glitchy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_glitchy.png?raw=true" width="256" /> | 
 	|Glitching| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Glitching.png?raw=true" width="256" /> |
     |Data Moshing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_data_moshing.png?raw=true" width="256" /> |
-	|Datamoshing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Datamoshing.png?raw=true" width="256" /> |
+	|Datamoshing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_datamoshing.png?raw=true" width="256" /> |
 	|Databending| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Databending.png?raw=true" width="256" /> |
 	|Artifacting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Artifacting.png?raw=true" width="256" /> |
 	|Fuzzing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fuzzing.png?raw=true" width="256" /> |
