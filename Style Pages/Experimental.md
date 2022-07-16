@@ -38,7 +38,7 @@
 	| Keyword        | Example      |
     | ------------- |:-------------:|
 	| Supercalifragilisticexpialidocious | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Words/sphere_Supercalifragilisticexpialidocious.png?raw=true" width="256" /> |
-	| Fiddlededee | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Words/sphere_Fiddlededee.png?
+	| Fiddlededee | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Words/sphere_Fiddlededee.png?raw=true" width="256" /> |
 
   </p></details>
 
