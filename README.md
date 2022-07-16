@@ -88,4 +88,4 @@
 
 ---
 
-<!-- - [🧪 Experimental](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Experimental.md)-->
+- [🧪 Experimental](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Experimental.md)
