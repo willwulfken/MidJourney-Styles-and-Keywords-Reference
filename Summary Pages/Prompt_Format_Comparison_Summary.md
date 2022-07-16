@@ -9,7 +9,7 @@
 
 <br/>
 
-- <details><summary><b>🔤 Basic Prompt Formats:</b> <i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere </summary><p>
+- <details><summary><b>🔤 Basic Prompt Formats:</b><p><i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere</summary></p><p>
 	
 
 	| Style Used | *\<style>* | sphere *\<style>*  | sphere, *\<style>* | *\<style>* sphere |
@@ -46,7 +46,7 @@
 
 
 
-- <details><summary><b>🔣 Other Punctuation Prompt Formats:</b> <i><style></i> | sphere; <i><style></i> | sphere:<i><style></i> | <i><style></i> - sphere | sphere (<i><style></i>) </summary><p>
+- <details><summary><b>🔣 Other Punctuation Prompt Formats:</b><p><i><style></i> | sphere; <i><style></i> | sphere:<i><style></i> | <i><style></i> - sphere | sphere (<i><style></i>)</p></summary><p>
 	
 
 	| Style Used | *\<style>* | sphere; *\<style>*  | sphere:*\<style>* | sphere - *\<style>* | sphere (*\<style>*)|
@@ -83,7 +83,7 @@
 
 
 
-- <details><summary><b>🧊 "Made of" & "Style of" Prompt Formats:</b> <i><style></i> | sphere in the style of <i><style></i> | sphere made of <i><style></i> | <i><style></i> of a sphere </summary><p>
+- <details><summary><b>🧊 "Made of" & "Style of" Prompt Formats:</b><p> <i><style></i> | sphere in the style of <i><style></i> | sphere made of <i><style></i> | <i><style></i> of a sphere</p></summary><p>
 	
 
 	| Style Used | *\<style>* | sphere in the style of *\<style>*  | sphere made of *\<style>* | *\<style>* of a sphere |
@@ -121,7 +121,7 @@
 
 
 
-- <details><summary><b>📊 Charts 1 & 3 Combined:</b> 🔤 Basic Prompt Formats & 🧊 "Made of" & "Style of" Prompt Formats Charts Combined</summary><p>
+- <details><summary><b>📊 Charts 1 & 3 Combined:</b><p>🔤 Basic Prompt Formats & 🧊 "Made of" & "Style of" Charts Combined</p></summary><p>
 	
 
 	| Style Used | *\<style>* | sphere, *\<style>* | sphere *\<style>* | sphere in the style of *\<style>* | sphere made of *\<style>* | *\<style>* of a sphere | *\<style>* sphere|
@@ -159,7 +159,7 @@
 
 
 
-- <details><summary><b>🎨 Artist Prompts:</b> <i><style></i> | Art Made By <i><style></i> | sphere, Art Made By <i><style></i> | sphere Art Made By <i><style></i> | Painting By <i><style></i> | sphere, Painting By <i><style></i> | sphere in the style of <i><style></i></summary><p>
+- <details><summary><b>🎨 Artist Prompts:</b><p><i><style></i> | Art Made By <i><style></i> | sphere, Art Made By <i><style></i> | sphere Art Made By <i><style></i> | Painting By <i><style></i> | sphere, Painting By <i><style></i> | sphere in the style of <i><style></i></p></summary><p>
 	
 
 	| Style Used | Art Made By *\<artist>* | sphere, Art Made By *\<artist>* | sphere Art Made By *\<artist>* | Painting By *\<artist>* | sphere, Painting By *\<artist>* | sphere in the style of *\<artist>* |
