@@ -85,3 +85,7 @@
 - [➰ Intangibles](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Intangibles.md)
 
 - [🎛 Miscellaneous](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Miscellaneous.md)
+
+---
+
+<!-- - [🧪 Experimental](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Style%20Pages/Experimental.md)-->
