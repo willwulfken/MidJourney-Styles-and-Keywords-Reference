@@ -1,6 +1,6 @@
 ## 🎛 Miscellaneous
 
-| Keyword        | Example      |
+| Keyword        | Image      |
 | ------------- |:-------------:|
 |Serendipity| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_serendipity.png?raw=true" width="256" /> | 
 |Acidic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_acidic.png?raw=true" width="256" /> | 

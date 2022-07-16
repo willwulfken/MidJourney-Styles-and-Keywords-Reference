@@ -2,7 +2,7 @@
 
 - <details><summary>📔 Made up Artists</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	| Painted by Vincent Bob Gray | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Artists/sphere_Painted_by_Vincent_Bob_Gray.png?raw=true" width="256" /> |
 	| Painted by Redrick J Hubedrin | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Artists/sphere_Painted_by_Redrick_J_Hubedrin.png?raw=true" width="256" /> |
@@ -16,7 +16,7 @@
 
 - <details><summary>🔤 Made up Words</summary><p>
 
-	| Keyword        | Example      |
+	| Keyword        | Image      |
     | ------------- |:-------------:|
 	| Flash-Traced | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Words/sphere_Flash-Traced.png?raw=true" width="256" /> |
 	| Glimmer-Traced | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Words/sphere_Glimmer-Traced.png?raw=true" width="256" /> |
@@ -35,7 +35,7 @@
 
 - <details><summary>📓 Known Made up Words</summary><p>
 
-	| Keyword        | Example      |
+	| Keyword        | Image      |
     | ------------- |:-------------:|
 	| Supercalifragilisticexpialidocious | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Words/sphere_Supercalifragilisticexpialidocious.png?raw=true" width="256" /> |
 	| Fiddlededee | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Words/sphere_Fiddlededee.png?raw=true" width="256" /> |
@@ -46,7 +46,7 @@
 
 - <details><summary>🔣 Chaos Prompts</summary><p>
 
-	| Keyword        | Example      |
+	| Keyword        | Image      |
     | ------------- |:-------------:|
 	| qwje90qhj329r | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Chaos_Prompts/sphere_qwje90qhj329r.png?raw=true" width="256" /> |
 

@@ -2,7 +2,7 @@
 
 - <details><summary>🖥📐 Resolution</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |4k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_4k.png?raw=true" width="256" /> | 
     |8k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_8k.png?raw=true" width="256" /> | 
@@ -20,7 +20,7 @@
 
 - <details><summary>🖥🎨 Color Models and Graphics Adapter Palettes</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |RGB| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RGB.png?raw=true" width="256" /> |
     |CMYK| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_CMYK.png?raw=true" width="256" /> | 
@@ -49,7 +49,7 @@
 
 - <details><summary>🖥🟩 1-bit - 16-bit</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |1-bit| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_1-bit.png?raw=true" width="256" /> | 
     |2-bit| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_2-bit.png?raw=true" width="256" /> | 
@@ -69,7 +69,7 @@
 
 - <details><summary>🖥 Other</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |AR| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_AR.png?raw=true" width="256" /> | 
     |VR| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_VR.png?raw=true" width="256" /> | 

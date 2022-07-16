@@ -2,7 +2,7 @@
 
 - <details><summary>🌈🔍 Reflections</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Ray Tracing Reflections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RayTracingReflections.png?raw=true" width="256" /> | 
     |Lumen Reflections| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LumenReflections.png?raw=true" width="256" /> | 
@@ -14,7 +14,7 @@
 
 - <details><summary>🌈💫 Stylized</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Chromatic Aberration| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_chromaticaberration.png?raw=true" width="256" /> | 
 	|RGB Displacement| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RGBDisplacement.png?raw=true" width="256" /> |
@@ -69,7 +69,7 @@
 
 - <details><summary>🌈🕶 Shaders and Post Processing</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Ray Traced| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RayTraced.png?raw=true" width="256" /> | 
     |Ray Tracing Ambient Occlusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RayTracingAmbientOcclusion.png?raw=true" width="256" /> | 

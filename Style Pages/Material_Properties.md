@@ -2,7 +2,7 @@
 
 - <details><summary>📦🧫 Opacity</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Transparent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_transparent.png?raw=true" width="256" /> | 
     |Translucent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_translucent.png?raw=true" width="256" /> | 
@@ -13,7 +13,7 @@
 
 - <details><summary>📦🏮 Light Manipulation</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Optics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_optics.png?raw=true" width="256" /> | 
     |Materiality| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_materiality.png?raw=true" width="256" /> | 
@@ -25,7 +25,7 @@
 
 - <details><summary>📦💡 Luminescence</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Glowing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_glowing.png?raw=true" width="256" /> | 
     |Glow-In-The-Dark| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Glow-In-The-Dark.png?raw=true" width="256" /> |
@@ -55,7 +55,7 @@
 
 - <details><summary>📦🔍 Reflection and Refraction</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Rough| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Rough.png?raw=true" width="256" /> |
     |Matte| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_matte.png?raw=true" width="256" /> |
@@ -73,7 +73,7 @@
 
 - <details><summary>📦🎨 Color (Dispersion, Chromatic, etc.)</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Iridescent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_iridescent.png?raw=true" width="256" /> | 
     |Dispersion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_dispersion.png?raw=true" width="256" /> | 
@@ -85,7 +85,7 @@
 
 - <details><summary>📦🗺 Maps</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Bump Map| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_bumpmap.png?raw=true" width="256" /> | 
     |Bump Mapped| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_BumpMapped.png?raw=true" width="256" /> |
@@ -98,7 +98,7 @@
 
 - <details><summary>📦🧊 Soft Body</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Soft Body| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SoftBody.png?raw=true" width="256" /> |
     |Squishy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Squishy.png?raw=true" width="256" /> |
@@ -108,7 +108,7 @@
 
 - <details><summary>📦 Other</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Anisotropy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Anisotropy.png?raw=true" width="256" /> |
     |Carbonated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Carbonated.png?raw=true" width="256" /> |

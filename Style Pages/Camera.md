@@ -2,7 +2,7 @@
 
 - <details><summary>📷🌇 Camera and Scenes</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_photography.png?raw=true" width="256" /> |
 	|Filmic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Filmic.png?raw=true" width="256" /> |
@@ -30,7 +30,7 @@
 
 - <details><summary>📷🌇 Camera and Film Types</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Schlieren| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_schlieren.png?raw=true" width="256" /> | 
     |Night Vision| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_nightvision.png?raw=true" width="256" /> | 
@@ -66,7 +66,7 @@
 
 - <details><summary>📷🏞 Lenses and Perspective</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Macro| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_macro.png?raw=true" width="256" /> | 
     |Macro View| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_macroview.png?raw=true" width="256" /> | 
@@ -110,7 +110,7 @@
 
 - <details><summary>📷➰ Blur and Distortion</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Blurry| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Blurry.png?raw=true" width="256" /> |
     |Blur Effect| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_blureffect.png?raw=true" width="256" /> | 
@@ -122,7 +122,7 @@
 
 - <details><summary>📷⚙ Camera Settings (Aperture, Exposure, Color and White Balance, etc.)</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Exposure| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_exposure.png?raw=true" width="256" /> | 
     |Short Exposure| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_shortexposure.png?raw=true" width="256" /> | 
@@ -140,7 +140,7 @@
 
 - <details><summary>📷 Other</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Lens Flare| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_lensflare.png?raw=true" width="256" /> | 
     |Vignette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_vignette.png?raw=true" width="256" /> | 

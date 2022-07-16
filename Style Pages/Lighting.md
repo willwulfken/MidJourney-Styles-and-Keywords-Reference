@@ -2,7 +2,7 @@
 
 - <details><summary>💡🏮 Types of Lights</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Spotlight| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_spotlight.png?raw=true" width="256" /> | 
     |Frontlight| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_frontlight.png?raw=true" width="256" /> |
@@ -62,7 +62,7 @@
 
 - <details><summary>💡📺 Types of Displays</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |CRT| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_CRT.png?raw=true" width="256" /> | 
     |LCD| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LCD.png?raw=true" width="256" /> | 
@@ -83,7 +83,7 @@
 
 - <details><summary>💡🔦 Lighting Styles and Techniques</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Moody Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_moodylighting.png?raw=true" width="256" /> | 
     |Cinematic Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_cinematiclighting.png?raw=true" width="256" /> | 
@@ -103,7 +103,7 @@
 
 - <details><summary>💡🌐 Global Illumination</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Global Illumination| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_GlobalIllumination.png?raw=true" width="256" /> | 
     |Lumen Global Illumination| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LumenGlobalIllumination.png?raw=true" width="256" /> | 

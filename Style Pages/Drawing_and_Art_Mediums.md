@@ -4,7 +4,7 @@
 
   - <details><summary>🖌🖼 Drawing Types</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Illustration| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_illustration.png?raw=true" width="256" /> | 
     |Sketch| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_sketch.png?raw=true" width="256" /> | 
@@ -30,7 +30,7 @@
 
   - <details><summary>🖌✏ Pencil and Graphite</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Pencil Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_pencilart.png?raw=true" width="256" /> | 
     |Graphite| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Graphite.png?raw=true" width="256" /> |
@@ -42,7 +42,7 @@
 
   - <details><summary>🖌🖊 Ink</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Ink| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ink.png?raw=true" width="256" /> |
     |Ballpoint Pen| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_BallpointPen.png?raw=true" width="256" /> |
@@ -60,7 +60,7 @@
 
   - <details><summary>🖌🖍 Crayon, Chalk, and Pastel</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Crayon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_crayon.png?raw=true" width="256" /> |
     |Conte| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_conte.png?raw=true" width="256" /> |
@@ -78,7 +78,7 @@
 
   - <details><summary>🖌🖼 Painting Types</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Painting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_painting.png?raw=true" width="256" /> | 
     |Canvas| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Canvas.png?raw=true" width="256" /> |
@@ -105,7 +105,7 @@
 
   - <details><summary>🖌🎨 Paint Types</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Airbrush| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_airbrush.png?raw=true" width="256" /> |
     |Paint| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paint.png?raw=true" width="256" /> | 
@@ -129,7 +129,7 @@
 
 - <details><summary>🖌🔠 Text</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Text| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Text.png?raw=true" width="256" /> |
     |Typeface| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Typeface.png?raw=true" width="256" /> |
@@ -156,7 +156,7 @@
 
 - <details><summary>🖌🖨 Art Types Printed</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Modern Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_modernart.png?raw=true" width="256" /> |
     |Concept Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_conceptart.png?raw=true" width="256" /> |
@@ -192,7 +192,7 @@
 
   - <details><summary>🖌📄 Origami</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Origami| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Origami.png?raw=true" width="256" /> | 
 	|Modular Origami| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ModularOrigami.png?raw=true" width="256" /> |
@@ -207,7 +207,7 @@
 
   - <details><summary>🖌🀣 Mosaic</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Mosaic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Mosaic.png?raw=true" width="256" /> |
 	|Micromosaic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Micromosaic.png?raw=true" width="256" /> |
@@ -219,7 +219,7 @@
 
   - <details><summary>🖌🖼 Framed, Banner, and Decal</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Frame| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Frame.png?raw=true" width="256" /> |
 	|Framed| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Framed.png?raw=true" width="256" /> |
@@ -233,7 +233,7 @@
 
   - <details><summary>🖌🗿 Carving, Etching, and Modeling</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Carving| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Carving.png?raw=true" width="256" /> | 
     |Etching| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_etching.png?raw=true" width="256" /> |
@@ -266,7 +266,7 @@
 
   - <details><summary>🖌🏺 Pottery and Glass</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Glaze| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_glaze.png?raw=true" width="256" /> |
 	|Overglaze| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Overglaze.png?raw=true" width="256" /> |
@@ -281,7 +281,7 @@
 
   - <details><summary>🖌💡 Light</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Light Art| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LightArt.png?raw=true" width="256" /> |
 	|Light Painting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LightPainting (2).png?raw=true" width="256" /> |
@@ -291,7 +291,7 @@
 
   - <details><summary>🖌🎲 Other</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Arts and Crafts| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Arts_and_Crafts.png?raw=true" width="256" /> |
 	|Resin| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Resin.png?raw=true" width="256" /> |
@@ -322,7 +322,7 @@
 
 - <details><summary>🖌 Other</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Stencil| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Stencil.png?raw=true" width="256" /> |
 	|Negative Space| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_NegativeSpace.png?raw=true" width="256" /> |

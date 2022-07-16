@@ -2,7 +2,7 @@
 
 - <details><summary>💠⬜ 2D Shapes</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Point| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Point.png?raw=true" width="256" /> |
 	|Dot| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Dot.png?raw=true" width="256" /> |
@@ -31,7 +31,7 @@
 
 - <details><summary>💠🧊 3D Shapes</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Cube| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Cube.png?raw=true" width="256" /> |
 	|Cuboid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Cuboid.png?raw=true" width="256" /> |
@@ -80,7 +80,7 @@
 
 - <details><summary>💠🔲 4D Hyper Shapes</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Hypercube| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Hypercube.png?raw=true" width="256" /> |
 	|Hyperprism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Hyperprism.png?raw=true" width="256" /> |
@@ -102,7 +102,7 @@
 
 - <details><summary>💠〰 Degenerate Shapes</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Monogon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Monogon.png?raw=true" width="256" /> |
 	|Digon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Digon.png?raw=true" width="256" /> |
@@ -112,7 +112,7 @@
 
 - <details><summary>💠⏹ Geometric Styles</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Geometric| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Geometric.png?raw=true" width="256" /> |
 	|Non-Euclidian| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Non-Euclidian.png?raw=true" width="256" /> |
@@ -130,7 +130,7 @@
 
 - <details><summary>💠⏺ Geometric Properties</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Vertex| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Vertex.png?raw=true" width="256" /> |
 	|Edge| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Edge.png?raw=true" width="256" /> |

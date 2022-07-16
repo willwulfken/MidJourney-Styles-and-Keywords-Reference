@@ -36,7 +36,7 @@
 - <h5><details><summary>⚪ Control Image and Seed</summary><p>
   
 
-  | Keyword        | Example      |
+  | Keyword        | Image      |
   | ------------- |:-------------:|
   | sphere --seed 4776| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /> |
   | **`sphere, <style> --seed 4776` is used for all of these images** |  |

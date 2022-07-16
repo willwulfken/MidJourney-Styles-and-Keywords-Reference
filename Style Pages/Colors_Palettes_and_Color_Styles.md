@@ -2,7 +2,7 @@
 
 - <details><summary>🎨🖌 Chromatic Palettes</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Warm Color Palette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_warmcolorpalette.png?raw=true" width="256" /> | 
     |Cool Color Palette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_coolcolorpalette.png?raw=true" width="256" /> | 
@@ -39,7 +39,7 @@
 
 - <details><summary>🎨🖌 Monochromatic Palettes</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Monochrome| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Monochrome.png?raw=true" width="256" /> | 
     |Black and White| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_blackandwhite.png?raw=true" width="256" /> | 
@@ -51,7 +51,7 @@
 
 - <details><summary>🎨🔲 Contrast</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |High Contrast| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_highcontrast.png?raw=true" width="256" /> | 
     |Low Contrast| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_lowcontrast.png?raw=true" width="256" /> | 
@@ -61,7 +61,7 @@
 
 - <details><summary>🎨🎥 Color Motion Picture Film Systems</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Technicolor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_technicolor.png?raw=true" width="256" /> | 
     |Kinemacolor| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Kinemacolor.png?raw=true" width="256" /> | 

@@ -2,7 +2,7 @@
 
 - <details><summary>➰😁 Emotions and Qualities</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Happy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Happy.png?raw=true" width="256" /> |
 	|Happy Accidents| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Happy_Accidents.png?raw=true" width="256" /> |
@@ -19,7 +19,7 @@
 
 - <details><summary>➰🧠 Concepts</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Infused| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Infused.png?raw=true" width="256" /> |
     |Refreshing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Refreshing.png?raw=true" width="256" /> |
@@ -56,7 +56,7 @@
 
 - <details><summary>➰☯ Symbols</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Yin Yang| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_YinYang.png?raw=true" width="256" /> |
 
@@ -65,7 +65,7 @@
 
 - <details><summary>➰🔢 Number Systems</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Unary| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Unary.png?raw=true" width="256" /> |
 	|Binary| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Binary.png?raw=true" width="256" /> |

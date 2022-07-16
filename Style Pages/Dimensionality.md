@@ -2,7 +2,7 @@
 
 - <details><summary>🌌 2D-5D</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |2-Dimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_2-Dimensional.png?raw=true" width="256" /> | 
     |2D| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_2D.png?raw=true" width="256" /> | 
@@ -20,7 +20,7 @@
 
 - <details><summary>🌌 Overdimensional, Multiverse, etc.</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
     |Overdimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Overdimensional.png?raw=true" width="256" /> | 
     |Underdimensional| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Underdimensional.png?raw=true" width="256" /> | 

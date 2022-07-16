@@ -2,7 +2,7 @@
 
 - <details><summary>🎨🔴 Basic Colors</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|White| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_White.png?raw=true" width="256" /> |
 	|Light-Gray| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Light-Gray.png?raw=true" width="256" /> |
@@ -31,7 +31,7 @@
 
 - <details><summary>🎨🔵 Extended Colors</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Tan| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Extended_Colors/sphere_Tan.png?raw=true" width="256" /> |
 	|Beige| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Extended_Colors/sphere_Beige.png?raw=true" width="256" /> |
@@ -47,7 +47,7 @@
 
 - <details><summary>🎨⚫ Dark Variations</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Dark-White| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-White.png?raw=true" width="256" /> |
 	|Dark-Brown| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Brown.png?raw=true" width="256" /> |
@@ -68,7 +68,7 @@
 
 - <details><summary>🎨⚪ Light Variations</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Light-Black| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Black.png?raw=true" width="256" /> |
 	|Light-Brown| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Brown.png?raw=true" width="256" /> |
@@ -89,7 +89,7 @@
 
 - <details><summary>🎨🔶 Vivid Variations</summary><p>
 
-    | Keyword        | Example      |
+    | Keyword        | Image      |
     | ------------- |:-------------:|
 	|Vivid-Brown| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Brown.png?raw=true" width="256" /> |
 	|Vivid-Maroon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Maroon.png?raw=true" width="256" /> |
