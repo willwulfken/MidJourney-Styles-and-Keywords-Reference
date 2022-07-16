@@ -1,4 +1,4 @@
-## 🚀 Image Upscale Summary
+## 🚀 Image Upscale Comparison
 
 ---
 

@@ -1,4 +1,4 @@
-## 🎛 Image Algorithm Summary
+## 🎛 Image Algorithm Comparison
 ###### **sphere --seed 4776** is used for all images
 
 ---

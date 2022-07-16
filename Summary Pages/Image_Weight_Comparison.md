@@ -1,4 +1,4 @@
-## 🏋️‍ Image Weight Comparison Summary
+## 🏋️‍ Image Weight Comparison
 ###### **seed 4776** is used for all images
 
 ---

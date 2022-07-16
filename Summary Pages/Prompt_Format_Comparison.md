@@ -1,4 +1,4 @@
-## ⌨ Prompt Format Comparison Summary
+## ⌨ Prompt Format Comparison
 ###### **seed 4776** is used for all images
 
 ---

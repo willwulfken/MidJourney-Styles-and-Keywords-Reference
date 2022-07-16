@@ -1,4 +1,4 @@
-## 📏 Image Resolution Comparison Summary
+## 📏 Image Resolution Comparison
 ###### **sphere --seed 4776** is used for all images
 
 ---
