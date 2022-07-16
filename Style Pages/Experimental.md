@@ -33,12 +33,22 @@
 
 
 
-- <details><summary>🔤 Known Made up Words</summary><p>
+- <details><summary>📓 Known Made up Words</summary><p>
 
 	| Keyword        | Example      |
     | ------------- |:-------------:|
 	| Supercalifragilisticexpialidocious | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Words/sphere_Supercalifragilisticexpialidocious.png?raw=true" width="256" /> |
 	| Fiddlededee | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Made_Up_Words/sphere_Fiddlededee.png?raw=true" width="256" /> |
+
+  </p></details>
+
+
+
+- <details><summary>🔣 Chaos Prompts</summary><p>
+
+	| Keyword        | Example      |
+    | ------------- |:-------------:|
+	| qwje90qhj329r | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Experimental/Chaos_Prompts/sphere_qwje90qhj329r.png?raw=true" width="256" /> |
 
   </p></details>
 
