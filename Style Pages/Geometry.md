@@ -115,6 +115,7 @@
     | Keyword        | Example      |
     | ------------- |:-------------:|
 	|Geometric| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Geometric.png?raw=true" width="256" /> |
+	|Non-Euclidian| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Non-Euclidian.png?raw=true" width="256" /> |
 	|Poly| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Poly.png?raw=true" width="256" /> |
 	|Polygon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Polygon.png?raw=true" width="256" /> |
 	|Polygonal| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Polygonal.png?raw=true" width="256" /> |

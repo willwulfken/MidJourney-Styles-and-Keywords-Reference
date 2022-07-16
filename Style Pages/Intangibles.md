@@ -5,8 +5,10 @@
     | Keyword        | Example      |
     | ------------- |:-------------:|
     |Happy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Happy.png?raw=true" width="256" /> |
+	|Happy Accidents| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Happy_Accidents.png?raw=true" width="256" /> |
 	|Excited| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Excited.png?raw=true" width="256" /> |
     |Sad| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sad.png?raw=true" width="256" /> |
+	|Lonely| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Lonely.png?raw=true" width="256" /> |
     |Angry| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Angry.png?raw=true" width="256" /> |
 	|Angelic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Angelic.png?raw=true" width="256" /> |
     |Good| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Good.png?raw=true" width="256" /> |
@@ -39,6 +41,15 @@
 	|Micro| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Micro.png?raw=true" width="256" /> |
 	|Nano| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Nano.png?raw=true" width="256" /> |
 	|Flexible| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Flexible.png?raw=true" width="256" /> |
+	|Upside-Down| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Upside-Down.png?raw=true" width="256" /> |
+	|Paradox| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Paradox.png?raw=true" width="256" /> |
+	|Feng Shui| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Feng_Shui.png?raw=true" width="256" /> |
+	|Perfectionism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Perfectionism.png?raw=true" width="256" /> |
+	|OCD| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_OCD.png?raw=true" width="256" /> |
+	|Array| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Array.png?raw=true" width="256" /> |
+	|Muted| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Muted.png?raw=true" width="256" /> |
+	|Visual Perception| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Visual_Perception.png?raw=true" width="256" /> |
+	|Visual Agnosia| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Visual_Agnosia.png?raw=true" width="256" /> |
 	
     </p></details>
 

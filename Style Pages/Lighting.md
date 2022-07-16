@@ -19,6 +19,9 @@
     |Ultrabright| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ultrabright.png?raw=true" width="256" /> | 
     |Crepuscular Rays| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Crepuscularrays.png?raw=true" width="256" /> | 
     |Rays of Shimmering Light| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_raysofshimmeringlight.png?raw=true" width="256" /> |
+	|Artificial Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Artificial_Lighting.png?raw=true" width="256" /> |
+	|Natural Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Natural_Lighting.png?raw=true" width="256" /> |
+	|Sunlight| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sunlight.png?raw=true" width="256" /> |
     |Incandescent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Incandescent.png?raw=true" width="256" /> |
     |Fluorescent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fluorescent.png?raw=true" width="256" /> |
     |Fluorescent Lamp| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_FluorescentLamp.png?raw=true" width="256" /> |
@@ -48,6 +51,7 @@
 	|Electroluminescent Wire| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ElectroluminescentWire.png?raw=true" width="256" /> |
 	|Laser| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Laser.png?raw=true" width="256" /> |
 	|Flare| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Flare.png?raw=true" width="256" /> |
+	|Electromagnetic Spectrum| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Electromagnetic_Spectrum.png?raw=true" width="256" /> |
     |Infrared| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_infrared.png?raw=true" width="256" /> | 
     |Ultraviolet| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ultraviolet.png?raw=true" width="256" /> | 
     |UV| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_UV.png?raw=true" width="256" /> | 
@@ -88,6 +92,7 @@
     |Hard Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_hardlighting.png?raw=true" width="256" /> | 
     |Volumetric Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_volumetriclighting.png?raw=true" width="256" /> | 
     |Volumetric| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_volumetric.png?raw=true" width="256" /> | 
+	|Contre-Jour| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Contre-Jour.png?raw=true" width="256" /> |
     |Rembrandt Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_rembrandtlighting.png?raw=true" width="256" /> |
     |Split Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_splitlighting.png?raw=true" width="256" /> |
     |Beautiful Lighting| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_beautifullighting.png?raw=true" width="256" /> |

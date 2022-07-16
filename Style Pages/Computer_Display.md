@@ -7,6 +7,11 @@
     |4k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_4k.png?raw=true" width="256" /> | 
     |8k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_8k.png?raw=true" width="256" /> | 
     |16k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_16k.png?raw=true" width="256" /> |
+	|32k| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_32k.png?raw=true" width="256" /> |
+	|HD| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_HD.png?raw=true" width="256" /> |
+	|Full-HD| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Full-HD.png?raw=true" width="256" /> |
+	|Ultra-HD| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Ultra-HD.png?raw=true" width="256" /> |
+	|Super-Resolution| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Super-resolution.png?raw=true" width="256" /> |
 	|Megapixel| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Megapixel.png?raw=true" width="256" /> |
 
     </p></details>

@@ -9,12 +9,21 @@
     |Colorful| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_colorful.png?raw=true" width="256" /> | 
     |Rainbow| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Rainbow.png?raw=true" width="256" /> | 
 	|Spectral Color| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SpectralColor.png?raw=true" width="256" /> |
+	|Inverted Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Inverted_Colors.png?raw=true" width="256" /> |
 	|Chroma| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Chroma.png?raw=true" width="256" /> |
 	|Dichromatism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Dichromatism.png?raw=true" width="256" /> |
 	|Tetrachromacy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Tetrachromacy.png?raw=true" width="256" /> |
 	|Saturated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Saturated.png?raw=true" width="256" /> |
     |Neon| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_neon.png?raw=true" width="256" /> | 
+	|Electric Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Electric_Colors.png?raw=true" width="256" /> |
     |Tonal Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_tonalcolors.png?raw=true" width="256" /> | 
+	|Complimentary-Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Complimentary-Colors.png?raw=true" width="256" /> |
+	|Split-Complementary-Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Split-Complementary-Colors.png?raw=true" width="256" /> |
+	|Supplementary-Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Supplementary-Colors.png?raw=true" width="256" /> |
+	|Analogous-Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Analogous-Colors.png?raw=true" width="256" /> |
+	|Triadic-Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Triadic-Colors.png?raw=true" width="256" /> |
+	|Tetradic-Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Tetradic-Colors.png?raw=true" width="256" /> |
+	|Polychromatic-Colors| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Polychromatic-Colors.png?raw=true" width="256" /> |
     |Light| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_light.png?raw=true" width="256" /> | 
     |Dark| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_dark.png?raw=true" width="256" /> | 
     |Light Mode| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_LightMode.png?raw=true" width="256" /> | 

@@ -36,9 +36,11 @@
     |Whirl| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Whirl.png?raw=true" width="256" /> |
     |Squiggly| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Squiggly.png?raw=true" width="256" /> |
     |Morph| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Morph.png?raw=true" width="256" /> |
+	|Spiraling| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Spiraling.png?raw=true" width="256" /> |
     |Twisted Rays| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_TwistedRays.png?raw=true" width="256" /> |
     |Starburst| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Starburst.png?raw=true" width="256" /> |
     |Emboss| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Emboss.png?raw=true" width="256" /> |
+	|Tessellated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Tessellated.png?raw=true" width="256" /> |
     |Blobby| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Blobby.png?raw=true" width="256" /> |
     |Blobs| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Blobs.png?raw=true" width="256" /> |
     |Cracks| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Cracks.png?raw=true" width="256" /> |
@@ -51,6 +53,15 @@
     |Distortion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_distortion.png?raw=true" width="256" /> | 
     |Lenticular| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Lenticular.png?raw=true" width="256" /> |
 	|Cropped| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Cropped.png?raw=true" width="256" /> |
+	|Quantum-Wavetracing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Quantum-Wavetracing.png?raw=true" width="256" /> |
+	|Tornadic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Tornadic.png?raw=true" width="256" /> |
+	|Sabattier Effect| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sabattier_Effect.png?raw=true" width="256" /> |
+	|Smudged| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Smudged.png?raw=true" width="256" /> |
+	|Sharpened| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sharpened.png?raw=true" width="256" /> |
+	|Glowing Edges| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Glowing_Edges.png?raw=true" width="256" /> |
+	|Spherize| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Spherize.png?raw=true" width="256" /> |
+	|Harris Shutter| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Harris_Shutter.png?raw=true" width="256" /> |
+	|Mordancage| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Mordancage.png?raw=true" width="256" /> |
 
 
     </p></details>
@@ -63,6 +74,11 @@
     |Ray Traced| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RayTraced.png?raw=true" width="256" /> | 
     |Ray Tracing Ambient Occlusion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RayTracingAmbientOcclusion.png?raw=true" width="256" /> | 
     |Anti-Aliasing| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Anti-aliasing.png?raw=true" width="256" /> | 
+	|FXAA| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_FXAA.png?raw=true" width="256" /> |
+	|TXAA| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_TXAA.png?raw=true" width="256" /> |
+	|RTX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_RTX.png?raw=true" width="256" /> |
+	|SSAO| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SSAO.png?raw=true" width="256" /> |
+	|De-Noise| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_De-Noise.png?raw=true" width="256" /> |
     |Shaders| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_shaders.png?raw=true" width="256" /> | 
 	|OpenGL-Shaders| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_OpenGL-Shaders.png?raw=true" width="256" /> |
 	|GLSL-Shaders| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_GLSL-Shaders.png?raw=true" width="256" /> |

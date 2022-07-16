@@ -21,6 +21,9 @@
     |Editorial Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_editorialphotography.png?raw=true" width="256" /> |
     |War Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_warphotography.png?raw=true" width="256" /> |
     |Photojournalism| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_photojournalism.png?raw=true" width="256" /> |
+	|Satellite Imagery| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Satellite_Imagery.png?raw=true" width="256" /> |
+	|Paparazzi Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Paparazzi_Photography.png?raw=true" width="256" /> |
+	|Wildlife Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Wildlife_Photography.png?raw=true" width="256" /> |
 
     </p></details>
 
@@ -31,9 +34,25 @@
     | ------------- |:-------------:|
     |Schlieren| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_schlieren.png?raw=true" width="256" /> | 
     |Night Vision| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_nightvision.png?raw=true" width="256" /> | 
+	|Hyperspectral Imaging| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Hyperspectral_Imaging.png?raw=true" width="256" /> |
+	|Multispectral Imaging| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Multispectral_Imaging.png?raw=true" width="256" /> |
+	|Camcorder Effect| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Camcorder_Effect.png?raw=true" width="256" /> |
+	|DSLR| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_DSLR.png?raw=true" width="256" /> |
     |Polaroid| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_polaroid.png?raw=true" width="256" /> |
     |35mm| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_35mm.png?raw=true" width="256" /> |
 	|Tri-X 400 TX| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Tri-X400TX.png?raw=true" width="256" /> |
+	|Instax| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Instax.png?raw=true" width="256" /> |
+	|Ektachrome| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Ektachrome.png?raw=true" width="256" /> |
+	|Fujifilm Superia| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fujifilm_Superia.png?raw=true" width="256" /> |
+	|Ilford HP5| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Ilford_HP5.png?raw=true" width="256" /> |
+	|Kodak Ektar| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Kodak_Ektar.png?raw=true" width="256" /> |
+	|Kodak Gold 200| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Kodak_Gold_200.png?raw=true" width="256" /> |
+	|Kodak Portra| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Kodak_Portra.png?raw=true" width="256" /> |
+	|Lomo| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Lomo.png?raw=true" width="256" /> |
+	|Nikon D750| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Nikon_D750.png?raw=true" width="256" /> |
+	|Provia| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Provia.png?raw=true" width="256" /> |
+	|Shot on 70mm| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Shot_on_70mm.png?raw=true" width="256" /> |
+	|Velvia| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Velvia.png?raw=true" width="256" /> |
     |Vintage| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_vintage.png?raw=true" width="256" /> |
     |Pinhole Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_pinholephotography.png?raw=true" width="256" /> |
     |Photogram| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_photogram.png?raw=true" width="256" /> |
@@ -54,11 +73,17 @@
     |Telephoto| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_telephoto.png?raw=true" width="256" /> | 
     |Magnification| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_magnification.png?raw=true" width="256" /> | 
     |Microscopic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_microscopic.png?raw=true" width="256" /> | 
+	|Electron Microscope| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Electron_Microscope.png?raw=true" width="256" /> |
+	|Super-Resolution Microscopy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Super-resolution_Microscopy.png?raw=true" width="256" /> |
     |Wide Angle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_wideangle.png?raw=true" width="256" /> | 
     |Ultra-Wide Angle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ultra-wideangle.png?raw=true" width="256" /> | 
     |Panorama| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_panorama.png?raw=true" width="256" /> | 
     |360 Panorama| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_360panorama.png?raw=true" width="256" /> | 
     |360 Angle| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_360angle.png?raw=true" width="256" /> | 
+	|Miniature Faking| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Miniature_Faking.png?raw=true" width="256" /> |
+	|Brenizer Method| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Brenizer_Method.png?raw=true" width="256" /> |
+	|Fisheye Lens| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fisheye_Lens.png?raw=true" width="256" /> |
+	|Fisheye Lens Effect| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fisheye_Lens_Effect.png?raw=true" width="256" /> |
     |Aerial View| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_aerialview.png?raw=true" width="256" /> |
     |Top-View| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_top-view.png?raw=true" width="256" /> |
     |Side-View| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_side-view.png?raw=true" width="256" /> |
@@ -75,6 +100,8 @@
     |Orthographic| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Orthographic.png?raw=true" width="256" /> | 
     |Isometric| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_isometric.png?raw=true" width="256" /> |
     |Depth of Field| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_depthoffield.png?raw=true" width="256" /> | 
+	|DOF| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_DOF.png?raw=true" width="256" /> |
+	|Field of View| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Field_of_View.png?raw=true" width="256" /> |
     |Zoom| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_zoom.png?raw=true" width="256" /> |
     |Dolly Zoom| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_dollyzoom.png?raw=true" width="256" /> |
 
@@ -118,6 +145,10 @@
     |Lens Flare| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_lensflare.png?raw=true" width="256" /> | 
     |Vignette| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_vignette.png?raw=true" width="256" /> | 
     |Split Toning| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_SplitToning.png?raw=true" width="256" /> | 
+	|Rephotography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Rephotography.png?raw=true" width="256" /> |
+	|Scanography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Scanography.png?raw=true" width="256" /> |
+	|Slit-Scan Photography| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Slit-Scan_Photography.png?raw=true" width="256" /> |
+
 
     </p></details>
         

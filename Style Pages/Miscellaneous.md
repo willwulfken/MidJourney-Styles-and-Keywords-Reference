@@ -25,6 +25,7 @@
 |Amethyst-Deceiver| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Amethyst-Deceiver.png?raw=true" width="256" /> |
 |Indigo-Milk-Cap| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Indigo-Milk-Cap.png?raw=true" width="256" /> |
 |Indigo-Render| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Indigo-Render.png?raw=true" width="256" /> |
+|Stop Motion| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Stop_Motion.png?raw=true" width="256" /> |
     
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

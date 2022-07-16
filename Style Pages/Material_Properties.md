@@ -65,6 +65,8 @@
     |Polished| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Polished.png?raw=true" width="256" /> |
     |Caustics| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Caustics.png?raw=true" width="256" /> |
     |Refractive| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_refractive.png?raw=true" width="256" /> | 
+	|Shimmer| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Shimmer.png?raw=true" width="256" /> |
+	|Shimmering| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Shimmering.png?raw=true" width="256" /> |
 
     </p></details>
 
@@ -111,6 +113,8 @@
     |Anisotropy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Anisotropy.png?raw=true" width="256" /> |
     |Carbonated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Carbonated.png?raw=true" width="256" /> |
     |Effervescent| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Effervescent.png?raw=true" width="256" /> |
+	|Icy| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Icy.png?raw=true" width="256" /> |
+	|Charred| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Charred.png?raw=true" width="256" /> |
     |Corrugated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Corrugated.png?raw=true" width="256" /> |
     |Perforated| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Perforated.png?raw=true" width="256" /> |
 

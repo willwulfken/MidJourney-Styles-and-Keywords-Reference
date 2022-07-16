@@ -254,6 +254,8 @@
 	|Painting by John Howe| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyJohnHowe.png?raw=true" width="256" /> |
 	|Painting by Hugh Ferriss| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyHughFerriss.png?raw=true" width="256" /> |
 	|Painting by Boris Smirnoff| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingbyBorisSmirnoff.png?raw=true" width="256" /> |
+	|Art By M.C. Escher| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Art_By_M.C._Escher.png?raw=true" width="256" /> |
+	|Painted by Squidward Tentacles| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_by_Squidward_Tentacles.png?raw=true" width="256" /> |
 
     </p>
   </p></details>
