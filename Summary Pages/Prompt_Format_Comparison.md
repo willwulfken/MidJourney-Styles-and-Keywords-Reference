@@ -116,10 +116,12 @@
 
 	
   </p></details>
-<br/><br/>
+<br/>
 
 
+---
 
+<br/>
 
 - <details><summary><b>📊 Charts 1 & 3 Combined:</b><p>🔤 Basic Prompt Formats & 🧊 "Made of" & "Style of" Charts Combined</p></summary><p>
 	
@@ -154,10 +156,12 @@
 
 	
   </p></details>
-<br/><br/>
+<br/>
 
 
+---
 
+<br/>
 
 - <details><summary><b>🎨 Artist Prompts:</b><p><i><style></i> | Art Made By <i><style></i> | sphere, Art Made By <i><style></i> | sphere Art Made By <i><style></i> | Painting By <i><style></i> | sphere, Painting By <i><style></i> | sphere in the style of <i><style></i></p></summary><p>
 	
@@ -166,9 +170,10 @@
 	| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 	| Alex Grey | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/ArtMadeByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-ArtMadeByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_ArtMadeByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/PaintingByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-PaintingByAlexGrey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofAlexGrey.png?raw=true" width="256" /> |
 	| Bob Ross | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/ArtMadeByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-ArtMadeByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_ArtMadeByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/PaintingByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-PaintingByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofBobRoss.png?raw=true" width="256" /> |
-
 	
   </deatils>
+
+<br/>
 
 ---
 ###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)

@@ -51,11 +51,17 @@
 
 ### Comparison Pages:
 
-- [⌨ Prompt Format Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison.md)
-- [🚀 Image Upscale Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Comparison.md)
-- [📏 Image Resolution Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison.md)
-- [🎛 Image Algorithm Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Algorithm_Comparison.md)
-- [🏋️‍ Image Weight Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Weight_Comparison.md)
+- Prompt Writing:
+  - [⌨ Prompt Format Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison.md)
+  - [🔠 Writing Text Prompt Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Writing_Text_Prompt_Comparison.md)
+- Image Resolution and Upscaling:
+  - [🚀 Image Upscale Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Comparison.md)
+  - [📏 Image Resolution Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison.md)
+- Image Generation Algorithms:
+  - [🎛 Image Algorithm Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Algorithm_Comparison.md)
+- Inputting Images in Prompt:
+  - [🏋️‍ Image Weight Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Weight_Comparison.md)
+
 ---
 
 ### Styles:
