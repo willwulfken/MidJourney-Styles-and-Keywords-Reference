@@ -20,4 +20,4 @@
 | Upscale (Light) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4.png?raw=true" width="256" /><p>256x256</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale_light.png?raw=true" width="512" /><p>1024x1024</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale_light_max.png?raw=true" width="512" /><p>1536x1536</p> |
 
 ---
-###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/README.md)
+###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md)
