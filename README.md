@@ -49,7 +49,7 @@
 
 ---
 
-### Summary and Comparison Pages:
+### Comparison Pages:
 
 - [⌨ Prompt Format Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison.md)
 - [🚀 Image Upscale Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Comparison.md)
