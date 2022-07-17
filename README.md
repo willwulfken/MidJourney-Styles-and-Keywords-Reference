@@ -53,7 +53,7 @@
 
 - Prompt Writing:
   - [⌨ Prompt Format Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison.md)
-  - [🔠 Writing Text Prompt Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Writing_Text_Prompt_Comparison.md)
+  - [🔠 Image With Written Text Prompt Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Writing_Text_Prompt_Comparison.md)
 - Image Resolution and Upscaling:
   - [🚀 Image Upscale Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Comparison.md)
   - [📏 Image Resolution Comparison](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison.md)

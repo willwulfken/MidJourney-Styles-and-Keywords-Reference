@@ -1,4 +1,4 @@
-## 🔠 Writing Text Prompt Comparison
+## 🔠 Image With Written Text Prompt Comparison
 ###### **seed 4776** is used for all images
 
 ---
