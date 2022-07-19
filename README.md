@@ -81,7 +81,7 @@
 		<th colspan="2">Prompt Writing</th>
 	</tr>
 	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison">⌨ Prompt Format Comparison</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></th>
 	</tr>
 	<tr>
