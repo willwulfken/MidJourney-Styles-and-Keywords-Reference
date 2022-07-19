@@ -124,4 +124,6 @@
 
 
 ---
-###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md)
+<div align="center">
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
+</div>

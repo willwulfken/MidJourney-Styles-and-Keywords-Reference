@@ -9,6 +9,8 @@
 
 <br/>
 
+<div align="center">
+
 | Prompt Format | *\<text>* | *"\<text>"*  | *'\<text>'* | *: \<text>* |
 | :----: | :----: | :----: | :----: | :----: |
 | Hello | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text/Hello.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text_With_Quotes/Hello.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text_With_Apostrophes/Hello.png?raw=true" width="256" /> | - |
@@ -23,7 +25,11 @@
 | Sign>*Hello* | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text/Sign^Hello.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text_With_Quotes/Sign^Hello.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text_With_Apostrophes/Sign^Hello.png?raw=true" width="256" /> | - |
 | *Hello*>Sign | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text/Hello^Sign.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text_With_Quotes/Hello^Sign.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text_With_Apostrophes/Hello^Sign.png?raw=true" width="256" /> | - |
 
+</div>
+
 <br/>
 
 ---
-###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md)
+<div align="center">
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
+</div>

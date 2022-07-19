@@ -3,57 +3,166 @@
 
 ---
 
-- <details><summary><b>📏 Preset Resolutions</summary><p>
+<br/>
 
-	| Parameter | Image |
-	| :----: | :----: |
-    | --wallpaper | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--wallpaper.png?raw=true" width="1920" /><p>```1920x1024 (hd)```</p> |
-    | --ll | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--ll.png?raw=true" width="768" /><p>```768x512 (hd)```</p> |
-    | --ml | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--ml.png?raw=true" width="448" /><p>```448x320```</p> |
-    | --sl | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--sl.png?raw=true" width="320" /><p>```320x256```</p> |
-    | --lp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--lp.png?raw=true" width="512" /><p>```512x768 (hd)```</p> |
-    | --mp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--mp.png?raw=true" width="320" /><p>```320x448```</p> |
-    | --sp | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--sp.png?raw=true" width="256" /><p>```256x320```</p> |
+- <details><summary><b>📏 Preset Resolutions</summary><p><div align="center">
 
-  </p></details>
+	<table>
+		<tr>
+			<td width=150 align=center>--wallpaper</td>
+			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--wallpaper.png?raw=true" width="1920" /><p><code>1920x1024 (hd)</code></p></td>
+		</tr>
+		<tr>
+			<td width=150 align=center>--ll</td>
+			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--ll.png?raw=true" width="768" /><p><code>768x512 (hd)</code></p></td>
+		</tr>
+		<tr>
+			<td width=150 align=center>--ml</td>
+			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--ml.png?raw=true" width="448" /><p><code>448x320</code></p></td>
+		</tr>
+		<tr>
+			<td width=150 align=center>--sl</td>
+			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--sl.png?raw=true" width="320" /><p><code>320x256</code></p></td>
+		</tr>
+		<tr>
+			<td width=150 align=center>--lp</td>
+			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--lp.png?raw=true" width="512" /><p><code>512x768 (hd)</code></p></td>
+		</tr>
+		<tr>
+			<td width=150 align=center>--mp</td>
+			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--mp.png?raw=true" width="320" /><p><code>320x448</code></p></td>
+		</tr>
+		<tr>
+			<td width=150 align=center>--sp</td>
+			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/_sphere_--sp.png?raw=true" width="256" /><p><code>256x320</code></p></td>
+		</tr>
+	</table>
+
+  </div></p></details>
 
 
 
-- <details><summary><b>🔳 Aspect Ratio Resolutions (--ar)</summary><p>
+- <details><summary><b>🔳 Aspect Ratio Resolutions (--ar)</summary><p><div align="center">
 
-	| Ratio | 1:x | 2:x | 3:x | 4:x | 5:x | 6:x | 7:x | 8:x | 9:x |
-	| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-	| x:1 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar1-1.png?raw=true" width="256" /><p>```512x512```</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar2-1.png?raw=true" width="512" /><p>```1024x512```</p> | | | | | | | |
-	| x:2 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar1-2.png?raw=true" width="256" /><p>```512x1024```</p> | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar3-2.png?raw=true" width="384" /><p>```768x512```</p> | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar5-2.png?raw=true" width="640" /><p>```1280x512```</p> | | | | |
-	| x:3 | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar2-3.png?raw=true" width="256" /><p>```512x768```</p> | | | | | | | |
-	| x:4 | | | | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar5-4.png?raw=true" width="320" /><p>```640x512```</p> | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar7-4.png?raw=true" width="448" /><p>```896x512```</p> | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar9-4.png?raw=true" width="576" /><p>```1152x512```</p> |
-	| x:5 | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar2-5.png?raw=true" width="256" /><p>```512x1280```</p> | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar4-5.png?raw=true" width="256" /><p>```512x640```</p> | | | | | |
-	| x:6 | | | | | | | | | |
-	| x:7 | | | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar4-7.png?raw=true" width="256" /><p>```512x896```</p> | | | | | |
-	| x:8 | | | | | | | | | |
-	| x:9 | | | | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar4-9.png?raw=true" width="256" /><p>```512x1152```</p> | | | | | |
+	<table>
+		<tr align=center valign=middle>
+			<th colspan="11">Width Ratio</th>
+		</tr>
+		<tr align=center valign=middle>
+			<th rowspan="10">Height Ratio</th>
+			<th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th>
+		</tr>
+		<tr align=center valign=middle>
+			<th>1</th>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar1-1.png?raw=true" width="256" /><p><code>512x512</code></p></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar2-1.png?raw=true" width="512" /><p><code>1024x512</code></p></td>
+			<td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr>
+		<tr align=center valign=middle>
+			<th>2</th>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar1-2.png?raw=true" width="256" /><p><code>512x1024</code></p></td>
+			<td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar3-2.png?raw=true" width="384" /><p><code>768x512</code></p></td>
+			<td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar5-2.png?raw=true" width="640" /><p><code>1280x512</code></p></td>
+			<td></td><td></td><td></td><td></td>
+		</tr>
+		<tr align=center valign=middle>
+			<th>3</th><td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar2-3.png?raw=true" width="256" /><p><code>512x768</code></p></td>
+			<td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr>
+		<tr align=center valign=middle>
+			<th>4</th><td></td><td></td><td></td><td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar5-4.png?raw=true" width="320" /><p><code>640x512</code></p></td>
+			<td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar7-4.png?raw=true" width="448" /><p><code>896x512</code></p></td>
+			<td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar9-4.png?raw=true" width="576" /><p><code>1152x512</code></p></td>
+		</tr>
+		<tr align=center valign=middle>
+			<th>5</th><td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar2-5.png?raw=true" width="256" /><p><code>512x1280</code></p></td>
+			<td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar4-5.png?raw=true" width="256" /><p><code>512x640</code></p></td>
+			<td></td><td></td><td></td><td></td><td></td>
+		</tr>
+		<tr align=center valign=middle>
+			<th>6</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr>
+		<tr align=center valign=middle>
+			<th>7</th><td></td><td></td><td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar4-7.png?raw=true" width="256" /><p><code>512x896</code></p></td>
+			<td></td><td></td><td></td><td></td><td></td>
+		</tr>
+		<tr align=center valign=middle>
+			<th>8</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr>
+		<tr align=center valign=middle>
+			<th>9</th><td></td><td></td><td></td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_ar4-9.png?raw=true" width="256" /><p><code>512x1152</code></p></td>
+			<td></td><td></td><td></td><td></td><td></td>
+		</tr>
+	</table>
 
-  </p></details>
+  </div></p></details>
 
 
 
-- <details><summary><b>📐 Square Resolutions (--w --h)</summary><p>
-  
-	| Resolution | Image |
-	| :----: | :----: |
-	| 64x64 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh64.png?raw=true" width="64" /> |
-	| 128x128 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh128.png?raw=true" width="128" /> |
-	| 192x192 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh192.png?raw=true" width="192" /> |
-	| 256x256 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh256.png?raw=true" width="256" /> |
-	| 320x320 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh320.png?raw=true" width="320" /> |
-	| 384x384 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh384.png?raw=true" width="384" /> |
-	| 512x512 (--hd) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh512_hd.png?raw=true" width="512" /> |
-	| 640x640 (--hd) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh640_hd.png?raw=true" width="640" /> |
-	| 768x768 (--hd) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh768_hd.png?raw=true" width="768" /> |
-	| 896x896 (--hd) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh896_hd.png?raw=true" width="896" /> |
-	| 1280x1280 (--hd) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh1280_hd.png?raw=true" width="1280" /> |
+- <details><summary><b>📐 Square Resolutions (--w --h)</summary><p><div align="center">
 
-  </p></details>
+	<table>
+		<tr align=center valign=middle>
+			<td width="150">64x64</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh64.png?raw=true" width="64" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">128x128</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh128.png?raw=true" width="128" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">192x192</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh192.png?raw=true" width="192" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">256x256</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh256.png?raw=true" width="256" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">320x320</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh320.png?raw=true" width="320" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">384x384</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh384.png?raw=true" width="384" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">512x512 (--hd)</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh512_hd.png?raw=true" width="512" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">640x640 (--hd)</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh640_hd.png?raw=true" width="640" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">768x768 (--hd)</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh768_hd.png?raw=true" width="768" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">896x896 (--hd)</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh896_hd.png?raw=true" width="896" /></td>
+		</tr>
+		<tr align=center valign=middle>
+			<td width="150">1280x1280 (--hd)</td>
+			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Resolution%20Comparison/sphere_wh1280_hd.png?raw=true" width="1280" /></td>
+		</tr>
+	</table>
+
+  </div></p></details>
+
+<br/>
 
 ---
-###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md)
+<div align="center">
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
+</div>

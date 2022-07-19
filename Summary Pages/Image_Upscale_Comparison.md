@@ -7,7 +7,8 @@
 ---
 
 <br/>
-<p><div align="center">
+
+<div align="center">
 
 | Upscale Type | Original Image | Normal Upscale | Max Upscale |
 | :----: | :----: | :----: | :----: |
@@ -20,7 +21,11 @@
 | Upscale (Regular) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4.png?raw=true" width="256" /><p>```256x256```</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale.png?raw=true" width="512" /><p>```1024x1024```</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale_max.png?raw=true" width="512" /><p>```1664x1664```</p> |
 | Upscale (Light) | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4.png?raw=true" width="256" /><p>```256x256```</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale_light.png?raw=true" width="512" /><p>```1024x1024```</p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Image%20Upscale%20Summary/sphere_4_upscale_light_max.png?raw=true" width="512" /><p>```1536x1536```</p> |
 
-<p>
+</div>
+
+<br/>
 
 ---
-###### [⬅ Go Back](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md)
+<div align="center">
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
+</div>
