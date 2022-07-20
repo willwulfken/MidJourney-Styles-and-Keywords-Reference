@@ -18,7 +18,7 @@
         <th><i>"&#60;text&#62;"</i></th>
         <th><i>'&#60;text&#62;'</i></th>
         <th><i>: &#60;text&#62;</i></th>
-        <th><i>&#60;"text"&#62;::&#60;prompt&#62;</i></th>
+        <th><i>"&#60;text&#62;"::&#60;prompt&#62;</i></th>
     </tr>
     <tr align=center valign=middle>
         <td>Hello</td>
@@ -61,7 +61,7 @@
         <th><i>"&#60;text&#62;"</i></th>
         <th><i>'&#60;text&#62;'</i></th>
         <th><i>: &#60;text&#62;</i></th>
-        <th><i>&#60;"text"&#62;::&#60;prompt&#62;</i></th>
+        <th><i>"&#60;text&#62;"::&#60;prompt&#62;</i></th>
     </tr>
     <tr align=center valign=middle>
         <td>Sign With Written Letters <i>Hello</i></td><td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text/Sign_With_Written_Letters_Hello.png?raw=true" width="256" /></td><td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text_With_Quotes/Sign_With_Written_Letters_Hello.png?raw=true" width="256" /></td><td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text_With_Apostrophes/Sign_With_Written_Letters_Hello.png?raw=true" width="256" /></td><td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Writing%20Text%20Prompt%20Comparison/Text_With_Colon/Sign_With_Written_Letters_Hello.png?raw=true" width="256" /></td>
