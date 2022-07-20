@@ -16,7 +16,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/--no%20Comparison/sphere,_--no_color.png?raw=true" width="256" /><p><code>sphere, Colorful --no color</code></p></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/--no%20Comparison/sphere_--no_color.png?raw=true" width="256" /><p><code>sphere --no color</code></p></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/--no%20Comparison/sphere,_Colorful_--no_red.png?raw=true" width="256" /><p><code>sphere, Colorful --no red</code></p></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/--no%20Comparison/sphere,_Colorful_--no_green.png?raw=true" width="256" /><p><code>sphere, Colorful --no green</code></p></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/--no%20Comparison/sphere,_Colorful_--no_blue.png?raw=true" width="256" /><p><code>sphere, Colorful --no blue</code></p></td>

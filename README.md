@@ -85,6 +85,9 @@
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></th>
 	</tr>
 	<tr>
+		<th colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/No_Parameter_Comparison.md">🚫 --no Parameter</a></th>
+	</tr>
+	<tr>
 		<th colspan="2">Image Resolution and Upscaling</tdh>
 	</tr>
 	<tr>
