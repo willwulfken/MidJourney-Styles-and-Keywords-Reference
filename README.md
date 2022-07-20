@@ -77,30 +77,34 @@
 
 
 <table>
-	<tr>
-		<th colspan="2">Prompt Writing</th>
+	<tr align=center valign=middle>
+		<th colspan="2" width=550>Prompt Writing</th>
+	</tr>
+	<tr align=center valign=middle>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/No_Parameter_Comparison.md">🚫 --no Parameter</a></td>
+	</tr>
+</table>
+<table>
+	<tr align=center valign=middle>
+		<th colspan="2" width=550>Image Resolution and Upscaling</tdh>
 	</tr>
 	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></th>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></td>
 	</tr>
-	<tr>
-		<th colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/No_Parameter_Comparison.md">🚫 --no Parameter</a></th>
+</table>
+<table>
+	<tr align=center valign=middle>
+		<th width=275>Image Generation Algorithms</th>
+		<th width=275>Prompting With Images</th>
 	</tr>
-	<tr>
-		<th colspan="2">Image Resolution and Upscaling</tdh>
-	</tr>
-	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a></td>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></td>
-	</tr>
-	<tr>
-		<th>Image Generation Algorithms</th>
-		<th>Prompting With Images</th>
-	</tr>
-	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></td>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></td>
+	<tr align=center valign=middle>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></td>
 	</tr>
 </table>
 
