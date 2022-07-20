@@ -10,6 +10,7 @@
 
 <br/>
 
+<div align="center">
 
 - <details><summary><b>🔤 Basic Prompt Formats:</b><p><i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere | sphere::<i><style></i></summary></p><p><div align="center">
 	
@@ -145,6 +146,7 @@
 	
   </div></p></deatils>
 
+</div>
 
 <br/>
 

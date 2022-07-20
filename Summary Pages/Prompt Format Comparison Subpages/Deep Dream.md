@@ -3,6 +3,8 @@
 
 ---
 
+<div align="center">
+
 |  | <p>```Deep Dream```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/DeepDream.png?raw=true" width="256" /></p> |  |
 | :----: | :----: | :----: |
 | <p>```sphere Deep Dream```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_DeepDream.png?raw=true" width="256" /></p> | <p>```sphere, Deep Dream```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-DeepDream.png?raw=true" width="256" /></p> | - |
@@ -13,6 +15,7 @@
 
 <br/>
 
+</div>
 
 ---
 <div align="center">
