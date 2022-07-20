@@ -10,8 +10,6 @@
 
 <br/>
 
-<div align="center">
-
 - <details><summary><b>🔤 Basic Prompt Formats:</b><p><i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere | sphere::<i><style></i></summary></p><p><div align="center">
 	
 
@@ -145,8 +143,6 @@
 	| Bob Ross | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/ArtMadeByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-ArtMadeByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_ArtMadeByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/PaintingByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-PaintingByBobRoss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofBobRoss.png?raw=true" width="256" /> |
 	
   </div></p></deatils>
-
-</div>
 
 <br/>
 
