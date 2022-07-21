@@ -10,7 +10,7 @@
 
 <br/>
 
-- <details><summary><b>🔤 Basic Prompt Formats:</b><p><i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere | sphere::<i><style></i></summary></p><p><div align="center">
+- <details><summary><b>🔤 Basic Prompt Formats:</b><p color=lightgray><i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere | sphere::<i><style></i></p></summary><p><div align="center">
 	
 
 	| Style Used | *\<style>* | sphere *\<style>*  | sphere, *\<style>* | *\<style>* sphere | sphere::*\<style>* |
@@ -50,7 +50,7 @@
 
 
 
-- <details><summary><b>🔣 Other Punctuation Prompt Formats:</b><p><i><style></i> | sphere; <i><style></i> | sphere:<i><style></i> | <i><style></i> - sphere | sphere (<i><style></i>)</p></summary><p><div align="center">
+- <details><summary><b>🔣 Other Punctuation Prompt Formats:</b><p color=lightgray><i><style></i> | sphere; <i><style></i> | sphere:<i><style></i> | <i><style></i> - sphere | sphere (<i><style></i>)</p></summary><p><div align="center">
 	
 
 	| Style Used | *\<style>* | sphere; *\<style>*  | sphere:*\<style>* | sphere - *\<style>* | sphere (*\<style>*)|
@@ -90,7 +90,7 @@
 
 
 
-- <details><summary><b>🧊 "Made of" & "Style of" Prompt Formats:</b><p> <i><style></i> | sphere in the style of <i><style></i> | sphere made of <i><style></i> | <i><style></i> of a sphere</p></summary><p><div align="center">
+- <details><summary><b>🧊 "Made of" & "Style of" Prompt Formats:</b><p color=lightgray> <i><style></i> | sphere in the style of <i><style></i> | sphere made of <i><style></i> | <i><style></i> of a sphere</p></summary><p><div align="center">
 	
 
 	| Style Used | *\<style>* | sphere in the style of *\<style>*  | sphere made of *\<style>* | *\<style>* of a sphere |
@@ -134,7 +134,7 @@
 
 
 
-- <details><summary><b>🎨 Artist Prompts:</b><p><i><style></i> | Art Made By <i><style></i> | sphere, Art Made By <i><style></i> | sphere Art Made By <i><style></i> | Painting By <i><style></i> | sphere, Painting By <i><style></i> | sphere in the style of <i><style></i></p></summary><p><div align="center">
+- <details><summary><b>🎨 Artist Prompts:</b><p color=lightgray><i><style></i> | Art Made By <i><style></i> | sphere, Art Made By <i><style></i> | sphere Art Made By <i><style></i> | Painting By <i><style></i> | sphere, Painting By <i><style></i> | sphere in the style of <i><style></i></p></summary><p><div align="center">
 	
 
 	| Style Used | Art Made By *\<artist>* | sphere, Art Made By *\<artist>* | sphere Art Made By *\<artist>* | Painting By *\<artist>* | sphere, Painting By *\<artist>* | sphere in the style of *\<artist>* |
