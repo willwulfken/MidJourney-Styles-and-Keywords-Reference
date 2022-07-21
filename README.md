@@ -153,4 +153,9 @@
 </table>
 </div>
 
-<br>
+<br/>
+
+---
+<div align="center">
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Sitemap.md">🗺 Sitemap</a></h6>
+</div>

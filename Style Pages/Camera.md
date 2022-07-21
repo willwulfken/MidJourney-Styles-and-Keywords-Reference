@@ -108,7 +108,7 @@
 	</p></details>
 
 
-- <details><summary>📷🏞 Lenses and Perspective</summary><p><div align="center">
+- <details><summary>📷🔭 Lenses</summary><p><div align="center">
 
 	| Macro | Macro View | Magnification |
 	| :-: | :-: | :-: |
@@ -133,7 +133,18 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_wideangle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ultra-wideangle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_360angle.png?raw=true" width="256" /> |
 
 	<br/>
+
+	| Fisheye Lens | Fisheye Lens Effect |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fisheye_Lens.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fisheye_Lens_Effect.png?raw=true" width="256" /> |
 	
+	<br/>
+
+	</p></details>
+
+
+- <details><summary>📷🛤️ Perspective</summary><p><div align="center">
+
 	| Top-View | Side-View | Satellite-View |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_top-view.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_side-view.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_satellite-view.png?raw=true" width="256" /> |
@@ -155,12 +166,6 @@
 	| Third-Person | Third-Person View | Product-View |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_third-person.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_third-personview.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_product-view.png?raw=true" width="256" /> |
-	
-	<br/>
-	
-	| Fisheye Lens | Fisheye Lens Effect |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fisheye_Lens.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fisheye_Lens_Effect.png?raw=true" width="256" /> |
 	
 	<br/>
 	
