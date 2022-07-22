@@ -8,9 +8,9 @@
 	
 	<br/>
 	
-	| 32k | Super-Resolution | Megapixel |
-	| :-: | :-: | :-: |
-	|  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_32k.png?raw=true" width="256" />	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Super-resolution.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Megapixel.png?raw=true" width="256" /> |
+	| 32k | Super-Resolution |
+	| :-: | :-: |
+	|  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_32k.png?raw=true" width="256" />	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Super-resolution.png?raw=true" width="256" /> |
 	
 	<br/>
 	

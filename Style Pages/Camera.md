@@ -242,6 +242,15 @@
 	</p></details>
 
 
+- <details><summary>📷◻ Megapixel Resolutions</summary><p><div align="center">
+
+	| Megapixel |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Megapixel.png?raw=true" width="256" /> |
+
+  </p></details>
+
+
 - <details><summary>📷 Other</summary><p><div align="center">
 
 	| Lens Flare | Vignette | Split Toning |

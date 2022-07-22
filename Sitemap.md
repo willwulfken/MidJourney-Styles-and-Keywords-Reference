@@ -245,6 +245,7 @@
           - <p>📷🛤️ Perspective</p>
           - <p>📷➰ Blur and Distortion</p>
           - <p>📷⚙ Camera Settings (Aperture, Exposure, Color and White Balance, etc.)</p>
+          - <p>📷◻ Megapixel Resolutions</p>
           - <p>📷 Other</p>
         
           </p></details></p>
