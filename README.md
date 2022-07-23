@@ -139,11 +139,11 @@
 	</tr>
 	<tr>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Computer_Display.md">🖥 Computer Display and Color Models</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Camera.md">📷 Camera, Film Types, Lenses, Perspective, etc.</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Camera.md">📷 Camera, Film Types, Lenses, and Perspective</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Dimensionality.md">🌌 Dimensionality</a></th>
 	</tr>
 	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Geometry.md">💠 Geometry</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Geometry.md">💠 Geometry, Topology, and Structural Modification</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Intangibles.md">➰ Intangibles</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Experimental.md">🧪 Experimental</a></th>
 	</tr>

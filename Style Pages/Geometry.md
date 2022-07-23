@@ -1,6 +1,8 @@
-## 💠 Geometry
+## 💠 Geometry, Topology, and Structural Modification
 
-- <details><summary>💠⬜ 2D Shapes</summary><p><div align="center">
+- <details><summary>💠 Geometry</summary><p>
+
+  - <details><summary>💠⬜ 2D Shapes</summary><p><div align="center">
 
 	| Point | Dot |
 	| :-: | :-: |
@@ -51,7 +53,7 @@
 	</p></details>
 
 
-- <details><summary>💠🧊 3D Shapes</summary><p><div align="center">
+  - <details><summary>💠🧊 3D Shapes</summary><p><div align="center">
 
 	| Cube | Cuboid |
 	| :-: | :-: |
@@ -144,7 +146,7 @@
 	</p></details>
 
 
-- <details><summary>💠🔲 4D Hyper Shapes</summary><p><div align="center">
+  - <details><summary>💠🔲 4D Hyper Shapes</summary><p><div align="center">
 
 	| Hypercube | Hyperprism |
 	| :-: | :-: |
@@ -177,7 +179,7 @@
 	</p></details>
 
 
-- <details><summary>💠〰 Degenerate Shapes</summary><p><div align="center">
+  - <details><summary>💠〰 Degenerate Shapes</summary><p><div align="center">
 
 	| Monogon | Digon |
 	| :-: | :-: |
@@ -186,7 +188,7 @@
 	</p></details>
 
 
-- <details><summary>💠⏹ Geometric Styles</summary><p><div align="center">
+  - <details><summary>💠⏹ Geometric Styles</summary><p><div align="center">
 
 	| Geometric | Non-Euclidian |
 	| :-: | :-: |
@@ -213,7 +215,7 @@
 	</p></details>
 
 
-- <details><summary>💠⏺ Geometric Properties</summary><p><div align="center">
+  - <details><summary>💠⏺ Geometric Properties</summary><p><div align="center">
 
 	| Vertex | Edge | Surface |
 	| :-: | :-: | :-: |
@@ -266,6 +268,130 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Geometry/sphere_Polytope.png?raw=true" width="256" /> |
 
 	</p></details>
+
+  </p></details>
+
+
+
+- <details><summary>💠➰ Topology and Structural Modification</summary><p>
+
+  - <details><summary>💠➰ Spirals</summary><p><div align="center">
+
+	| Whirl | Spiraling | Spiral |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Whirl.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Spiraling.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Spiral.png?raw=true" width="256" /> |
+	
+	<br/>
+
+	| Hyperbolic Spiral | Euler Spiral | Fermat's Spiral |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Hyperbolic_spiral.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Euler_spiral.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fermats_spiral.png?raw=true" width="256" /> |
+
+    <br/>
+
+    | Logarithmic Spiral | Doyle Spiral | Triskelion |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Logarithmic_spiral.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Doyle_spiral.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Triskelion.png?raw=true" width="256" /> |
+
+    <br/>
+
+    | Spiral of Theodorus | Archimedean Spiral | Golden Spiral |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Spiral_of_Theodorus.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Archimedean_spiral.png?raw=true" width="256"/> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Golden_spiral.png?raw=true" width="256" /> |
+
+    <br/>
+
+    | Spiral Stairs | Spiral Staircase |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Spiral_Stairs.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Spiral_Staircase.png?raw=true" width="256" /> |
+
+	<br/>
+
+
+
+	</p></details>
+
+
+
+  - <details><summary>💠〰 Curves and Waves</summary><p><div align="center">
+
+	| Curvaceous | Curvilinear | Sinuous |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Curvaceous.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Curvilinear.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sinuous.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Dimpled | Incurved | Incurvate |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Dimpled.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Incurved.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Incurvate.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Arched | Arciform |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Arched.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Arciform.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Arrondi | Sigmoid |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Arrondi.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sigmoid.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Serpentine |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Serpentine.png?raw=true" width="256" /> |
+
+	</p></details>
+
+
+
+  - <details><summary>💠⭕ Circular</summary><p><div align="center">
+
+	| Concentric | Concentric Circles | Concentric Rings |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Concentric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Concentric_Circles.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Concentric_Rings.png?raw=true" width="256" /> |
+
+	| Concentric Spheres | Contour |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Concentric_Spheres.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Contour.png?raw=true" width="256" /> |
+
+	| Circinate | Orbicular | Oblique |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Circinate.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Orbicular.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Oblique.png?raw=true" width="256" /> |
+
+	</p></details>
+
+  </p></details>
+
+
+
+- <details><summary>💠 Other</summary><p><div align="center">
+
+	| Zig-Zag | Deflate | Inflate |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Deflate.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Inflate.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Zig-Zag.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Incline | Declinate | Biflected |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Incline.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Declinate.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Biflected.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Knot | Unknot | Entangled |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Knot.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Unknot.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Entangled.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Hollow | Enbowed |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Hollow.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Enbowed.png?raw=true" width="256" /> |
+
+  </p></details>
 
 ---
 <div align="center">

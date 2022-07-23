@@ -15,6 +15,12 @@
 
 	<br/>
 	
+	| Painted By Adolph Menzel | Painted By Alexei Savrasov | Panted By Andrew Wyeth |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Adolph_Menzel.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alexei_Savrasov.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Andrew_Wyeth.png?raw=true" width="256" /> |
+
+	<br/>
+
 	| Painting by Vilhelm Hammershoi |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyVilhelmHammershoi.png?raw=true" width="256" /> |
@@ -24,9 +30,9 @@
 
 - <details><summary>📔❇ Surrealism</summary><p><div align="center">
 
-	| Painting by Salvador Dali | Painting by Pablo Picasso |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbySalvadorDali.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByPabloPicasso.png?raw=true" width="256" /> |
+	| Painting by Salvador Dali | Painting by Pablo Picasso | Painted By Andre Masson |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbySalvadorDali.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByPabloPicasso.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Andre_Masson.png?raw=true" width="256" /> |
 	
 	<br/>
 	
@@ -36,6 +42,7 @@
 
   </p></details>
   
+
 - <details><summary>📔🔆 Idealism</summary><p><div align="center">
 
 	| <small><br/></small>Painting by Jean Delville<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
@@ -44,11 +51,27 @@
 
   </p></details>
 
+
 - <details><summary>📔💮 Abstract</summary><p><div align="center">
 
 	| Painting by Wassily Kandinsky | Painting by Marcia Santore |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingByWassilyKandinsky.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingbyMarciaSantore.png?raw=true" width="256" /> |
+
+  </p></details>
+
+
+- <details><summary>📔🧬 Modernism</summary><p><div align="center">
+
+	| Painted By Lawrence Pelton | Painted By Amanda Sage |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Lawrence_Pelton.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Amanda_Sage.png?raw=true" width="256" /> |
+
+	<br/>
+
+    | Painted By Amedeo Modigliani |
+    | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Amedeo_Modigliani.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -64,9 +87,9 @@
 
 - <details><summary>📔⚜ Art Nouveau</summary><p><div align="center">
 
-	| Painting by Wes Anderson |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyWesAnderson.png?raw=true" width="256" /> |
+	| Painting by Wes Anderson | Painted By Alphonso Mucha |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyWesAnderson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alphonso_Mucha.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -76,6 +99,21 @@
 	| Painting by Albert Bierstadt | Painting by Thomas Kinkade |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyAlbertBierstadt.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyThomasKinkade.png?raw=true" width="256" /> |
+
+  </p></details>
+
+
+- <details><summary>📔🦋 Expressionism</summary><p><div align="center">
+
+    | Painted By Affadi | Painted By Alexej Von Jawlensky | Painted By Alice Neel |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Affadi.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alexej_von_Jawlensky.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alice_Neel.png?raw=true" width="256" /> |
+
+    <br/>
+
+    | Painted By Alyssa Monks | Painted By Alfred Kubin |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alyssa_Monks.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alfred_Kubin.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -91,9 +129,15 @@
 
 - <details><summary>📔⬛ Gothic</summary><p><div align="center">
 
-	| Painting by Gerald Brom | Painting by Grant Wood |
+	| Painted By Anne Stokes | Painting by Gerald Brom |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyGeraldBrom.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyGrantWood.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Anne_Stokes.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyGeraldBrom.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Painting by Grant Wood | Painted By Albrecht Durer |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyGrantWood.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Albrecht_Durer.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -109,18 +153,18 @@
 
 - <details><summary>📔🔴 Pop Art</summary><p><div align="center">
 
-	| Painting by David Hockney |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyDavidHockney.png?raw=true" width="256" /> |
+	| Painted By Andy Worhol | Painting by David Hockney |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Andy_Worhol.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyDavidHockney.png?raw=true" width="256" /> |
 
   </p></details>
 
 
 - <details><summary>📔🧿 Concept Art</summary><p><div align="center">
 
-	| Painting by Marc Simonetti |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyMarcSimonetti.png?raw=true" width="256" /> |
+	| Painting by Marc Simonetti | Painted By Alan Lee |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyMarcSimonetti.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alan_Lee.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -148,6 +192,15 @@
 	| Painting by Canaletto |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyCanaletto.png?raw=true" width="256" /> |
+
+  </p></details>
+
+
+- <details><summary>📔🏘 Baroque</summary><p><div align="center">
+
+	| Painted By Annibale Carracci | Painted By Anthony Van Dyck |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Annibale_Carracci.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Anthony_Van_Dyck.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -241,6 +294,7 @@
 
   </p></details>
 
+
 - <details><summary>📔🖼 Instagram Artist</summary><p><div align="center">
 	
 	| Uon.visuals | Art by Uon.visuals |
@@ -261,13 +315,71 @@
 
   </p></details>
 
+
+- <details><summary>📔🖼 Artstation Artist</summary><p><div align="center">
+
+    | Painted By Annton Fadeev | Painted By Alena Aenami |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Annton_Fadeev.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alena_Aenami.png?raw=true" width="256" /> |
+
+	<br/>
+
+    | Painted By Andreas Rocha | Painted By Aleksi Briclot |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Andreas_Rocha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Aleksi_Briclot.png?raw=true" width="256" /> |
+
+  </p></details>
+
+
 - <details><summary>📔🈯 Manga</summary><p><div align="center">
 
 	| <small><br/></small>Painting by Junji Ito<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney%20Styles%20(sphere)/sphere_ArtByJunjiIto.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Painted By Akihiko Yoshida | Painted By Anton Pieck |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Akihiko_Yoshida.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Anton_Pieck.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Painted By Angus McKie | Painted By Akari Toriyama | Painted By Al Williamson |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Angus_McKie.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Akari_Toriyama.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Al_Williamson.png?raw=true" width="256" /> |
 	
   </p></details>
+
+
+- <details><summary>📔🗿 Non-Painters</summary><p>
+
+    - <details><summary>📔🗿 Sculptors</summary><p><div align="center">
+
+        | Art By Alberto Giacometti | Art By Alexander Milne Calder |
+        | :-: | :-: |
+        | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Art_By_Alberto_Giacometti.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Art_By_Alexander_Milne_Calder.png?raw=true" width="256" /> |
+
+      </p></details>
+
+    - <details><summary>📔📷 Photographers</summary><p><div align="center">
+
+        | Art By Anne Geddes |
+        | :-: |
+        | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Art_By_Anne_Geddes.png?raw=true" width="256" /> |
+
+      </p></details>
+
+    - <details><summary>📔✍ Writers</summary><p><div align="center">
+
+        | Art By Anne McCaffrey |
+        | :-: |
+        | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Art_By_Anne_McCaffrey.png?raw=true" width="256" /> |
+
+      </p></details>
+
+  </p></details>
+
 
 - <details><summary>📔 Other</summary><p><div align="center">
 
@@ -277,9 +389,21 @@
 	
 	<br/>
 	
-	| Painting by Hugh Ferriss | Painting by Boris Smirnoff |
+	| Painting by Boris Smirnoff | Painted By Anton Otto |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyHughFerriss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingbyBorisSmirnoff.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_PaintingbyBorisSmirnoff.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Anton_Otto.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Painted By Alexander Jansson | Painted By Ansel Adams |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alexander_Jansson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Ansel_Adams.png?raw=true" width="256" /> |
+
+	<br/>
+
+	| Painted By Anna Dittmann | Painting by Hugh Ferriss | Painted By Alexandre Cabanel |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Anna_Dittmann.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_paintingbyHughFerriss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Painted_By_Alexandre_Cabanel.png?raw=true" width="256" /> |
 
 	<br/>
 	

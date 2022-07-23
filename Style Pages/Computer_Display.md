@@ -22,7 +22,7 @@
 
 
 
-- <details><summary>🖥🎨 Color Models and Graphics Adapter Palettes</summary><p><div align="center">
+- <details><summary>🖥🎨 Color Models</summary><p><div align="center">
 
 	| RGB | scRGB | CMYK |
 	| :-: | :-: | :-: |
@@ -52,12 +52,6 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_AdobeRGB.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_ProPhotoRGB.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Pantone.png?raw=true" width="256" /> |
 
-	<br/>
-	
-	| Atari Graphics | IIGS Graphics | Amiga OCS Graphics |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_AtariGraphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_IIGSGraphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_AmigaOCSGraphics.png?raw=true" width="256" /> |
-	
 	<br/>
 	
 	| YCbCr | YPbPr | Coloroid |

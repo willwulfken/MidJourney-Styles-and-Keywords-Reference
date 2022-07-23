@@ -2,7 +2,7 @@
 
 <br/>
 
-<h6><i>Updated: 7/21/22 (Commit 223)</i></h6>
+<h6><i>Updated: 7/22/22 (Commit 230)</i></h6>
 
 <br/>
 
@@ -32,7 +32,9 @@
                 - <p>🎭💾 Retro/Modern<p>
                 - <p>🎭🪐 Sci-fi</p>
                 - <p>🎭🌎 Planets</p>
-                - <p>🎭⛄ Seasons</p>
+                - <p>🎭🎌 Countries and Nations</p>
+                - <p>🎭⛄ Seasons and Weather</p>
+                - <p>🎭🌞 Time of Day</p>
                 - <p>🎭⛩ Styles</p>
                 - <p>🎭🎪 Punk Styles (Steampunk, Cyberpunk, etc.)</p>
                 - <p>🎭 Other</p>
@@ -43,14 +45,14 @@
 
                 - <p>🖼🟧 Simplicity/Complexity</p>
                 - <p>🖼🎨 Patterns and Color Based Designs</p>
+                - <p>🖼✨ Elegance, Beauty, and Appeal</p>
                 - <p>🖼📊 Charts and Diagrams</p>
                 - <p>🖼🛹 Decade Styles</p>
                 - <p>🖼🎰 Morphism (Skeuomorphism, Glassmorphism, etc.)</p>
                 - <p>🖼🧊 Cubism</p>
                 - <p>🖼🦋 Expressionism</p>
                 - <p>🖼🔮 Neo</p>
-                - <p>🖼🌀 Psychedelic, Fractal, Noise, Hyperbolic, etc.</p>
-                - <p>🖼🕹 Video Game Styles</p>
+                - <p>🖼🌀 Psychedelic, Divine, Fractal, and Noise</p>
                 - <p>🖼💫 Stylized</p>
                 - <p>🖼 Other</p>
 
@@ -59,11 +61,18 @@
             - <p><details open><summary>🖥 Digital</summary><p>
 
                 - <p>🎮 Rendering Engines</p>
+                - <p>🖥🖼 Digital Styles</p>
+                - <p>🖥🎞 VFX and Video Companies</p>
                 - <p>🖥🎨 Art Programs and Applications</p>
                 - <p>🖥🖼 Image Formats and Types</p>
+                - <p>🖥🏁 Dithering</p>
                 - <p>🖥🌐 Websites</p>
                 - <p>🖥👩‍💻 Glitchy</p>
                 - <p>🖥🧠 AI and Neural Networks</p>
+                - <p>🖥👾 Game System Graphics</p>
+                - <p>🖥🕹 Video Game Styles</p>
+                - <p>🖥 Computer System Graphics</p>
+                - <p>🖥💽 Operating Systems</p>
                 - <p>🖥 Other</p>
 
               </p></details></p>
@@ -76,9 +85,11 @@
             - <p>📔❇ Surrealism</p>
             - <p>📔🔆 Idealism</p>
             - <p>📔💮 Abstract</p>
+            - <p>📔🧬 Modernism</p>
             - <p>📔➿ Post-Impressionism</p>
             - <p>📔⚜ Art Nouveau</p>
             - <p>📔🌄 Luminism</p>
+            - <p>📔🦋 Expressionism</p>
             - <p>📔🔳 Futurism</p>
             - <p>📔⬛ Gothic</p>
             - <p>📔☯ Psychedelic</p>
@@ -87,10 +98,21 @@
             - <p>📔❤ Romanticism</p>
             - <p>📔✡️ Renaissance</p>
             - <p>📔🌇 Vedute Painting Style</p>
+            - <p>📔🏘 Baroque</p>
             - <p>📔👁‍🗨 Dadaism</p>
             - <p>📔👁‍🗨 Neo-Dadaism</p>
             - <p>📔🖼 Instagram Artist</p>
+            - <p>📔🖼 Artstation Artist</p>
             - <p>📔🈯 Manga</p>
+
+            - <p><details open><summary>📔🗿 Non-Painters</p></summary><p>
+
+                - <p>📔🗿 Sculptors</p>
+                - <p>📔📷 Photographers</p>
+                - <p>📔✍ Writers</p>
+
+              </p></details>
+            
             - <p>📔 Other</p>
 
           </p></details></p>
@@ -223,6 +245,7 @@
         - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/SFX_and_Shaders.md">🌈 SFX, Post-Processing, and Shaders</a></summary><p>
         
           - <p>🌈🔍 Reflections</p>
+          - <p>🌈👓 Blurs</p>
           - <p>🌈💫 Stylized</p>
           - <p>🌈🕶 Shaders and Post Processing</p>
         
@@ -231,7 +254,7 @@
         - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Computer_Display.md">🖥 Comptuer Display and Color Models</a></summary><p>
         
           - <p>🖥📐 Resolution</p>
-          - <p>🖥🎨 Color Models and Graphics Adapter Palettes</p>
+          - <p>🖥🎨 Color Models</p>
           - <p>🖥🟩 1-bit - 16-bit</p>
           - <p>🖥 Other</p>
         
@@ -241,9 +264,9 @@
         
           - <p>📷🌇 Camera and Scenes</p>
           - <p>📷🌇 Camera and Film Types</p>
+          - <p>📷🎞 Film Sizes</p>
           - <p>📷🔭 Lenses</p>
           - <p>📷🛤️ Perspective</p>
-          - <p>📷➰ Blur and Distortion</p>
           - <p>📷⚙ Camera Settings (Aperture, Exposure, Color and White Balance, etc.)</p>
           - <p>📷◻ Megapixel Resolutions</p>
           - <p>📷 Other</p>
@@ -257,14 +280,28 @@
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Geometry.md">💠 Geometry</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Geometry.md">💠 Geometry, Topology, and Structural Modification</a></summary><p>
 
-          - <p>💠⬜ 2D Shapes</p>
-          - <p>💠🧊 3D Shapes</p>
-          - <p>💠🔲 4D Hyper Shapes</p>
-          - <p>💠〰 Degenerate Shapes</p>
-          - <p>💠⏹ Geometric Styles</p>
-          - <p>💠⏺ Geometric Properties</p>
+            - <p><details open><summary>💠 Geometry</p></summary><p>
+
+                - <p>💠⬜ 2D Shapes</p>
+                - <p>💠🧊 3D Shapes</p>
+                - <p>💠🔲 4D Hyper Shapes</p>
+                - <p>💠〰 Degenerate Shapes</p>
+                - <p>💠⏹ Geometric Styles</p>
+                - <p>💠⏺ Geometric Properties</p>
+
+              </p></details>
+
+            - <p><details open><summary>💠➰ Topology and Structural Modification</p></summary><p>
+
+                - <p>💠➰ Spirals</p>
+                - <p>💠〰 Curves and Waves</p>
+                - <p>💠⭕ Circular</p>
+
+              </p></details>
+
+            - <p>💠 Other</p>
         
           </p></details></p>
 
@@ -273,6 +310,7 @@
           - <p>➰😁 Emotions and Qualities</p>
           - <p>➰🧠 Concepts</p>
           - <p>➰☯ Symbols</p>
+          - <p>➰♓ Zodiac Signs</p>
           - <p>➰🔢 Number Systems</p>
         
           </p></details></p>
