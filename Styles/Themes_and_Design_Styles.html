@@ -68,6 +68,25 @@
                 border-top: none;
             }
 
+			/* Image Grid */
+			.grid-container {
+				display: flex;
+  				justify-content: center;
+				flex-wrap: wrap;
+				display: inline-grid;
+				grid-template-columns: auto auto auto;
+				grid-gap: 20px;
+			}
+
+			.grid-item {
+				/*make flex items shrink to fit the screen*/
+				flex-shrink: 0;
+				text-align: center;
+				font-size: 14px;
+				background-color: #131415;
+				border-radius: 5%;
+			}
+
 
 			/*-----------*/
 			/* Dark Mode */
@@ -134,7 +153,7 @@
         </style>
     </head>
     <body>
-
+		
         <div align="center">
 
             <h3>🖼 Themes and Design Styles</h3>
@@ -160,6 +179,22 @@
                 </div>
 
                 <div id="Themes_RealismAbstraction" class="subtabcontent">
+					<div class="grid-container">
+						<div class="grid-item">
+							<img class="grid-item" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_realistic.png?raw=true" width="256" />
+							<p>Realistic</p>
+						</div>
+						<div class="grid-item">
+							<img class="grid-item" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_hyperrealistic.png?raw=true" width="256" />
+							<p>Hyperrealistic</p>
+						</div>
+						<div class="grid-item">
+							<img class="grid-item" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Photorealistic.png?raw=true" width="256" />
+							<p>Photorealistic</p>
+						</div>
+					</div><br><br><br>
+
+
                     <table>
                         <tr align="center" valign="middle">
                             <td>
@@ -174,7 +209,7 @@
                         </tr>
                         <tr align="center" valign="middle">
                             <td>
-                            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_realistic.png?raw=true" width="256" />
+                            	<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_realistic.png?raw=true" width="256" />
                             </td>
                             <td>
                                 <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_hyperrealistic.png?raw=true" width="256" />
