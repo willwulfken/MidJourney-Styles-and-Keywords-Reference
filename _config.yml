@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
 markdown: kramdown
 plugins:
   - jekyll-relative-links
