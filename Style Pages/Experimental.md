@@ -1,4 +1,4 @@
-## 🧪 Experimental
+<h2>🧪 Experimental</h2>
 
 - <details><summary>📔 Made up Artists</summary><p><div align="center">
 
@@ -6,7 +6,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Artists/sphere_Painted_by_Vincent_Bob_Gray.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Artists/sphere_Painted_by_Redrick_J_Hubedrin.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Artists/sphere_Painted_by_Leandrew_Bengolstein.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Art by Rickolas Veneyfield | Art by Gandelif Jamarison |
 	| :-: | :-: |
@@ -22,19 +22,19 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Words/sphere_Flash-Traced.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Words/sphere_Glimmer-Traced.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Words/sphere_Halometric_Patterns.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Lumametric  | Nortonious |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Words/sphere_Lumametric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Words/sphere_Nortonious.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Proporastable | Prospeartented |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Words/sphere_Proporastable.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Experimental/Made_Up_Words/sphere_Prospeartented.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Psychromvolucence | Shimmavolucent | Transchromacy |
 	| :-: | :-: | :-: |
@@ -63,7 +63,7 @@
   </p></details>
 
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>

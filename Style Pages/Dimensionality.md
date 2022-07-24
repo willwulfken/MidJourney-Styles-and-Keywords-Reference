@@ -1,4 +1,4 @@
-## 🌌 Dimensionality
+<h2>🌌 Dimensionality</h2>
 
 - <details><summary>🌌 2D-5D</summary><p><div align="center">
 
@@ -6,25 +6,25 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_2-Dimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_2D.png?raw=true" width="256" /> | 
 	
-	<br/>
+	<br>
 	
 	| 2.5-Dimensional | 2.5D |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_2.5-Dimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_2.5D.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| 3-Dimensional | 3D |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_3-Dimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_3D.png?raw=true" width="256" /> | 
 	
-	<br/>
+	<br>
 	
 	| 4-Dimensional | 4D |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_4-Dimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_4D.png?raw=true" width="256" /> | 
 	
-	<br/>
+	<br>
 
 	| 5-Dimensional | 5D |
 	| :-: | :-: |
@@ -39,19 +39,19 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Overdimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Underdimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Hyperdimensional.png?raw=true" width="256" /> | 
 	
-	<br/>
+	<br>
 	
 	| Subdimensional | Everdimensional |  Omnidimensional|
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Subdimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Everdimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Omnidimensional.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Extradimensional | Beyond-Dimensional | Excessively-dimensional |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Extradimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Beyond-Dimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_excessively-dimensional.png?raw=true" width="256" /> | 
 	
-	<br/>
+	<br>
 	
 	| Alldimensional | Multiverse |
 	| :-: | :-: |
@@ -59,7 +59,7 @@
 
 	</p></details>
 	    
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>

@@ -1,4 +1,4 @@
-## 📦 Material Properties
+<h2>📦 Material Properties</h2>
 
 - <details><summary>📦🧫 Opacity</summary><p><div align="center">
 
@@ -15,7 +15,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_optics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_materiality.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_scattering.png?raw=true" width="256" /> | 
 	
-	<br/>
+	<br>
 	
 	| Ambient Occlusion | Opalescent |
 	| :-: | :-: |
@@ -30,43 +30,43 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_glowing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Glow-In-The-Dark.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Cherenkov_Radiation.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Bioluminescence | Photoluminescence | Chemiluminescence |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_bioluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Photoluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Chemiluminescence.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Cathodoluminescence | Electroluminescence | Radioluminescence |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Cathodoluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Electroluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Radioluminescence.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Fluorescence | Phosphorescence | Thermoluminescence |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fluorescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Phosphorescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Thermoluminescence.png?raw=true" width="256" /> |
 
-	<br/>
+	<br>
 	
 	| Electrochemiluminescence | Crystalloluminescence | Piezoluminescence |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Electrochemiluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Crystalloluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Piezoluminescence.png?raw=true" width="256" /> |
 
-	<br/>
+	<br>
 	
 	| Triboluminescence | Mechanoluminescence | Lyoluminescence |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Triboluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Mechanoluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Lyoluminescence.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Candoluminescence | Fractoluminescence | Sonoluminescence |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Candoluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Fractoluminescence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Sonoluminescence.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Translucidluminescence |
 	| :-: |
@@ -81,19 +81,19 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Rough.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_matte.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Glossy | Shiny | Polished |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_glossy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_shiny.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Polished.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Reflective | Refractive | Caustics |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_reflective.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_refractive.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Caustics.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Shimmer | Shimmering |
 	| :-: | :-: |
@@ -108,7 +108,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_iridescent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_dispersion.png?raw=true" width="256" /> | 
 	
-	<br/>
+	<br>
 	
 	| Chromatic | Prismatic |
 	| :-: | :-: |
@@ -123,7 +123,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_bumpmap.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_BumpMapped.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_BumpMapping.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Normal Map | Depth Map |
 	| :-: | :-: |
@@ -147,13 +147,13 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Anisotropy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Carbonated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Effervescent.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Icy | Charred |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Icy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/sphere_Charred.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Corrugated | Perforated |
 	| :-: | :-: |
@@ -161,7 +161,7 @@
 
 	</p></details>
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>

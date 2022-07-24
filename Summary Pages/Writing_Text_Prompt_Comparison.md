@@ -1,13 +1,13 @@
-## 🔠 Text In Image Comparison
-###### **seed 4776** is used for all images
+<h2>🔠 Text In Image Comparison</h2>
+<h6><b>seed 4776</b> is used for all images</h6>
 
----
+<hr><!--------------->
 
-###### [❔ How To Create an Image](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md#-creating-an-image)
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md#-creating-an-image">❔ How To Create an Image</a></h6>
 
----
+<hr><!--------------->
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -85,9 +85,9 @@
 
 </div>
 
-<br/>
+<br>
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>

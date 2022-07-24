@@ -1,23 +1,73 @@
-## ⌨ Prompt Format Comparison Summary
-#### Cyan
+<h2>⌨ Prompt Format Comparison Summary</h2>
+<h4>Cyan</h4>
 
----
+<hr><!--------------->
 
 <div align="center">
 
-|  | <p>```Cyan```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cyan.png?raw=true" width="256" /></p> |  |
-| :----: | :----: | :----: |
-| <p>```sphere Cyan```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_Cyan.png?raw=true" width="256" /></p> | <p>```sphere, Cyan```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-Cyan.png?raw=true" width="256" /></p> | <p>```Cyan sphere```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cyan_sphere.png?raw=true" width="256" /></p> |
-| <p>```sphere; Cyan```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-semicolon-Cyan.png?raw=true" width="256" /></p> | <p>```sphere:Cyan```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-colon-Cyan.png?raw=true" width="256" /></p> | <p>```sphere::Cyan```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-double_colon-Cyan.png?raw=true" width="256" /></p> |
-| <p>```sphere - Cyan```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_-_Cyan.png?raw=true" width="256" /></p> | <p>```sphere(Cyan)```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere(Cyan).png?raw=true" width="256" /></p> | <p>```sphere in the style of Cyan```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofCyan.png?raw=true" width="256" /></p> |
-| | <p>```sphere made of Cyan```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_madeofCyan.png?raw=true" width="256" /></p> | |
+<table>
+	<tr align=center valign=middle>
+		<th>
+			<br>
+		</th>
+		<th>
+			<p><code>Cyan</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cyan.png?raw=true" width="256" /></p>
+		</th>
+		<th>
+			<br>
+		</th>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere Cyan</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_Cyan.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere, Cyan</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-Cyan.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>Cyan sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/Cyan_sphere.png?raw=true" width="256" /></p>
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere; Cyan</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-semicolon-Cyan.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere:Cyan</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-colon-Cyan.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere::Cyan</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-double_colon-Cyan.png?raw=true" width="256" /></p>
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere - Cyan</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_-_Cyan.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere(Cyan)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere(Cyan).png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere in the style of Cyan</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofCyan.png?raw=true" width="256" /></p>
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<br>
+		</td>
+		<td>
+			<p><code>sphere made of Cyan</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_madeofCyan.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<br>
+		</td>
+</table>
 
 </div>
 
-<br/>
+<br>
 
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>

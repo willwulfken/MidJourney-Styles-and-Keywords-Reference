@@ -1,9 +1,9 @@
-# 🚫 --no Parameter
-###### **seed 4776** is used for all images
+<h2>🚫 --no Parameter</h2>
+<h6><b>seed 4776</b> is used for all images</h6>
 
----
+<hr><!--------------->
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -41,9 +41,9 @@
 
 </div>
 
-<br/>
+<br>
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>

@@ -1,10 +1,10 @@
-## 🗺 Sitemap
+<h2>🗺 Sitemap</h2>
 
-<br/>
+<br>
 
 <h6><i>Updated: 7/22/22 (Commit 230)</i></h6>
 
-<br/>
+<br>
 
 - <details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">README</a></summary><p>
 
@@ -330,9 +330,9 @@
 
 </p></details>
 
-<br/>
+<br>
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>

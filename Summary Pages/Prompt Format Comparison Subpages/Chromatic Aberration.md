@@ -1,23 +1,73 @@
-## ⌨ Prompt Format Comparison Summary
-#### Chromatic Aberration
+<h2>⌨ Prompt Format Comparison Summary</h2>
+<h4>Chromatic Aberration</h4>
 
----
+<hr><!--------------->
 
 <div align="center">
 
-|  | <p>```Chromatic Aberration```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/ChromaticAberration.png?raw=true" width="256" /></p> |  |
-| :----: | :----: | :----: |
-| <p>```sphere Chromatic Aberration```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_ChromaticAberration.png?raw=true" width="256" /></p> | <p>```sphere, Chromatic Aberration```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-ChromaticAberration.png?raw=true" width="256" /></p> | - |
-| <p>```sphere; Chromatic Aberration```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-semicolon-ChromaticAberration.png?raw=true" width="256" /></p> | <p>```sphere:Chromatic Aberration```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-colon-ChromaticAberration.png?raw=true" width="256" /></p> | <p>```sphere::Chromatic Aberration```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-double_colon-ChromaticAberration.png?raw=true" width="256" /></p> |
-| <p>```sphere - Chromatic Aberration```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_-_ChromaticAberration.png?raw=true" width="256" /></p> | <p>```sphere(Chromatic Aberration)```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere(ChromaticAberration).png?raw=true" width="256" /></p> | <p>```sphere in the style of Chromatic Aberration```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofChromaticAberration.png?raw=true" width="256" /></p> |
-| <p>```sphere made of Chromatic Aberration```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/spheremadeof_ChromaticAberration.png?raw=true" width="256" /></p> |  | <p>```Chromatic Aberration of a sphere```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/ChromaticAberrationofa_sphere.png?raw=true" width="256" /></p> |
+<table>
+	<tr align=center valign=middle>
+		<th>
+			<br>
+		</th>
+		<th>
+			<p><code>Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/ChromaticAberration.png?raw=true" width="256" /></p>
+		</th>
+		<th>
+			<br>
+		</th>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_ChromaticAberration.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere, Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-ChromaticAberration.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			-
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere; Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-semicolon-ChromaticAberration.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere:Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-colon-ChromaticAberration.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere::Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere-double_colon-ChromaticAberration.png?raw=true" width="256" /></p>
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere - Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_-_ChromaticAberration.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere(Chromatic Aberration)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere(ChromaticAberration).png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere in the style of Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/sphere_inthestyleofChromaticAberration.png?raw=true" width="256" /></p>
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere made of Chromatic Aberration</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/spheremadeof_ChromaticAberration.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<br>
+		</td>
+		<td>
+			<p><code>Chromatic Aberration of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/Summary%20Images/Prompt%20Format%20Comparison/ChromaticAberrationofa_sphere.png?raw=true" width="256" /></p>
+		</td>
+</table>
 
 </div>
 
-<br/>
+<br>
 
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>

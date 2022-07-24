@@ -2,13 +2,13 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/6042799/178131414-93171289-16ae-46a5-ab51-8077944c392d.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/6042799/179348821-0a53ef8c-5341-451e-9c15-434153cf67e3.png">
   <img alt="Midjourney Styles and Keywords Reference" src="https://user-images.githubusercontent.com/6042799/178131414-93171289-16ae-46a5-ab51-8077944c392d.png">
-</picture><br/><br/>
+</picture><br><br>
 
->###### DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.
+<q><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></q>
 
 
 
----
+<hr><!--------------->
 
 
 
@@ -27,7 +27,7 @@
       <h6><details><summary>🔗 Links to other style references</summary><p>
       <p><a href="https://rexwang8.github.io/resource/ai/teapot">Understanding MidJourney Through Teapots by Bob</a></p>
       <p><a href="https://docs.google.com/spreadsheets/d/10i9Ip8tVSERAuMWbc6-H6BUFCoUGOQ91YzDvX--c4bk/edit?usp=sharing">Artist Visual Style Encyclopedia by Sincarnate</a></p>
-      <p><a href="https://www.wikiart.org/en/paintings-by-style">Artwork Styles</a><br/></p>
+      <p><a href="https://www.wikiart.org/en/paintings-by-style">Artwork Styles</a><br></p>
       </p></details></h6>
     </td>
   </tr>
@@ -37,24 +37,35 @@
 
 
 
----
+<hr><!--------------->
 
 
 <div align="center">
 
 <table>
-  <tr align=center valign=top>
+  <tr align=center valign=middle>
     <td>
       <h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md">❔ How-To Guide</a></h5>
     </td>
   </tr>
-	<tr align=center valign=top>
+	<tr align=center valign=middle>
 		<td width="600">
 <h5><details><summary>⚪ Control Image and Seed</summary><p><div align="center">
 
-| <p>```sphere --seed 4776```</p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /></p> |
-| :-: |
-| **`sphere, <style> --seed 4776` is used for all of the style images** |
+
+<table>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /></p>
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<b><code>sphere, &#60;style&#62; --seed 4776</code> is used for all of the style images</b>
+		</td>
+	</tr>
+</table>
+
 
 </p></details></h5>
     </td>
@@ -65,14 +76,14 @@
 
 
 
----
+<hr><!--------------->
 
 
 
 <div align="center">
 
   <h3><pre>Comparison Pages</pre></h3>
-<br/>
+<br>
 
 
 
@@ -112,14 +123,14 @@
 
 
 
----
+<hr><!--------------->
 
 
 
 <div align="center">
 
   <h3><pre>Styles</pre></h3>
-<br/>
+<br>
 
 <table>
 	<tr>
@@ -153,9 +164,9 @@
 </table>
 </div>
 
-<br/>
+<br>
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Sitemap.md">🗺 Sitemap</a></h6>
 </div>

@@ -1,4 +1,4 @@
-## 🎨 Colors
+<h2>🎨 Colors</h2>
 
 - <details><summary>🎨🔴 Basic Colors</summary><p><div align="center">
 
@@ -6,37 +6,37 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_White.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Black.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Brown.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Light-Gray | Gray | Dark-Gray |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Light-Gray.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Gray.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Dark-Gray.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Maroon | Red | Orange |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Maroon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Red.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Orange.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Yellow | Lime | Green |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Yellow.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Lime.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Green.png?raw=true" width="256" /> |
 
-	<br/>
+	<br>
 	
 	| Cyan | Teal | Blue |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Cyan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Teal.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Blue.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Indigo | Purple | Violet |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Indigo.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Purple.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Basic_Colors/sphere_Violet.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Fuchsia | Magenta | Pink |
 	| :-: | :-: | :-: |
@@ -51,13 +51,13 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Extended_Colors/sphere_Tan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Extended_Colors/sphere_Beige.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Extended_Colors/sphere_Scarlet.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Olive-Green | Chartreuse |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Extended_Colors/sphere_Olive-Green.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Extended_Colors/sphere_Chartreuse.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Turquoise | Aqua | Azure |
 	| :-: | :-: | :-: |
@@ -72,25 +72,25 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-White.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Brown.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Dark-Maroon | Dark-Red | Dark-Orange |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Maroon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Red.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Orange.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Dark-Yellow | Dark-Lime | Dark-Green |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Yellow.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Lime.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Green.png?raw=true" width="256" /> |
 
-	<br/>
+	<br>
 	
 	| Dark-Cyan | Dark-Blue |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Cyan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Dark_Colors/sphere_Dark-Blue.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Dark-Purple | Dark-Magenta | Dark-Pink |
 	| :-: | :-: | :-: |
@@ -105,25 +105,25 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Black.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Brown.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Light-Maroon | Light-Red | Light-Orange |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Maroon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Red.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Orange.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Light-Yellow | Light-Lime | Light-Green |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Yellow.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Lime.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Green.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Light-Cyan | Light-Blue |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Cyan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Light_Colors/sphere_Light-Blue.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Light-Purple | Light-Magenta | Light-Pink |
 	| :-: | :-: | :-: |
@@ -139,19 +139,19 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Brown.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Maroon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Red.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Vivid-Orange | Vivid-Yellow | Vivid-Lime |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Orange.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Yellow.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Lime.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Vivid-Green | Vivid-Cyan | Vivid-Blue |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Green.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Cyan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/Colors/Vivid_Colors/sphere_Vivid-Blue.png?raw=true" width="256" /> |
 	
-	<br/>
+	<br>
 	
 	| Vivid-Purple | Vivid-Magenta | Vivid-Pink |
 	| :-: | :-: | :-: |
@@ -159,7 +159,7 @@
 
 	</p></details>
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>

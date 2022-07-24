@@ -1,9 +1,9 @@
-## 📏 Image Resolution Comparison
-###### **sphere --seed 4776** is used for all images
+<h2>📏 Image Resolution Comparison</h2>
+<h4><b>sphere --seed 4776</b> is used for all images</h4>
 
----
+<hr><!--------------->
 
-<br/>
+<br>
 
 - <details><summary><b>📏 Preset Resolutions</summary><p><div align="center">
 
@@ -160,9 +160,9 @@
 
   </div></p></details>
 
-<br/>
+<br>
 
----
+<hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back</a></h6>
 </div>
