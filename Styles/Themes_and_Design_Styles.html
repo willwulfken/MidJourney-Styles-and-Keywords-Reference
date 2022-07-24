@@ -11,13 +11,6 @@
 				font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 			}
 
-            /* Style the tab */
-            .tab {
-                overflow: hidden;
-                border: 1px solid #ccc;
-                background-color: #f1f1f1;
-            }
-
             /* Style the buttons inside the tab */
             .tab button {
                 background-color: inherit;
@@ -30,25 +23,7 @@
                 font-size: 17px;
             }
 
-            /* Change background color of buttons on hover */
-            .tab button:hover {
-                background-color: #ddd;
-            }
-
-            /* Create an active/current tablink class */
-            .tab button.active {
-                background-color: #ccc;
-            }
-
-            /* Style the tab content */
-            .tabcontent {
-                display: none;
-                padding: 6px 12px;
-                border: 1px solid #ccc;
-                border-top: none;
-            }
-
-            /* Style the buttons inside the tab */
+            /* Style the buttons inside the sub-tab */
             .subtab button {
                 background-color: inherit;
                 float: left;
@@ -60,31 +35,97 @@
                 font-size: 15px;
                 border: 1px solid #999;
             }
-
-            /* Style the sub-tab */
-            .subtab {
+			
+            /* Style the tab */
+            .tab, .subtab {
                 overflow: hidden;
                 border: 1px solid #ccc;
                 background-color: #f1f1f1;
             }
 
-            /* Style the sub-tab content */
-            .subtabcontent {
+            /* Change background color of buttons on hover */
+            .tab button:hover, .subtab button:hover {
+                background-color: #ddd;
+            }
+
+            /* Create an active/current tablink class */
+            .tab button.active, .subtab button.active {
+                background-color: #ccc;
+            }
+
+            /* Style the tab content */
+            .tabcontent, .subtabcontent {
                 display: none;
                 padding: 6px 12px;
                 border: 1px solid #ccc;
                 border-top: none;
             }
 
-            /* Change background color of buttons on hover */
-            .subtab button:hover {
-                background-color: #ddd;
-            }
 
-            /* Create an active/current tablink class */
-            .subtab button.active {
-                background-color: #ccc;
-            }
+
+
+			/*-----------*/
+			/* Dark Mode */
+			/*-----------*/
+			@media (prefers-color-scheme: dark) {
+
+				body, .tab, .tab button, .tab button:hover, .tab button.active, .tabcontent, .subtab, .subtab button, .subtab button:hover, .subtab button.active, .subtabcontent {
+					background-color: #1a1a1a;
+					color: #fff;
+				}
+
+				/* Style the buttons inside the tab */
+				.tab button {
+					background-color: inherit;
+					float: left;
+					border: none;
+					outline: none;
+					cursor: pointer;
+					padding: 14px 16px;
+					transition: 0.3s;
+					font-size: 17px;
+				}
+
+				/* Style the buttons inside the sub-tab */
+				.subtab button {
+					background-color: inherit;
+					float: left;
+					border: none;
+					outline: none;
+					cursor: pointer;
+					padding: 4px 16px;
+					transition: 0.3s;
+					font-size: 15px;
+					border: 1px solid #3e4446;
+				}
+
+
+				/* Style the tab */
+				.tab, .subtab {
+					overflow: hidden;
+					border: 1px solid #3e4446;
+					background-color: #181a1b;
+				}
+
+				/* Change background color of buttons on hover */
+				.tab button:hover, .subtab button:hover {
+					background-color: #3e4446;
+				}
+
+				/* Create an active/current tablink class */
+				.tab button.active, .subtab button.active {
+					background-color: #3e4446;
+				}
+
+				/* Style the tab content */
+				.tabcontent, .subtabcontent {
+					display: none;
+					padding: 6px 12px;
+					border: 1px solid #3e4446;
+					border-top: none;
+				}
+
+			}
         </style>
     </head>
     <body>
