@@ -7,4 +7,19 @@ relative_links:
   collections: true
 include:
   - index.md
-  - Styles/Themes.md
+  - Styles/Artists.html
+  - Styles/Camera.html
+  - Styles/Colors.html
+  - Styles/Colors_Palettes_and_Color_Styles.html
+  - Styles/Computer_Display.html
+  - Styles/Dimensionality.html
+  - Styles/Drawing_and_Art_Mediums.html
+  - Styles/Experimental.html
+  - Styles/Geometry.html
+  - Styles/Intangibles.html
+  - Styles/Lighting.html
+  - Styles/Material_Properties.html
+  - Styles/Materials.html
+  - Styles/Miscellaneous.html
+  - Styles/SFX_and_Shaders.html
+  - Styles/Themes_and_Design_Styles.html
