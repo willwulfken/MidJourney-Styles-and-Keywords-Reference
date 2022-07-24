@@ -4,7 +4,7 @@
   <img alt="Midjourney Styles and Keywords Reference" src="https://user-images.githubusercontent.com/6042799/178131414-93171289-16ae-46a5-ab51-8077944c392d.png">
 </picture><br><br>
 
-<q><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></q>
+<blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
 
 
 
