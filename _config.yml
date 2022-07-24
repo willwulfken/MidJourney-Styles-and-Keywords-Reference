@@ -6,7 +6,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - index.md
+  - index.html
   - Styles/Artists.html
   - Styles/Camera.html
   - Styles/Colors.html
