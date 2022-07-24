@@ -1,4 +1,4 @@
-theme: jekyll-dash
+theme: jekyll-theme-minimalist
 markdown: kramdown
 plugins:
   - jekyll-relative-links
