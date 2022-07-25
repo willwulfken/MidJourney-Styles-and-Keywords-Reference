@@ -1,328 +1,108 @@
 <!DOCTYPE html>
+
 <html>
 
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
-	<div align="center">
-		<img class="title-img" src="https://user-images.githubusercontent.com/6042799/178131414-93171289-16ae-46a5-ab51-8077944c392d.png" />
-	</div>
+	<link rel="stylesheet" href="../styles.css">
+	
+	<!--<div class="head-title">
+		<div align="center">
+			<img class="title-img" src="https://user-images.githubusercontent.com/6042799/178131414-93171289-16ae-46a5-ab51-8077944c392d.png" />
+		</div>
 
-	<br>
+		<div class="dropdown">
+			<button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/index.html';">🏠 Home</button>
+			<button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Control_Image.html';">⚪ Control Image</button>
+			<button class="dropdown-links" onmouseenter="openMenuDropdown(event, 'Styles')" onmouseleave="closeMenuDropdown(event)">🎨 Styles</button>
+			<button class="dropdown-links" onmouseenter="openMenuDropdown(event, 'Comparison Pages')" onmouseleave="closeMenuDropdown(event)">🎛 Comparison Pages</button>
+			<button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Tutorials/How-To_Guide.html';">❔ How-To Guide</button>
+			<button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Sitemap.html';">🗺 Sitemap</button>
+			<button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Links.html';">🔗 Links To Other References</button>
+		</div>
 
-	<div class="dropdown">
-		<button class="dropdown-links" onmouseenter="openMenuDropdown(event, 'Styles')" onmouseleave="closeMenuDropdown(event)">Styles</button>
-		<button class="dropdown-links" onmouseenter="openMenuDropdown(event, 'Comparison Pages')" onmouseleave="closeMenuDropdown(event)">Comparison Pages</button>
-	</div>
+		<div id="Styles" class="dropdown-content" onmouseleave="closeMenuDropdown(event)">
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Themes_and_Design_Styles.html">
+				🖼 Themes and Design Styles
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Artists.html">
+				📔 Artists
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Drawing_and_Art_Mediums.html">
+				🖌 Drawing and Art Mediums
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Materials.html">
+				🧱 Materials
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Material_Propertieshtml">
+				📦 Material Properties
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Lighting.html">
+				💡 Lighting
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Colors.html">
+				🎨 Colors
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Color_Palettes_and_Color_Styles.html">
+				🎨 Palettes and Color Styles
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/SFX_and_Shaders.html">
+				🌈 SFX, Post-Processing, and Shaders
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Computer_Display.html">
+				🖥 Computer Display and Color Models
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Camera.html">
+				📷 Camera, Film Types, Lenses, and Perspective
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Dimensionality.html">
+				🌌 Dimensionality
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Geometry.html">
+				💠 Geometry, Topology, and Structural Modification
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Intangibles.html">
+				➰ Intangibles
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Miscellaneous.html">
+				🎛 Miscellaneous
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Experimental.html">
+				🧪 Experimental
+			</a>
+		</div>
 
-	<div id="Styles" class="dropdown-content" onmouseleave="closeMenuDropdown(event)">
-		<a href="#">
-			🖼 Themes and Design Styles
-		</a>
-		<a href="#">
-			📔 Artists
-		</a>
-		<a href="#">
-			🖌 Drawing and Art Mediums
-		</a>
-		<a href="#">
-			🧱 Materials
-		</a>
-		<a href="#">
-			📦 Material Properties
-		</a>
-		<a href="#">
-			💡 Lighting
-		</a>
-		<a href="#">
-			🎨 Colors
-		</a>
-		<a href="#">
-			🎨 Palettes and Color Styles
-		</a>
-		<a href="#">
-			🌈 SFX, Post-Processing, and Shaders
-		</a>
-		<a href="#">
-			🖥 Computer Display and Color Models
-		</a>
-		<a href="#">
-			📷 Camera, Film Types, Lenses, and Perspective
-		</a>
-		<a href="#">
-			🌌 Dimensionality
-		</a>
-		<a href="#">
-			💠 Geometry, Topology, and Structural Modification
-		</a>
-		<a href="#">
-			➰ Intangibles
-		</a>
-		<a href="#">
-			🎛 Miscellaneous
-		</a>
-		<a href="#">
-			🧪 Experimental
-		</a>
-	</div>
-
-	<div id="Comparison Pages" class="dropdown-content" onmouseleave="closeMenuDropdown(event)">
-		<a href="#">
-			⌨ Prompt Format Comparison
-		</a>
-		<a href="#">
-			🔠 Text In Image Comparison
-		</a>
-		<a href="#">
-			🚫 --no Parameter
-		</a>
-		<a href="#">
-			🚀 Image Upscale Comparison
-		</a>
-		<a href="#">
-			📏 Image Resolution Comparison
-		</a>
-		<a href="#">
-			🎛 Image Algorithm Comparison
-		</a>
-		<a href="#">
-			🏋️‍ Image Weight Comparison
-		</a>
-	</div>
-
-	<style>
-
-.tab,
-		.dropdown {
-			display: flex;
-			justify-content: center;
-			flex-wrap: wrap;
-			overflow: hidden;
-			/*border: 1px solid #ccc;*/
-			background-color: #f1f1f1;
-			justify-content: space-evenly;
-		}
-
-		/* Style the buttons inside the tab */
-		.dropdown button {
-			background-color: inherit;
-			float: left;
-			border: none;
-			outline: none;
-			cursor: pointer;
-			padding: 14px 16px;
-			transition: 0.3s;
-			font-size: 17px;
-			flex: 1;
-		}
-
-		/* Create an active/current tablink class */
-		.dropdown button:hover, .dropdown button.active {
-			background-color: #ccc;
-		}
-
-		/* Style the tab content */
-		.dropdown-content {
-			background-color: #f1f1f1;
-			display: none;
-			padding: 12px 12px;
-			border: 1px solid #ccc;
-			border-top: none;
-			box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-		}
-
-		.dropdown-content a {
-			background-color: #f1f1f1;
-			color: black;
-			padding: 12px 24px;
-			text-decoration: none;
-			display: inline-block; /*block;*/
-			flex: 1;
-			/*float: left; /*center;*/
-    	}
-
-		.dropdown-content a:hover {
-			background-color: #ccc;
-		}
-
-
-
-		/* Title Image*/
-		.title-img {
-			width: 60%;
-			height: auto;
-		}
-
-		/* Font */
-		body,
-		.tab,
-		.tabcontent,
-		.tab button,
-		/*.tab button:hover,
-		.tab button.active,*/
-		.subtab,
-		.subtabcontent,
-		.subtab button,
-		/*.subtab button:hover,
-		.subtab button.active,*/
-		.dropdown,
-		.dropdown-content,
-		.dropdown button {
-			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-		}
-
-		.tab,
-		.subtab {
-			display: flex;
-			justify-content: center;
-			flex-wrap: wrap;
-			overflow: hidden;
-			border: 1px solid #ccc;
-			background-color: #f1f1f1;
-		}
-
-		/* Style the buttons inside the tab */
-		.tab button {
-			background-color: inherit;
-			float: left;
-			border: none;
-			outline: none;
-			cursor: pointer;
-			padding: 14px 16px;
-			transition: 0.3s;
-			font-size: 17px;
-		}
-
-		/* Style the buttons inside the sub-tab */
-		.subtab button {
-			background-color: inherit;
-			float: left;
-			outline: none;
-			cursor: pointer;
-			padding: 4px 16px;
-			transition: 0.3s;
-			font-size: 15px;
-			border: 1px solid #999;
-			flex-grow: 1;
-		}
-
-		.subtab {
-			position: sticky;
-  			top: 0;
-		}
-
-		/* Change background color of buttons on hover */
-		.tab button:hover,
-		.subtab button:hover {
-			background-color: #ccc;
-		}
-
-		/* Create an active/current tablink class */
-		.tab button.active,
-		.subtab button.active {
-			background-color: #ccc;
-		}
-
-		/* Style the tab content */
-		.tabcontent,
-		.subtabcontent {
-			display: none;
-			padding: 6px 12px;
-			border: 1px solid #ccc;
-			border-top: none;
-		}
-
-		/* Image Grid */
-		.grid-container {
-			display: flex;
-			justify-content: center;
-			flex-wrap: wrap;
-			display: inline-grid;
-			grid-template-columns: auto auto auto;
-			grid-gap: 20px;
-			padding: 20px;
-		}
-
-		.grid-item {
-			flex: 1;
-			text-align: center;
-			font-size: 14px;
-			background-color: #131415;
-			border-radius: 5%;
-			max-width: 256px;
-			min-width: 64px;
-			min-height: 64px;
-			box-sizing: border-box;
-		}
-
-		.grid-img {
-			width: 100%;
-			height: auto;
-		}
-
-
-		/*-----------*/
-		/* Dark Mode */
-		/*-----------*/
-		@media (prefers-color-scheme: dark) {
-
-			body,
-			.tab,
-			.tab button,
-			.tab button:hover,
-			.tab button.active,
-			.tabcontent,
-			.subtab,
-			.subtab button,
-			.subtab button:hover,
-			.subtab button.active,
-			.subtabcontent {
-				background-color: #1a1a1a;
-				color: #fff;
-			}
-
-
-			/* Style the buttons inside the sub-tab */
-			.subtab button {
-				border: 1px solid #3e4446;
-			}
-
-			/* Style the tab */
-			.tab,
-			.subtab {
-				border: 1px solid #3e4446;
-				background-color: #181a1b;
-			}
-
-			/* Change background color of buttons on hover */
-			.tab button:hover,
-			.subtab button:hover {
-				background-color: #3e4446;
-			}
-
-			/* Create an active/current tablink class */
-			.tab button.active,
-			.subtab button.active {
-				background-color: #3e4446;
-			}
-
-			/* Style the tab content */
-			.tabcontent,
-			.subtabcontent {
-				display: none;
-				padding: 6px 12px;
-				border: 1px solid #3e4446;
-				border-top: none;
-			}
-
-		}
-	</style>
+		<div id="Comparison Pages" class="dropdown-content" onmouseleave="closeMenuDropdown(event)">
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Prompt_Format_Comparison.html">
+				⌨ Prompt Format Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Text_In_Image_Comparison.html">
+				🔠 Text In Image Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/no_Parameter.html">
+				🚫 --no Parameter
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Image_Upscale_Comparison.html">
+				🚀 Image Upscale Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Image_Resolution_Comparison.html">
+				📏 Image Resolution Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/.html">
+				🎛 Image Algorithm Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Image_Weight_Comparison.html">
+				🏋️‍ Image Weight Comparison
+			</a>
+		</div>
+	</div>-->
 </head>
 
 <body>
 
 	<div align="center">
 
-		<h3>🖼 Themes and Design Styles</h3>
+		<div class="pagetitle"><h2>🖼 Themes and Design Styles</h2></div>
 
 		<div class="tab">
 			<button class="tablinks" onclick="openTab(event, 'Themes')">🎭 Themes</button>
