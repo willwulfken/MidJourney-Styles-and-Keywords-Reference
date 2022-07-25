@@ -26,6 +26,8 @@
     </tr>
 </table>
 
+<br>
+
 <table>
     <tr align=center valign=middle>
         <th>--stylize 1250</th>
