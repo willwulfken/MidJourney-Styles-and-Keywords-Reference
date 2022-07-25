@@ -123,8 +123,8 @@
 		<th colspan="2" width=550>MidJourney AI Version 3</th>
 	</tr>
 	<tr align=center valign=middle>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages%20(MJ%20Version%203)/Stylize_Comparison.md">🎇 --stylize Comparison</a></td>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages%20(MJ%20Version%203)/Quality_Comparison.md">💎 --quality Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages_(MJ_V3)/Stylize_Comparison.md">🎇 --stylize Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages_(MJ_V3)/Quality_Comparison.md">💎 --quality Comparison</a></td>
 	</tr>
 </table>
 
