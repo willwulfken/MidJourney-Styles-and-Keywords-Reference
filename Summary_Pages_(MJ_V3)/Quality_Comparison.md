@@ -9,9 +9,9 @@
 
 <table>
     <tr align=center valign=middle>
-        <th>--quality 0.25<th>
-        <th>--quality 0.5<th>
-        <th>--quality 1<th>
+        <th>--quality 0.25</th>
+        <th>--quality 0.5</th>
+        <th>--quality 1</th>
     </tr>
     <tr align=center valign=middle>
         <td>
@@ -30,9 +30,9 @@
 
 <table>
     <tr align=center valign=middle>
-        <th>--quality 2<th>
-        <th>--quality 4<th>
-        <th>--quality 5<th>
+        <th>--quality 2</th>
+        <th>--quality 4</th>
+        <th>--quality 5</th>
     </tr>
     <tr align=center valign=middle>
         <td>

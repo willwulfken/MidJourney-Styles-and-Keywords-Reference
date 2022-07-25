@@ -9,9 +9,9 @@
 
 <table>
     <tr align=center valign=middle>
-        <th>--stylize 200<th>
-        <th>--stylize 300<th>
-        <th>--stylize 625<th>
+        <th>--stylize 200</th>
+        <th>--stylize 300</th>
+        <th>--stylize 625</th>
     </tr>
     <tr align=center valign=middle>
         <td>
@@ -28,9 +28,9 @@
 
 <table>
     <tr align=center valign=middle>
-        <th>--stylize 1250<th>
-        <th>--stylize 2500<th>
-        <th>--stylize 10000<th>
+        <th>--stylize 1250</th>
+        <th>--stylize 2500</th>
+        <th>--stylize 10000</th>
     </tr>
     <tr align=center valign=middle>
         <td>
@@ -49,9 +49,9 @@
 
 <table>
     <tr align=center valign=middle>
-        <th>--stylize 20000<th>
-        <th>--stylize 40000<th>
-        <th>--stylize 60000<th>
+        <th>--stylize 20000</th>
+        <th>--stylize 40000</th>
+        <th>--stylize 60000</th>
     </tr>
     <tr align=center valign=middle>
         <td>
