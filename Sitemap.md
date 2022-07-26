@@ -8,23 +8,23 @@
 
 - <details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">README</a></summary><p>
 
-    - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md">❔ How To Guide</a></p>
+    - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial_Pages/How-To_Guide.md">❔ How To Guide</a></p>
 
     - <p><details open><summary>Comparison Pages</summary><p>
 
-        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a></p>
-        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></p>
-        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/No_Parameter_Comparison.md">🚫 --no Parameter</a></p>
-        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Comparison.md">🚀 Image Upscle Comparison</a></p>
-        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></p>
-        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></p>
-        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></p>
+        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a></p>
+        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></p>
+        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/No_Parameter_Comparison.md">🚫 --no Parameter</a></p>
+        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Upscale_Comparison.md">🚀 Image Upscle Comparison</a></p>
+        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></p>
+        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></p>
+        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></p>
 
       </p></details></p>
 
     - <p><details open><summary>Style Pages</summary><p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Themes_and_Design_Styles.md">🖼 Themes and Design Styles</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Themes_and_Design_Styles.md">🖼 Themes and Design Styles</a></summary><p>
 
             - <p><details open><summary>🎭 Themes</summary><p>
 
@@ -79,7 +79,7 @@
 
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Artists.md">📔 Artists</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Artists.md">📔 Artists</a></summary><p>
 
             - <p>📔⛱ Realism</p>
             - <p>📔❇ Surrealism</p>
@@ -117,7 +117,7 @@
 
           </p></details></p>
         
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Drawing_and_Art_Mediums.md">🖌 Drawing and Art Mediums</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Drawing_and_Art_Mediums.md">🖌 Drawing and Art Mediums</a></summary><p>
 
             - <p><details open><summary>🖌✏ Illustration and Drawing</summary><p>
 
@@ -154,7 +154,7 @@
 
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Materials.md">🧱 Materials</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Materials.md">🧱 Materials</a></summary><p>
 
           - <p><details open><summary>🧱💎 Solids</summary><p>
 
@@ -200,7 +200,7 @@
 
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Material_Properties.md">📦 Material Properties</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Material_Properties.md">📦 Material Properties</a></summary><p>
         
           - <p>📦🧫 Opacity</p>
           - <p>📦🏮 Light Manipulation</p>
@@ -213,7 +213,7 @@
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Lighting.md">💡 Lighting</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Lighting.md">💡 Lighting</a></summary><p>
 
           - <p>💡🏮 Types of Lights</p>
           - <p>💡📺 Types of Displays</p>
@@ -223,7 +223,7 @@
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Colors.md">🎨 Colors</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Colors.md">🎨 Colors</a></summary><p>
 
           - <p>🎨🔴 Basic Colors</p>
           - <p>🎨🔵 Extended Colors</p>
@@ -233,7 +233,7 @@
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Colors_Palettes_and_Color_Styles.md">🎨 Palettes and Color Styles</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Colors_Palettes_and_Color_Styles.md">🎨 Palettes and Color Styles</a></summary><p>
 
           - <p>🎨🖌 Chromatic Palettes</p>
           - <p>🎨🖌 Monochromatic Palettes</p>
@@ -242,7 +242,7 @@
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/SFX_and_Shaders.md">🌈 SFX, Post-Processing, and Shaders</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/SFX_and_Shaders.md">🌈 SFX, Post-Processing, and Shaders</a></summary><p>
         
           - <p>🌈🔍 Reflections</p>
           - <p>🌈👓 Blurs</p>
@@ -251,7 +251,7 @@
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Computer_Display.md">🖥 Comptuer Display and Color Models</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Computer_Display.md">🖥 Comptuer Display and Color Models</a></summary><p>
         
           - <p>🖥📐 Resolution</p>
           - <p>🖥🎨 Color Models</p>
@@ -260,7 +260,7 @@
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Camera.md">📷 Camera, Film Types, Lenses, Perspective, etc.</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Camera.md">📷 Camera, Film Types, Lenses, Perspective, etc.</a></summary><p>
         
           - <p>📷🌇 Camera and Scenes</p>
           - <p>📷🌇 Camera and Film Types</p>
@@ -273,14 +273,14 @@
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Dimensionality.md">🌌 Dimensionality</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Dimensionality.md">🌌 Dimensionality</a></summary><p>
 
           - <p>🌌 2D-5D</p>
           - <p>🌌 Overdimensional, Multiverse, etc.</p>
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Geometry.md">💠 Geometry, Topology, and Structural Modification</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Geometry.md">💠 Geometry, Topology, and Structural Modification</a></summary><p>
 
             - <p><details open><summary>💠 Geometry</p></summary><p>
 
@@ -305,7 +305,7 @@
         
           </p></details></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Intangibles.md">➰ Intangibles</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Intangibles.md">➰ Intangibles</a></summary><p>
         
           - <p>➰😁 Emotions and Qualities</p>
           - <p>➰🧠 Concepts</p>
@@ -315,9 +315,9 @@
         
           </p></details></p>
 
-        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Miscellaneous.md">🎛 Miscellaneous</a></p>
+        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Miscellaneous.md">🎛 Miscellaneous</a></p>
 
-        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Experimental.md">🧪 Experimental</a></summary><p>
+        - <p><details open><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Experimental.md">🧪 Experimental</a></summary><p>
         
           - <p>📔 Made up Artists</p>
           - <p>🔤 Made up Words</p>

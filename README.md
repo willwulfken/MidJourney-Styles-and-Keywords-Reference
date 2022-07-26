@@ -45,7 +45,7 @@
 <table>
   <tr align=center valign=middle>
     <td>
-      <h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial%20Pages/How-To%20Guide.md">❔ How-To Guide</a></h5>
+      <h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Tutorial_Pages/How-To_Guide.md">❔ How-To Guide</a></h5>
     </td>
   </tr>
 	<tr align=center valign=middle>
@@ -56,7 +56,7 @@
 <table>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MidJourney%20Styles%20(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /></p>
+			<p><code>sphere --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
@@ -92,11 +92,11 @@
 		<th colspan="2" width=550>Prompt Writing</th>
 	</tr>
 	<tr align=center valign=middle>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a></td>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></td>
 	</tr>
 	<tr align=center valign=middle>
-		<td colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/No_Parameter_Comparison.md">🚫 --no Parameter</a></td>
+		<td colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/No_Parameter_Comparison.md">🚫 --no Parameter</a></td>
 	</tr>
 </table>
 <table>
@@ -104,8 +104,8 @@
 		<th colspan="2" width=550>Image Resolution and Upscaling</tdh>
 	</tr>
 	<tr align=center valign=middle>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a></td>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></td>
 	</tr>
 </table>
 <table>
@@ -114,8 +114,8 @@
 		<th width=275>Prompting With Images</th>
 	</tr>
 	<tr align=center valign=middle>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></td>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></td>
 	</tr>
 </table>
 <table>
@@ -123,8 +123,8 @@
 		<th colspan="2" width=550>MidJourney AI Version 3</th>
 	</tr>
 	<tr align=center valign=middle>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages_(MJ_V3)/Stylize_Comparison.md">🎇 --stylize Comparison</a></td>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages_(MJ_V3)/Quality_Comparison.md">💎 --quality Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Stylize_Comparison.md">🎇 --stylize Comparison</a></td>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Quality_Comparison.md">💎 --quality Comparison</a></td>
 	</tr>
 </table>
 
@@ -143,32 +143,32 @@
 
 <table>
 	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Themes_and_Design_Styles.md">🖼 Themes and Design Styles</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Artists.md">📔 Artists</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Drawing_and_Art_Mediums.md">🖌 Drawing and Art Mediums</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Themes_and_Design_Styles.md">🖼 Themes and Design Styles</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Artists.md">📔 Artists</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Drawing_and_Art_Mediums.md">🖌 Drawing and Art Mediums</a></th>
 	</tr>
 	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Materials.md">🧱 Materials</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Material_Properties.md">📦 Material Properties</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Lighting.md">💡 Lighting</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Materials.md">🧱 Materials</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Material_Properties.md">📦 Material Properties</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Lighting.md">💡 Lighting</a></th>
 	</tr>
 	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Colors.md">🎨 Colors</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Colors_Palettes_and_Color_Styles.md">🎨 Palettes and Color Styles</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/SFX_and_Shaders.md">🌈 SFX, Post-Processing, and Shaders</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Colors.md">🎨 Colors</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Colors_Palettes_and_Color_Styles.md">🎨 Palettes and Color Styles</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/SFX_and_Shaders.md">🌈 SFX, Post-Processing, and Shaders</a></th>
 	</tr>
 	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Computer_Display.md">🖥 Computer Display and Color Models</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Camera.md">📷 Camera, Film Types, Lenses, and Perspective</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Dimensionality.md">🌌 Dimensionality</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Computer_Display.md">🖥 Computer Display and Color Models</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Camera.md">📷 Camera, Film Types, Lenses, and Perspective</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Dimensionality.md">🌌 Dimensionality</a></th>
 	</tr>
 	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Geometry.md">💠 Geometry, Topology, and Structural Modification</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Intangibles.md">➰ Intangibles</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Experimental.md">🧪 Experimental</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Geometry.md">💠 Geometry, Topology, and Structural Modification</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Intangibles.md">➰ Intangibles</a></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Experimental.md">🧪 Experimental</a></th>
 	</tr>
 	<tr>
-	<th colspan="3"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style%20Pages/Miscellaneous.md">🎛 Miscellaneous</a></th>
+	<th colspan="3"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Miscellaneous.md">🎛 Miscellaneous</a></th>
 	</tr>
 </table>
 </div>
