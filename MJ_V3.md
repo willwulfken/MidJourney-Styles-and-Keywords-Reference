@@ -54,7 +54,7 @@
   <tr align=center valign=middle>
 	<td>
     <br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">Go To Midjourney Algorithm V2</a>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">✨ Go To Midjourney Algorithm V2 ✨</a>
     <br><br>
 	</td>
   </tr>
@@ -102,9 +102,6 @@
 
 
 <table>
-	<tr align=center valign=middle>
-		<th colspan="2" width=550>MidJourney AI Version 3</th>
-	</tr>
 	<tr align=center valign=middle>
 		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Stylize_Comparison.md">🎇 --stylize Comparison</a></td>
 		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Quality_Comparison.md">💎 --quality Comparison</a></td>
