@@ -15,13 +15,13 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_0.25.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_0.25.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_0.5.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_0.5.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_1.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_1.png?raw=true" width="256" />
         </td>
     </tr>
 </table>
@@ -35,10 +35,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_2.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_2.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_5.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_5.png?raw=true" width="256" />
         </td>
     </tr>
 </table>
