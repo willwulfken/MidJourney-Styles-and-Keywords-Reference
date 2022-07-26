@@ -45,7 +45,9 @@
 <table>
   <tr align=center valign=middle>
 	<td>
+	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/MJ_V3.md">Go To Midjourney Algorithm V3</a>
+	<br><br>
 	</td>
   </tr>
   <tr align=center valign=middle>
