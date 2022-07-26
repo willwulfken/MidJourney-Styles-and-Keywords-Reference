@@ -103,7 +103,7 @@
 	<tr align=center valign=middle>
 		<th colspan="2" width=550>Image Resolution and Upscaling</tdh>
 	</tr>
-	<tr>
+	<tr align=center valign=middle>
 		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a></td>
 		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary%20Pages/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></td>
 	</tr>
