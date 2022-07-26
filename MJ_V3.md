@@ -71,7 +71,7 @@
 <table>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /></p>
+			<p><code>sphere --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
