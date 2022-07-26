@@ -6,25 +6,25 @@
 
 	| Realistic | Hyperrealistic | Photorealistic |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_realistic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_hyperrealistic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Photorealistic.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Realistic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Hyperrealistic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Photorealistic.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Realism | Magic Realism | Fantastic Realism |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_realism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_magicrealism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_fantasticrealism.png?raw=true" width="256" />  |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Realism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Magic_Realism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Fantastic_Realism.png?raw=true" width="256" />  |
 
 	<br>
 
 	| Classical Realism | New Realism | Contemporary Realism |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_classicalrealism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_newrealism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_contemporaryrealism.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Classical_Realism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_New_Realism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Contemporary_Realism.png?raw=true" width="256" /> |
 	
 	<br>
 
 	| Surreal | Surrealism |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_surreal.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_surrealism.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Surreal.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Surrealism.png?raw=true" width="256" /> |
 	
 	<br>
 
@@ -42,19 +42,19 @@
 
 	| Dreamlike | Dreamcore | Weirdcore |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_dreamlike.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Dreamcore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Weirdcore.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Dreamlike.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Dreamcore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Weirdcore.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Otherworldly | Lucid | Ethereal |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_otherworldly.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_lucid.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_ethereal.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Otherworldly.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Lucid.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Ethereal.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Abstract | Abstraction | Lyrical Abstraction |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_abstract.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_abstraction.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_lyricalabstraction.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Abstract.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Abstraction.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Lyrical_Abstraction.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -66,7 +66,7 @@
 	
 	| Illusion | Impossible |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_illustration.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Impossible.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Illusion.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Impossible.png?raw=true" width="256" /> |
 
 	</p></details>
 
@@ -76,31 +76,31 @@
 
 	| Retro | Retrowave |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_retro.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_retrowave.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Retro.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Retrowave.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Nostalgiacore | Vintage | Antique |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Nostalgiacore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_vintage.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Antique.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Nostalgiacore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Vintage.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Antique.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Modern | Modernismo |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_modern.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_modernismo.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Modern.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Modernismo.png?raw=true" width="256" /> |
 
 	<br>
 	
 	| Futuristic | Futurism | Future Funk |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_futuristic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_futurism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_FutureFunk.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Futuristic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Futurism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Future_Funk.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Retro-Futurism | Cassette Futurism | Afrofuturist |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Retro-futurism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_cassettefuturism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Afrofuturist.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Retro-Futurism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Cassette_Futurism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Midjourney_Styles_(sphere)/sphere_Afrofuturist.png?raw=true" width="256" /> |
 
 	</p></details>
 
