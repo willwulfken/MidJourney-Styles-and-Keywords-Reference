@@ -31,15 +31,11 @@
 <table>
     <tr align=center valign=middle>
         <th>--quality 2</th>
-        <th>--quality 4</th>
         <th>--quality 5</th>
     </tr>
     <tr align=center valign=middle>
         <td>
             <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images%20(MJ%20Version%203)/Quality_Comparison/sphere_--quality_2.png?raw=true" width="256" />
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images%20(MJ%20Version%203)/Quality_Comparison/sphere_--quality_4.png?raw=true" width="256" />
         </td>
         <td>
             <img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Summary%20Images%20(MJ%20Version%203)/Quality_Comparison/sphere_--quality_5.png?raw=true" width="256" />
