@@ -1118,45 +1118,44 @@
 	</p></details>
 
 
-<!--
 
 - <details><summary>🖥 Digital</summary><p>
 
   - <details><summary>🎮 Rendering Engines</summary><p><div align="center">
 
-	| Octane | Cinema4D | C4d |
+	| Octane | Cinema4D | C4D |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Octane.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Cinema4d.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_C4d.png?raw=truehttps://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_C4d.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Octane.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Cinema4D.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_C4d.png?raw=truehttps://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_C4d.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Unreal Engine | Unity Engine |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Unrealengine.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Unityengine.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Unreal_Engine.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Unity_Engine.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Rendered in Houdini | Houdini-Render | Redshift Render |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Renderedinhoudini.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Houdini-Render.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Redshiftrender.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Rendered_in_Houdini.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Houdini-Render.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Redshift_Render.png?raw=true" width="256" /> |
 
 	<br>
 	
 	| Blender Render | Cycles Render | OptiX-Render |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Blenderrender.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Cyclesrender.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Optix-Render.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Blender_Render.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Cycles_Render.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Optix-Render.png?raw=true" width="256" /> |
 
 	<br>
 	
 	| Povray | Vray | CryEngine |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Povray.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Vray.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Cryengine.png?raw=true" width="256" /> | 
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Povray.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Vray.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_CryEngine.png?raw=true" width="256" /> | 
 	
 	<br>
 	
 	| LuxCoreRender | MentalRay-Render | Raylectron |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Luxcorerender.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Mentalray-Render.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Raylectron.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_LuxCoreRender.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_MentalRay-Render.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Raylectron.png?raw=true" width="256" /> |
 
 	<br>
 	
@@ -1168,13 +1167,13 @@
 	
 	| OpenGL | DirectX |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Opengl.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Directx.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_OpenGL.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_DirectX.png?raw=true" width="256" /> |
 
 	<br>
 	
 	| Autodesk 3ds Max | SketchUp | Terragen |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Autodesk_3ds_Max.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Sketchup.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Terragen.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Autodesk_3ds_Max.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_SketchUp.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Terragen.png?raw=true" width="256" /> |
 
 
 	</p></details>
@@ -1214,7 +1213,7 @@
 
     | IMAX | Imageworks | Framestore |
     | :-: | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Imax.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Imageworks.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Framestore.png?raw=true" width="256" /> |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_IMAX.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Imageworks.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Framestore.png?raw=true" width="256" /> |
 
     | Pixomondo | Luma Pictures | Criterion Collection |
     | :-: | :-: | :-: |
@@ -1226,7 +1225,7 @@
 
 	| Microsoft Paint | MSPaint | Drawn in Kid Pix |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Microsoftpaint.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Mspaint.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Drawn_in_Kid_Pix.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Microsoft_Paint.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_MSpaint.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Drawn_in_Kid_Pix.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -1266,7 +1265,7 @@
 
 	| Raster | Vector Graphics |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Raster.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Vectorgraphics.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Raster.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Vector_Graphics.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -1278,7 +1277,7 @@
 	
 	| 3D Model | 3D Render | Precision Rendering |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_3dmodel.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_3drender.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Precision_Rendering.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_3D_Model.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_3D_Rrender.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Precision_Rendering.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -1290,7 +1289,7 @@
 
 	| Pre-Rendered Graphics | Physically Based Rendering |
     | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Pre-rendered_graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Physically_Based_Rendering.png?raw=true" width="256" /> |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Pre-Rendered_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Physically_Based_Rendering.png?raw=true" width="256" /> |
 
     <br>
 	
@@ -1302,13 +1301,13 @@
 	
 	| Digital Art | Pixel Art | Voxel Art |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Digitalart.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Pixelart.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Voxelart.png?raw=true" width="256" /> | 
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Digitalart.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Pixel_Art.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Voxel_Art.png?raw=true" width="256" /> | 
 	
 	<br>
 
 	| Pixel-Perfect | ASCII | Tilemap |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Pixel-Perfect.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Ascii.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Tilemap.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Pixel-Perfect.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_ASCII.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Tilemap.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -1374,25 +1373,25 @@
 
 	| Artstation | Trending on Artstation |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Artstation.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Trendingonartstation.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Artstation.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Trending_on_Artstation.png?raw=true" width="256" /> |
 	
 	<br>
 
 	| DeviantArt | Flickr |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Deviantart.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Flickr.png?raw=true" width="256" />  |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_DeviantArt.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Flickr.png?raw=true" width="256" />  |
 
 	<br>
 	
-	| Social Media |Art on Instagram |
+	| Social Media | Art on Instagram |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Social_Media.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Artoninstagram.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Social_Media.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Art_on_Instagram.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| CGSociety | Pixiv | Unsplash |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Cgsociety.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Pixiv.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Unsplash.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_CGsociety.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Pixiv.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Unsplash.png?raw=true" width="256" /> |
 
 	</p></details>
 
@@ -1411,7 +1410,7 @@
 	
 	| Data Moshing | Datamoshing | Databending |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Data_moshing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Datamoshing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Databending.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Data_Moshing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Datamoshing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Databending.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -1426,11 +1425,11 @@
 
 	| AI Generated | Neural Art | Neural Style Transfer |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Aigenerated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Neural_Art.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Neural_Style_Transfer.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_AI_Generated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Neural_Art.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Neural_Style_Transfer.png?raw=true" width="256" /> |
 
 	| Deep Dream |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Deepdream.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Deep_Dream.png?raw=true" width="256" /> |
 	
 	<br>
 
@@ -1452,7 +1451,7 @@
 
 	| Atari Graphics |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Atarigraphics.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Atari_Graphics.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -1468,19 +1467,19 @@
 
 	| PS1 Graphics | Xbox 360 Graphics |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Ps1_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Xbox_360_Graphics.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_PS1_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Xbox_360_Graphics.png?raw=true" width="256" /> |
 
 	<br>
 
 	| NES | NES Palette |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Nes.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Nes_Palette.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_NES.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_NES_Palette.png?raw=true" width="256" /> |
 
 	<br>
 
 	| SNES | SNES Palette |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Snes.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Snes_Palette.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_SNES.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_SNES_Palette.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -1515,13 +1514,13 @@
 
 	| Video Game | Flash Game |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Videogame.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Flash_Game.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Video_Game.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Flash_Game.png?raw=true" width="256" /> |
 
 	<br>
 
 	| HD Mod |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Hd_Mod.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_HD_Mod.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -1551,7 +1550,7 @@
 
 	| Polybius | LSD-Dream-Emulator |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Polybius.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Lsd-Dream-Emulator.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Polybius.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_LSD-Dream-Emulator.png?raw=true" width="256" /> |
 
 	</p></details>
 
@@ -1579,7 +1578,7 @@
 
 	| Amiga OCS Graphics | Teletext | Teletext Palette |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Amigaocsgraphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Teletext.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Teletext_Palette.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Amiga_OCS_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Teletext.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Teletext_Palette.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -1591,13 +1590,13 @@
 
 	| Apple IIGS | IIGS Graphics | Apple IIGS Palette |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Apple_IIgs.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Iigsgraphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Apple_IIgs_Palette.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Apple_IIGS.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_IIGS_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Apple_IIGS_Palette.png?raw=true" width="256" /> |
 
 	<br>
 
 	| ZX Spectrum | ZX Spectrum Palette |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Zx_Spectrum.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Zx_Spectrum_Palette.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_ZX_Spectrum.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_ZX_Spectrum_Palette.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -1631,13 +1630,13 @@
 
 	| Classic-Mac-OS | Mac-OSX | MacOS |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Classic-Mac-OS.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Mac-OSX.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Macos.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Classic-Mac-OS.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Mac-OSX.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_MacOS.png?raw=true" width="256" /> |
 
 	<br>
 
 	| iOS |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Ios.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_iOS.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -1653,13 +1652,13 @@
 
 	| 90s Computer Graphics | 1990s Computer Graphics |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_90scomputergraphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_1990s_Computer_Graphics.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_90s_Computer_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_1990s_Computer_Graphics.png?raw=true" width="256" /> |
 	
 	<br>
 	
 	| Cellular Automata | Conway's Game of Life |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Cellularautomata.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Conwaysgameoflife.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Cellular_Automata.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Conways_Game_of_Life.png?raw=true" width="256" /> |
 
 	<br>
 	
@@ -1671,7 +1670,6 @@
 
   </p></details>
 
-  -->
 
 
 <hr><!--------------->
