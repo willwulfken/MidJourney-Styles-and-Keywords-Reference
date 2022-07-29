@@ -115,6 +115,7 @@ body,
     padding: 12px 16px;
     margin: 4px 2px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .footer_container button:hover {
@@ -261,6 +262,7 @@ body,
     transition: 0.3s;
     font-size: 17px;
     border: none;
+    cursor: pointer;
 }
 
 .menu-link-table-item button:hover {
