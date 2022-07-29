@@ -140,7 +140,7 @@
 	<tr>
 		<th>🖥 Computer Display and Color Models<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Computer_Display.md">🖥 Computer Display and Color Models</a>--></th>
 		<th>📷 Camera, Film Types, Lenses, and Perspective<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Camera.md">📷 Camera, Film Types, Lenses, and Perspective</a>--></th>
-		<th>🌌 Dimensionality<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Dimensionality.md">🌌 Dimensionality</a>--></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Dimensionality.md">🌌 Dimensionality</a></th>
 	</tr>
 	<tr>
 		<th>💠 Geometry, Topology, and Structural Modification<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Geometry.md">💠 Geometry, Topology, and Structural Modification</a>--></th>
