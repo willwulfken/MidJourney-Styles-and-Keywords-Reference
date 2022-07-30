@@ -1,0 +1,203 @@
+/*.menu-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f1f1f1;
+    justify-content: space-evenly;
+    text-align: center;
+
+    max-width: 40%;
+    max-height: 60%;
+    grid-template-columns: auto auto auto;
+    /*display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    overflow: hidden;
+    border: none;
+    background-color: #f1f1f1;
+
+
+    max-width: 40%;
+    max-height: 60%;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: 32px;
+    border-radius: 5px;*/
+/*}
+
+.menu-flex-item{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex: 1;
+    /*text-align: center;
+    background-color: #f1f1f1;
+    border-radius: 5%;
+    box-sizing: border-box;
+    padding: 4px 4px;
+    margin: 2px 2px;
+    max-width: 256px;
+    min-width: 64px;
+    min-height: 64px;*/
+/*}
+
+.menu-flex-item button {
+    display: inline-block;
+    flex: 1;
+    background-color: #ddd;
+    border: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    
+    /*font-size: 17px;
+    color: black;
+    text-decoration: none;
+    border-radius: 5%;
+    max-width: 256px;
+    min-width: 64px;
+    min-height: 64px;
+    padding: 12px 16px;*/
+/*}
+
+.menu-flex-item button:hover {
+    background-color: #ccc;
+}*/
+
+
+
+/*.menu-flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #f1f1f1;
+    justify-content: space-evenly;
+    border-radius: 5px;
+}
+
+/* Style the tab content */
+/*.menu-flex-item {
+    background-color: #f1f1f1;
+    padding: 12px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.menu-flex-item button {
+    background-color: #f1f1f1;
+    color: black;
+    padding: 12px 24px;
+    margin: 4px 2px;
+    text-decoration: none;
+    display: inline-block;
+    flex: 1;
+    border-radius: 5px;
+    transition: 0.3s;
+}*/
+
+/*    body,
+    .tab,
+    .tabcontent,
+    .tab button,
+    .subtab,
+    .subtabcontent,
+    .subtab button {
+        background-color: #1a1a1a;
+        color: white;
+    }
+
+    .head-title {
+        background-color: #0d0d0d;
+        color: white;
+    }
+
+    .title-img {
+        content: url("Images/Banner/Banner_Dark.png");
+    }
+
+    .footer_container {
+        background-color: #0d0d0d;
+        color: white;
+    }
+
+    .footer_container button {
+        background-color: #1a1a1a;
+        color: white;
+    }
+
+    .footer_container button:hover {
+        background-color: #3e3e3e;
+    }
+
+    .dropdown, .dropdown button, .dropdown-content a {
+        background-color: #0d0d0d;
+        color: white;
+    }
+
+    .dropdown button:hover, .dropdown button.active {
+        background-color: #3e4446;
+    }
+
+    .dropdown-content a {
+        background-color: #1a1a1a;
+        color: white;
+    }
+
+    .dropdown-content a:hover {
+        background-color: #3e4446;
+    }
+
+    .dropdown-content {
+        background-color: #0d0d0d;
+        border: 1px solid #3e4446;
+    }
+
+    .tab button,
+    .subtab button {
+        background-color: #1a1a1a;
+    }
+
+    .tab,
+    .subtab {
+        background-color: #0d0d0d;
+    }
+
+    .tab button:hover,
+    .subtab button:hover,
+    .tab button.active,
+    .subtab button.active {
+        background-color: #3e4446;
+    }
+
+    .tabcontent,
+    .subtabcontent {
+        /*border: 1px solid #3e4446;*/
+/*        background-color: #0d0d0d;
+    }
+
+    .grid-item, .grid-title {
+        background-color: #131415;
+    }
+
+    .menu-link-table {
+        background-color: #131415;
+        color: white;
+    }
+
+    .menu-link-table-title {
+        background-color: inherit;
+        color: white;
+    }
+
+    .menu-link-table-item button {
+        background-color: #1a1a1a;
+        color: white;
+    }
+
+    .menu-link-table-item button:hover {
+        background-color: #3e3e3e;
+        color: white;
+    }*/

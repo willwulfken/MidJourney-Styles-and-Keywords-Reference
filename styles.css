@@ -1,3 +1,25 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+.title-img{
+    width: 40%;
+    height: auto;
+    margin: 12px;
+    content: url("/Images/Banner/Banner_Light.png");
+}
+
+.head-title {
+    border-radius: 5px;
+}
+
+.pagetitle {
+    padding: 12px;
+    margin: 16px 16px;
+    background-color: #0f1011;
+    border-radius: 5px;
+}
+
 .tab,
 .dropdown {
     display: flex;
@@ -5,14 +27,12 @@
     flex-wrap: wrap;
     overflow: hidden;
     /*border: 1px solid #ccc;*/
-    background-color: #f1f1f1;
     justify-content: space-evenly;
     border-radius: 5px;
 }
 
 /* Style the buttons inside the tab */
 .dropdown button {
-    background-color: inherit;
     float: left;
     border: none;
     outline: none;
@@ -24,24 +44,15 @@
     border-radius: 5px;
 }
 
-/* Create an active/current tablink class */
-.dropdown button:hover, .dropdown button.active {
-    background-color: #ddd;
-}
-
-/* Style the tab content */
 .dropdown-content {
-    background-color: #f1f1f1;
     display: none;
     padding: 12px 12px;
-    border: 1px solid #ccc;
+   /* border: 1px solid #ccc;*/
     border-top: none;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
 .dropdown-content a {
-    background-color: #f1f1f1;
-    color: black;
     padding: 12px 24px;
     margin: 4px 2px;
     text-decoration: none;
@@ -52,55 +63,7 @@
     /*float: left; /*center;*/
 }
 
-.dropdown-content a:hover {
-    background-color: #ddd;
-}
-
-
-.title-img{
-    width: 40%;
-    height: auto;
-    margin: 12px;
-    content: url("/Images/Banner/Banner_Light.png");
-}
-
-/* Font */
-body,
-.head-title,
-.footer_container,
-.footer_container button,
-.tab,
-.tabcontent,
-.tab button,
-.subtab,
-.subtabcontent,
-.subtab button,
-.dropdown,
-.dropdown-content,
-.dropdown button,
-.menu-flex-container,
-.menu-flex-item,
-.menu-flex-item button,
-.menu-link-table,
-.menu-link-table-item,
-.menu-link-table-item button {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-}
-
-.head-title {
-    background-color: #f1f1f1;
-    color: black;
-    border-radius: 5px;
-}
-
-.pagetitle {
-    padding: 12px;
-}
-
 .footer_container {
-    background-color: #f1f1f1;
-    color: black;
-
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -110,16 +73,10 @@ body,
 }
 
 .footer_container button {
-    background-color: #f1f1f1;
-    color: black;
     padding: 12px 16px;
     margin: 4px 2px;
     border-radius: 5px;
     cursor: pointer;
-}
-
-.footer_container button:hover {
-    background-color: #ddd;
 }
 
 .tab,
@@ -129,12 +86,10 @@ body,
     flex-wrap: wrap;
     overflow: hidden;
     border: none;
-    background-color: #f1f1f1;
 }
 
 /* Style the buttons inside the tab */
 .tab button {
-    background-color: inherit;
     float: left;
     border: none;
     outline: none;
@@ -147,7 +102,6 @@ body,
 }
 
 .subtab button {
-    background-color: inherit;
     float: left;
     outline: none;
     cursor: pointer;
@@ -163,13 +117,6 @@ body,
 .subtab {
     position: sticky;
       top: 0;
-}
-
-.tab button:hover,
-.subtab button:hover,
-.tab button.active,
-.subtab button.active {
-    background-color: #ddd;
 }
 
 /* Style the tab content */
@@ -197,7 +144,6 @@ body,
 .grid-item {
     flex: 1;
     text-align: center;
-    background-color: #ccc;
     border-radius: 5%;
     max-width: 256px;
     min-width: 64px;
@@ -215,7 +161,6 @@ body,
     align-items: center;
     justify-content: center;
     font-size: 18px;
-    background-color: #ccc;
     border-radius: 5%;
     max-width: 256px;
     min-width: 64px;
@@ -239,9 +184,6 @@ body,
     height: auto;
 }
 
-
-/* Menu Link Tables */
-
 .menu-link-table-group-parent {
     display: inline-flex;
     flex-wrap: wrap;
@@ -256,7 +198,6 @@ body,
 
 .menu-link-table {
     display: flexbox;
-    background-color: #f1f1f1;
     text-align: center;
     margin: 12px 12px;
     table-layout: fixed;
@@ -304,7 +245,6 @@ body,
 }
 
 .menu-link-table-item button {
-    background-color: #ccc;
     padding: 12px 24px;
     margin: 4px 2px;
     width: 100%;
@@ -320,129 +260,97 @@ body,
     cursor: pointer;
 }
 
-.menu-link-table-item button:hover {
-    background-color: #ddd;
-}
 
-/*.menu-flex-container {
-    display: flex;
-    flex-wrap: wrap;
-    background-color: #f1f1f1;
-    justify-content: space-evenly;
-    text-align: center;
+/* -------------------------------------------------------- */
+/* -------------------------------------------------------- */
+/* ------------------- Light Mode Colors ------------------ */
+/* -------------------------------------------------------- */
+/* -------------------------------------------------------- */
 
-    max-width: 40%;
-    max-height: 60%;
-    grid-template-columns: auto auto auto;
-    /*display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    display: inline-grid;
-    grid-template-columns: auto auto auto;
-    overflow: hidden;
-    border: none;
-    background-color: #f1f1f1;
+@media (prefers-color-scheme: light) {
 
+    html {
+        background-color: #f1f1f1;
+        color: black;
+    }
 
-    max-width: 40%;
-    max-height: 60%;
-    margin-top: 32px;
-    margin-bottom: 32px;
-    margin-left: 32px;
-    border-radius: 5px;*/
-/*}
-
-.menu-flex-item{
-    background-color: #f1f1f1;
-    margin: 10px;
-    padding: 20px;
-    flex-grow: 1;
-    flex-shrink: 1;
-    flex: 1;
-    /*text-align: center;
-    background-color: #f1f1f1;
-    border-radius: 5%;
-    box-sizing: border-box;
-    padding: 4px 4px;
-    margin: 2px 2px;
-    max-width: 256px;
-    min-width: 64px;
-    min-height: 64px;*/
-/*}
-
-.menu-flex-item button {
-    display: inline-block;
-    flex: 1;
-    background-color: #ddd;
-    border: none;
-    box-sizing: border-box;
-    cursor: pointer;
+    .head-title,
+    .tab,
+    .tabcontent,
+    .subtab,
+    .subtabcontent,
+    .dropdown,
+    .dropdown-content,
+    .dropdown-content a,
+    .footer_container,
+    .footer_container button,
+    .menu-link-table {
+        color: #f1f1f1
+    }
     
-    /*font-size: 17px;
-    color: black;
-    text-decoration: none;
-    border-radius: 5%;
-    max-width: 256px;
-    min-width: 64px;
-    min-height: 64px;
-    padding: 12px 16px;*/
-/*}
+    .tab button:hover,
+    .subtab button:hover,
+    .dropdown button:hover,
+    .dropdown content a:hover,
+    .footer_container button:hover,
+    .menu-link-table-item button:hover {
+        background-color: #ddd;
+    }
 
-.menu-flex-item button:hover {
-    background-color: #ccc;
-}*/
+    .tab button.active,
+    .subtab button.active,
+    .dropdown button.active {
+        background-color: #ddd
+    }
 
+    .grid-item,
+    .grid-title,
+    .menu-link-table-item button {
+        background-color: #ccc;
+    }
+    
+    .dropdown button,
+    .tab button,
+    .subtab button {
+        background-color: inherit;
+    }
 
+    /*.title-img {
+        content: url("Images/Banner/Banner_Light.png");
+    }*/
 
-/*.menu-flex-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    background-color: #f1f1f1;
-    justify-content: space-evenly;
-    border-radius: 5px;
 }
 
-/* Style the tab content */
-/*.menu-flex-item {
-    background-color: #f1f1f1;
-    padding: 12px 12px;
-    border: 1px solid #ccc;
-    border-top: none;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-}
 
-.menu-flex-item button {
-    background-color: #f1f1f1;
-    color: black;
-    padding: 12px 24px;
-    margin: 4px 2px;
-    text-decoration: none;
-    display: inline-block;
-    flex: 1;
-    border-radius: 5px;
-    transition: 0.3s;
-}
 
-/*-------------------------------------------------------*/
-/* ----------------------Dark Mode---------------------- */
-/*-------------------------------------------------------*/
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
+/* ------------------- Dark Mode Colors ------------------ */
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
 
 @media (prefers-color-scheme: dark) {
 
-    body,
-    .tab,
-    .tabcontent,
-    .tab button,
-    .subtab,
-    .subtabcontent,
-    .subtab button {
-        background-color: #1a1a1a;
-        color: white;
-    }
 
-    .head-title {
-        background-color: #0d0d0d;
+    html,
+    body,
+    header,
+    footer,
+    a,
+    div,
+    span,
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    table,
+    tr,
+    td,
+    th,
+    button {
         color: white;
     }
 
@@ -450,57 +358,42 @@ body,
         content: url("Images/Banner/Banner_Dark.png");
     }
 
-    .footer_container {
-        background-color: #0d0d0d;
-        color: white;
-    }
-
-    .footer_container button {
+    body,
+    .tab,
+    .tabcontent,
+    .tab button,
+    .subtab,
+    .subtabcontent,
+    .subtab button,
+    .footer_container button,
+    .dropdown-content a,
+    .tab button,
+    .subtab button,
+    .menu-link-table-item button {
         background-color: #1a1a1a;
         color: white;
     }
 
-    .footer_container button:hover {
+    .head-title,
+    .footer_container,
+    .dropdown,
+    .dropdown button,
+    .dropdown-content,
+    .tab,
+    .subtab,
+    .tabcontent,
+    .subtabcontent {
+        background-color: #0d0d0d;
+    }
+
+    .footer_container button:hover,
+    .menu-link-table-item button:hover {
         background-color: #3e3e3e;
     }
 
-    .dropdown, .dropdown button, .dropdown-content a {
-        background-color: #0d0d0d;
-        color: white;
-    }
-
-    .dropdown button:hover, .dropdown button.active {
-        background-color: #3e4446;
-    }
-
-    .dropdown-content a {
-        background-color: #1a1a1a;
-        color: white;
-    }
-
-    .dropdown-content a:hover {
-        background-color: #3e4446;
-    }
-
-    .dropdown-content {
-        background-color: #0d0d0d;
-        border: 1px solid #3e4446;
-    }
-
-
-
-    /* Style the buttons inside the sub-tab */
-    .tab button,
-    .subtab button {
-        background-color: #1a1a1a;
-    }
-
-    /* Style the tab */
-    .tab,
-    .subtab {
-        background-color: #0d0d0d;
-    }
-
+    .dropdown button:hover,
+    .dropdown button.active,
+    .dropdown-content a:hover,
     .tab button:hover,
     .subtab button:hover,
     .tab button.active,
@@ -508,31 +401,14 @@ body,
         background-color: #3e4446;
     }
 
-    /* Style the tab content */
-    .tabcontent,
-    .subtabcontent {
-        /*border: 1px solid #3e4446;*/
-        background-color: #0d0d0d;
-    }
-
-    .grid-item, .grid-title {
-        background-color: #131415;
-    }
-
-    /* Menu Link Tables */
+    .grid-item,
+    .grid-title,
     .menu-link-table {
         background-color: #131415;
-        color: white;
     }
-
-    .menu-link-table-item button {
-        background-color: #1a1a1a;
-        color: white;
-    }
-
-    .menu-link-table-item button:hover {
-        background-color: #3e3e3e;
-        color: white;
+    
+    .menu-link-table-title {
+    	background-color: inherit;
     }
 
 }
