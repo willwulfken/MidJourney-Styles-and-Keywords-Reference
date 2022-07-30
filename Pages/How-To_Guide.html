@@ -108,9 +108,124 @@
 <body>
 	<div align="center">
 
-		<div class="pagetitle"><h2>Page Title</h2></div>
+		<div class="pagetitle"><h2>❔ How-To Guide</h2></div>
 
-		
+		<div class="tab">
+			<button class="tablinks" onclick="openTab(event, 'Creating_Image')">🖼 Creating an Image</button>
+			<button class="tablinks" onclick="openTab(event, 'Sending_Image_To_DMs')">✉ Sending your image to your DMs</button>
+			<button class="tablinks" onclick="openTab(event, 'Upscaling_Image')">📐 How To Upscale an Image</button>
+		</div>
+
+		<div id="Creating_Image" class="tabcontent">
+			<table>
+				<tr>
+					<td>
+						<div class="how-to-text">
+							To Create an image, start by typing `/imagine` into the MidJourney Bot chat DM, your designated newbie/general server channel, or another server channel that allows image prompts.	
+						</div>
+					</td>
+					<td>
+						<div class="how-to-img">
+							<img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Tutorial_Images/Imagine_Tutorial/howto_imagine_1.png">
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="how-to-text">
+							Either click on the /imagine prompt command (shown above) or hit enter.
+						</div>
+					</td>
+					<td>
+						<div class="how-to-img">
+							<img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Tutorial_Images/Imagine_Tutorial/howto_imagine_2.png">
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="how-to-text">
+							Type out your propmt and hit enter. Now you're all set and your image shold be generating!
+						</div>
+					</td>
+					<td>
+						<div class="how-to-img">
+							<img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Tutorial_Images/Imagine_Tutorial/howto_imagine_3.png">
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+
+		<div id="Sending_Image_To_DMs" class="tabcontent">
+			<table>
+				<tr>
+					<td>
+						<div class="how-to-text">
+							In order to send images to your DMs, just reply to the generated image by clicking the emoji button, and clicking on ✉.
+						</div>
+					</td>
+					<td>
+						<div class="how-to-img">
+							<img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Tutorial_Images/Inbox_Tutorial/howto_inbox_1.png">
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="how-to-text">
+							This will send the images to your DMs indivudually. This will also allow you to see the Seed used and the Job ID.
+						</div>
+					</td>
+					<td>
+						<div class="how-to-img">
+							<img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Tutorial_Images/Inbox_Tutorial/howto_inbox_2.png">
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+
+		<div id="Upscaling_Image" class="tabcontent">
+			<table>
+				<tr>
+					<td>
+						<div class="how-to-text">
+							To upscale an image, click any of the upscale buttons (shown in blue). The numbers correspond to which image will be upscaled.
+						</div>
+					</td>
+					<td>
+						<div class="how-to-img">
+							<img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Tutorial_Images/Upscale_Tutorial/how_to_upscale_1.png">
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="how-to-text">
+							After upscaling an image, you then have the options to upscale to max resolution, or to do a light upscale.
+						</div>
+					</td>
+					<td>
+						<div class="how-to-img">
+							<img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Tutorial_Images/Upscale_Tutorial/how_to_upscale_2.png">
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="how-to-text">
+							After doing a light upscale, you are also able to upscale it to max resolution.
+						</div>
+					</td>
+					<td>
+						<div class="how-to-img">
+							<img src="https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Images/Tutorial_Images/Upscale_Tutorial/how_to_upscale_3.png">
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
 	</div>
 </body>
 
@@ -173,5 +288,19 @@
             }
         }
     }
+
+	function openTab(evt, tabName) {
+		var i, tabcontent, tablinks;
+		tabcontent = document.getElementsByClassName("tabcontent");
+		for (i = 0; i < tabcontent.length; i++) {
+			tabcontent[i].style.display = "none";
+		}
+		tablinks = document.getElementsByClassName("tablinks");
+		for (i = 0; i < tablinks.length; i++) {
+			tablinks[i].className = tablinks[i].className.replace(" active", "");
+		}
+		document.getElementById(tabName).style.display = "block";
+		evt.currentTarget.className += " active";
+	}
 </script>
 </html>

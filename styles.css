@@ -260,6 +260,46 @@
     cursor: pointer;
 }
 
+.how-to-text {
+    font-size: 18px;
+    padding: 24px 48px;
+}
+
+.how-to-img img {
+    width: 25vmax;
+    height: auto;
+    padding: 12px;
+}
+
+.links-to-other-resources-title {
+    margin-top: 30px;
+    margin-bottom: 16px;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: content;
+    /*font-weight: bold;*/
+    font-size: 20px;
+}
+
+.links-to-other-resources-link {
+    margin: 6px;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: content;
+    font-size: 14px;
+}
+
+.links-to-other-resources-link a {
+    padding: 12px 24px;
+    margin: 4px 2px;
+    text-decoration: none;
+    display: inline-block;
+    flex: 1;
+    border-radius: 5px;
+    transition: 0.3s;
+}
 
 /* -------------------------------------------------------- */
 /* -------------------------------------------------------- */
@@ -293,7 +333,8 @@
     .dropdown button:hover,
     .dropdown content a:hover,
     .footer_container button:hover,
-    .menu-link-table-item button:hover {
+    .menu-link-table-item button:hover,
+    .links-to-other-resources-link a:hover {
         background-color: #ddd;
     }
 
@@ -305,7 +346,8 @@
 
     .grid-item,
     .grid-title,
-    .menu-link-table-item button {
+    .menu-link-table-item button
+    .links-to-other-resources-link a {
         background-color: #ccc;
     }
     
@@ -382,12 +424,14 @@
     .tab,
     .subtab,
     .tabcontent,
-    .subtabcontent {
+    .subtabcontent,
+    .links-to-other-resources-link a {
         background-color: #0d0d0d;
     }
 
     .footer_container button:hover,
-    .menu-link-table-item button:hover {
+    .menu-link-table-item button:hover,
+    .links-to-other-resources-link a:hover {
         background-color: #3e3e3e;
     }
 
