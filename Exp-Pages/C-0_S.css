@@ -1,0 +1,48 @@
+@import url("../styles.css");
+
+* {box-sizing: border-box;}
+
+head,
+body,
+.img-comp-container,
+.img-comp-img,
+.img-comp-slider {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.img-comp-container {
+    position: relative;
+    max-width: 512px;
+    max-height: auto;
+}
+
+.img-comp-img {
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    overflow: hidden;
+}
+
+.img-comp-img img {
+    display: block;
+    vertical-align: middle;
+    width: 512px;
+    height: 512px;
+}
+
+.img-comp-slider {
+    position: absolute;
+    z-index: 9;
+    cursor: ew-resize;
+    /*set the appearance of the slider:*/
+    width: 40px;
+    height: 40px;
+    /*background-color: #2196F3;*/
+    background-color: #2a2a2a;
+    opacity: 0.7;
+    border-radius: 50%;
+    border-block: 4px solid #fff;
+    border-inline: 4px solid #fff;
+}
