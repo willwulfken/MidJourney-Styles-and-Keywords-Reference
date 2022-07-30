@@ -197,13 +197,16 @@ body,
 .grid-item {
     flex: 1;
     text-align: center;
-    font-size: 14px;
     background-color: #ccc;
     border-radius: 5%;
     max-width: 256px;
     min-width: 64px;
     min-height: 64px;
     box-sizing: border-box;
+}
+
+.grid-item p {
+    font-size: 12px;
 }
 
 .grid-title {
