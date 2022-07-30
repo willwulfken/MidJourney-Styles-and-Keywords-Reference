@@ -15,7 +15,7 @@
 
 	<br>
 	
-	| Painted By Adolph Menzel | Painted By Alexei Savrasov | Panted By Andrew Wyeth |
+	| Painted By Adolph Menzel | Painted By Alexei Savrasov | Painted By Andrew Wyeth |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Adolph_Menzel.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Alexei_Savrasov.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Andrew_Wyeth.png?raw=true" width="256" /> |
 
