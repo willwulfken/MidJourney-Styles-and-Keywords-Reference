@@ -271,6 +271,14 @@
     padding: 12px;
 }
 
+.how-to-mj-link {
+    padding: 24px;
+}
+
+.how-to-mj-link a {
+    color: #ccc;
+}
+
 .links-to-other-resources-title {
     margin-top: 30px;
     margin-bottom: 16px;
