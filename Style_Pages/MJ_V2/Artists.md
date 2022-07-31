@@ -47,7 +47,7 @@
 
 	| <small><br></small>Painting by Jean Delville<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
 	| :-: |
-	| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney_Styles_(sphere)/sphere_PaintingByJeanDelville.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_PaintingByJeanDelville.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -311,7 +311,7 @@
 	
 	| <small><br></small>Painting by Peter Mohrbacher<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
 	| :-: |
-	| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney_Styles_(sphere)/sphere_PaintingByPeterMohrbacher.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_PaintingByPeterMohrbacher.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -335,7 +335,7 @@
 
 	| <small><br></small>Painting by Junji Ito<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
 	| :-: |
-	| <img src="https://github.com/Earlh21/MidJourney-Styles-and-Keywords-Reference/blob/new-artists/Images/MidJourney_Styles_(sphere)/sphere_ArtByJunjiIto.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_ArtByJunjiIto.png?raw=true" width="256" /> |
 
 	<br>
 
