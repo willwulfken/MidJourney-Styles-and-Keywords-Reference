@@ -275,10 +275,6 @@
     padding: 24px;
 }
 
-.how-to-mj-link a {
-    color: #ccc;
-}
-
 .links-to-other-resources-title {
     margin-top: 30px;
     margin-bottom: 16px;
@@ -307,6 +303,66 @@
     flex: 1;
     border-radius: 5px;
     transition: 0.3s;
+}
+
+.tablinks-description {
+    font-size: 12px;
+}
+
+.tab-content-summary-table,
+.summary-table {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    vertical-align: middle;
+    width: 75%;
+    border-collapse: collapse;
+}
+
+.tab-content-summary-table-tr,
+.summary-table-tr {
+    flex-grow: 1;
+    flex-shrink: 1;
+    width: auto;
+    height: auto;
+}
+
+.tab-content-summary-table th,
+.summary-table th {
+    padding: 24px;
+}
+
+.tab-content-summary-table img,
+.summary-table img {
+    width: 100%;
+    height: auto;
+}
+
+.tab-content-summary-table tr:first-child th:first-child,
+.summary-table tr:first-child th:first-child {
+    border-top-left-radius: 5px;
+}
+
+.tab-content-summary-table tr:first-child th:last-child,
+.summary-table tr:first-child th:last-child {
+    border-top-right-radius: 5px;
+}
+.tab-content-summary-table tr:last-child td:first-child,
+.summary-table tr:last-child td:first-child {
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.tab-content-summary-table,
+.summary-table-blank-td {
+    font-size: 72px;
+}
+
+.how-to-link {
+    padding: 12px 12px;
+    font-size: 14px;
 }
 
 /* -------------------------------------------------------- */
@@ -363,6 +419,37 @@
     .tab button,
     .subtab button {
         background-color: inherit;
+    }
+
+    .tablinks-description {
+        color: #222;
+    }
+
+    .how-to-mj-link a,
+    .how-to-link a {
+        color: #222;
+    }
+
+    .tab-content-summary-table tr:nth-child(even) {
+        background-color: #f1f1f1;
+    }
+    
+    .tab-content-summary-table tr:nth-child(odd) {
+        background-color: #ccc;
+    }
+
+    .summary-table tr:nth-child(even) {
+        background-color: #ccc;
+    }
+    
+    .summary-table tr:nth-child(odd) {
+        background-color: #ddd;
+    }
+
+    .tab-content-summary-table-blank-td,
+    .summary-table-blank-td {
+        background-color: #f4f4f4;
+        border: 6px solid #222;
     }
 
     /*.title-img {
@@ -461,6 +548,37 @@
     
     .menu-link-table-title {
     	background-color: inherit;
+    }
+
+    .how-to-mj-link a,
+    .how-to-link a {
+        color: #ccc;
+    }
+
+    .tablinks-description {
+        color: #ccc
+    }
+
+    .tab-content-summary-table tr:nth-child(even) {
+        background-color: #0f1011;
+    }
+    
+    .tab-content-summary-table tr:nth-child(odd) {
+        background-color: #1a1a1a;
+    }
+
+    .summary-table tr:nth-child(even) {
+        background-color: #0d0d0d;
+    }
+    
+    .summary-table tr:nth-child(odd) {
+        background-color: #141414;
+    }
+
+    .tab-content-summary-table-blank-td,
+    .summary-table-blank-td {
+        background-color: #0d0d0d;
+        border: 6px solid #aaa;
     }
 
 }
