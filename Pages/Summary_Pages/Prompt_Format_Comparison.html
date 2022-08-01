@@ -1,0 +1,1624 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Head -->
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+
+	<base href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/">
+	<link rel="stylesheet" href="styles.css">
+
+    <div class="head-title">
+		<div align="center">
+			<img class="title-img" src="Images/Banner/Banner_Light.png"/>
+		</div>
+
+		<div class="dropdown">
+			<button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/index.html';">🏠 Home</button>
+			<button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Control_Image.html';">⚪ Control Image</button>
+			<button class="dropdown-links" onmouseenter="openMenuDropdown(event, 'Styles')" onmouseleave="closeMenuDropdown(event)">🎨 Styles</button>
+			<button class="dropdown-links" onmouseenter="openMenuDropdown(event, 'Comparison Pages')" onmouseleave="closeMenuDropdown(event)">🎛 Comparison Pages</button>
+			<button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/How-To_Guide.html';">❔ How-To Guide</button>
+			<button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Links.html';">🔗 Links To Other Resources</button>
+		</div>
+
+		<div id="Styles" class="dropdown-content" onmouseleave="closeMenuDropdown(event)">
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Themes_and_Design_Styles.html">
+				🖼 Themes and Design Styles
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Artists.html">
+				📔 Artists
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Drawing_and_Art_Mediums.html">
+				🖌 Drawing and Art Mediums
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Materials.html">
+				🧱 Materials
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Material_Propertieshtml">
+				📦 Material Properties
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Lighting.html">
+				💡 Lighting
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Colors.html">
+				🎨 Colors
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Color_Palettes_and_Color_Styles.html">
+				🎨 Palettes and Color Styles
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/SFX_and_Shaders.html">
+				🌈 SFX, Post-Processing, and Shaders
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Computer_Display.html">
+				🖥 Computer Display and Color Models
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Camera.html">
+				📷 Camera, Film Types, Lenses, and Perspective
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Dimensionality.html">
+				🌌 Dimensionality
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Geometry.html">
+				💠 Geometry, Topology, and Structural Modification
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Intangibles.html">
+				➰ Intangibles
+			</a>
+            <a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/TV_and_Movies.html">
+                🎬 TV Shows and Movies
+            </a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Experimental.html">
+				🧪 Experimental
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Styles/Miscellaneous.html">
+				🎛 Miscellaneous
+			</a>
+		</div>
+
+		<div id="Comparison Pages" class="dropdown-content" onmouseleave="closeMenuDropdown(event)">
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Prompt_Format_Comparison.html">
+				⌨ Prompt Format Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Text_In_Image_Comparison.html">
+				🔠 Text In Image Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/No_Parameter.html">
+				🚫 --no Parameter
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Image_Upscale_Comparison.html">
+				🚀 Image Upscale Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Image_Resolution_Comparison.html">
+				📏 Image Resolution Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/.html">
+				🎛 Image Algorithm Comparison
+			</a>
+			<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Comparison_Pages/Image_Weight_Comparison.html">
+				🏋️‍ Image Weight Comparison
+			</a>
+		</div>
+	</div>
+</head>
+
+<!-- Body -->
+
+<body>
+	<div align="center">
+
+		<div class="pagetitle"><h2>⌨ Prompt Format Comparison</h2></div>
+
+		<p class="how-to-link">
+			<a class="how-to-link" href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/How-To_Guide.html">❔ How To Create an Image</a>
+		</p>
+
+		<div class="tab">
+			<button class="tablinks" onclick="openTab(event, 'Basic_Prompt_Formats')">🔤 Basic Prompt Formats<p class="tablinks-description">&#60;style&#62; | sphere &#60;style&#62; | sphere, &#60;style&#62; | &#60;style&#62; sphere | sphere::&#60;style&#62;</p></button>
+			<button class="tablinks" onclick="openTab(event, 'Punctuation_Formats')">🔣 Other Punctuation Prompt Formats<p class="tablinks-description">&#60;style&#62; | sphere; &#60;style&#62; | sphere:&#60;style&#62; | &#60;style&#62; - sphere | sphere (&#60;style&#62;)</p></button>
+			<button class="tablinks" onclick="openTab(event, 'Made_of_and_Style_of_Formats')">🧊 "Made of" & "Style of" Prompt Formats<p class="tablinks-description">&#60;style&#62; | sphere in the style of &#60;style&#62; | sphere made of &#60;style&#62; | &#60;style&#62; of a sphere</p></button>
+			<button class="tablinks" onclick="openTab(event, 'Artist_Prompt_Formats')">🎨 Artist Prompt Formats<p class="tablinks-description">&#60;style&#62; | Art Made By &#60;style&#62; | sphere, Art Made By &#60;style&#62; | sphere Art Made By &#60;style&#62; |</p><p class="tablinks-description">| Painting By &#60;style&#62; | sphere, Painting By &#60;style&#62; | sphere in the style of &#60;style&#62;</p></button>
+		</div>
+
+
+		<div id="Basic_Prompt_Formats" class="tabcontent">
+			<table class="tab-content-summary-table">
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere <i>&#60;style&#62;</i></th>
+					<th>sphere, <i>&#60;style&#62;</i></th>
+					<th><i>&#60;style&#62;</i> sphere</th>
+					<th>sphere::<i>&#60;style&#62;</i></th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Supernova.html">Supernova</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Supernova.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Supernova.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Supernova.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Supernova_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Supernova.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Chaotic.html">Chaotic</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Chaotic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Chaotic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Chaotic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Chaotic_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Chaotic.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Deep%20Dream.html">Deep Dream</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDream.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_DeepDream.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-DeepDream.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-DeepDream.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Carved%20Lacquer.html">Carved Lacquer</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CarvedLacquer.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_CarvedLacquer.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-CarvedLacquer.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CarvedLacquer_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-CarvedLacquer.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Marker%20Art.html">Marker Art</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_MarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-MarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArt_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-MarkerArt.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Lactarius-Indigo.html">Lactarius-Indigo</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Lactarius-Indigo.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Lactarius-Indigo.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Lactarius-Indigo.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Lactarius-Indigo_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Lactarius-Indigo.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere <i>&#60;style&#62;</i></th>
+					<th>sphere, <i>&#60;style&#62;</i></th>
+					<th><i>&#60;style&#62;</i> sphere</th>
+					<th>sphere::<i>&#60;style&#62;</i></th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Liquid%20Crystal.html">Liquid Crystal</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/LiquidCrystal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_LiquidCrystal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-LiquidCrystal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/LiquidCrystal_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-LiquidCrystal.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Milky%20Quartz.html">Milky Quartz</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MilkyQuartz.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_MilkyQuartz.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-MilkyQuartz.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MilkyQuartz_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-MilkyQuartz.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Glow-In-The-Dark.html">Glow-In-The-Dark</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Glow-In-The-Dark.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Glow-In-The-Dark.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Glow-In-The-Dark.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Glow-In-The-Dark_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Glow-In-The-Dark.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Clouds.html">Clouds</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Clouds.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Clouds.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Clouds.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Clouds.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Cyan.html">Cyan</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cyan.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Cyan.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Cyan.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cyan_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Cyan.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Aqua.html">Aqua</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Aqua.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Aqua.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Aqua.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Aqua_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Aqua.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere <i>&#60;style&#62;</i></th>
+					<th>sphere, <i>&#60;style&#62;</i></th>
+					<th><i>&#60;style&#62;</i> sphere</th>
+					<th>sphere::<i>&#60;style&#62;</i></th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Technicolor.html">Technicolor</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Technicolor.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Technicolor.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Technicolor.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Technicolor_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Technicolor.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Hexagonal.html">Hexagonal</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Hexagonal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Hexagonal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Hexagonal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Hexagonal_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Hexagonal.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/4k.html">4k</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/4k.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_4k.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-4k.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/4k_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-4k.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/CGA.html">CGA</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CGA.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_CGA.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-CGA.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CGA_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-CGA.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/2-Dimensional.html">2-Dimensional</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/2-Dimensional.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_2-Dimensional.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-2-Dimensional.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/2-Dimensional_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-2-Dimensional.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Plasma%20Globe.html">Plasma Globe</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PlasmaGlobe.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_PlasmaGlobe.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-PlasmaGlobe.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PlasmaGlobe_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-PlasmaGlobe.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere <i>&#60;style&#62;</i></th>
+					<th>sphere, <i>&#60;style&#62;</i></th>
+					<th><i>&#60;style&#62;</i> sphere</th>
+					<th>sphere::<i>&#60;style&#62;</i></th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Ray%20Tracing%20Reflections.html">Ray Tracing Reflections</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_RayTracingReflections.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-RayTracingReflections.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-RayTracingReflections.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Chromatic%20Aberration.html">Chromatic Aberration</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberration.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_ChromaticAberration.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-ChromaticAberration.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-ChromaticAberration.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Cinematic.html">Cinematic</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cinematic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Cinematic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Cinematic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cinematic_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Cinematic.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Happy.html">Happy</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Happy.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_Happy.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Happy.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Happy_sphere.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Happy.png?raw=true" />
+					</td>
+				</tr>
+			</table>
+		</div>
+
+		<div id="Punctuation_Formats" class="tabcontent">
+			<table class="tab-content-summary-table">
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere; <i>&#60;style&#62;</i></th>
+					<th>sphere:<i>&#60;style&#62;</i></th>
+					<th>sphere - <i>&#60;style&#62;</i></th>
+					<th>sphere (<i>&#60;style&#62;</i>)</th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Supernova.html">Supernova</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Supernova.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Supernova.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Supernova.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Supernova.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Supernova).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Chaotic.html">Chaotic</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Chaotic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Chaotic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Chaotic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Chaotic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Chaotic).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Deep%20Dream.html">Deep Dream</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDream.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-DeepDream.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-DeepDream.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_DeepDream.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(DeepDream).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Carved%20Lacquer.html">Carved Lacquer</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CarvedLacquer.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-CarvedLacquer.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-CarvedLacquer.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_CarvedLacquer.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(CarvedLacquer).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Marker%20Art.html">Marker Art</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-MarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-MarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_MarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(MarkerArt).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Lactarius-Indigo.html">Lactarius-Indigo</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Lactarius-Indigo.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Lactarius-Indigo.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Lactarius-Indigo.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Lactarius-Indigo.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Lactarius-Indigo).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere; <i>&#60;style&#62;</i></th>
+					<th>sphere:<i>&#60;style&#62;</i></th>
+					<th>sphere - <i>&#60;style&#62;</i></th>
+					<th>sphere (<i>&#60;style&#62;</i>)</th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Liquid%20Crystal.html">Liquid Crystal</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/LiquidCrystal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-LiquidCrystal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-LiquidCrystal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_LiquidCrystal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(LiquidCrystal).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Milky%20Quartz.html">Milky Quartz</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MilkyQuartz.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-MilkyQuartz.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-MilkyQuartz.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_MilkyQuartz.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(MilkyQuartz).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Glow-In-The-Dark.html">Glow-In-The-Dark</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Glow-In-The-Dark.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Glow-In-The-Dark.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Glow-In-The-Dark.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Glow-In-The-Dark.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Glow-In-The-Dark).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Clouds.html">Clouds</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Clouds.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Clouds.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Clouds.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Clouds.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Clouds).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Cyan.html">Cyan</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cyan.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Cyan.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Cyan.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Cyan.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Cyan).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Aqua.html">Aqua</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Aqua.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Aqua.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Aqua.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Aqua.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Aqua).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere; <i>&#60;style&#62;</i></th>
+					<th>sphere:<i>&#60;style&#62;</i></th>
+					<th>sphere - <i>&#60;style&#62;</i></th>
+					<th>sphere (<i>&#60;style&#62;</i>)</th>
+				</tr>
+					<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Technicolor.html">Technicolor</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Technicolor.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Technicolor.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Technicolor.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Technicolor.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Technicolor).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Hexagonal.html">Hexagonal</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Hexagonal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Hexagonal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Hexagonal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Hexagonal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Hexagonal).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/4k.html">4k</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/4k.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-4k.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-4k.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_4k.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(4k).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/CGA.html">CGA</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CGA.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-CGA.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-CGA.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_CGA.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(CGA).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/2-Dimensional.html">2-Dimensional</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/2-Dimensional.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-2-Dimensional.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-2-Dimensional.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_2-Dimensional.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(2-dimensional).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Plasma%20Globe.html">Plasma Globe</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PlasmaGlobe.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-PlasmaGlobe.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-PlasmaGlobe.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_PlasmaGlobe.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(PlasmaGlobe).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere; <i>&#60;style&#62;</i></th>
+					<th>sphere:<i>&#60;style&#62;</i></th>
+					<th>sphere - <i>&#60;style&#62;</i></th>
+					<th>sphere (<i>&#60;style&#62;</i>)</th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Ray%20Tracing%20Reflections.html">Ray Tracing Reflections</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-RayTracingReflections.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-RayTracingReflections.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_RayTracingReflections.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(RayTracingReflections).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Chromatic%20Aberration.html">Chromatic Aberration</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberration.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-ChromaticAberration.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-ChromaticAberration.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_ChromaticAberration.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(ChromaticAberration).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Cinematic.html">Cinematic</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cinematic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Cinematic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Cinematic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Cinematic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Cinematic).png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Happy.html">Happy</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Happy.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-Happy.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-Happy.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_Happy.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Happy).png?raw=true" />
+					</td>
+				</tr>
+			</table>
+		</div>
+
+		<div id="Made_of_and_Style_of_Formats" class="tabcontent">
+			<table class="tab-content-summary-table">
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere in the style of <i>&#60;style&#62;</i></th>
+					<th>sphere made of <i>&#60;style&#62;</i></th>
+					<th><i>&#60;style&#62;</i> of a sphere</th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Supernova.html">Supernova</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Supernova.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofSupernova.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofSupernova.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Chaotic.html">Chaotic</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Chaotic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofChaotic.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Deep%20Dream.html">Deep Dream</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDream.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofDeepDream.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDreamofa_sphere.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Carved%20Lacquer.html">Carved Lacquer</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CarvedLacquer.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofCarvedLacquer.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofCarvedLacquer.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Marker%20Art.html">Marker Art</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofMarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofMarkerArt.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArtofa_sphere.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Lactarius-Indigo.html">Lactarius-Indigo</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Lactarius-Indigo.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofLactarius-Indigo.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofLactarius-Indigo.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere in the style of <i>&#60;style&#62;</i></th>
+					<th>sphere made of <i>&#60;style&#62;</i></th>
+					<th><i>&#60;style&#62;</i> of a sphere</th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Liquid%20Crystal.html">Liquid Crystal</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/LiquidCrystal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofLiquidCrystal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofLiquidCrystal.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Milky%20Quartz.html">Milky Quartz</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MilkyQuartz.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofMilkyQuartz.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofMilkyQuartz.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Glow-In-The-Dark.html">Glow-In-The-Dark</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Glow-In-The-Dark.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofGlow-In-The-Dark.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofGlow-In-The-Dark.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Clouds.html">Clouds</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Clouds.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofClouds.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofClouds.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Cyan.html">Cyan</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cyan.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofCyan.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofCyan.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Aqua.html">Aqua</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Aqua.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofAqua.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofAqua.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere in the style of <i>&#60;style&#62;</i></th>
+					<th>sphere made of <i>&#60;style&#62;</i></th>
+					<th><i>&#60;style&#62;</i> of a sphere</th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Technicolor.html">Technicolor</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Technicolor.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofTechnicolor.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/spheremadeof_Technicolor.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Hexagonal.html">Hexagonal</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Hexagonal.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofHexagonal.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/4k.html">4k</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/4k.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleof4k.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/CGA.html">CGA</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CGA.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofCGA.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofCGA.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/2-Dimensional.html">2-Dimensional</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/2-Dimensional.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleof2-Dimensional.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Plasma%20Globe.html">Plasma Globe</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PlasmaGlobe.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofPlasmaGlobe.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofPlasmaGlobe.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<th>Style Used</th>
+					<th><i>&#60;style&#62;</i></th>
+					<th>sphere in the style of <i>&#60;style&#62;</i></th>
+					<th>sphere made of <i>&#60;style&#62;</i></th>
+					<th><i>&#60;style&#62;</i> of a sphere</th>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Ray%20Tracing%20Reflections.html">Ray Tracing Reflections</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofRayTracingReflections.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/spheremadeof_RayTracingReflections.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflectionsofa_sphere.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Chromatic%20Aberration.html">Chromatic Aberration</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberration.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofChromaticAberration.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/spheremadeof_ChromaticAberration.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberrationofa_sphere.png?raw=true" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Cinematic.html">Cinematic</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cinematic.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofCinematic.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Pages/Prompt_Format_Comparison_Subpages/Happy.html">Happy</a>
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Happy.png?raw=true" />
+					</td>
+					<td>
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofHappy.png?raw=true" />
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+					<td class="tab-content-summary-table-blank-td">
+						-
+					</td>
+				</tr>
+			</table>
+		</div>
+
+		<div id="Artist_Prompt_Formats" class="tabcontent">
+			<div align="center">
+				<table class="tab-content-summary-table">
+					<tr>
+						<th>Style Used</th>
+						<th>Art Made By <i>&#60;artist&#62;</i></th>
+						<th>sphere, Art Made By <i>&#60;artist&#62;</i></th>
+						<th>sphere Art Made By <i>&#60;artist&#62;</i></th>
+						<th>Painting By <i>&#60;artist&#62;</i></th>
+						<th>sphere, Painting By <i>&#60;artist&#62;</i></th>
+						<th>sphere in the style of  <i>&#60;artist&#62;</i></th>
+					</tr>
+					<tr>
+						<td>
+							Alex Grey
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ArtMadeByAlexGrey.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-ArtMadeByAlexGrey.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_ArtMadeByAlexGrey.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PaintingByAlexGrey.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-PaintingByAlexGrey.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofAlexGrey.png?raw=true" />
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Bob Ross
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ArtMadeByBobRoss.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-ArtMadeByBobRoss.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_ArtMadeByBobRoss.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PaintingByBobRoss.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-PaintingByBobRoss.png?raw=true" />
+						</td>
+						<td>
+							<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofBobRoss.png?raw=true" />
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>	
+	</div>
+</body>
+
+<!-- Footer -->
+
+<footer>
+    <div class="footer_container">
+        <button onclick="window.location.href='https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Sitemap.html';">🗺 Sitemap</button>
+    </div>
+</footer>
+
+
+<!-- Scripts -->
+
+<script>
+
+    function openMenuDropdown(evt, dropdownName) {
+        var i, dropdowncontent, dropdownlinks;
+        dropdowncontent = document.getElementsByClassName("dropdown-content");
+        for (i = 0; i < dropdowncontent.length; i++) {
+            dropdowncontent[i].style.display = "none";
+        }
+        dropdownlinks = document.getElementsByClassName("dropdown-links");
+        for (i = 0; i < dropdownlinks.length; i++) {
+            dropdownlinks[i].className = dropdownlinks[i].className.replace(" active", "");
+        }
+        document.getElementById(dropdownName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+
+    function closeMenuDropdown(evt) {
+        var i;
+        var flag = false; //Tells whether the mouse is hovering over an element or not
+
+        var x = event.clientX;
+        var y = event.clientY;
+        
+        dropdowncontent = document.getElementsByClassName("dropdown-content");
+        dropdownlinks = document.getElementsByClassName("dropdown-links");
+
+        for (i = 0; i < dropdowncontent.length; i++) {
+            if(document.elementFromPoint(x, y) == dropdowncontent[i]) {
+                flag = true;
+                break;
+            }	
+        }
+
+        if(!flag) {
+            for (i = 0; i < dropdownlinks.length; i++) {
+                if(document.elementFromPoint(x, y) == dropdownlinks[i]) {
+                    flag = true;
+                    break;
+                }	
+            }
+        }
+
+        if(!flag) {
+            for (i = 0; i < dropdowncontent.length; i++) {
+                dropdowncontent[i].style.display = "none";
+                dropdownlinks[i].className = dropdownlinks[i].className.replace(" active", "");
+            }
+        }
+    }
+
+	function openTab(evt, tabName) {
+		var i, tabcontent, tablinks;
+		tabcontent = document.getElementsByClassName("tabcontent");
+		for (i = 0; i < tabcontent.length; i++) {
+			tabcontent[i].style.display = "none";
+		}
+		tablinks = document.getElementsByClassName("tablinks");
+		for (i = 0; i < tablinks.length; i++) {
+			tablinks[i].className = tablinks[i].className.replace(" active", "");
+		}
+		document.getElementById(tabName).style.display = "block";
+		evt.currentTarget.className += " active";
+	}
+</script>
+</html>

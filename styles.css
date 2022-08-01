@@ -70,6 +70,7 @@
     text-align: center;
     overflow: hidden;
     border: none;
+    margin: 24px;
 }
 
 .footer_container button {
@@ -141,10 +142,20 @@
     padding: 20px;
 }
 
+.grid-container-box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flexbox;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+    padding: 20px;
+}
+
 .grid-item {
     flex: 1;
     text-align: center;
-    border-radius: 5%;
+    border-radius: 5px;
     max-width: 256px;
     min-width: 64px;
     min-height: 64px;
@@ -160,8 +171,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
     font-size: 18px;
-    border-radius: 5%;
+    border-radius: 5px;
     max-width: 256px;
     min-width: 64px;
     min-height: 64px;
@@ -172,7 +184,7 @@
     flex: 1;
     display: flex;
     font-size: 14px;
-    border-radius: 5%;
+    border-radius: 5px;
     max-width: 256px;
     min-width: 64px;
     min-height: 64px;
@@ -310,7 +322,8 @@
 }
 
 .tab-content-summary-table,
-.summary-table {
+.summary-table,
+.summary-table-checkerboard {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -323,7 +336,8 @@
 }
 
 .tab-content-summary-table-tr,
-.summary-table-tr {
+.summary-table-tr,
+.summary-table-checkerboard-tr {
     flex-grow: 1;
     flex-shrink: 1;
     width: auto;
@@ -331,31 +345,66 @@
 }
 
 .tab-content-summary-table th,
-.summary-table th {
+.summary-table th,
+.summary-table-checkerboard th {
     padding: 24px;
 }
 
+.tab-content-summary-table td,
+.summary-table td,
+.summary-table-checkerboard td {
+    padding: 12px;
+}
+
+
 .tab-content-summary-table img,
-.summary-table img {
+.summary-table img,
+.summary-table-checkerboard img {
     width: 100%;
     height: auto;
 }
 
+.tab-content-summary-table img.img-auto,
+.summary-table img.img-auto,
+.summary-table-checkerboard img.img-auto {
+    width: auto;
+    height: auto;
+    min-width: initial;
+    max-width: 512px;
+}
+
+.tab-content-summary-table img.img-med,
+.summary-table img.img-med,
+.summary-table-checkerboard img.img-med {
+    width: 22vmax;
+    height: auto;
+}
+
+.tab-content-summary-table img.img-fifty-percent,
+.summary-table img.img-fifty-percent,
+.summary-table-checkerboard img.img-fifty-percent {
+    width: 50%;
+    height: auto;
+}
+
 .tab-content-summary-table tr:first-child th:first-child,
-.summary-table tr:first-child th:first-child {
+.summary-table tr:first-child th:first-child,
+.summary-table-checkerboard tr:first-child th:first-child {
     border-top-left-radius: 5px;
 }
 
 .tab-content-summary-table tr:first-child th:last-child,
-.summary-table tr:first-child th:last-child {
+.summary-table tr:first-child th:last-child,
+.summary-table-checkerboard tr:first-child th:last-child {
     border-top-right-radius: 5px;
 }
 .tab-content-summary-table tr:last-child td:first-child,
-.summary-table tr:last-child td:first-child {
+.summary-table tr:last-child td:first-child,
+.summary-table-checkerboard tr:last-child td:first-child {
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
 }
-.tab-content-summary-table,
+
 .summary-table-blank-td {
     font-size: 72px;
 }
@@ -455,6 +504,14 @@
     /*.title-img {
         content: url("Images/Banner/Banner_Light.png");
     }*/
+
+    .red-text {
+        color: #aa1b1b;
+    }
+
+    .green-text {
+        color: #1baa1b;
+    }
 
 }
 
@@ -579,6 +636,40 @@
     .summary-table-blank-td {
         background-color: #0d0d0d;
         border: 6px solid #aaa;
+    }
+
+    .summary-table-checkerboard tr:nth-child(even) td:nth-child(odd), 
+    .summary-table-checkerboard tr:nth-child(odd) td:nth-child(even)
+    {
+        background-color: #0f0f0f;
+    }
+
+    .summary-table-checkerboard tr:nth-child(even) td:nth-child(even), 
+    .summary-table-checkerboard tr:nth-child(odd) td:nth-child(odd)
+    {
+        background-color: #151515;
+    }
+
+ /*   .summary-table-checkerboard tr:nth-child(even) th:nth-child(1),
+    .summary-table-checkerboard tr:nth-child(even) th:nth-child(2),
+    .summary-table-checkerboard tr:nth-child(odd) th:nth-child(1),
+    .summary-table-checkerboard tr:nth-child(odd) th:nth-child(2)
+    {
+        background-color: #111111;
+    }*/
+
+    .summary-table-checkerboard tr:nth-child(even) th:nth-child(even),
+    .summary-table-checkerboard tr:nth-child(odd) th:nth-child(odd)
+    {
+        background-color: #141414;
+    }
+
+    .red-text {
+        color: #cc2c2c;
+    }
+
+    .green-text {
+        color: #2ccc2c;
     }
 
 }
