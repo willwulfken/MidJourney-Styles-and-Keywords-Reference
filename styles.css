@@ -162,6 +162,16 @@
     box-sizing: border-box;
 }
 
+.grid-item-large {
+    flex: 1;
+    text-align: center;
+    border-radius: 5px;
+    max-width: 512px;
+    min-width: 128px;
+    min-height: 128px;
+    box-sizing: border-box;
+}
+
 .grid-item p {
     font-size: 12px;
 }
@@ -174,8 +184,8 @@
     text-align: center;
     font-size: 18px;
     border-radius: 5px;
-    max-width: 256px;
-    min-width: 64px;
+    max-width: inherit;
+    min-width: inherit;
     min-height: 64px;
     box-sizing: border-box;
 }
