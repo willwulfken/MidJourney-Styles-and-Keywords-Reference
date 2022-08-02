@@ -9,17 +9,17 @@
 
 <table>
     <tr align=center valign=middle>
-        <th>--stylize 200</th>
-        <th>--stylize 300</th>
+        <!--<th>--stylize 200</th>
+        <th>--stylize 300</th>-->
         <th>--stylize 625</th>
     </tr>
     <tr align=center valign=middle>
-        <td>
+        <!--<td>
             <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_200.png?raw=true" width="256" />
         </td>
         <td>
             <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_300.png?raw=true" width="256" />
-        </td>
+        </td>-->
         <td>
             <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_625.png?raw=true" width="256" />
         </td>
