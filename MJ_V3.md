@@ -141,21 +141,21 @@
 	<tr>
 		<th>🧱 Materials<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Materials.md">🧱 Materials</a>--></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Material_Properties.md">📦 Material Properties</a></th>
-		<th>💡 Lighting<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Lighting.md">💡 Lighting</a>--></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Lighting.md">💡 Lighting</a></th>
 	</tr>
 	<tr>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Colors.md">🎨 Colors</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Colors_Palettes_and_Color_Styles.md">🎨 Palettes and Color Styles</a></th>
-		<th>🌈 SFX, Post-Processing, and Shaders<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/SFX_and_Shaders.md">🌈 SFX, Post-Processing, and Shaders</a>--></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/SFX_and_Shaders.md">🌈 SFX, Post-Processing, and Shaders</a></th>
 	</tr>
 	<tr>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Computer_Display.md">🖥 Computer Display and Color Models</a></th>
-		<th>📷 Camera, Film Types, Lenses, and Perspective<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Camera.md">📷 Camera, Film Types, Lenses, and Perspective</a>--></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Camera.md">📷 Camera, Film Types, Lenses, and Perspective</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Dimensionality.md">🌌 Dimensionality</a></th>
 	</tr>
 	<tr>
 		<th>💠 Geometry, Topology, and Structural Modification<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Geometry.md">💠 Geometry, Topology, and Structural Modification</a>--></th>
-		<th>➰ Intangibles<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Intangibles.md">➰ Intangibles</a>--></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Intangibles.md">➰ Intangibles</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/TV_and_Movies.md">🎬 TV Shows and Movies</a></th>
 	</tr>
 	<tr>
