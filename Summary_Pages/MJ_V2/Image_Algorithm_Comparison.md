@@ -21,15 +21,15 @@
 <table>
     <tr align=center valign=middle>
         <td>
-            <p><code>--vibe</code></p>
+            <p><code>--vibe<p>(now --version 1)</p></code></p>
             <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Algorithm_Summary/_sphere_--vibe.png?raw=true" width="256" /></p>
         </td>
         <td>
-            <p><code>--fast</code></p>
+            <p><code>--fast<p>(now --quality)</p></code></p>
             <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Algorithm_Summary/_sphere_--fast.png?raw=true" width="256" /></p> 
         </td>
         <td>
-            <p><code>--vibefast</code></p>
+            <p><code>--vibefast<p>(now --version 1 --quality)</p></code></p>
             <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Algorithm_Summary/_sphere_--vibefast.png?raw=true" width="256" /></p>
         </td>
     </tr>
