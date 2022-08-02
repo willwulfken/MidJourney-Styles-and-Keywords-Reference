@@ -1170,6 +1170,10 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Bracelet.png?raw=true" width="256" /> |
 
+	| <small><br></small>Teapot<p><div align="center"><i><h6>@bob</h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Teapot.png?raw=true" width="256" /> |
+
 	</p></details>
 
   </p></details>

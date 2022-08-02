@@ -66,6 +66,12 @@
 | :-: | :-: | :-: |
 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Convergence.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Depth.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Displace.png?raw=true" width="256" /> |
 
+<bR>
+
+| <small><br></small>Sphube<p><div align="center"><i><h6>@TwoDukes</h6></i></p> |
+| :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Sphube.png?raw=true" width="256" /> |
+
 </p>
 
 <hr><!--------------->
