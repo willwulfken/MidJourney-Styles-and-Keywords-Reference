@@ -12,6 +12,7 @@
         <!--<th>--stylize 200</th>
         <th>--stylize 300</th>-->
         <th>--stylize 625</th>
+        <th>--stylize 1250</th>
     </tr>
     <tr align=center valign=middle>
         <!--<td>
@@ -23,6 +24,9 @@
         <td>
             <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_625.png?raw=true" width="256" />
         </td>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_1250.png?raw=true" width="256" />
+        </td>
     </tr>
 </table>
 
@@ -30,16 +34,16 @@
 
 <table>
     <tr align=center valign=middle>
-        <th>--stylize 1250</th>
         <th>--stylize 2500</th>
+        <th>--stylize 5000</th>
         <th>--stylize 10000</th>
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_1250.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_2500.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_2500.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_5000.png?raw=true" width="256" />
         </td>
         <td>
             <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Comparison/sphere_--stylize_10000.png?raw=true" width="256" />
