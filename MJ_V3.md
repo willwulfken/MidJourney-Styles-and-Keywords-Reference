@@ -106,6 +106,9 @@
 		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Stylize_Comparison.md">🎇 --stylize Comparison</a></td>
 		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Quality_Comparison.md">💎 --quality Comparison</a></td>
 	</tr>
+		<tr align=center valign=middle>
+		<td colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Keyword_Weight_Comparison.md">⚖ Keyword Weight Comparison</a></td>
+	</tr>
 </table>
 
 </div>
