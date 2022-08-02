@@ -137,6 +137,14 @@
 		<td colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Keyword_Weight_Comparison.md">⚖ Keyword Weight Comparison</a></td>
 	</tr>
 </table>
+<table>
+	<tr align=center valign=middle>
+		<th colspan="2" width=550>Cross Analysis Pages</th>
+	</tr>
+	<tr align=center valign=middle>
+		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Stylize_Quality_Cross_Analysis.md">🎇💎 --quality/--stylize Cross Analysis</a></td>
+	</tr>
+</table>
 
 </div>
 
