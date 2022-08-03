@@ -12,11 +12,6 @@
 <br>
 
 
-Styles coming very soon!
-
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/TV_and_Movies.md">✨ See the MidJourney Alogrithm V3 Version of this page for styles ✨</a>
-
-<!--
 - <details><summary>🈯 Anime</summary><p><div align="center">
 
 	| Akira | Attack on Titan | Bakuman |
@@ -57,7 +52,7 @@ Styles coming very soon!
 
 	| Jujutsu Kaisen | Kimetsu no Yaiba (Demon Slayer) | Koe no Katachi |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Jujutsu_Kaisen.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Kimetsu_no_Yaiba_Demon_Slayer.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Koe_no_Katachi.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Jujutsu_Kaisen.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Kimetsu_no_Yaiba_demon_slayer.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Koe_no_Katachi.png?raw=true" width="256" /> |
 	
 	<br>
 
@@ -84,7 +79,7 @@ Styles coming very soon!
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Vinland_Saga.png?raw=true" width="256" /> |
 
 	</p></details>
--->
+
 	
 <hr><!--------------->
 <div align="center">
