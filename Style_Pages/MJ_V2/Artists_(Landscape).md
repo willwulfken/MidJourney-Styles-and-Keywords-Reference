@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/button_sphere_inactive.png?raw=true" width="100" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/button_landscape_active.png?raw=true" width="100" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_sphere_inactive.png?raw=true" width="100" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Artists.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_landscape_active.png?raw=true" width="100" />]()
 
 </div>
 
