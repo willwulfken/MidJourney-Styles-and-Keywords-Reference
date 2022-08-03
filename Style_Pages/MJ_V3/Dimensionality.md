@@ -1,5 +1,16 @@
 <h2>🌌 Dimensionality</h2>
 
+<div align="center">
+
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV2_inactive.png?raw=true" width="125" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Dimensionality.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV3_active.png?raw=true" width="125" />]()
+
+</div>
+
+<hr>
+<br>
+
+
 - <details><summary>🌌 2D-5D</summary><p><div align="center">
 
 	| 2-Dimensional | 2D |

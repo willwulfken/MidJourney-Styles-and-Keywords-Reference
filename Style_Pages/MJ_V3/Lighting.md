@@ -1,5 +1,16 @@
 <h2>💡 Lighting</h2>
 
+<div align="center">
+
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV2_inactive.png?raw=true" width="125" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Lighting.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV3_active.png?raw=true" width="125" />]()
+
+</div>
+
+<hr>
+<br>
+
+
 - <details><summary>💡🏮 Types of Lights</summary><p><div align="center">
 
 	| Spotlight | Floodlight |
