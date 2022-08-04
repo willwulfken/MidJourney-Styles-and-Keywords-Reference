@@ -3,10 +3,7 @@
 <div align="center">
 
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV2_active.png?raw=true" width="125" />]()
-
-<!--
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV3_inactive.png?raw=true" width="125" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Geometry.md)
--->
 
 </div>
 
@@ -147,13 +144,13 @@
 	
 	<br>
 	
-	| Trapezohedra | Star Trapezohedron | Spherical polyhedron |
+	| Trapezohedra | Star Trapezohedron | Spherical Polyhedron |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_Trapezohedra.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_StarTrapezohedron.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_SphericalPolyhedron.png?raw=true" width="256" /> |
 	
 	<br>
 	
-	| Mobius strip | Hexaflexagon | Miura fold |
+	| Mobius Strip | Hexaflexagon | Miura Fold |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_Mobiusstrip.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_Hexaflexagon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_Miurafold.png?raw=true" width="256" /> |
 
@@ -174,7 +171,7 @@
 	
 	<br>
 	
-	| Hyperpyramid | Hypercone | Klein bottle |
+	| Hyperpyramid | Hypercone | Klein Bottle |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_Hyperpyramid.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_Hypercone.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_Kleinbottle.png?raw=true" width="256" /> |
 	
@@ -222,7 +219,7 @@
 	
 	<br>
 	
-	| Platonic Solids | Archimedean Solids | Catalan solids |
+	| Platonic Solids | Archimedean Solids | Catalan Solids |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_PlatonicSolids.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_ArchimedeanSolids.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Geometry/sphere_CatalanSolids.png?raw=true" width="256" /> |
 

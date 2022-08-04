@@ -139,7 +139,7 @@
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Drawing_and_Art_Mediums.md">🖌 Drawing and Art Mediums</a></th>
 	</tr>
 	<tr>
-		<th>🧱 Materials<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Materials.md">🧱 Materials</a>--></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Materials.md">🧱 Materials</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Material_Properties.md">📦 Material Properties</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Lighting.md">💡 Lighting</a></th>
 	</tr>
@@ -154,7 +154,7 @@
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Dimensionality.md">🌌 Dimensionality</a></th>
 	</tr>
 	<tr>
-		<th>💠 Geometry, Topology, and Structural Modification<!--<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Geometry.md">💠 Geometry, Topology, and Structural Modification</a>--></th>
+		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Geometry.md">💠 Geometry, Topology, and Structural Modification</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Intangibles.md">➰ Intangibles</a></th>
 		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/TV_and_Movies.md">🎬 TV Shows and Movies</a></th>
 	</tr>
