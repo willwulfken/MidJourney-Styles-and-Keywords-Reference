@@ -12,7 +12,7 @@
 <br>
 
 
-- <details><summary>🈯 Anime</summary><p><div align="center">
+- <details><summary>🎬🈯 Anime</summary><p><div align="center">
 
 	| Akira | Attack on Titan | Bakuman |
 	| :-: | :-: | :-: |

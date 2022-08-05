@@ -11,7 +11,7 @@
 <br>
 
 
-- <details><summary>🈯 Anime</summary><p><div align="center">
+- <details><summary>🎬🈯 Anime</summary><p><div align="center">
 
 	| <small><br></small>Akira<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Attack on Titan<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Bakuman<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
