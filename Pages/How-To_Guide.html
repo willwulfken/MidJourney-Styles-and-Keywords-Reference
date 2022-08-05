@@ -167,13 +167,13 @@
 <script>
     function injectHeader(){
         /*load html from file and inject into head*/
-        $.get("https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Exp-Pages/Webpage_Parts/Header.html", function(data){
+        $.get("https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Webpage_Parts/Header.html", function(data){
             $(document.head).replaceWith(data);
         });
 
         var s = document.createElement("script");
         s.type = "text/javascript";
-        s.src = "https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Exp-Pages/Webpage_Parts/Header_Scripts.js";
+        s.src = "https://willwulfken.github.io/MidJourney-Styles-and-Keywords-Reference/Webpage_Parts/Header_Scripts.js";
         $("head").append(s);
     }
 
