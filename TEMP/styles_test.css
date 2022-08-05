@@ -1,0 +1,406 @@
+.menu-link-flex-parent {
+    display: inline-flex;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-wrap: wrap;
+
+    /*display: flexbox;
+    text-align: center;
+    margin: 12px 12px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    flex-wrap: wrap;
+    border-radius: 5px;*/
+}
+
+.menu-link-flex {
+    display: flex;
+    justify-content: center;
+    /*grid-template-columns: auto auto auto;*/
+    padding: 8px;
+    flex-wrap: wrap;
+    width: 48%;
+    margin: 1vw 0.5vw;
+}
+
+.menu-link-flex-column {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /*grid-template-columns: auto auto auto;*/
+    padding: 8px;
+    flex-wrap: wrap;
+    width: fit-content;
+}
+
+/*.menu-link-flex-item {
+    padding: 12px 24px;
+    margin: 4px 2px;
+    width: 100%;
+    height: 100%;
+    flex: 1;
+    border-radius: 5px;
+    transition: 0.3s;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}*/
+
+.menu-link-flex-item button {
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 0.8vw;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    border-radius: 5px;
+    width: 14vw;
+    height: 7.5vh;
+    margin: 0.25vw 0.6vw;
+}
+
+.menu-link-flex-item button.med-button {
+    display: block;
+    width: 21.625vw;
+    height: 7.75vh;
+}
+
+.menu-link-flex-item button.large-button {
+    display: block;
+    width: 44.4vw;
+    height: 7.75vh;
+}
+
+.menu-link-flex-title {
+    display: block;
+    margin-top: 0.75vh;
+    margin-bottom: 1.25vh;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: content;
+    font-size: 24px;
+    width: 40vw;
+    text-align: center;
+    height: 2vh;
+}
+
+.menu-link-flex-label {
+    display: block;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: content;
+    font-size: 20px;
+    width: 40vw;
+    text-align: center;
+    height: 1vh;
+}
+
+/*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+
+.grid-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+    padding: 20px;
+}
+
+.grid-item {
+    flex: 1;
+    text-align: center;
+    border-radius: 5px;
+    max-width: 256px;
+    min-width: 64px;
+    min-height: 64px;
+    box-sizing: border-box;
+}
+
+.grid-img {
+    width: 100%;
+    height: auto;
+}
+
+/*.menu-link-table td
+width: 33%;
+height: 16.67%;
+*/
+
+/*.menu-link-table-title
+margin: 16px;
+flex: 1;
+flex-grow: 1;
+flex-shrink: 1;
+flex-basis: content;
+font-size: 24px;
+*/
+
+/*.menu-link-table-label
+margin-top: 20px;
+margin-bottom: 10px;
+flex: 1;
+flex-grow: 1;
+flex-shrink: 1;
+flex-basis: content;
+font-size: 20px;
+*/
+
+/*.menu-link-table-item
+margin: 6px;
+flex: 1;
+flex-grow: 1;
+flex-shrink: 1;
+flex-basis: content;
+*/
+
+/*.menu-link-table-item button
+padding: 12px 24px;
+margin: 4px 2px;
+width: 100%;
+height: 100%;
+flex: 1;
+flex-grow: 1;
+flex-shrink: 1;
+border-radius: 5px;
+transition: 0.3s;
+font-size: 17px;
+border: none;
+cursor: pointer;
+*/
+
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
+/* ---------------- CSS For Other Elements --------------- */
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
+
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+.title-img{
+    width: 40%;
+    height: auto;
+    margin: 12px;
+    content: url("/Images/Banner/Banner_Light.png");
+}
+
+.head-title {
+    border-radius: 5px;
+}
+
+.pagetitle {
+    padding: 12px;
+    margin: 16px 16px;
+    background-color: #0f1011;
+    border-radius: 5px;
+}
+
+.dropdown {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: hidden;
+    /*border: 1px solid #ccc;*/
+    justify-content: space-evenly;
+}
+
+/* Style the buttons inside the tab */
+.dropdown button {
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+    flex: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content {
+    display: none;
+    padding: 12px 12px;
+   /* border: 1px solid #ccc;*/
+    border-top: none;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown-content a {
+    padding: 12px 24px;
+    margin: 4px 2px;
+    text-decoration: none;
+    display: inline-block; /*block;*/
+    flex: 1;
+    border-radius: 5px;
+    transition: 0.3s;
+    /*float: left; /*center;*/
+}
+
+.footer_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    overflow: hidden;
+    border: none;
+    margin-top: 24px;
+}
+
+.footer_container button {
+    padding: 12px 16px;
+    margin: 4px 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
+/* ------------------- Dark Mode Colors ------------------ */
+/* ------------------------------------------------------- */
+/* ------------------------------------------------------- */
+
+@media (prefers-color-scheme: dark) {
+
+
+    html,
+    body,
+    header,
+    footer,
+    a,
+    div,
+    span,
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    table,
+    tr,
+    td,
+    th,
+    button {
+        color: white;
+    }
+
+    .title-img {
+        content: url("Images/Banner/Banner_Dark.png");
+    }
+
+    body,
+    .tab,
+    .tabcontent,
+    .tab button,
+    .subtab,
+    .subtabcontent,
+    .subtab button,
+    .footer_container button,
+    .dropdown-content a,
+    .tab button,
+    .subtab button,
+    .menu-link-flex-item button {
+        background-color: #1a1a1a;
+        color: white;
+    }
+
+    .head-title,
+    .footer_container,
+    .dropdown,
+    .dropdown button,
+    .dropdown-content,
+    .tab,
+    .subtab,
+    .tabcontent,
+    .subtabcontent,
+    .links-to-other-resources-link a,
+    .version-switch-container {
+        background-color: #0d0d0d;
+    }
+
+    .footer_container button:hover,
+    .menu-link-flex-item button:hover,
+    .links-to-other-resources-link a:hover {
+        background-color: #3e3e3e;
+    }
+
+    .dropdown button:hover,
+    .dropdown button.active,
+    .dropdown-content a:hover,
+    .tab button:hover,
+    .subtab button:hover,
+    .tab button.active,
+    .subtab button.active {
+        background-color: #3e4446;
+    }
+
+    .grid-item,
+    .grid-title,
+    .menu-link-flex {
+        background-color: #131415;
+    }
+    
+    .menu-link-flex-title {
+    	background-color: inherit;
+    }
+
+    .how-to-mj-link a,
+    .how-to-link a {
+        color: #ccc;
+    }
+
+    .tablinks-description {
+        color: #ccc
+    }
+
+    .tab-content-summary-table tr:nth-child(even) {
+        background-color: #0f1011;
+    }
+    
+    .tab-content-summary-table tr:nth-child(odd) {
+        background-color: #1a1a1a;
+    }
+
+    .summary-table tr:nth-child(even) {
+        background-color: #0d0d0d;
+    }
+    
+    .summary-table tr:nth-child(odd) {
+        background-color: #141414;
+    }
+
+    .tab-content-summary-table-blank-td,
+    .summary-table-blank-td {
+        background-color: #0d0d0d;
+        border: 6px solid #aaa;
+    }
+
+    .summary-table-checkerboard tr:nth-child(even) td:nth-child(odd), 
+    .summary-table-checkerboard tr:nth-child(odd) td:nth-child(even)
+    {
+        background-color: #0f0f0f;
+    }
+
+    .summary-table-checkerboard tr:nth-child(even) td:nth-child(even), 
+    .summary-table-checkerboard tr:nth-child(odd) td:nth-child(odd)
+    {
+        background-color: #151515;
+    }
+
+    .summary-table-checkerboard tr:nth-child(even) th:nth-child(even),
+    .summary-table-checkerboard tr:nth-child(odd) th:nth-child(odd)
+    {
+        background-color: #141414;
+    }
+
+}
