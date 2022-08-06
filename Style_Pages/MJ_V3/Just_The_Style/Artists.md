@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV2_inactive.png?raw=true" width="125" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV3_active.png?raw=true" width="125" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV2_inactive.png?raw=true" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/Artists.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV3_active.png?raw=true" height="64" />]()
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_sphere_inactive.png?raw=true" width="100" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Artists.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_landscape_inactive.png?raw=true" width="100" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Landscape/Artists.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_sphere_inactive.png?raw=true" height="37.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Artists.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_landscape_inactive.png?raw=true" height="37.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Landscape/Artists.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_just_the_style_active.png?raw=true" height="37.5" />]()
 
 </div>
