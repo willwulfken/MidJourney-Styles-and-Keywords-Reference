@@ -5,6 +5,9 @@
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV2_inactive.png?raw=true" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V2/TV_and_Movies.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV3_active.png?raw=true" height="64" />]()
 
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_sphere_inactive.png?raw=true" height="37.5" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_just_the_style_active.png?raw=true" height="37.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Style_Pages/MJ_V3/Just_The_Style/TV_and_Movies.md)
+
 </div>
 
 <hr>
@@ -43,7 +46,7 @@
 	
 	<br>
 
-	| <small><br></small>Hunter_x_Hunter<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Inuyasha<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Jojos_Bizzare_Adventures<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <small><br></small>Hunter x Hunter<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Inuyasha<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Jojos Bizzare Adventures<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Hunter_x_Hunter.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Inuyasha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Jojos_Bizzare_Adventures.png?raw=true" width="256" /> |
 	
@@ -55,7 +58,7 @@
 	
 	<br>
 
-	| <small><br></small>Mob_Psycho_100<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>My_Hero_Academia<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Naruto<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <small><br></small>Mob_Psycho_100<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>My Hero Academia<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Naruto<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Mob_Psycho_100.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_My_Hero_Academia.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Naruto.png?raw=true" width="256" /> |
 	
