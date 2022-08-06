@@ -122,8 +122,6 @@
 	</tr>
 </table>
 
-<br>
-
 <h3><b>MidJourney AI V3</b></h3>
 <table>
 	<tr align=center valign=middle>
