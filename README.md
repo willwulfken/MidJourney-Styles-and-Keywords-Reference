@@ -91,6 +91,7 @@
 <br>
 
 
+<h3><b>MidJourney AI V2</b></h3>
 
 <table>
 	<tr align=center valign=middle>
@@ -115,17 +116,19 @@
 </table>
 <table>
 	<tr align=center valign=middle>
-		<th width=275>Image Generation Algorithms</th>
-		<th width=275>Prompting With Images</th>
+		<th colspan="2" width=275>Prompting With Images</th>
 	</tr>
 	<tr align=center valign=middle>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></td>
-		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></td>
+		<td colspan="2" width=550><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></td>
 	</tr>
 </table>
+
+<br>
+
+<h3><b>MidJourney AI V3</b></h3>
 <table>
 	<tr align=center valign=middle>
-		<th colspan="2" width=550>MidJourney AI Version 3</th>
+		<th colspan="2" width=550>Prompt Parameters</th>
 	</tr>
 	<tr align=center valign=middle>
 		<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V3/Stylize_Comparison.md">🎇 --stylize Comparison</a></td>
