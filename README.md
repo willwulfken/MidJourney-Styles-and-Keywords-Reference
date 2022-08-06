@@ -88,7 +88,6 @@
 <div align="center">
 
   <h3><pre>Comparison Pages</pre></h3>
-<br>
 
 
 <h3><b>MidJourney AI V2</b></h3>
