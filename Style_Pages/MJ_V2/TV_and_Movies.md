@@ -80,6 +80,30 @@
 
 	</p></details>
 
+
+
+- <details><summary>🎬📺 TV Shows</summary><p><div align="center">
+
+	| Teletubbies |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_Teletubbies.png?raw=true" width="256" /> |
+
+	| Simpsons | Family Guy |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_Simpsons.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_Family_Guy.png?raw=true" width="256" /> |
+
+	</p></details>
+
+
+
+- <details><summary>🎬📽 Movies</summary><p><div align="center">
+
+	| Tron | In The Style of Tron |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_Tron.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_In_The_Style_of_Tron.png?raw=true" width="256" /> |
+
+	</p></details>
+
 	
 <hr><!--------------->
 <div align="center">
