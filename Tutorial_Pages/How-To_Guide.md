@@ -26,7 +26,7 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            Type out your propmt and hit enter. Now you're all set and your image shold be generating!
+            Type out your prompt and hit enter. Now you're all set and your image shold be generating!
         </td>
         <td>
             <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Tutorial_Images/Imagine_Tutorial/howto_imagine_3.png?raw=true" width="512" />
