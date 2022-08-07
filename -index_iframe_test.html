@@ -317,7 +317,7 @@
         //document.head.innerHTML = frameContent;
         document.head.insertAdjacentHTML('beforeend', frameContent);
 
-        this.remove();
+        frameObj.remove();
     }
 
     document.querySelector("iframe").addEventListener( "load", function() {
