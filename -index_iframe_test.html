@@ -314,7 +314,8 @@
         var frameContent = frameObj.contentWindow.document.body.innerHTML;
         //var frameContent = this.contentWindow.document.body.innerHTML;
         
-        getElementById("head").innerHTML = frameContent;
+        //document.head.innerHTML = frameContent;
+        document.head.insertAdjacentHTML('beforeend', frameContent);
 
         this.remove();
     }
