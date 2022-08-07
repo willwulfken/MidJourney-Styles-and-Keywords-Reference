@@ -173,7 +173,6 @@
 <div align="center">
 
   <h3><pre>Styles</pre></h3>
-<br>
 
 <table>
 	<tr>
