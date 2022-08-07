@@ -31,24 +31,12 @@
 <table>
     <tr align=center valign=middle>
         <th>--quality 2</th>
+        <th>--quality 5</th>
     </tr>
     <tr align=center valign=middle>
         <td>
             <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_2.png?raw=true" width="256" />
         </td>
-    </tr>
-</table>
-
-<br>
-<hr><!--------------->
-<h3>Not Currently Available:</h3>
-<br>
-    
-<table>
-    <tr align=center valign=middle>
-        <th>--quality 5</th>
-    </tr>
-    <tr align=center valign=middle>
         <td>
             <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Quality_Comparison/sphere_--quality_5.png?raw=true" width="256" />
         </td>
