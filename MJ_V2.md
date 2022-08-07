@@ -123,12 +123,12 @@
 			</table>
 			<table>
 				<tr align=center valign=middle>
-					<th width=275>Image Generation Algorithms</th>
-					<th width=275>Prompting With Images</th>
+					<th width=220>Image Generation Algorithms</th>
+					<th width=220>Prompting With Images</th>
 				</tr>
 				<tr align=center valign=middle>
-					<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></td>
-					<td width=275><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></td>
+					<td width=220><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></td>
+					<td width=220><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Summary_Pages/MJ_V2/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></td>
 				</tr>
 			</table>
 		</td>
