@@ -1,4 +1,4 @@
-<h2>🎛 Miscellaneous</h2>Miscellaneous
+<h2>🎛 Miscellaneous</h2>
 
 <div align="center">
 
