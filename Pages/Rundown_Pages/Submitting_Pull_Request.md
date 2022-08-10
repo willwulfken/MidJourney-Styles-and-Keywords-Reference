@@ -45,7 +45,7 @@ Alternatively, you can send a pull request containing a text or markdown file. J
 <hr><!--------------->
 
 
-<details><summary><h3>⤵ Send a full pull request (adding images and entries in the repos markdown files)</h3></summary><p>
+<details><summary><h3>⤴ Send a full pull request (adding images and entries in the repos markdown files)</h3></summary><p>
     <br>
     <b>If you would like to send a full pull request, create a pull request and do the following:</b>
     <br>
