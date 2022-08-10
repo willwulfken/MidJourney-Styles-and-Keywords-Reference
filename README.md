@@ -44,17 +44,20 @@
 
 <table>
   <tr align=center valign=middle>
-	<td>
-	<p></p><p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/MJ_V2.md">✨ Go To Midjourney Algorithm V2 ✨</a></p>
+  	<td colspan="2">
+		<p></p><p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/MJ_V2.md">✨ Go To Midjourney Algorithm V2 ✨</a></p>
 	</td>
   </tr>
   <tr align=center valign=middle>
     <td>
-      <h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Tutorial_Pages/How-To_Guide.md">❔ How-To Guide</a></h5>
+    	<h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Tutorial_Pages/How-To_Guide.md">❔ How-To Guide</a></h5>
     </td>
+	<td>
+		<h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Rundown_Pages/Submitting_Pull_Request.md">:octocat: Submitting Ideas and Pull Requests</a></h5>
+	</td>
   </tr>
 	<tr align=center valign=middle>
-		<td width="600">
+		<td colspan="2" width="600">
 <h5><details><summary>⚪ Control Image and Seed</summary><p><div align="center">
 
 
