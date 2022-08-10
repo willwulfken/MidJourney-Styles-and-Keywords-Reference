@@ -4,7 +4,7 @@
 
 Options:
 
-<details><summary><h3>Send a list of styles you'd like to see</h3></summary><p>
+<details><summary><h3>📝 Send a list of styles you'd like to see</h3></summary><p>
 <br>
 <b>If you would like to send a list of styles, simply send them in the discussions under the <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/discussions/2">💡 Ideas</a> category.</b>
 <br>
@@ -17,7 +17,7 @@ Alternatively, you can send a pull request containing a text or markdown file. J
 <hr><!--------------->
 
 
-<details><summary><h3>Send just the images and style names</h3></summary><p>
+<details><summary><h3>🖼 Send just the images and style names</h3></summary><p>
     <br>
     <b>If you would like to send images, create a pull request and do the following:</b>
     <br>
@@ -45,7 +45,7 @@ Alternatively, you can send a pull request containing a text or markdown file. J
 <hr><!--------------->
 
 
-<details><summary><h3>Send a full pull request (adding images and entries in the repos markdown files)</h3></summary><p>
+<details><summary><h3>⤵ Send a full pull request (adding images and entries in the repos markdown files)</h3></summary><p>
     <br>
     <b>If you would like to send a full pull request, create a pull request and do the following:</b>
     <br>
@@ -77,6 +77,8 @@ Alternatively, you can send a pull request containing a text or markdown file. J
 
 </p></details>
 
+<br>
+<hr><!--------------->
 <br>
 
 If you have any questions, please submit them in the <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/discussions/10">🙏 Pull Request and Style/Image Submission Q&A</a>
