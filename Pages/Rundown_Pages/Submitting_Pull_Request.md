@@ -33,7 +33,7 @@ Alternatively, you can send a pull request containing a text or markdown file. J
         <br>
         <li>Make sure you mention the exact prompt format(s) that you used. You can write these in the "conversations" of the pull request.</li>
             <ul>
-            <li>(for example, if one of your prompts was "sphere, golden --seed 4776" then you would say you used "sphere, &#60;style&#62; --seed 4776")</li>
+            <li>For example: if one of your prompts was "sphere, golden --seed 4776" then you would say you used "sphere, &#60;style&#62; --seed 4776"</li>
             <li>This does not need to be done for each individual image. Just each prompt format that you used.</li>
             </ul>
     </ol>
@@ -67,7 +67,7 @@ Alternatively, you can send a pull request containing a text or markdown file. J
         </li>
         <ul>
             <li>
-                (for example, if one of your prompts was "sphere, golden --seed 4776" then you would say you used "sphere, &#60;style&#62; --seed 4776")
+                For example: If one of your prompts was "sphere, golden --seed 4776" then you would say you used "sphere, &#60;style&#62; --seed 4776"
             </li>
             <li>This does not need to be done for each individual image. Just each prompt format that you used.</li>
         </ul>
