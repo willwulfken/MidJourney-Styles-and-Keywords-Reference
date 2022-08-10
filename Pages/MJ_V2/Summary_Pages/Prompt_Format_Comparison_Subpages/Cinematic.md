@@ -62,5 +62,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison.md">⬅ Go Back</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison.md">⬅ Go Back To Prompt Format Comparison</a></h6>
 </div>
