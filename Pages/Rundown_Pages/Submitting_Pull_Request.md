@@ -2,8 +2,6 @@
 
 <br>
 
-Options:
-
 <details><summary><h3>📝 Send a list of styles you'd like to see</h3></summary><p>
 <br>
 <b>If you would like to send a list of styles, simply send them in the discussions under the <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/discussions/2">💡 Ideas</a> category.</b>
