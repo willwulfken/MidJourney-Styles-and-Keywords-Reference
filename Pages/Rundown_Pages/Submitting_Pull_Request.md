@@ -9,7 +9,7 @@ Options:
 <b>If you would like to send a list of styles, simply send them in the discussions under the <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/discussions/2">💡 Ideas</a> category.</b>
 <br>
 
-Alternatively, you can send pull request containing a text or markdown file. Just be sure to mention that you are submitting a style list.
+Alternatively, you can send a pull request containing a text or markdown file. Just be sure to mention that you are submitting a style list.
 
 </p></details>
 
@@ -28,16 +28,16 @@ Alternatively, you can send pull request containing a text or markdown file. Jus
             <ul>
                 <li>Put the images in the correct places within the "Images" folder. If doing this, make sure to put the images in a new folder that way it is easier for me to find them.</li>
                 <li>-or-</li>
-                <li>Put all of the images in the "Images" folder in their own folder.</li>
-                <ul>
-                    <li>(for example, this directory can be something like: Images > Your_Name)</li>
-                </ul>
+                <li>Put all of the images in the "Images" folder.</li>
             </ul>
         <br>
-        <li>Make sure you mention the exact prompt format(s) that you used in the "conversations" of the pull request.</li>
+        <li>Make sure you mention the exact prompt format(s) that you used. You can write these in the "conversations" of the pull request.</li>
             <ul>
-            <li>(for example, if your prompt was "sphere, golden --seed 4776" then you would say you used "sphere, &#60;style&#62; --seed 4776")</li>
+            <li>(for example, if one of your prompts was "sphere, golden --seed 4776" then you would say you used "sphere, &#60;style&#62; --seed 4776")</li>
             </ul>
+            <li>
+                This does not need to be done for each individual image. Just each prompt format that you used.
+            </li>
     </ol>
     <br>
     After the pull request is approved, I will take care of adding them to the markdown files and crediting you.
@@ -65,16 +65,19 @@ Alternatively, you can send pull request containing a text or markdown file. Jus
         </li>
         <br>
         <li>
-            Make sure you mention the exact prompt format(s) that you used in the "conversations" of the pull request.
+            Make sure you mention the exact prompt format(s) that you used. You can write these in the "conversations" of the pull request.
         </li>
         <ul>
             <li>
-                (for example, if your prompt was "sphere, golden --seed 4776" then you would say you used "sphere, &#60;style&#62; --seed 4776")
+                (for example, if one of your prompts was "sphere, golden --seed 4776" then you would say you used "sphere, &#60;style&#62; --seed 4776")
+            </li>
+            <li>
+                This does not need to be done for each individual image. Just each prompt format that you used.
             </li>
         </ul>
     </ol>
     <br>
-    After the pull request is approved, I will take care of crediting you.
+    After the pull request is approved, I will take care of crediting you and any needed edits.
 
 </p></details>
 
