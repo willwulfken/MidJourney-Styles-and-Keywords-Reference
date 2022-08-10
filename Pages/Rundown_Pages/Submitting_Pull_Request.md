@@ -77,7 +77,7 @@ Alternatively, you can send a pull request containing a text or markdown file. J
 
 </p></details>
 
-<br>
+
 <hr><!--------------->
 <br>
 
