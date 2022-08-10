@@ -83,6 +83,7 @@ Alternatively, you can send a pull request containing a text or markdown file. J
 
 If you have any questions, please submit them in the <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/discussions/10">🙏 Pull Request and Style/Image Submission Q&A</a>
 
+<br>
 <hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
