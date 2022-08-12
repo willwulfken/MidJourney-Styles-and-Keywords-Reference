@@ -158,7 +158,27 @@
 							<table>
 								<tr>
 									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a>
+									</td>
+								</tr>
+								<tr>
+									<td>
 										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a>
+									</td>
+								</tr>
+							</table>
+						</p></details>
+					</th>
+				</tr>
+			</table>
+			<table>
+				<tr align=center valign=middle>
+					<th width=380>
+						<details><summary>🎛 Image Generation Algorithms</summary><p>
+							<table>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a>
 									</td>
 								</tr>
 							</table>
