@@ -34,8 +34,8 @@
 			</p></details></h6>
 		</td>
 	</tr>
-	<tr colspan=2 align=center valign=top>
-		<td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Sponsors.md">⭐ Sponsors</a></td>
+	<tr align=center valign=top>
+		<td colspan=2><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Sponsors.md">⭐ Sponsors</a></td>
 	</tr>
 </table>
 
