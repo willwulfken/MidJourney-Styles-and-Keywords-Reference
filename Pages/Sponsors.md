@@ -4,7 +4,7 @@
 
 <div align=center>
 
-<h3>Thank you to all of my sponsors! I appreciate your support!</h3>
+<h3>Thank you to all of my sponsors! Thank you for your support!</h3>
 
 <br>
 
