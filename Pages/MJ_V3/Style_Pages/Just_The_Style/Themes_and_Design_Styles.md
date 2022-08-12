@@ -1894,45 +1894,231 @@
 
   - <details><summary>🖥🕹 Video Game Styles</summary><p><div align="center">
 
-	| Video Game | Flash Game |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Video_Game.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Flash_Game.png?raw=true" width="256" /> |
+    | Video Game | Flash Game |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Video_Game.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Flash_Game.png?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| HD Mod |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/HD_Mod.png?raw=true" width="256" /> |
+    | HD Mod |
+    | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/HD_Mod.png?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Gamercore | Nintencore |
+    | Gamercore | Nintencore |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Gamercore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Nintencore.png?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Tetris | Pacman |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Tetris.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Pacman.png?raw=true" width="256" /> |
-	
-	<br>
+    | Tetris | Tetris Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Tetris.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Tetris_Style.png?raw=true" width="256" /> |
 
-	| Minecraft | Terraria |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Minecraft.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Terraria.png?raw=true" width="256" /> |
+    <br>
 
-	<br>
-	
-	| Fallout | Skyrim |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Fallout.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Skyrim.png?raw=true" width="256" /> |
+    | Pacman | Pac-Man Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Pacman.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Pac-Man_Style.png?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Polybius | LSD-Dream-Emulator |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Polybius.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/LSD-Dream-Emulator.png?raw=true" width="256" /> |
+    | Minecraft | Minecraft Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Minecraft.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Minecraft_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Terraria | Terraria Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Terraria.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Terraria_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Fallout | Fallout 4 Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Fallout.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Fallout_4_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Skyrim | Skyrim Style | Morrowind Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Skyrim.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Skyrim_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Morrowind_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Stardew Valley Style | Sid Meiers Civilization Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Stardew_Valley_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Sid_Meiers_Civilization_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Super Mario Style | Pokemon Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Super_Mario_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Pokemon_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Angry Birds Style | Candy Crush Saga Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Angry_Birds_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Candy_Crush_Saga_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Polybius | LSD-Dream-Emulator |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Polybius.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/LSD-Dream-Emulator.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Among Us Style | The Sims 4 Style | Cyberpunk 2077 Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Among_Us_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/The_Sims_4_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Cyberpunk_2077_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Fortnite Style | PUBG Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Fortnite_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/PUBG_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Doom 3 Style | Quake 3 Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Doom_3_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Quake_3_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Grand Theft Auto Style | Forza Horizon Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Grand_Theft_Auto_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Forza_Horizon_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Assassins Creed Style | Destiny 2 Style | Mass Effect 3 Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Assassins_Creed_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Destiny_2_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Mass_Effect_3_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Call of Duty Style | Battlefield Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Call_of_Duty_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Battlefield_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Batman Arkham Knight Style | Marvels Spider-Man Style | Star Wars The Old Republic Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Batman_Arkham_Knight_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Marvels_Spider-Man_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Star_Wars_The_Old_Republic_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Bioshock Style | Resident Evil Style | Silent Hill 2 Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Bioshock_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Resident_Evil_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Silent_Hill_2_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Dark Souls 3 Style | Ghost of Tsushima Style | For Honor Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Dark_Souls_3_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Ghost_of_Tsushima_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/For_Honor_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | The Last of Us Style | Dishonored Style | Prey Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/The_Last_of_Us_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Dishonored_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Prey_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Bloodborne Style | Disco Elysium Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Bloodborne_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Disco_Elysium_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Far Cry Style | Uncharted 4 Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Far_Cry_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Uncharted_4_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | DOTA 2 Style | Counter-Strike Style | League of Legends Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/DOTA_2_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Counter-Strike_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/League_of_Legends_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Overwatch Style | Runescape Style | Starcraft Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Overwatch_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Runescape_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Starcraft_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Gears of War Style | God of War Style | Total War Warhammer Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Gears_of_War_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/God_of_War_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Total_War_Warhammer_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | World of Warcraft Style | Diablo Style | Fable 2 Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/World_of_Warcraft_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Diablo_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Fable_2_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Witcher Style | Witcher 3 Style | Hearthstone Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Witcher_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Witcher_3_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Hearthstone_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Final Fantasy Style | Divinity Original Sin 2 Style | Dragon Age Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Final_Fantasy_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Divinity_Original_Sin_2_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Dragon_Age_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Horizon Zero Dawn Style | Legends of Runeterra Style | Monster Hunter Rise Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Horizon_Zero_Dawn_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Legends_of_Runeterra_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Monster_Hunter_Rise_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Ori and The Blind Forest Style | The Long Dark Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Ori_and_The_Blind_Forest_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/The_Long_Dark_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Castlevania Style | Darksiders Style | Graveyard Keeper Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Castlevania_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Darksiders_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Graveyard_Keeper_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Dune Spice Wars Style | Lineage 2 Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Dune_Spice_Wars_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Lineage_2_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | XCOM 2 Style | Heroes of Might and Magic 3 Style | Sea of Theaves Style |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/XCOM_2_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Heroes_of_Might_and_Magic_3_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Sea_of_Theaves_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Shadowrun Style | Stray Style |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Shadowrun_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/Stray_Style.png?raw=true" width="256" /> |
+
+    <br>
+
+    | FIFA 18 Style |
+    | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Games/FIFA_18_Style.png?raw=true" width="256" /> |
 
 	</p></details>
 
