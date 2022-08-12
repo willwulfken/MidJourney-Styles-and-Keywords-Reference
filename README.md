@@ -24,10 +24,13 @@
       </p></details></h6>
     </td>
     <td width="400">
-      <h6><details><summary>🔗 Links to other style references</summary><p>
+      <h6><details><summary>🔗 Links to other references and tools</summary><p>
       <p><a href="https://rexwang8.github.io/resource/ai/teapot">Understanding MidJourney Through Teapots by Bob</a></p>
       <p><a href="https://docs.google.com/spreadsheets/d/10i9Ip8tVSERAuMWbc6-H6BUFCoUGOQ91YzDvX--c4bk/edit?usp=sharing">Artist Visual Style Encyclopedia by Sincarnate</a></p>
-      <p><a href="https://www.wikiart.org/en/paintings-by-style">Artwork Styles</a><br></p>
+      <p><a href="https://www.wikiart.org/en/paintings-by-style">Artwork Styles</a></p>
+	  <p><a href="https://mj.aihub.gg/">Midjourney Wiki by Mxrcy</a></p>
+	  <p><a href="https://promptomania.com/prompt-builder/">PromptoMania by WSzP</a></p>
+	  <p><a href="https://www.thedreamingstate.com/portfolio/art/prompter/">Prompter by Shane McGeehan</a></p>
       </p></details></h6>
     </td>
   </tr>
@@ -105,61 +108,119 @@
 		<td>
 			<table>
 				<tr align=center valign=middle>
-					<th colspan="2" width=380>Prompt Writing</th>
-				</tr>
-				<tr align=center valign=middle>
-					<td width=190><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a></td>
-					<td width=190><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></td>
-				</tr>
-				<tr align=center valign=middle>
-					<td colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/No_Parameter_Comparison.md">🚫 --no Parameter</a></td>
+					<th width=380>
+						<details><summary>✍ Prompt Writing</summary><p>
+							<table>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/No_Parameter_Comparison.md">🚫 --no Parameter</a>
+									</td>
+								</tr>
+							</table>
+						</p></details>
+					</th>
 				</tr>
 			</table>
 			<table>
 				<tr align=center valign=middle>
-					<th colspan="2" width=380>Image Resolution and Upscaling</tdh>
-				</tr>
-				<tr align=center valign=middle>
-					<td width=190><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a></td>
-					<td width=190><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></td>
+					<th width=380>
+						<details><summary>📐 Image Resolution and Upscaling</summary><p>
+							<table>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a>
+									</td>
+								</tr>
+							</table>
+						</p></details>
+					</th>
 				</tr>
 			</table>
 			<table>
 				<tr align=center valign=middle>
-					<th colspan="2" width=190>Prompting With Images</th>
-				</tr>
-				<tr align=center valign=middle>
-					<td colspan="2" width=380><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></td>
+					<th width=380>
+						<details><summary>🖼 Prompting With Images</summary><p>
+							<table>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a>
+									</td>
+								</tr>
+							</table>
+						</p></details>
+					</th>
 				</tr>
 			</table>
 		</td>
 		<td>
 			<table>
 				<tr align=center valign=middle>
-					<th colspan="2" width=380>Prompt Parameters</th>
-				</tr>
-				<tr align=center valign=middle>
-					<td width=190><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Comparison.md">🎇 --stylize Comparison</a></td>
-					<td width=190><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Quality_Comparison.md">💎 --quality Comparison</a></td>
-				</tr>
-				<tr align=center valign=middle>
-					<td colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Chaos_Comparison.md">🌪 --chaos Comparison</a></td>
-				</tr>
-			</table>
-			<table>
-				<tr align=center valign=middle>
-					<th colspan="2" width=380>Prompt Writing</th>
-				</tr>
-				<tr align=center valign=middle>
-					<td colspan="2"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Keyword_Weight_Comparison.md">⚖ Keyword Weight Comparison</a></td>
+					<th width=380>
+						<details><summary>✍ Prompt Writing</summary><p>
+							<table>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Keyword_Weight_Comparison.md">⚖ Keyword Weight Comparison</a>
+									</td>
+								</tr>
+							</table>
+						</p></details>
+					</th>
 				</tr>
 			</table>
 			<table>
 				<tr align=center valign=middle>
-					<th colspan="2" width=380>Cross Analysis Pages</th>
+					<th width=380>
+						<details><summary>🧩 Prompt Parameters</summary><p>
+							<table>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Comparison.md">🎇 --stylize Comparison</a>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Quality_Comparison.md">💎 --quality Comparison</a>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Chaos_Comparison.md">🌪 --chaos Comparison</a>
+									</td>
+								</tr>
+							</table>
+						</p></details>
+					</th>
 				</tr>
+			</table>
+			<table>
 				<tr align=center valign=middle>
-					<td width=190><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Quality_Cross_Analysis.md">🎇💎 --quality/--stylize Cross Analysis</a></td>
+					<th width=380>
+						<details><summary>🔀 Cross Analysis Pages</summary><p>
+							<table>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Quality_Cross_Analysis.md">🎇💎 --quality/--stylize Cross Analysis</a>
+									</td>
+								</tr>
+							</table>
+						</p></details>
+					</th>
 				</tr>
 			</table>
 		</td>
