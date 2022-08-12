@@ -232,6 +232,11 @@
 										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Quality_Cross_Analysis.md">🎇💎 --quality/--stylize Cross Analysis</a>
 									</td>
 								</tr>
+								<tr>
+									<td>
+										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Resolution_Cross_Analysis.md">🎇📏 --stylize/Resolution Cross Analysis</a>
+									</td>
+								</tr>
 							</table>
 						</p></details>
 					</th>
