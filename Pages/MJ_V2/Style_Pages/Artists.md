@@ -57,7 +57,7 @@
 
 - <details><summary>📔🔆 Idealism</summary><p><div align="center">
 
-	| <small><br></small>Painting By Jean Delville<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
+	| <small><br></small>Painting By Jean Delville<p><div align="center"><i><h6>Added By <a href= "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_PaintingByJeanDelville.png?raw=true" width="256" /> |
 
