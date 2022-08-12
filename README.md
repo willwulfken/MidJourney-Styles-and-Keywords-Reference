@@ -161,11 +161,6 @@
 							<table>
 								<tr>
 									<td>
-										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a>
-									</td>
-								</tr>
-								<tr>
-									<td>
 										<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a>
 									</td>
 								</tr>
