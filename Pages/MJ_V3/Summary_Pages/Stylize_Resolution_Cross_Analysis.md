@@ -25,7 +25,7 @@
         <th>60000</th>
     </tr>
     <tr align=center valign=middle>
-        <th width=80>--wallpaper</th>
+        <th width=120>--wallpaper</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wallpaper/sphere_wallpaper_stylize_625.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wallpaper/sphere_wallpaper_stylize_1250.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wallpaper/sphere_wallpaper_stylize_2500.png?raw=true" width="192" /></td>
@@ -56,7 +56,7 @@
         <th>60000</th>
     </tr>
     <tr align=center valign=middle>
-        <th>--sl</th>
+        <th width=70>--sl</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--sl/sphere_sl_stylize_625.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--sl/sphere_sl_stylize_1250.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--sl/sphere_sl_stylize_2500.png?raw=true" width="192" /></td>
@@ -109,7 +109,7 @@
         <th>60000</th>
     </tr>
     <tr align=center valign=middle>
-        <th>--sp</th>
+        <th width=70>--sp</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--sp/sphere_sp_stylize_625.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--sp/sphere_sp_stylize_1250.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--sp/sphere_sp_stylize_2500.png?raw=true" width="192" /></td>
@@ -201,7 +201,7 @@
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/384/sphere_wh_384_stylize_60000.png?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
-        <th>512x512</th>
+        <th>512x512 (hd)</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/512/sphere_wh_512_hd_stylize_625.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/512/sphere_wh_512_hd_stylize_1250.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/512/sphere_wh_512_hd_stylize_2500.png?raw=true" width="192" /></td>
@@ -212,7 +212,7 @@
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/512/sphere_wh_512_hd_stylize_60000.png?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
-        <th width=35>640x640</th>
+        <th width=35>640x640 (hd)</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/640/sphere_wh_640_hd_stylize_625.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/640/sphere_wh_640_hd_stylize_1250.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/640/sphere_wh_640_hd_stylize_2500.png?raw=true" width="192" /></td>
@@ -223,7 +223,7 @@
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/640/sphere_wh_640_hd_stylize_60000.png?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
-        <th>768x768</th>
+        <th>768x768 (hd)</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/768/sphere_wh_768_hd_stylize_625.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/768/sphere_wh_768_hd_stylize_1250.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/768/sphere_wh_768_hd_stylize_2500.png?raw=true" width="192" /></td>
@@ -234,7 +234,7 @@
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/768/sphere_wh_768_hd_stylize_60000.png?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
-        <th>896x896</th>
+        <th>896x896 (hd)</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/896/sphere_wh_896_hd_stylize_625.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/896/sphere_wh_896_hd_stylize_1250.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Stylize_Resolution_Cross_Analysis/--wh/896/sphere_wh_896_hd_stylize_2500.png?raw=true" width="192" /></td>
