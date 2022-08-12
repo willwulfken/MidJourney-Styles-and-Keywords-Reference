@@ -117,7 +117,7 @@
 			</table>
 			<table>
 				<tr align=center valign=middle>
-					<th colspan="2" width=380>Image Resolution and Upscaling</tdh>
+					<th colspan="2" width=380>Image Resolution and Upscaling</th>
 				</tr>
 				<tr align=center valign=middle>
 					<td width=190><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a></td>
