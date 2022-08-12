@@ -147,6 +147,8 @@
 
 <br>
 
+<hr><!--------------->
+
 <div align="center">
 <h3>📐 Square Resolutions (--w --h)</h3>
 <br>
