@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV2_inactive.png?raw=true" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Experimental.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/version_button/button_version_MJV3_active.png?raw=true" height="64" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV2_inactive.png?raw=true" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Experimental.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV3_active.png?raw=true" height="64" />]()
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_sphere_inactive.png?raw=true" height="37.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Experimental.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo%20Parts/Buttons/image_type_button/button_just_the_style_active.png?raw=true" height="37.5" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/image_type_button/button_sphere_inactive.png?raw=true" height="37.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Experimental.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/image_type_button/button_just_the_style_active.png?raw=true" height="37.5" />]()
 
 </div>
 

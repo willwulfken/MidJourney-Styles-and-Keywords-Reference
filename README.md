@@ -16,24 +16,27 @@
 
 <table>
 	<tr align=center valign=top>
+	<td width="400">
+		<h6><details><summary>🔗 Links to official documentation</summary><p>
+		<p><a href="https://midjourney.gitbook.io/docs/">Midjourney Documentation</a></p>
+		<p><a href="https://www.midjourney.com/app/library/dictionary/">Midjourney Dictionary</a></p>
+		<p><a href="https://www.midjourney.com/app/library/styles/">Midjourney Styles</a></p>
+		</p></details></h6>
+	</td>
 		<td width="400">
-      <h6><details><summary>🔗 Links to official documentation</summary><p>
-        <p><a href="https://midjourney.gitbook.io/docs/">Midjourney Documentation</a></p>
-        <p><a href="https://www.midjourney.com/app/library/dictionary/">Midjourney Dictionary</a></p>
-        <p><a href="https://www.midjourney.com/app/library/styles/">Midjourney Styles</a></p>
-      </p></details></h6>
-    </td>
-    <td width="400">
-      <h6><details><summary>🔗 Links to other references and tools</summary><p>
-      <p><a href="https://rexwang8.github.io/resource/ai/teapot">Understanding MidJourney Through Teapots by Bob</a></p>
-      <p><a href="https://docs.google.com/spreadsheets/d/10i9Ip8tVSERAuMWbc6-H6BUFCoUGOQ91YzDvX--c4bk/edit?usp=sharing">Artist Visual Style Encyclopedia by Sincarnate</a></p>
-      <p><a href="https://www.wikiart.org/en/paintings-by-style">Artwork Styles</a></p>
-	  <p><a href="https://mj.aihub.gg/">Midjourney Wiki by Mxrcy</a></p>
-	  <p><a href="https://promptomania.com/prompt-builder/">PromptoMania by WSzP</a></p>
-	  <p><a href="https://www.thedreamingstate.com/portfolio/art/prompter/">Prompter by Shane McGeehan</a></p>
-      </p></details></h6>
-    </td>
-  </tr>
+			<h6><details><summary>🔗 Links to other references and tools</summary><p>
+			<p><a href="https://rexwang8.github.io/resource/ai/teapot">Understanding MidJourney Through Teapots by Bob</a></p>
+			<p><a href="https://docs.google.com/spreadsheets/d/10i9Ip8tVSERAuMWbc6-H6BUFCoUGOQ91YzDvX--c4bk/edit?usp=sharing">Artist Visual Style Encyclopedia by Sincarnate</a></p>
+			<p><a href="https://www.wikiart.org/en/paintings-by-style">Artwork Styles</a></p>
+			<p><a href="https://mj.aihub.gg/">Midjourney Wiki by Mxrcy</a></p>
+			<p><a href="https://promptomania.com/prompt-builder/">PromptoMania by WSzP</a></p>
+			<p><a href="https://www.thedreamingstate.com/portfolio/art/prompter/">Prompter by Shane McGeehan</a></p>
+			</p></details></h6>
+		</td>
+	</tr>
+	<tr colspan=2 align=center valign=top>
+		<td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Sponsors.md">⭐ Sponsors</a></td>
+	</tr>
 </table>
 
 </div>
