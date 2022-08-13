@@ -35,7 +35,8 @@
 		</td>
 	</tr>
 	<tr align=center valign=top>
-		<td colspan=2><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Sponsors.md">⭐ Sponsors</a></td>
+		<td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Sponsors.md">⭐ Sponsors</a></td>
+		<td><a href="https://discord.com/channels/662267976984297473/995554362686439526">💬 Our Discord Thread</a></td>
 	</tr>
 </table>
 
@@ -50,16 +51,16 @@
 
 <table>
   <tr align=center valign=middle>
-  	<td colspan="2">
+  	<td colspan=2>
 		<p></p><p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/MJ_V2.md">✨ Go To Midjourney Algorithm V2 ✨</a></p>
 	</td>
   </tr>
   <tr align=center valign=middle>
     <td>
-    	<h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Tutorial_Pages/How-To_Guide.md">❔ How-To Guide</a></h5>
+    	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Tutorial_Pages/How-To_Guide.md">❔ How-To Guide</a>
     </td>
 	<td>
-		<h5><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Rundown_Pages/Submitting_Pull_Request.md">:octocat: Submitting Ideas and Pull Requests</a></h5>
+		<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Rundown_Pages/Submitting_Pull_Request.md">:octocat: Submitting Ideas and Pull Requests</a>
 	</td>
   </tr>
 	<tr align=center valign=middle>
