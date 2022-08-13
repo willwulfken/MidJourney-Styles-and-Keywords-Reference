@@ -60,7 +60,7 @@
     	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Tutorial_Pages/How-To_Guide.md">❔ How-To Guide</a>
     </td>
 	<td>
-		<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Rundown_Pages/Submitting_Pull_Request.md">:octocat: Submitting Ideas and Pull Requests</a>
+		<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/Submitting-Ideas-and-Pull-Requests">:octocat: Submitting Ideas and Pull Requests</a>
 	</td>
   </tr>
 	<tr align=center valign=middle>
