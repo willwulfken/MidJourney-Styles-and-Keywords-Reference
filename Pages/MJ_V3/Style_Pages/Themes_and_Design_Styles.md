@@ -787,7 +787,7 @@
 
 	| MLG | Materialisimo |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Mlg.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Materialisimo.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_MLG.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Materialisimo.png?raw=true" width="256" /> |
 	
 	<br>
 	
