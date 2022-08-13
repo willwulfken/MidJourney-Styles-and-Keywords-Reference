@@ -824,7 +824,7 @@
 	
 	<br>
 
-	| Kolmogorov_Complexity | Cluttered |
+	| Kolmogorov Complexity | Cluttered |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Kolmogorov_Complexity.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Cluttered.png?raw=true" width="256" /> |
 
