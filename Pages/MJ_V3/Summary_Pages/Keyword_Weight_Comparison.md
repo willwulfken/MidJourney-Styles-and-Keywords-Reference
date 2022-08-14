@@ -64,7 +64,7 @@
     <tr align=center valign=middle>
         <th>Landscape::1</th>
         <th></th>
-        <th colspan="3">Autumn</th>
+        <th colspan="3">Painting</th>
     </tr>
     <tr align=center valign=middle>
         <th></th><th></th>
@@ -73,7 +73,7 @@
         <th>1</th>
     </tr>
     <tr align=center valign=middle>
-        <th rowspan="4">Painting</th>
+        <th rowspan="4">Autumn</th>
         <th>0</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Keyword_Weight_Comparison/landscape_painting_autumn/landscape_1_painting_0_autumn_0.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Keyword_Weight_Comparison/landscape_painting_autumn/landscape_1_painting_0.5_autumn_0.png?raw=true" width="192" /></td>
@@ -110,7 +110,7 @@
     <tr align=center valign=middle>
         <th>Painting of a Tree::1</th>
         <th></th>
-        <th colspan="3">Painted By Alex Gray</th>
+        <th colspan="3">Painted By Bob Ross</th>
     </tr>
     <tr align=center valign=middle>
         <th></th><th></th>
@@ -119,7 +119,7 @@
         <th>1</th>
     </tr>
     <tr align=center valign=middle>
-        <th rowspan="4">Painted By Bob Ross</th>
+        <th rowspan="4">Painted By Alex Gray</th>
         <th>0</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_PaintedByBobRoss_0_PaintedByAlexGray_0.png?raw=true" width="192" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Keyword_Weight_Comparison/painting_of_a_tree-Painted_By_Bob_Ross-Painted_By_Alex_Gray/paintingofatree_1_PaintedByBobRoss_0.5_PaintedByAlexGray_0.png?raw=true" width="192" /></td>
