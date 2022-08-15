@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/6042799/178131414-93171289-16ae-46a5-ab51-8077944c392d.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/6042799/179348821-0a53ef8c-5341-451e-9c15-434153cf67e3.png">
-  <img alt="Midjourney Styles and Keywords Reference" src="https://user-images.githubusercontent.com/6042799/178131414-93171289-16ae-46a5-ab51-8077944c392d.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Banner/banner_dark.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Banner/banner_light.png?raw=true">
+  <img alt="Midjourney Styles and Keywords Reference" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Banner/banner_light.png?raw=true">
 </picture><br><br>
 
 <blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
