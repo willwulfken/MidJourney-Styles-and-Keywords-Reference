@@ -254,6 +254,9 @@
 			</table>
 		</td>
 	</tr>
+		<tr>
+		<td colspan=2 align=center valign=middle><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/V1_vs_V2_vs_V3.md">📇 V1 vs V2 vs V3</a></td>
+	</tr>
 </table>
 
 </div>
