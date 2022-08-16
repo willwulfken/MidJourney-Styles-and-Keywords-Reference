@@ -271,39 +271,31 @@
 
   <h3><pre>Styles</pre></h3>
 
-<table>
-	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Themes_and_Design_Styles.md">🖼 Themes and Design Styles</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Artists.md">📔 Artists</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Drawing_and_Art_Mediums.md">🖌 Drawing and Art Mediums</a></th>
-	</tr>
-	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Materials.md">🧱 Materials</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Material_Properties.md">📦 Material Properties</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Lighting.md">💡 Lighting</a></th>
-	</tr>
-	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Colors.md">🎨 Colors</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Colors_Palettes_and_Color_Styles.md">🎨 Palettes and Color Styles</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/SFX_and_Shaders.md">🌈 SFX, Post-Processing, and Shaders</a></th>
-	</tr>
-	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Computer_Display.md">🖥 Computer Display and Color Models</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Camera.md">📷 Camera, Film Types, Lenses, and Perspective</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Dimensionality.md">🌌 Dimensionality</a></th>
-	</tr>
-	<tr>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Geometry.md">💠 Geometry, Topology, and Structural Modification</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Intangibles.md">➰ Intangibles</a></th>
-		<th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/TV_and_Movies.md">🎬 TV Shows and Movies</a></th>
-	</tr>
-	<tr>
-		<th colspan="3"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Experimental.md">🧪 Experimental</a></th>
-	</tr>
-	<tr>
-	<th colspan="3"><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Miscellaneous.md">🎛 Miscellaneous</a></th>
-	</tr>
-</table>
+<br>
+
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Themes_and_Design_Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_themes_and_design_styles.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Artists.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_artists.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Drawing_and_Art_Mediums.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_drawing_and_art_mediums.png?raw=true" width = 250/></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Materials.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_materials.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Material_Properties.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_material_properties.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Lighting.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_lighting.png?raw=true" width = 250/></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Colors.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_colors.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Colors_Palettes_and_Color_Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_palettes_and_color_styles.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/SFX_and_Shaders.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_sfx.png?raw=true" width = 250/></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Computer_Display.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_computer.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Camera.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_camera.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Dimensionality.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_dimensionality.png?raw=true" width = 250/></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Geometry.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_geometry.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Intangibles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_intangibles.png?raw=true" width = 250/></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/TV_and_Movies.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_tv_and_movies.png?raw=true" width = 250/></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Experimental.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_experimental.png?raw=true" width = 758/></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Miscellaneous.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_miscellaneous.png?raw=true" width = 758/></a>
 </div>
 
 <br>
