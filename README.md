@@ -286,7 +286,7 @@
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Materials.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_materials.png?raw=true" width = 250>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_materials.png_light?raw=true" width = 250>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_materials_light.png?raw=true" width = 250>
   <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/category_button/button_category_materials.png?raw=true" width = 250>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Material_Properties.md"><picture>
