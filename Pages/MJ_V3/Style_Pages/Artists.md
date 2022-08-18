@@ -101,9 +101,9 @@
 
 - <details><summary>📔⚜ Art Nouveau</summary><p><div align="center">
 
-	| Painting By Wes Anderson | Painted By Alphonso Mucha |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painting_by_Wes_Anderson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painted_By_Alphonso_Mucha.png?raw=true" width="256" /> |
+	| Painting By Wes Anderson | Painted By Alphonso Mucha | Painted By Gustav Klimt |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painting_by_Wes_Anderson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painted_By_Alphonso_Mucha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painted_By_Gustav_Klimt.png?raw=true" width="256" /> |
 
   </p></details>
 
