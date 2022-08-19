@@ -101,7 +101,7 @@
 - <details><summary>📔⚜ Art Nouveau</summary><p><div align="center">
 
 	| Painting By Wes Anderson | Painting By Alphonso Mucha | Art By Gustav Klimt |
-	| :-: | :-: |
+	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_paintingbyWesAnderson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Alphonso_Mucha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Art_By_Gustav_Klimt.png?raw=true" width="256" /> |
 
   </p></details>
