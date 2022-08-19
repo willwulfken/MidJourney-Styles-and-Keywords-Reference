@@ -209,15 +209,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3_light.png?raw=true" width = 758>
     <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3.png?raw=true" width = 758>
 </picture></a>
-<br>
-</tr></td>
-</table>
-
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/V1_vs_V2_vs_V3.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3.png?raw=true" width = 758>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3_light.png?raw=true" width = 758>
-    <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3.png?raw=true" width = 758>
-</picture></a>
 
 </div>
 
