@@ -102,7 +102,7 @@
 
 	| Painting By Wes Anderson | Painted By Alphonso Mucha | Art By Gustav Klimt |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Wes_Anderson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Alphonso_Mucha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/landscape_Art_By_Gustav_Klimt.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Wes_Anderson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Alphonso_Mucha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Art_By_Gustav_Klimt.png?raw=true" width="256" /> |
 
   </p></details>
 
