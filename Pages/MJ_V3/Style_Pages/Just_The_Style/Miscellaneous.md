@@ -94,7 +94,7 @@
 
 <br>
 
-| <small><br></small>Sphube<p><div align="center"><i><h6>@TwoDukes</h6></i></p> |
+| <br>Sphube<p><div align="center"><i><h6>@TwoDukes</h6></i></p> |
 | :-: |
 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Miscellaneous/Sphube.png?raw=true" width="256" /> |
 

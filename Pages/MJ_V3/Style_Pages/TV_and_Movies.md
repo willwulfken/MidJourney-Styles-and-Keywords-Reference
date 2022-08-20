@@ -16,67 +16,67 @@
 
 - <details><summary>🎬🈯 Anime</summary><p><div align="center">
 
-	| <small><br></small>Akira<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Attack on Titan<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Bakuman<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Akira<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Attack on Titan<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Bakuman<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Akira.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Attack_on_Titan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Bakuman.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>Code Geass<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Cowboy Bebop<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Death Note<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Code Geass<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Cowboy Bebop<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Death Note<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Code_Geass.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Cowboy_Bebop.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Death_Note.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>Detective Conan<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Dr Stone<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Dragon Ball Z<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Detective Conan<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Dr Stone<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Dragon Ball Z<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Detective_Conan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Dr_Stone.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Dragon_Ball_Z.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>Fullmetal Alchemist<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Gintama<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Great Teacher Onizuka<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Fullmetal Alchemist<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Gintama<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Great Teacher Onizuka<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Fullmetal_Alchemist.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Gintama.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Great_Teacher_Onizuka.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>Gurren Lagann<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Haikyu<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Hajime no Ippo<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Gurren Lagann<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Haikyu<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Hajime no Ippo<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Gurren_Lagann.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Haikyu.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Hajime_no_Ippo.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>Hunter x Hunter<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Inuyasha<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Jojos Bizzare Adventures<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Hunter x Hunter<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Inuyasha<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Jojos Bizzare Adventures<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Hunter_x_Hunter.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Inuyasha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Jojos_Bizzare_Adventures.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>Jujutsu Kaisen<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Kimetsu no Yaiba (Demon Slayer)<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Koe no Katachi<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Jujutsu Kaisen<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Kimetsu no Yaiba (Demon Slayer)<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Koe no Katachi<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Jujutsu_Kaisen.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Kimetsu_no_Yaiba_demon_slayer.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Koe_no_Katachi.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>Mob_Psycho_100<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>My Hero Academia<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Naruto<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Mob_Psycho_100<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>My Hero Academia<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Naruto<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Mob_Psycho_100.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_My_Hero_Academia.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Naruto.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>One Piece<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Pokemon<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Ruroni Kenshin<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>One Piece<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Pokemon<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Ruroni Kenshin<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_One_Piece.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Pokemon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Ruroni_Kenshin.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>Spirited Away<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Steins Gate<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <small><br></small>Sword Art Online<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Spirited Away<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Steins Gate<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Sword Art Online<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Spirited_Away.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Steins_Gate.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Sword_Art_Online.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| <small><br></small>Vinland Saga<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| <br>Vinland Saga<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Vinland_Saga.png?raw=true" width="256" /> |
 

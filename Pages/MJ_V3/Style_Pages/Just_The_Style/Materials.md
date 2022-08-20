@@ -1391,7 +1391,7 @@
 
 	<br>
 
-	| <small><br></small>Teapot<p><div align="center"><i><h6>@bob</h6></i></p> |
+	| <br>Teapot<p><div align="center"><i><h6>@bob</h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Teapot.png?raw=true" width="256" /> |
 

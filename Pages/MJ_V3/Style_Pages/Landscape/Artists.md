@@ -101,7 +101,7 @@
 
 - <details><summary>📔⚜ Art Nouveau</summary><p><div align="center">
 
-	| Painting By Wes Anderson | Painted By Alphonso Mucha | <small><br></small>Art By Gustav Klimt<p><div align="center"><i><h6>Added By <a href="https://github.com/brianrhea">Brian Rhea</a></h6></i></p> |
+	| Painting By Wes Anderson | Painted By Alphonso Mucha | <br>Art By Gustav Klimt<p><div align="center"><i><h6>Added By <a href="https://github.com/brianrhea">Brian Rhea</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painting_by_Wes_Anderson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Alphonso_Mucha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Art_By_Gustav_Klimt.png?raw=true" width="256" /> |
 

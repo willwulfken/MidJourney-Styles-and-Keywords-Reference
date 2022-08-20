@@ -1,5 +1,5 @@
 <h2>🎇💎 --quality/--stylize Cross Analysis</h2>
-<h4><b>sphere --seed 4776</b> is used for all images</h4>
+<h6><b>sphere --seed 4776</b> is used for all images</h6>
 
 <hr><!--------------->
 

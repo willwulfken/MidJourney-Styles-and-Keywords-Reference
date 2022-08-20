@@ -1,5 +1,7 @@
 <h2>🌪 --chaos Comparison</h2>
-<h4><b>sphere --seed 4776</b> is used for all images</h4>
+<b>The Chaos Parameter will add more "randomness" to your images. In practice, it seems to make them more stylized.</b>
+<br>
+<h6><b>sphere --seed 4776</b> is used for all images</h6>
 
 <hr><!--------------->
 

@@ -58,7 +58,7 @@
 
 - <details><summary>📔🔆 Idealism</summary><p><div align="center">
 
-	| <small><br></small>Painting By Jean Delville<p><div align="center"><i><h6>Added By <a href= "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
+	| <br>Painting By Jean Delville<p><div align="center"><i><h6>Added By <a href= "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_PaintingByJeanDelville.png?raw=true" width="256" /> |
 
@@ -322,7 +322,7 @@
 
 	<br>
 	
-	| <small><br></small>Painting By Peter Mohrbacher<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
+	| <br>Painting By Peter Mohrbacher<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_PaintingByPeterMohrbacher.png?raw=true" width="256" /> |
 
@@ -346,7 +346,7 @@
 
 - <details><summary>📔🈯 Manga</summary><p><div align="center">
 
-	| <small><br></small>Painting By Junji Ito<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
+	| <br>Painting By Junji Ito<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_ArtByJunjiIto.png?raw=true" width="256" /> |
 
