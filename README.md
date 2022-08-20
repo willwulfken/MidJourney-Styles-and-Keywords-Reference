@@ -50,12 +50,30 @@
 		<td>
 			<p><code>sphere --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /></p>
 		</td>
+    <td>
+      <p><code>sphere --version 2 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" /></p>
+    </td>
+    <td>
+      <p><code>sphere --version 1 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" /></p>
+    </td>
 	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<b><code>sphere, &#60;style&#62; --seed 4776</code> is used for all of the style images</b>
-		</td>
-	</tr>
+  <tr align=center valign=middle>
+    <td colspan=3>
+      <details><summary>Landscape</summary>
+        <table>
+          <tr align=center valign=middle>
+            <td>
+              <p><code>sphere --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/_landscape_--seed4776.png?raw=true"  width="256" /></p>
+            </td>
+            <td>
+              <p><code>sphere --version 2 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/_landscape_--seed4776.png?raw=true" width="256" /></p>
+            </td>
+            <td>
+          </tr>
+        </table>
+      </p></details>
+    </td>
+  </tr>
 </table>
 </p></details></h5>
 
