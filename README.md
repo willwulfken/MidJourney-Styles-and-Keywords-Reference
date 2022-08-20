@@ -54,7 +54,7 @@
       <p><code>sphere --version 2 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" /></p>
     </td>
     <td>
-      <p><code>sphere --version 1 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" /></p>
+      <p><code>sphere --version 1 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" /></p>
     </td>
 	</tr>
   <tr align=center valign=middle>
@@ -68,7 +68,6 @@
             <td>
               <p><code>sphere --version 2 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/_landscape_--seed4776.png?raw=true" width="256" /></p>
             </td>
-            <td>
           </tr>
         </table>
       </p></details>
