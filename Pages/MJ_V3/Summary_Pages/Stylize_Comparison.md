@@ -1,4 +1,4 @@
-<h2>🎇 --stylize Comparison</h2>
+<h2>🎇 --stylize Parameter</h2>
 <b>The Stylize Parameter will make your image more stylized.</b>
 <br>
 <h6><b>sphere --seed 4776</b> is used for all images</h6>
