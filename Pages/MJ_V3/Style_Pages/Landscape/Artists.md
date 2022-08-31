@@ -88,6 +88,7 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Painting_By_Kandinksey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Painting_by_Paul_Cezane.png?raw=true" width="256" /> |
 
 	<br>
+	
 	| Painted By Lawrence Pelton | Painted By Amanda Sage |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Lawrence_Pelton.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Amanda_Sage.png?raw=true" width="256" /> |
