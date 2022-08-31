@@ -26,10 +26,16 @@
 
 - <details><summary>📦🏮 Light Manipulation</summary><p><div align="center">
 
-	| Optics | Materiality | Scattering |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Material_Properties/sphere_Optics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Material_Properties/sphere_Materiality.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Material_Properties/sphere_Scattering.png?raw=true" width="256" /> | 
+	| Optics | Materiality |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Material_Properties/sphere_Optics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Material_Properties/sphere_Materiality.png?raw=true" width="256" /> |
 	
+	<br>
+
+	| Scattering | Subsurface-Scattering |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Material_Properties/sphere_Scattering.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Subsurface-Scattering.png?raw=true" width="256" /> |
+
 	<br>
 	
 	| Ambient Occlusion | Opalescent |

@@ -90,9 +90,17 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/TV_and_Movies/Teletubbies.png?raw=true" width="256" /> |
 
+	<br>
+
 	| Simpsons | Family Guy |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/TV_and_Movies/Simpsons.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/TV_and_Movies/Family_Guy.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Adventure Time |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Adventure_Time.png?raw=true" width="256" /> |
 
 	</p></details>
 
@@ -103,6 +111,12 @@
 	| Tron | In The Style of Tron |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/TV_and_Movies/Tron.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/TV_and_Movies/In_The_Style_of_Tron.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Saw |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Saw.png?raw=true" width="256" /> |
 
 	</p></details>
 

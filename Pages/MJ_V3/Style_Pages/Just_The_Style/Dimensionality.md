@@ -15,7 +15,19 @@
 <br>
 
 
-- <details><summary>🌌 2D-5D</summary><p><div align="center">
+- <details><summary>🌌 0D-5D</summary><p><div align="center">
+
+	| 0-Dimensional | 0-D |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/0-Dimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/0-D.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| 1-Dimensional | 1-D |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/1-Dimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/1-D.png?raw=true" width="256" /> |
+	
+	<br>
 
 	| 2-Dimensional | 2D |
 	| :-: | :-: |
@@ -70,7 +82,13 @@
 	
 	| Alldimensional | Multiverse |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Dimensionality/Alldimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Dimensionality/Multiverse.png?raw=true" width="256" /> | 
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Dimensionality/Alldimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Dimensionality/Multiverse.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Parallel-Universe | Perpendicular-Universe |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Parallel-Universe.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Perpendicular-Universe.png?raw=true" width="256" /> |
 
 	</p></details>
 	    

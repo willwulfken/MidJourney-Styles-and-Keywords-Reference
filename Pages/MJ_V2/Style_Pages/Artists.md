@@ -22,9 +22,9 @@
 	
 	<br>
 	
-	| Painting By Claude Lorrain | Painting By Edward Hopper |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_paintingbyClaudeLorrain.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_paintingbyEdwardHopper.png?raw=true" width="256" /> |
+	| Art by James Gurney | Painting By Claude Lorrain | Painting By Edward Hopper |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Art_by_James_Gurney.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_paintingbyClaudeLorrain.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_paintingbyEdwardHopper.png?raw=true" width="256" /> |
 
 	<br>
 	
@@ -53,6 +53,12 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_paintingbyMaxErnst.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_paintingbyReneMagritte.png?raw=true" width="256" /> |
 
+	<br>
+
+	| Art By Jim Burns | Art by Vincent Di Fate |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Art_By_Jim_Burns.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Art_by_Vincent_Di_Fate.png?raw=true" width="256" /> |
+
   </p></details>
   
 
@@ -76,15 +82,21 @@
 
 - <details><summary>📔🧬 Modernism</summary><p><div align="center">
 
+	| Painting By Kandinksey | Painting by Paul Cezane |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Painting_By_Kandinksey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Painting_by_Paul_Cezane.png?raw=true" width="256" /> |
+	
+	<br>
+
 	| Painting By Lawrence Pelton | Painting By Amanda Sage |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Lawrence_Pelton.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Amanda_Sage.png?raw=true" width="256" /> |
 
 	<br>
 
-    | Painting By Amedeo Modigliani |
-    | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Amedeo_Modigliani.png?raw=true" width="256" /> |
+    | Painted By Amedeo Modigliani | Art by Henry Moore |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Amedeo_Modigliani.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Art_by_Henry_Moore.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -315,6 +327,12 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Uon.visuals.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_ArtbyUon.visuals.png?raw=true" width="256" /> |
 	
 	<br>
+
+	| Art By Seth McMahon |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Art_By_Seth_McMahon.png?raw=true" width="256" /> |
+	
+	<br>
 	
 	| Artofethan | Art By artofethan |
 	| :-: | :-: |
@@ -325,6 +343,12 @@
 	| <br>Painting By Peter Mohrbacher<p><div align="center"><i><h6>Added By <a href=  "https://github.com/Earlh21">Earlh21</a></h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_PaintingByPeterMohrbacher.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Painting By Boris Groh |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Painting_By_Boris_Groh.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -340,6 +364,12 @@
     | Painting By Andreas Rocha | Painting By Aleksi Briclot |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Andreas_Rocha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Aleksi_Briclot.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Painting By Ivan Stan |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Painting_By_Ivan_Stan.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -361,6 +391,12 @@
 	| Painting By Angus McKie | Painting By Akari Toriyama | Painting By Al Williamson |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Angus_McKie.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Akari_Toriyama.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Al_Williamson.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Art by Ilya Kuvshinov |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Art_by_Ilya_Kuvshinov.png?raw=true" width="256" /> |
 	
   </p></details>
 
@@ -412,6 +448,18 @@
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Alexander_Jansson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Ansel_Adams.png?raw=true" width="256" /> |
 
+	<br>
+
+	| Art By Ray Harryhausen | Art By H.R. Giger |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Art_By_Ray_Harryhausen.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Art_By_H.R._Giger.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Painting By Raja Ravi Varma |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Painting_By_Raja_Ravi_Varma.png?raw=true" width="256" /> |
+	
 	<br>
 
 	| Painting By Anna Dittmann | Painting By Hugh Ferriss | Painting By Alexandre Cabanel |

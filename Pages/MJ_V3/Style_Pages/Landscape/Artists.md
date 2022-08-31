@@ -23,9 +23,9 @@
 	
 	<br>
 	
-	| Painting By Claude Lorrain | Painting By Edward Hopper |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painting_by_Claude_Lorrain.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painting_by_Edward_Hopper.png?raw=true" width="256" /> |
+	| Art by James Gurney | Painting By Claude Lorrain | Painting By Edward Hopper |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_by_James_Gurney.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painting_by_Claude_Lorrain.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painting_by_Edward_Hopper.png?raw=true" width="256" /> |
 
 	<br>
 	
@@ -54,6 +54,12 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painting_by_Max_Ernst.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painting_by_Rene_Magritte.png?raw=true" width="256" /> |
 
+	<br>
+	
+	| Art By Jim Burns | Art by Vincent Di Fate |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_By_Jim_Burns.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_by_Vincent_Di_Fate.png?raw=true" width="256" /> |
+
   </p></details>
   
 
@@ -77,15 +83,20 @@
 
 - <details><summary>📔🧬 Modernism</summary><p><div align="center">
 
+	| Painting By Kandinksey | Painting by Paul Cezane |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Painting_By_Kandinksey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Painting_by_Paul_Cezane.png?raw=true" width="256" /> |
+
+	<br>
 	| Painted By Lawrence Pelton | Painted By Amanda Sage |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Lawrence_Pelton.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Amanda_Sage.png?raw=true" width="256" /> |
 
 	<br>
 
-    | Painted By Amedeo Modigliani |
-    | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Amedeo_Modigliani.png?raw=true" width="256" /> |
+    | Painted By Amedeo Modigliani | Art by Henry Moore |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Amedeo_Modigliani.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_by_Henry_Moore.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -317,6 +328,12 @@
 	
 	<br>
 	
+	| Art By Seth McMahon |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_By_Seth_McMahon.png?raw=true" width="256" /> |
+
+	<br>
+
 	| Artofethan | Art By Artofethan |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Artofethan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Art_by_artofethan.png?raw=true" width="256" /> |
@@ -326,6 +343,12 @@
 	| Painting By Peter Mohrbacher |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painting_by_Peter_Mohrbacher.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Painting By Boris Groh |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Painting_By_Boris_Groh.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -341,6 +364,12 @@
     | Painted By Andreas Rocha | Painted By Aleksi Briclot |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Andreas_Rocha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Aleksi_Briclot.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Painting By Ivan Stan |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Painting_By_Ivan_Stan.png?raw=true" width="256" /> |
 
   </p></details>
 
@@ -362,7 +391,13 @@
 	| Painted By Angus McKie | Painted By Akari Toriyama | Painted By Al Williamson |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Angus_McKie.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Akari_Toriyama.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Al_Williamson.png?raw=true" width="256" /> |
+
+	<br>
 	
+	| Art by Ilya Kuvshinov |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_by_Ilya_Kuvshinov.png?raw=true" width="256" /> |
+
   </p></details>
 
 
@@ -412,6 +447,18 @@
 	| Painted By Alexander Jansson | Painted By Ansel Adams |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Alexander_Jansson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Artists/landscape_Painted_By_Ansel_Adams.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Art By Ray Harryhausen | Art By H.R. Giger |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_By_Ray_Harryhausen.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_By_H.R._Giger.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Painting By Raja Ravi Varma |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/Wave_10/landscape_Painting_By_Raja_Ravi_Varma.png?raw=true" width="256" /> |
 
 	<br>
 
