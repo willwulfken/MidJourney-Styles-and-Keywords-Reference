@@ -1320,7 +1320,9 @@
 	| Jellyfish |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Jellyfish.png?raw=true" width="256" /> |
-  
+
+	<br>
+	
 	| Sea Anemone | Sea Urchin |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Sea_Anemone.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Sea_Urchin.png?raw=true" width="256" /> |
@@ -1330,6 +1332,12 @@
 	| Crinoid |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Crinoid.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Fish-Eye | Blue-Pinkgill |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Fish-Eye.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Blue-Pinkgill.png?raw=true" width="256" /> |
 
 	</p></details>
 
@@ -1412,6 +1420,12 @@
 	| Bracelet | Fingerprint |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Bracelet.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Fingerprint.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Tesla Valve |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Tesla_Valve.png?raw=true" width="256" /> |
 
 	<br>
 

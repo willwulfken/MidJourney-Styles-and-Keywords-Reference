@@ -1312,10 +1312,13 @@
 
 
   - <details><summary>🧱🦞 Sealife</summary><p><div align="center">
+
 	| Jellyfish |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Jellyfish.png?raw=true" width="256" /> |
 
+	<br>
+	
 	| Sea Anemone | Sea Urchin |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_Sea_Anemone.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_Sea_Urchin.png?raw=true" width="256" /> |
@@ -1325,6 +1328,12 @@
 	| Crinoid |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_Crinoid.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Fish-Eye | Blue-Pinkgill |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_fish-eye.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Blue-Pinkgill.png?raw=true" width="256" /> |
 
 	</p></details>
 
@@ -1407,6 +1416,12 @@
 	| Bracelet | Fingerprint |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Bracelet.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Fingerprint.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Tesla Valve |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Tesla_Valve.png?raw=true" width="256" /> |
 
 	<br>
 
