@@ -152,7 +152,7 @@
   </p></details>
 
 
-- <details><summary>📔 Other</summary><p><div align="center">
+- <details><summary>📔 Other Artists</summary><p><div align="center">
 
 	| Painting By Bob Ross | Art By M.C. Escher |
 	| :-: | :-: |

@@ -264,7 +264,7 @@
 	</p></details>
 
 
-  - <details><summary>🎭 Other</summary><p><div align="center">
+  - <details><summary>🎭 Other Themes</summary><p><div align="center">
 	
 	| Shpongle | In The Style of Shpongle |
 	| :-: | :-: |

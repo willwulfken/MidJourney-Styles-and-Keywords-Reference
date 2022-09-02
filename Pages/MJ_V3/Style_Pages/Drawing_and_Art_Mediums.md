@@ -627,7 +627,7 @@
 
 	</p></details>
 
-  - <details><summary>🖌🎲 Other</summary><p><div align="center">
+  - <details><summary>🖌🎲 Other Physical Mediums</summary><p><div align="center">
 
 	| Arts and Crafts | Resin | Enamel Pin |
 	| :-: | :-: | :-: |

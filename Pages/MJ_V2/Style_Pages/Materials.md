@@ -840,7 +840,7 @@
 	</p></details>
 
 
-  - <details><summary>🧱 Other</summary><p><div align="center">
+  - <details><summary>🧱 Other Solids</summary><p><div align="center">
 
 	| Amber | Ivory | Bone |
 	| :-: | :-: | :-: |
@@ -975,7 +975,7 @@
 	</p></details>
 
 
-  - <details><summary>🧱🧪 Other</summary><p><div align="center">
+  - <details><summary>🧱🧪 Other Non-Newtonian Fluids and Polymers</summary><p><div align="center">
 
 	| Polymer | Orbeez | Oobleck |
 	| :-: | :-: | :-: |

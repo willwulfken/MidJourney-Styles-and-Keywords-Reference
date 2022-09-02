@@ -162,7 +162,7 @@
 	</p></details>
 
 
-- <details><summary>📦 Other</summary><p><div align="center">
+- <details><summary>📦 Other Material Properties</summary><p><div align="center">
 
 	| Anisotropy | Carbonated | Effervescent |
 	| :-: | :-: | :-: |

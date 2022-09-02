@@ -925,7 +925,7 @@
 
 	</p></details>
 
-  - <details><summary>🎭⛩ Other Styles</summary><p><div align="center">
+  - <details><summary>🎭⛩ Other Themes</summary><p><div align="center">
 	
 	| Cystalcore | Sparklecore | Pastelwave |
 	| :-: | :-: | :-: |
@@ -1746,7 +1746,7 @@
 
 
 
-  - <details><summary>🖼 Other</summary><p><div align="center">
+  - <details><summary>🖼 Other Styles</summary><p><div align="center">
 
 	| Generic |
 	| :-: |
