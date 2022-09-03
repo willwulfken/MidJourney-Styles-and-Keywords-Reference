@@ -837,10 +837,10 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Beard.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Mustache.png?raw=true" width="256" /> |
 	
 	<br>
-	
-	| Zebra | Tiger | Dust-Bunny |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Zebra.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Tiger.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Dust-Bunny.png?raw=true" width="256" /> |
+
+	| Dust-Bunny |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Dust-Bunny.png?raw=true" width="256" /> |
 
 	</p></details>
 
@@ -1046,7 +1046,7 @@
   </p></details>
 
 
-- <details><summary>🧱🎷 Food, Plants, and Objects</summary><p>
+- <details><summary>🧱🎷 Food, Plants, Animals, and Objects</summary><p>
 
   - <details><summary>🧱🍣 Food and Consumables</summary><p><div align="center">
 
@@ -1311,6 +1311,15 @@
 	| Lactarius-Indigo | Laccaria-Amethystina |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Lactarius-Indigo.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Laccaria-Amethystina.png?raw=true" width="256" /> |
+
+	</p></details>
+
+
+  - <details><summary>🧱🐹 Animals</summary><p><div align="center">
+
+	| Zebra | Tiger |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Zebra.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Tiger.png?raw=true" width="256" /> |
 
 	</p></details>
 

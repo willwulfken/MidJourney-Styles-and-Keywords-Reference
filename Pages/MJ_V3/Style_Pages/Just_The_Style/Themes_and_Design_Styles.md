@@ -581,6 +581,15 @@
 	</p></details>
 
 
+  - <details><summary>🎭🛋 Rooms</summary><p><div align="center">
+
+	| Room |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Room.png?raw=true" width="256" /> |
+
+	</p></details>
+
+
   - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
 
     | Cityscape | Architecture | Brutalism |
@@ -589,9 +598,9 @@
 	
 	<br>
 
-	| Industrial Design | Room |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Industrial_Design.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Room.png?raw=true" width="256" /> |
+	| Industrial Design |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Industrial_Design.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -644,6 +653,27 @@
 	</p></details>
 
 
+  - <details><summary>🎭🏝 Biomes and Landscapes</summary><p><div align="center">
+
+	| Junglecore |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Junglecore.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Ocean Grunge | Reefwave |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Ocean_Grunge.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Reefwave.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Canyon | Mountains | Desertwave |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Canyon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Mountains.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Desertwave.png?raw=true" width="256" /> |
+
+	</p></details>
+
+
   - <details><summary>🎭🌲 Nature</summary><p><div align="center">
 
     | Naturecore | Atmosphere | Environment |
@@ -658,9 +688,9 @@
 
 	<br>
 
-	| Junglecore | Mosscore | Mushroomcore |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Junglecore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Mosscore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Mushroomcore.png?raw=true" width="256" /> |
+	| Mosscore | Mushroomcore |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Mosscore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Mushroomcore.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -676,29 +706,15 @@
 	
     <br>
 
-	| Underwater | Ocean Grunge | Nautical |
+	| Underwater | Nautical | Wetcore |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Underwater.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Ocean_Grunge.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Nautical.png?raw=true" width="256" /> |
-
-	<br>
-
-    | Wetcore | Reefwave |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Wetcore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Reefwave.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Underwater.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Nautical.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Wetcore.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Crowcore | Ravencore |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Crowcore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Ravencore.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Canyon | Mountains | Desertwave |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Canyon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Mountains.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Desertwave.png?raw=true" width="256" /> |
-
-	<br>
 
 	</p></details>
 
@@ -778,6 +794,13 @@
 	| Midnight | Twilight | Dawn |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Midnight.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Twilight.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Dawn.png?raw=true" width="256" /> |
+
+	</p></details>
+
+
+  - <details><summary>🎭⚽ Sports</summary><p><div align="center">
+
+
 
 	</p></details>
 

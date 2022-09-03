@@ -104,7 +104,7 @@
 | :-: |
 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Miscellaneous/sphere_Sphube.png?raw=true" width="256" /> |
 
-</p>
+</p></div>
 
 <hr><!--------------->
 <div align="center">
