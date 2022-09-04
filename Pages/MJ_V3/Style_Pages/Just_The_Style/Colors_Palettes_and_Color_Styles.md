@@ -29,6 +29,12 @@
 	
 	<br>
 	
+	| Vibrant |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Vibrant.png?raw=true" width="256" /> |
+
+	<br>
+	
 	| Chroma | Dichromatism | Tetrachromacy |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Color_Palettes/Chroma.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Color_Palettes/Dichromatism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Color_Palettes/Tetrachromacy.png?raw=true" width="256" /> |
@@ -101,6 +107,12 @@
 	| Desaturated | Sepia |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Color_Palettes/Desaturated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Color_Palettes/Sepia.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Cyanopsia |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Cyanopsia.png?raw=true" width="256" /> |
 
 	</p></details>
 

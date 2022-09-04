@@ -206,6 +206,12 @@
 
 - <details><summary>📔✡️ Renaissance</summary><p><div align="center">
 
+	| Painted By Leonardo Da Vinci | Painted By Da Vinci |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Painted_By_Leonardo_Da_Vinci.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Painted_By_Da_Vinci.png?raw=true" width="256" /> |
+	
+	<br>
+
 	| Painting By Hieronymus Bosch |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painting_by_Hieronymus_Bosch.png?raw=true" width="256" /> |
