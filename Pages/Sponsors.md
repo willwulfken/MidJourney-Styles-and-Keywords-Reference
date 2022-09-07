@@ -26,9 +26,15 @@
 
 <br>
 
-| janco | Peter W. Szabo | 3xPMaverick |
+| janco | artsea |
+| :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/janco.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/artsea.png?raw=true" width="128" /> |
+
+<br>
+
+| Peter W. Szabo | 3xPMaverick |
 | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/janco.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Peter_W_Szabo.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3xPMaverick.png?raw=true" width="128" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Peter_W_Szabo.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3xPMaverick.png?raw=true" width="128" /> |
 
 <br><br>
 
