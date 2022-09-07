@@ -344,7 +344,7 @@
     - <p><details open><summary>Comparison Pages</summary><p>
 
         - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison.md">⌨ Prompt Format Comparison</a></p>
-        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Writing_Text_Prompt_Comparison.md">🔠 Text In Image Comparison</a></p>
+        - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Text_In_Image_Comparison.md">🔠 Text In Image Comparison</a></p>
         - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/No_Parameter_Comparison.md">🚫 --no Parameter</a></p>
         - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Upscale_Comparison.md">🚀 Image Upscle Comparison</a></p>
         - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></p>

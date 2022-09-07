@@ -8,6 +8,14 @@
 <hr><!--------------->
 
 
+<div align="center">
+
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV2_active.png?raw=true" height="64" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV3_inactive.png?raw=true" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Format_Comparison.md)
+
+</div>
+
+<hr>
 <br>
 
 - <details><summary><b>🔤 Basic Prompt Formats:</b><p color=gray><i><style></i> | sphere <i><style></i> | sphere, <i><style></i> | <i><style></i> sphere | sphere::<i><style></i></p></summary><p><div align="center">
@@ -63,7 +71,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Deep%20Dream.md">Deep Dream</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Deep_Dream.md">Deep Dream</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDream.png?raw=true" width="256" />
@@ -75,7 +83,7 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-DeepDream.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDream_sphere.png?raw=true" width="256" />
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-DeepDream.png?raw=true" width="256" />
@@ -83,7 +91,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Carved%20Lacquer.md">Carved Lacquer</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Carved_Lacquer.md">Carved Lacquer</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CarvedLacquer.png?raw=true" width="256" />
@@ -103,7 +111,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Marker%20Art.md">Marker Art</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Marker_Art.md">Marker Art</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArt.png?raw=true" width="256" />
@@ -151,7 +159,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Liquid%20Crystal.md">Liquid Crystal</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Liquid_Crystal.md">Liquid Crystal</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/LiquidCrystal.png?raw=true" width="256" />
@@ -171,7 +179,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Milky%20Quartz.md">Milky Quartz</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Milky_Quartz.md">Milky Quartz</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MilkyQuartz.png?raw=true" width="256" />
@@ -223,7 +231,7 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-Clouds.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Clouds_sphere.png?raw=true" width="256" />
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-Clouds.png?raw=true" width="256" />
@@ -379,7 +387,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Plasma%20Globe.md">Plasma Globe</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Plasma_Globe.md">Plasma Globe</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PlasmaGlobe.png?raw=true" width="256" />
@@ -407,7 +415,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Ray%20Tracing%20Reflections.md">Ray Tracing Reflections</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Ray_Tracing_Reflections.md">Ray Tracing Reflections</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" width="256" />
@@ -419,7 +427,7 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-RayTracingReflections.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections_sphere.png?raw=true" width="256" />
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-RayTracingReflections.png?raw=true" width="256" />
@@ -427,7 +435,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Chromatic%20Aberration.md">Chromatic Aberration</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">Chromatic Aberration</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberration.png?raw=true" width="256" />
@@ -439,7 +447,7 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-ChromaticAberration.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberration_sphere.png?raw=true" width="256" />
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-ChromaticAberration.png?raw=true" width="256" />
@@ -549,7 +557,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Deep%20Dream.md">Deep Dream</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Deep_Dream.md">Deep Dream</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDream.png?raw=true" width="256" />
@@ -569,7 +577,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Carved%20Lacquer.md">Carved Lacquer</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Carved_Lacquer.md">Carved Lacquer</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CarvedLacquer.png?raw=true" width="256" />
@@ -589,7 +597,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Marker%20Art.md">Marker Art</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Marker_Art.md">Marker Art</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArt.png?raw=true" width="256" />
@@ -637,7 +645,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Liquid%20Crystal.md">Liquid Crystal</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Liquid_Crystal.md">Liquid Crystal</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/LiquidCrystal.png?raw=true" width="256" />
@@ -657,7 +665,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Milky%20Quartz.md">Milky Quartz</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Milky_Quartz.md">Milky Quartz</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MilkyQuartz.png?raw=true" width="256" />
@@ -865,7 +873,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Plasma%20Globe.md">Plasma Globe</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Plasma_Globe.md">Plasma Globe</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PlasmaGlobe.png?raw=true" width="256" />
@@ -893,7 +901,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Ray%20Tracing%20Reflections.md">Ray Tracing Reflections</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Ray_Tracing_Reflections.md">Ray Tracing Reflections</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" width="256" />
@@ -913,7 +921,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Chromatic%20Aberration.md">Chromatic Aberration</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">Chromatic Aberration</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberration.png?raw=true" width="256" />
@@ -1001,13 +1009,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Supernova.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofSupernova.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Supernova.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofSupernova.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Supernova.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Supernova_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1018,64 +1026,64 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Chaotic.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofChaotic.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Chaotic.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Chaotic.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Chaotic_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Deep%20Dream.md">Deep Dream</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Deep_Dream.md">Deep Dream</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDream.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofDeepDream.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_DeepDream.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_DeepDream.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDreamofa_sphere.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/DeepDream_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Carved%20Lacquer.md">Carved Lacquer</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Carved_Lacquer.md">Carved Lacquer</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CarvedLacquer.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofCarvedLacquer.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_CarvedLacquer.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofCarvedLacquer.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_CarvedLacquer.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CarvedLacquer_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Marker%20Art.md">Marker Art</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Marker_Art.md">Marker Art</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArt.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofMarkerArt.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_MarkerArt.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofMarkerArt.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_MarkerArt.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArtofa_sphere.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MarkerArt_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1086,13 +1094,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Lactarius-Indigo.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofLactarius-Indigo.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Lactarius-Indigo.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofLactarius-Indigo.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Lactarius-Indigo.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Lactarius-Indigo_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1104,36 +1112,36 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Liquid%20Crystal.md">Liquid Crystal</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Liquid_Crystal.md">Liquid Crystal</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/LiquidCrystal.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofLiquidCrystal.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_LiquidCrystal.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofLiquidCrystal.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_LiquidCrystal.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/LiquidCrystal_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Milky%20Quartz.md">Milky Quartz</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Milky_Quartz.md">Milky Quartz</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MilkyQuartz.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofMilkyQuartz.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_MilkyQuartz.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofMilkyQuartz.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_MilkyQuartz.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/MilkyQuartz_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1144,13 +1152,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Glow-In-The-Dark.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofGlow-In-The-Dark.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Glow-In-The-Dark.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofGlow-In-The-Dark.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Glow-In-The-Dark.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Glow-In-The-Dark_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1161,13 +1169,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Clouds.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofClouds.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Clouds.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofClouds.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Clouds.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Clouds_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1178,13 +1186,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cyan.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofCyan.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Cyan.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofCyan.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Cyan.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cyan_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1195,13 +1203,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Aqua.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofAqua.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyle_of_aqua.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofAqua.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_aqua.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Aqua_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1219,14 +1227,15 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Technicolor.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofTechnicolor.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Technicolor.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/spheremadeof_Technicolor.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Technicolor.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Technicolor_of_a_sphere.png?raw=true" width="256" />
 			</td>
+		</tr>
 		<tr align=center valign=middle>
 			<td>
 				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Hexagonal.md">Hexagonal</a>
@@ -1235,13 +1244,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Hexagonal.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofHexagonal.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Hexagonal.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Hexagonal.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Hexagonal_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1252,13 +1261,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/4k.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleof4k.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_4k.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_4k.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/4k_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1269,13 +1278,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CGA.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofCGA.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_CGA.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofCGA.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_CGA.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/CGA_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1286,30 +1295,30 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/2-Dimensional.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleof2-Dimensional.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_2-Dimensional.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_2-Dimensional.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/2-Dimensional_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Plasma%20Globe.md">Plasma Globe</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Plasma_Globe.md">Plasma Globe</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PlasmaGlobe.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofPlasmaGlobe.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_PlasmaGlobe.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofPlasmaGlobe.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_PlasmaGlobe.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/PlasmaGlobe_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1321,36 +1330,36 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Ray%20Tracing%20Reflections.md">Ray Tracing Reflections</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Ray_Tracing_Reflections.md">Ray Tracing Reflections</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofRayTracingReflections.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_RayTracingReflections.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/spheremadeof_RayTracingReflections.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_RayTracingReflections.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflectionsofa_sphere.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Chromatic%20Aberration.md">Chromatic Aberration</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">Chromatic Aberration</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberration.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofChromaticAberration.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_ChromaticAberration.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/spheremadeof_ChromaticAberration.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_ChromaticAberration.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberrationofa_sphere.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/ChromaticAberration_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1361,13 +1370,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cinematic.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofCinematic.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Cinematic.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Cinematic.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Cinematic_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1378,13 +1387,13 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Happy.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofHappy.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Happy.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Happy.png?raw=true" width="256" />
 			</td>
 			<td>
-				-
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Happy_of_a_sphere.png?raw=true" width="256" />
 			</td>
 		</tr>
  </table>
@@ -1435,7 +1444,7 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-PaintingByAlexGrey.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofAlexGrey.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyle_of_alexGrey.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -1458,7 +1467,7 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-PaintingByBobRoss.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofBobRoss.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_BobRoss.png?raw=true" width="256" />
 			</td>
 		</tr>
 	</table>

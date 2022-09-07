@@ -5,6 +5,16 @@
 
 <div align="center">
 
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV2_active.png?raw=true" height="64" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV3_inactive.png?raw=true" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Format_Comparison_Subpages/Aqua.md)
+
+</div>
+
+<hr>
+<br>
+
+<div align="center">
+
 <table>
 	<tr align=center valign=middle>
 		<th>
@@ -47,18 +57,18 @@
 			<p><code>sphere(Aqua)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Aqua).png?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere in the style of Aqua</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofAqua.png?raw=true" width="256" /></p>
+			<p><code>sphere in the style of Aqua</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Aqua.png?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<br>
-		</td>
-		<td>
-			<p><code>sphere made of Aqua</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofAqua.png?raw=true" width="256" /></p>
+			<p><code>sphere made of Aqua</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Aqua.png?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<br>
+		</td>
+		<td>
+			<p><code>Aqua of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Aqua_of_a_sphere.png?raw=true" width="256" /></p>
 		</td>
 </table>
 

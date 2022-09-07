@@ -5,6 +5,16 @@
 
 <div align="center">
 
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV2_active.png?raw=true" height="64" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV3_inactive.png?raw=true" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Format_Comparison_Subpages/Supernova.md)
+
+</div>
+
+<hr>
+<br>
+
+<div align="center">
+
 <table>
 	<tr align=center valign=middle>
 		<th>
@@ -47,18 +57,18 @@
 			<p><code>sphere(Supernova)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(Supernova).png?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere in the style of Supernova</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_inthestyleofSupernova.png?raw=true" width="256" /></p>
+			<p><code>sphere in the style of Supernova</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Supernova.png?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<br>
-		</td>
-		<td>
-			<p><code>sphere made of Supernova</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_madeofSupernova.png?raw=true" width="256" /></p>
+			<p><code>sphere made of Supernova</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Supernova.png?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<br>
+		</td>
+		<td>
+			<p><code>Supernova of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Supernova_of_a_sphere.png?raw=true" width="256" /></p>
 		</td>
 </table>
 

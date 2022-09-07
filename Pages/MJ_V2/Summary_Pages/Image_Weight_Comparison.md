@@ -5,6 +5,14 @@
 
 <hr><!--------------->
 
+<div align="center">
+
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV2_active.png?raw=true" height="64" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/button_version_MJV3_inactive.png?raw=true" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Weight_Comparison.md)
+
+</div>
+
+<hr>
 <br>
 
 - <details><summary>Rainbow Sphere Image<p><br><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Weight_Comparison/Input_Images/inputimg_sphere_rainbow_512x.png?raw=true" width="128" /></p></summary><p><div align="center">

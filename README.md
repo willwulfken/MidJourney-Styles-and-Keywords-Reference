@@ -88,123 +88,90 @@
 
 <h3><pre>Comparison Pages</pre></h3>
 
-<table><tr><td width=410 align="center" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/version_labels/MJV2.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/version_labels/MJV2_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/version_labels/MJV2.png?raw=true" width = 376>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing_light.png?raw=true" width = 758>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing.png?raw=true" width = 758>
 </picture>
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing.png?raw=true" width = 376>
-</picture>
-<br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Prompt_Format_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting.png?raw=true" width = 185>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting_light.png?raw=true" width = 185>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting.png?raw=true" width = 185>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Format_Comparison.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting.png?raw=true" width = 252>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting_light.png?raw=true" width = 252>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting.png?raw=true" width = 252>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Writing_Text_Prompt_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image.png?raw=true" width = 185>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image_light.png?raw=true" width = 185>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image.png?raw=true" width = 185>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Text_In_Image_Comparison.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image.png?raw=true" width = 252>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image_light.png?raw=true" width = 252>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image.png?raw=true" width = 252>
 </picture></a>
-<br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/No_Parameter_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_no_parameter.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_no_parameter_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_no_parameter.png?raw=true" width = 376>
-</picture></a>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompting_with_images.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompting_with_images_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompting_with_images.png?raw=true" width = 376>
-</picture>
-<br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Upscale_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_upscaling.png?raw=true" width = 185>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_upscaling_light.png?raw=true" width = 185>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_upscaling.png?raw=true" width = 185>
-</picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Resolution_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_resolutions.png?raw=true" width = 185>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_resolutions_light.png?raw=true" width = 185>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_resolutions.png?raw=true" width = 185>
-</picture></a>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/image_resolution_and_upscaling.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/image_resolution_and_upscaling_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/image_resolution_and_upscaling.png?raw=true" width = 376>
-</picture>
-<br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Weight_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_weight.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_weight_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_weight.png?raw=true" width = 376>
-</picture></a>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/image_generation_algorithms.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/image_generation_algorithms_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/image_generation_algorithms.png?raw=true" width = 376>
-</picture>
-<br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Summary_Pages/Image_Algorithm_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_algorithms.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_algorithms_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_algorithms.png?raw=true" width = 376>
-</picture></a>
-</td>
-<td width=410 align="center" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/version_labels/MJV3.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/version_labels/MJV3_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/version_labels/MJV3.png?raw=true" width = 376>
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing.png?raw=true" width = 376>
-</picture>
-<br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Keyword_Weight_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight.png?raw=true" width = 376>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight.png?raw=true" width = 252>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight_light.png?raw=true" width = 252>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight.png?raw=true" width = 252>
 </picture></a>
-<br><br>
+<br><!------------->
+<br><!------------->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters.png?raw=true" width = 376>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters_light.png?raw=true" width = 758>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters.png?raw=true" width = 758>
 </picture>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_stylize_parameter.png?raw=true" width = 185>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_stylize_parameter_light.png?raw=true" width = 185>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_stylize_parameter.png?raw=true" width = 185>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_stylize_parameter.png?raw=true" width = 252>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_stylize_parameter_light.png?raw=true" width = 252>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_stylize_parameter.png?raw=true" width = 252>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Quality_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_quality_parameter.png?raw=true" width = 185>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_quality_parameter_light.png?raw=true" width = 185>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_quality_parameter.png?raw=true" width = 185>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_quality_parameter.png?raw=true" width = 252>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_quality_parameter_light.png?raw=true" width = 252>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_quality_parameter.png?raw=true" width = 252>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Chaos_Comparison.md"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_chaos_parameter.png?raw=true" width = 252>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_chaos_parameter_light.png?raw=true" width = 252>
+    <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_chaos_parameter.png?raw=true" width = 252>
 </picture></a>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Chaos_Comparison.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_chaos_parameter.png?raw=true" width = 376>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_chaos_parameter_light.png?raw=true" width = 376>
-    <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_chaos_parameter.png?raw=true" width = 376>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/No_Parameter_Comparison.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_no_parameter.png?raw=true" width = 252>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_no_parameter_light.png?raw=true" width = 252>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_no_parameter.png?raw=true" width = 252>
 </picture></a>
-<br><br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Weight_Comparison.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_weight.png?raw=true" width = 252>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_weight_light.png?raw=true" width = 252>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_weight.png?raw=true" width = 252>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Algorithm_Comparison.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_algorithms.png?raw=true" width = 252>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_algorithms_light.png?raw=true" width = 252>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_algorithms.png?raw=true" width = 252>
+</picture></a>
+<br><!------------->
+<br><!------------->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/cross_analysis_pages.png?raw=true" width = 376>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/cross_analysis_pages_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/cross_analysis_pages.png?raw=true" width = 376>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters_light.png?raw=true" width = 758>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters.png?raw=true" width = 758>
+</picture>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Resolution_Comparison.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_resolutions.png?raw=true" width = 376>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_resolutions_light.png?raw=true" width = 376>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_resolutions.png?raw=true" width = 376>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Upscale_Comparison.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_upscaling.png?raw=true" width = 376>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_upscaling_light.png?raw=true" width = 376>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_image_upscaling.png?raw=true" width = 376>
+</picture></a>
+<br><!------------->
+<br><!------------->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/cross_analysis_pages.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/cross_analysis_pages_light.png?raw=true" width = 758>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/cross_analysis_pages.png?raw=true" width = 758>
 </picture>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Quality_Cross_Analysis.md"><picture>
@@ -217,6 +184,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_quality_resolution_cross_analysis_light.png?raw=true" width = 376>
   <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_quality_resolution_cross_analysis.png?raw=true" width = 376>
 </picture></a>
+<br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Chaos_Stylize_Cross_Analysis.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_chaos_stylize_cross_analysis.png?raw=true" width = 376>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_chaos_stylize_cross_analysis_light.png?raw=true" width = 376>
@@ -228,9 +196,6 @@
   <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_chaos_quality_cross_analysis.png?raw=true" width = 376>
 </picture></a>
 <br>
-</tr></td>
-</table>
-
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/V1_vs_V2_vs_V3.md"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3.png?raw=true" width = 758>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3_light.png?raw=true" width = 758>
