@@ -15,35 +15,35 @@
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Sponsors.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_sponsors.png?raw=true" width = 376>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_sponsors_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_sponsors.png?raw=true" width = 376>
+  <img alt="⭐ Sponsors" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_sponsors.png?raw=true" width = 376>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/Submitting-Ideas-and-Pull-Requests"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_pull_request.png?raw=true" width = 376>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_pull_request_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_pull_request.png?raw=true" width = 376>
+  <img alt="📥 Submitting Ideas and Pull Requests" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_pull_request.png?raw=true" width = 376>
 </picture></a>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Links.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_links.png?raw=true" width = 376>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_links_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_links.png?raw=true" width = 376>
+  <img alt="🔗 Links To Docs and Other Resources" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_links.png?raw=true" width = 376>
 </picture></a>
 <a href="https://discord.com/channels/662267976984297473/995554362686439526"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_discord_thread.png?raw=true" width = 376>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_discord_thread_light.png?raw=true" width = 376>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_discord_thread.png?raw=true" width = 376>
+  <img alt="💬 Our Discord Thread" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_discord_thread.png?raw=true" width = 376>
 </picture></a>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Tutorial_Pages/How-To_Guide.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 758>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide_light.png?raw=true" width = 758>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 758>
+  <img alt="❔ How-To Guide" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 758>
 </picture></a>
 <br>
 <h5><details><summary><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 758>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image_light.png?raw=true" width = 758>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 758>
+  <img alt="⚪ Control and Image Seed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 758>
 </picture></summary><p><div align="center">
 <table>
 	<tr align=center valign=middle>
@@ -91,23 +91,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing.png?raw=true" width = 758>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing_light.png?raw=true" width = 758>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing.png?raw=true" width = 758>
+  <img alt="✍ Prompt Writing" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_writing.png?raw=true" width = 758>
 </picture>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Format_Comparison.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting.png?raw=true" width = 252>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting_light.png?raw=true" width = 252>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting.png?raw=true" width = 252>
+  <img alt="⌨ Prompt Format Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_prompt_formatting.png?raw=true" width = 252>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Text_In_Image_Comparison.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image.png?raw=true" width = 252>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image_light.png?raw=true" width = 252>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image.png?raw=true" width = 252>
+  <img alt="🔠 Text In Image Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_text_in_image.png?raw=true" width = 252>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Keyword_Weight_Comparison.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight.png?raw=true" width = 252>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight_light.png?raw=true" width = 252>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight.png?raw=true" width = 252>
+  <img alt="⚖ Keyword Weight Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_keyword_weight.png?raw=true" width = 252>
 </picture></a>
 <br><!------------->
 <br><!------------->
@@ -151,9 +151,9 @@
 <br><!------------->
 <br><!------------->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters.png?raw=true" width = 758>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters_light.png?raw=true" width = 758>
-  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/prompt_parameters.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/image_resolution_and_upscaling.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/image_resolution_and_upscaling_light.png?raw=true" width = 758>
+  <img alt="" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/comparison_page_category_labels/image_resolution_and_upscaling.png?raw=true" width = 758>
 </picture>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Resolution_Comparison.md"><picture>
