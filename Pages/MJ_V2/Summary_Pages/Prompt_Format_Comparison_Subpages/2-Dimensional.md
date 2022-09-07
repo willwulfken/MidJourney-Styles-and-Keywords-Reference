@@ -54,7 +54,7 @@
 			<p><code>sphere - 2-Dimensional</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_2-Dimensional.png?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere(2-Dimensional)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(2-Dimensional).png?raw=true" width="256" /></p>
+			<p><code>sphere(2-Dimensional)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(2-dimensional).png?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<p><code>sphere in the style of 2-Dimensional</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_2-Dimensional.png?raw=true" width="256" /></p>
