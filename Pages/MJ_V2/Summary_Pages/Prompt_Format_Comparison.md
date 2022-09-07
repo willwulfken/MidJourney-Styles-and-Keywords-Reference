@@ -1203,10 +1203,10 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Aqua.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_aqua.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Aqua.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_aqua.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_Aqua.png?raw=true" width="256" />
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/Aqua_of_a_sphere.png?raw=true" width="256" />
@@ -1444,7 +1444,7 @@
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-PaintingByAlexGrey.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_alexGrey.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_AlexGrey.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
