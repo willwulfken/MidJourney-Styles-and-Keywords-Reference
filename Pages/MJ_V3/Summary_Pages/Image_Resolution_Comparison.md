@@ -13,7 +13,7 @@
 <hr>
 <br>
 
-- <details><summary><b>📏 Preset Resolutions</summary><p><div align="center">
+- <details><summary><b>📏 Preset Resolutions</summary></b><p><div align="center">
 
 	<table>
 		<tr>
@@ -50,7 +50,7 @@
 
 
 
-- <details><summary><b>🔳 Aspect Ratio Resolutions (--ar)</summary><p><div align="center">
+- <details><summary><b>🔳 Aspect Ratio Resolutions (--ar)</b></summary><p><div align="center">
 
 	<table>
 		<tr align=center valign=middle>
@@ -117,7 +117,7 @@
 
 
 
-- <details><summary><b>📐 Square Resolutions (--w --h)</summary><p><div align="center">
+- <details><summary><b>📐 Square Resolutions (--w --h)</b></summary><p><div align="center">
 
 	<table>
 		<tr align=center valign=middle>
@@ -159,10 +159,6 @@
 		<tr align=center valign=middle>
 			<td width="150">896x896 (--hd)</td>
 			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Image_Resolution_Comparison/sphere_wh896_hd.png?raw=true" width="896" /></td>
-		</tr>
-		<tr align=center valign=middle>
-			<td width="150">1280x1280 (--hd)</td>
-			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Image_Resolution_Comparison/sphere_wh1280_hd.png?raw=true" width="1280" /></td>
 		</tr>
 	</table>
 

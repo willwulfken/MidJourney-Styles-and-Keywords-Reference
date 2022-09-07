@@ -13,7 +13,7 @@
 <hr>
 <br>
 
-- <details><summary><b>📏 Preset Resolutions</summary><p><div align="center">
+- <details><summary><b>📏 Preset Resolutions</b></summary><p><div align="center">
 
 	<table>
 		<tr>
@@ -50,7 +50,7 @@
 
 
 
-- <details><summary><b>🔳 Aspect Ratio Resolutions (--ar)</summary><p><div align="center">
+- <details><summary><b>🔳 Aspect Ratio Resolutions (--ar)</b></summary><p><div align="center">
 
 	<table>
 		<tr align=center valign=middle>
@@ -117,7 +117,7 @@
 
 
 
-- <details><summary><b>📐 Square Resolutions (--w --h)</summary><p><div align="center">
+- <details><summary><b>📐 Square Resolutions (--w --h)</b></summary><p><div align="center">
 
 	<table>
 		<tr align=center valign=middle>
