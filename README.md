@@ -111,9 +111,14 @@
 </picture></a>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Adjective_Comparison.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_adjective_comparison.png?raw=true" width = 758>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_adjective_comparison_light.png?raw=true" width = 758>
-    <img alt="🦚 Adjective Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_adjective_comparison.png?raw=true" width = 758>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_adjective_comparison.png?raw=true" width = 376>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_adjective_comparison_light.png?raw=true" width = 376>
+    <img alt="🦚 Adjective Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_adjective_comparison.png?raw=true" width = 376>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Word_Suffix_Comparison.md"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_word_suffix_comparison.png?raw=true" width = 376>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_word_suffix_comparison_light.png?raw=true" width = 376>
+    <img alt="📓 Word Suffix Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_word_suffix_comparison.png?raw=true" width = 376>
 </picture></a>
 <br><!------------->
 <br><!------------->
