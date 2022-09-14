@@ -1,4 +1,4 @@
-<h2>⌨ Prompt Format Comparison Summary</h2>
+<h2>⌨ Prompt Format Comparison</h2>
 <h4>Marker Art</h4>
 
 <hr><!--------------->
