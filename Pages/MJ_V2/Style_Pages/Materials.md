@@ -591,7 +591,7 @@
 	</p></details>
 
 
-  - <details><summary>🧱👚 Cloth</summary><p><div align="center">
+  - <details><summary>🧱🧶 Cloth</summary><p><div align="center">
 
 	| Cloth | Cotton | Polyester |
 	| :-: | :-: | :-: |
