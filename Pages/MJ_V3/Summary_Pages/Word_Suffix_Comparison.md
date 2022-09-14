@@ -1,4 +1,4 @@
-<h2>*️⃣ Word Suffix Comparison</h2>
+<h2>📓 Word Suffix Comparison</h2>
 
 <hr><!--------------->
 
