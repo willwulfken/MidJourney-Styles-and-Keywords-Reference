@@ -302,7 +302,7 @@
 
 - <details><summary>💠➰ Topology and Structural Modification</summary><p>
 
-  - <details><summary>💠➰ Spirals</summary><p><div align="center">
+  - <details><summary>💠➰ Spirals, Loops, and Helixes</summary><p><div align="center">
 
 	| Whirl | Spiraling | Spiral |
 	| :-: | :-: | :-: |
