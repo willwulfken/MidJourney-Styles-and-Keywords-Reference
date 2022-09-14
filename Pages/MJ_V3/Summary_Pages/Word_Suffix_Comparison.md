@@ -2,6 +2,8 @@
 
 <hr><!--------------->
 
+<div align="center">
+
 <table>
     <tr align=center valign=middle>
         <td width=150 rowspan=2>sphere, Ray Traced</td>
@@ -143,6 +145,8 @@
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Polygonality.png?raw=true" width="256" /><p><code>Polygonality</code></p></td>
     </tr>
 </table>
+
+</div>
 
 <br>
 
