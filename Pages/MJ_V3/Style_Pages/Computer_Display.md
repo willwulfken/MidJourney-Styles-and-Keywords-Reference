@@ -133,15 +133,6 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Computer_Display/sphere_16-bit.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Computer_Display/sphere_16-bit_RGB.png?raw=true" width="256" /> |
 
 	</p></details>
-
-
-- <details><summary>🖥 Other</summary><p><div align="center">
-
-	| AR | VR |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Computer_Display/sphere_AR.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Computer_Display/sphere_VR.png?raw=true" width="256" /> | 
-
-	</p></details>
 	
 <hr><!--------------->
 <div align="center">
