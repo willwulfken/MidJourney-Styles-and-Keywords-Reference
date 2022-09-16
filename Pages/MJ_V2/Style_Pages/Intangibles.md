@@ -336,13 +336,13 @@
 
 - <details><summary>➰🔣 Unicode Symbols</summary><p><div align="center">
 
-	| ,<p><div align="center"><i><h6>Comma</a></h6></i></p> | '<p><div align="center"><i><h6>Apostrophe</a></h6></i></p> |
+	| ,<p><div align="center"><i><h6>Comma</a></h6></i></p> | &#x27;<p><div align="center"><i><h6>Apostrophe</a></h6></i></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Unicode_Symbols/Comma.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Unicode_Symbols/Apostrophe.png?raw=true" width="256" /> |
 
 	<br>
 
-	| "<p><div align="center"><i><h6>Quotation Mark</a></h6></i></p> | „<p><div align="center"><i><h6>Double Low-9 Quotation Mark</a></h6></i></p> |
+	| &#x22;<p><div align="center"><i><h6>Quotation Mark</a></h6></i></p> | „<p><div align="center"><i><h6>Double Low-9 Quotation Mark</a></h6></i></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Unicode_Symbols/QuotationMark.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Unicode_Symbols/DoubleLow-9QuotationMark.png?raw=true" width="256" /> |
 
