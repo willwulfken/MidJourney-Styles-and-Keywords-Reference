@@ -1159,10 +1159,11 @@
     | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Pilgrim.png?raw=true" width="256" /> |
 
-    | John Cena |
-    | :-: |
-    ||
-
+	<table>
+		<tr><th>John Cena</th><tr>
+		<tr height=256><td width=256></td></tr>
+	</table>
+	
 	</p></details>
 
 
