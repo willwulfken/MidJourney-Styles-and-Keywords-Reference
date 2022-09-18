@@ -65,7 +65,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Spirangle.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>💠🧊 3D Shapes</summary><p><div align="center">
@@ -158,7 +158,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Mobius_Strip.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Hexaflexagon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Miura_Fold.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>💠🔲 4D Hyper Shapes</summary><p><div align="center">
@@ -197,7 +197,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Hyperdodecahedron.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Hypericosahedron.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Flexible_Polyhedron.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>💠〰 Degenerate Shapes</summary><p><div align="center">
@@ -206,7 +206,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Monogon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Digon.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>💠⏹ Geometric Styles</summary><p><div align="center">
@@ -233,7 +233,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Platonic_Solids.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Archimedean_Solids.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Catalan_Solids.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>💠⏺ Geometric Properties</summary><p><div align="center">
@@ -294,7 +294,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Polytope.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -350,7 +350,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Twisted.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -384,7 +384,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Serpentine.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -402,7 +402,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Circinate.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Orbicular.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Oblique.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -412,7 +412,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Topology.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Topological.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -448,7 +448,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Hollow.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Enbowed.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 <hr><!--------------->
 <div align="center">

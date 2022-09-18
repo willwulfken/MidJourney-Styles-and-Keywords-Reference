@@ -213,7 +213,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Glowing_Radioactivity.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Nuclear_Waste.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Glowing_Nuclear_Waste.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 - <details><summary>💡📺 Types of Displays</summary><p><div align="center">
@@ -252,7 +252,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Jumbotron.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 - <details><summary>💡🔦 Lighting Styles and Techniques</summary><p><div align="center">
@@ -291,7 +291,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Laser_Light_Show.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Lighting/sphere_Light_Pollution.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 - <details><summary>💡🌐 Global Illumination</summary><p><div align="center">
@@ -306,7 +306,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Lighting/sphere_Ray_Tracing_Global_Illumination.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 - <details><summary>💡⚫ Shadows</summary><p><div align="center">
@@ -315,7 +315,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Lighting/sphere_Shadows.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Ray_Traced_Shadows.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 <hr><!--------------->
 <div align="center">

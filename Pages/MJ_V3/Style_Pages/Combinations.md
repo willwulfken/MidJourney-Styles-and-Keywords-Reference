@@ -92,7 +92,7 @@
 | :-: |
 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Combinations/sphere_Synesthesia_Otherworldly_Mystical.png?raw=true" width="256" /> |
 
-</p></div>
+</div></p>
 
 <hr><!--------------->
 <div align="center">

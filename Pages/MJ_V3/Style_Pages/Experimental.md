@@ -26,7 +26,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Experimental/Made_Up_Artists/sphere_Art_by_Rickolas_Veneyfield.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Experimental/Made_Up_Artists/sphere_Art_by_Gandelif_Jamarison.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 
@@ -60,7 +60,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Origummy.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 
@@ -70,7 +70,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Experimental/Made_Up_Words/sphere_Supercalifragilisticexpialidocious.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Experimental/Made_Up_Words/sphere_Fiddlededee.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 
@@ -80,7 +80,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Experimental/Chaos_Prompts/sphere_qwje90qhj329r.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 <hr><!--------------->

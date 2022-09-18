@@ -38,7 +38,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Vilhelm_Hammershoi.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔❇ Surrealism</summary><p><div align="center">
@@ -59,7 +59,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_By_Jim_Burns.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_by_Vincent_Di_Fate.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
   
 
 - <details><summary>📔🔆 Idealism</summary><p><div align="center">
@@ -68,7 +68,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Jean_Delville.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔💮 Abstract</summary><p><div align="center">
@@ -77,7 +77,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Wassily_Kandinsky.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Marcia_Santore.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🧬 Modernism</summary><p><div align="center">
@@ -98,7 +98,7 @@
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Amedeo_Modigliani.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_by_Henry_Moore.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔➿ Post-Impressionism</summary><p><div align="center">
@@ -107,7 +107,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Van_Gogh.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔⚜ Art Nouveau</summary><p><div align="center">
@@ -116,7 +116,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Wes_Anderson.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Alphonso_Mucha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Art_By_Gustav_Klimt.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🌄 Luminism</summary><p><div align="center">
@@ -125,7 +125,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Albert_Bierstadt.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Thomas_Kinkade.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🦋 Expressionism</summary><p><div align="center">
@@ -140,7 +140,7 @@
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Alyssa_Monks.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Alfred_Kubin.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🔳 Futurism</summary><p><div align="center">
@@ -149,7 +149,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_David_Alabo.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔⬛ Gothic</summary><p><div align="center">
@@ -164,7 +164,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Grant_Wood.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Albrecht_Durer.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔☯ Psychedelic</summary><p><div align="center">
@@ -173,7 +173,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Alex_Grey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Dan_Mumford.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🔴 Pop Art</summary><p><div align="center">
@@ -182,7 +182,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Andy_Worhol.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_David_Hockney.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🧿 Concept Art</summary><p><div align="center">
@@ -191,7 +191,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Marc_Simonetti.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Alan_Lee.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔❤ Romanticism</summary><p><div align="center">
@@ -200,7 +200,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_John_Constable.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔✡️ Renaissance</summary><p><div align="center">
@@ -215,7 +215,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Hieronymus_Bosch.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🌇 Vedute Painting Style</summary><p><div align="center">
@@ -224,7 +224,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Canaletto.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🏘 Baroque</summary><p><div align="center">
@@ -233,7 +233,7 @@
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Annibale_Carracci.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Anthony_Van_Dyck.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔👁‍🗨 Dadaism</summary><p><div align="center">
@@ -290,7 +290,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_Jean_Crotti.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Art_by_Sophie_Taeuber-Arp.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔👁‍🗨 Neo-Dadaism</summary><p><div align="center">
@@ -323,7 +323,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Art_by_Masunobu_Yoshimura.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🖼 Instagram Artist</summary><p><div align="center">
@@ -356,7 +356,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/Wave_10/landscape_Painting_By_Boris_Groh.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🖼 Artstation Artist</summary><p><div align="center">
@@ -377,7 +377,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/Wave_10/landscape_Painting_By_Ivan_Stan.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🈯 Manga</summary><p><div align="center">
@@ -404,7 +404,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/Wave_10/landscape_Art_by_Ilya_Kuvshinov.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>📔🗿 Non-Painters</summary><p>
@@ -415,7 +415,7 @@
         | :-: | :-: |
         | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Art_By_Alberto_Giacometti.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Art_By_Alexander_Milne_Calder.png?raw=true" width="256" /> |
 
-      </p></details>
+      </div></p></details>
 
     - <details><summary>📔📷 Photographers</summary><p><div align="center">
 
@@ -423,7 +423,7 @@
         | :-: |
         | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Art_By_Anne_Geddes.png?raw=true" width="256" /> |
 
-      </p></details>
+      </div></p></details>
 
     - <details><summary>📔✍ Writers</summary><p><div align="center">
 
@@ -431,7 +431,7 @@
         | :-: |
         | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Art_By_Anne_McCaffrey.png?raw=true" width="256" /> |
 
-      </p></details>
+      </div></p></details>
 
   </p></details>
 
@@ -478,7 +478,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painting_by_John_Howe.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_by_Squidward_Tentacles.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 <hr><!--------------->
 <div align="center">

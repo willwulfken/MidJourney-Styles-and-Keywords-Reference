@@ -80,7 +80,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/TV_and_Movies/Vinland_Saga.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -102,7 +102,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Adventure_Time.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -118,7 +118,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Saw.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 	
 <hr><!--------------->

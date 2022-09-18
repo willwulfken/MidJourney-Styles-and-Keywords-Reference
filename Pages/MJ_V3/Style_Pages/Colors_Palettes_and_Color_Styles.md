@@ -99,7 +99,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Color_Palettes/sphere_Light_Blue_Foreground.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>🎨🖌 Monochromatic Palettes</summary><p><div align="center">
@@ -120,7 +120,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Cyanopsia.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 - <details><summary>🎨🔲 Contrast</summary><p><div align="center">
@@ -129,7 +129,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Color_Palettes/sphere_High_Contrast.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Color_Palettes/sphere_Low_Contrast.png?raw=true" width="256" /> | 
 
-	</p></details>
+	</div></p></details>
 
 
 - <details><summary>🎨🎥 Color Motion Picture Film Systems</summary><p><div align="center">
@@ -144,7 +144,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Color_Palettes/sphere_Kodachrome.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Color_Palettes/sphere_Cinecolor.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Color_Palettes/sphere_Agfacolor.png?raw=true" width="256" /> | 
 
-	</p></details>
+	</div></p></details>
 
 
 <hr><!--------------->

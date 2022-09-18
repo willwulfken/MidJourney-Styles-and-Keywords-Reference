@@ -64,11 +64,11 @@
 
 <br>
 
-| <br>Sphube<p><div align="center"><i><h6>@TwoDukes</h6></i></p> |
+| <br>Sphube<p><div align="center"><i><h6>@TwoDukes</h6></i></div></p> |
 | :-: |
 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Miscellaneous/sphere_Sphube.png?raw=true" width="256" /> |
 
-</p></div>
+</div></p>
 
 <hr><!--------------->
 <div align="center">
