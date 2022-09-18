@@ -30,7 +30,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Saturated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Electric_Colors.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>🎨🖌 Monochromatic Palettes</summary><p><div align="center">
@@ -45,7 +45,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Desaturated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sepia.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 - <details><summary>🎨🎥 Color Motion Picture Film Systems</summary><p><div align="center">
@@ -54,7 +54,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Technicolor.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 <hr><!--------------->

@@ -45,7 +45,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wrapping_Paper.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   - <details><summary>🧱⛱ Soils</summary><p><div align="center">
 
@@ -65,7 +65,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sand.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱⛏ Stone and Minerals</summary><p><div align="center">
@@ -92,7 +92,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Brick.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱🔩 Metal</summary><p><div align="center">
@@ -163,7 +163,7 @@
 	
 	<br>
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱💎 Glass and Crystal</summary><p><div align="center">
@@ -220,7 +220,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topaz.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Agate.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱👚 Cloth</summary><p><div align="center">
@@ -247,7 +247,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spider_Web.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱🥤 Plastic and Foam</summary><p><div align="center">
@@ -268,7 +268,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Styrofoam.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱🧤 Rubber</summary><p><div align="center">
@@ -289,7 +289,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Silly_Band.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   - <details><summary>🧱🍮 Gelatinous and Spongy</summary><p><div align="center">
 
@@ -301,7 +301,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sponge.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   - <details><summary>🧱🕯 Wax</summary><p><div align="center">
 
@@ -309,7 +309,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wax.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱🧊 Ice and Snow</summary><p><div align="center">
@@ -324,7 +324,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Snow.png?raw=true" width="256" /> |
 	
-	</p></details>
+	</div></p></details>
 
   - <details><summary>🧱🐱 Hair and Fur</summary><p><div align="center">
 
@@ -338,7 +338,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Feathers.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱 Other Solids</summary><p><div align="center">
@@ -347,7 +347,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Amber.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Ivory.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -376,7 +376,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sea_Foam.png?raw=true" width="256" /> |
 	
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>🧱🧪 Non-Newtonian Fluids and Polymers</summary><p>
@@ -387,7 +387,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Slime.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flubber.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱🩹 Tape and Adhesives</summary><p><div align="center">
@@ -414,7 +414,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Epoxy.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱🧪 Other Non-Newtonian Fluids and Polymers</summary><p><div align="center">
@@ -423,7 +423,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Orbeez.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -444,7 +444,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Firework.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>🧱🎷 Food, Plants, and Objects</summary><p>
@@ -461,7 +461,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flowers.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱🍄 Fungi</summary><p><div align="center">
@@ -470,7 +470,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fungi.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mushrooms.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🧱🚽 Other Objects</summary><p><div align="center">
@@ -491,7 +491,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Teapot.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 

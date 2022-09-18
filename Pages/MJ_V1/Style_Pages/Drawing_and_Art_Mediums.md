@@ -51,7 +51,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Graphic_Novel.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🖌✏ Pencil and Graphite</summary><p><div align="center">
@@ -66,7 +66,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Colored_Pencil.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🖌🖊 Ink</summary><p><div align="center">
@@ -87,7 +87,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gel_Pen.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Marker_Art.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🖌🖍 Crayon, Chalk, and Pastel</summary><p><div align="center">
@@ -96,7 +96,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Crayon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Chalk.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pastel_Art.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -121,7 +121,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Paper-Marbling.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hydrodipped.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🖌🎨 Paint Types</summary><p><div align="center">
@@ -154,7 +154,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Airbrush.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -177,7 +177,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sticker.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 - <details><summary>🖌🎲 Physical Mediums</summary><p>
@@ -188,7 +188,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Origami.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🖌🀣 Mosaic</summary><p><div align="center">
@@ -197,7 +197,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mosaic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Micromosaic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glass_Mosaic.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   - <details><summary>🖌🖼 Framed, Banner, and Decal</summary><p><div align="center">
 
@@ -209,7 +209,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wall_Decal.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   - <details><summary>🖌🗿 Carving, Etching, and Modeling</summary><p><div align="center">
 
@@ -241,7 +241,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Carved_Lacquer.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🖌🏺 Pottery and Glass</summary><p><div align="center">
@@ -268,7 +268,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bone_China.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bone_Carving.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   - <details><summary>🖌🎲 Other Physical Mediums</summary><p><div align="center">
 
@@ -282,7 +282,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Tattoo.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 	
   </p></details>
 
@@ -293,7 +293,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glitter.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sparkly.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 	    
 <hr><!--------------->
 <div align="center">

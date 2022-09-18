@@ -68,7 +68,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Illusion.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -96,7 +96,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Futuristic.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -112,7 +112,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Magic.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -128,7 +128,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Galaxy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Outer_Space.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Universe.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -144,7 +144,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Autumn.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Winter.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   - <details><summary>🎭🎄 Holidays</summary><p><div align="center">
 
@@ -152,7 +152,7 @@
 	| :-: |	:-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Christmas.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Halloween.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🎭⛩ Styles</summary><p><div align="center">
@@ -185,7 +185,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Anime.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -261,7 +261,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Kawaii.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🎭 Other Themes</summary><p><div align="center">
@@ -270,7 +270,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Shpongle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_In_The_Style_of_Shpongle.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -309,7 +309,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flat.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flat_Design.png?raw=true" width="256" /> |
 	
-	</p></details>
+	</div></p></details>
 	
 	
 	
@@ -355,7 +355,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Diffraction_Patterns.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -365,7 +365,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cubism.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -381,7 +381,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Abstract_Expressionism.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -403,7 +403,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Tokyo.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -437,7 +437,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Perlin_Noise.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Simplex_Noise.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -495,7 +495,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Store-Brand.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lissajous.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fourier_Art.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -521,7 +521,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rendered_in_Houdini.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Houdini-Render.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details> <summary>🖥🖼 Digital Styles</summary><p><div align="center">
@@ -548,7 +548,7 @@
     | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Emulated.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
  
 
 
@@ -558,7 +558,7 @@
     | :-: | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Disney.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pixar.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dreamworks.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -574,7 +574,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Photoshop.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -602,7 +602,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Algorithmic_Art.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -624,7 +624,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gradient-Based_Error-Diffusion_Dithering.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -646,7 +646,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Art_on_Instagram.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🖥👩‍💻 Glitchy</summary><p><div align="center">
@@ -661,7 +661,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Databending.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🖥🧠 AI and Neural Networks</summary><p><div align="center">
@@ -680,7 +680,7 @@
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Generated_by_Midjourney.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Generated_by_Dall-e.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>🖥🕹 Video Game Styles</summary><p><div align="center">
@@ -701,7 +701,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Terraria.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 

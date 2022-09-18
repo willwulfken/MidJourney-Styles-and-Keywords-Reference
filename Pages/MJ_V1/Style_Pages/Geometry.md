@@ -45,7 +45,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Star.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Heart.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>💠🧊 3D Shapes</summary><p><div align="center">
@@ -66,7 +66,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pyramid.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>💠🔲 4D Hyper Shapes</summary><p><div align="center">
@@ -81,7 +81,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Klein_Bottle.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>💠⏹ Geometric Styles</summary><p><div align="center">
@@ -102,7 +102,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Polyhedron.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Polyhedral.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -122,7 +122,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Helix.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Double-Helix.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
   - <details><summary>💠⭕ Circular</summary><p><div align="center">
@@ -131,7 +131,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric_Circles.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
 
 
@@ -141,7 +141,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topology.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topological.png?raw=true" width="256" /> |
 
-	</p></details>
+	</div></p></details>
 
   </p></details>
 
@@ -153,7 +153,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Celtic_Knot.png?raw=true" width="256" /> |
 
-  </p></details>
+  </div></p></details>
 
 <hr><!--------------->
 <div align="center">
