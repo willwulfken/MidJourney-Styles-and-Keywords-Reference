@@ -21,6 +21,8 @@
 <p><a href="https://mj.aihub.gg/">Midjourney Wiki by Mxrcy</a></p>
 <p><a href="https://promptomania.com/prompt-builder/">PromptoMania by WSzP</a></p>
 <p><a href="https://www.thedreamingstate.com/portfolio/art/prompter/">Prompter by Shane McGeehan</a></p>
+<p><a href="https://mj.aihub.gg/">The Unofficial Midjourney Community Wiki by Mxrcy</a></p>
+<p><a href="https://wiki.artmechanicum.com/wiki/Main_Page">Art Mechanicum</a></p>
 </p>
 
 </div>
