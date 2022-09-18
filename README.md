@@ -41,9 +41,9 @@
 </picture></a>
 <br>
 <h5><details><summary><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 758>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image_light.png?raw=true" width = 758>
-  <img alt="⚪ Control and Image Seed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 746>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image_light.png?raw=true" width = 746>
+  <img alt="⚪ Control and Image Seed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 746>
 </picture></summary><p><div align="center">
 <table>
 	<tr align=center valign=middle>
