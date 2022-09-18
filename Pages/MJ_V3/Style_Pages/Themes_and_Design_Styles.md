@@ -25,6 +25,8 @@
 
 </div>
 
+<br>
+
 <hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
