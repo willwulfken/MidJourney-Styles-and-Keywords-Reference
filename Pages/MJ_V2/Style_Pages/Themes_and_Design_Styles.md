@@ -13,11 +13,23 @@
 
 <div align="center">
 
-<h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Subpages/Themes.md">🎭 Themes</a></h3>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Subpages/Themes.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Subcategories/button_subcategory_themes.png?raw=true" width = 249>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Subcategories/button_subcategory_themes_light.png?raw=true" width = 249>
+  <img alt="🎭 Themes" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Subcategories/button_subcategory_themes.png?raw=true" width = 249>
+</picture></a>
 
-<h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Subpages/Design_Styles.md">🖼 Design Styles</a></h3>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Subpages/Design_Styles.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Subcategories/button_subcategory_design_styles.png?raw=true" width = 249>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Subcategories/button_subcategory_design_styles_light.png?raw=true" width = 249>
+  <img alt="🖼 Design Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Subcategories/button_subcategory_design_styles.png?raw=true" width = 249>
+</picture></a>
 
-<h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Subpages/Digital.md">🖥 Digital</a></h3>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Subpages/Digital.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Subcategories/button_subcategory_digital.png?raw=true" width = 249>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Subcategories/button_subcategory_digital_light.png?raw=true" width = 249>
+  <img alt="🖥 Digital" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Subcategories/button_subcategory_digital.png?raw=true" width = 249>
+</picture></a>
 
 </div>
 
