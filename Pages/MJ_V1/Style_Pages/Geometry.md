@@ -109,9 +109,9 @@
 
 - <details><summary>💠⏹ Topology Styles</summary><p><div align="center">
 
-| Topology | Topological |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topology.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topological.png?raw=true" width="256" /> |
+	| Topology | Topological |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topology.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topological.png?raw=true" width="256" /> |
 
   </div></p></details>
 
