@@ -1,4 +1,4 @@
-<h2>♻ Geometry, Topology, and Structural Modification</h2>
+<h2>♻ Structural Modification</h2>
 
 <div align="center">
 

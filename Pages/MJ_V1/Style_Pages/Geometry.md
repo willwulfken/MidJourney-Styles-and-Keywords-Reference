@@ -1,4 +1,4 @@
-<h2>💠 Geometry, Topology, and Structural Modification</h2>
+<h2>💠 Geometry</h2>
 
 <div align="center">
 
@@ -13,9 +13,7 @@
 <br>
 
 
-- <details><summary>💠 Geometry</summary><p>
-
-  - <details><summary>💠⬜ 2D Shapes</summary><p><div align="center">
+- <details><summary>💠⬜ 2D Shapes</summary><p><div align="center">
 
 	| Dot |
 	| :-: |
@@ -45,10 +43,10 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Star.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Heart.png?raw=true" width="256" /> |
 
-	</div></p></details>
+  </div></p></details>
 
 
-  - <details><summary>💠🧊 3D Shapes</summary><p><div align="center">
+- <details><summary>💠🧊 3D Shapes</summary><p><div align="center">
 
 	| Cube | Cuboid |
 	| :-: | :-: |
@@ -66,10 +64,10 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pyramid.png?raw=true" width="256" /> |
 
-	</div></p></details>
+  </div></p></details>
 
 
-  - <details><summary>💠🔲 4D Hyper Shapes</summary><p><div align="center">
+- <details><summary>💠🔲 4D Hyper Shapes</summary><p><div align="center">
 
 	| Hypercube | Tesseract |
 	| :-: | :-: |
@@ -81,10 +79,10 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Klein_Bottle.png?raw=true" width="256" /> |
 
-	</div></p></details>
+  </div></p></details>
 
 
-  - <details><summary>💠⏹ Geometric Styles</summary><p><div align="center">
+- <details><summary>💠⏹ Geometric Styles</summary><p><div align="center">
 
 	| Geometric |
 	| :-: |
@@ -102,9 +100,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Polyhedron.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Polyhedral.png?raw=true" width="256" /> |
 
-	</div></p></details>
-
-  </p></details>
+  </div></p></details>
 
 
 - <details><summary>💠⏹ Topology Styles</summary><p><div align="center">
