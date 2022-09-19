@@ -1,4 +1,4 @@
-<h2>🧱 Materials and Objects</h2>
+<h2>🧱 Materials</h2>
 
 <div align="center">
 
@@ -445,55 +445,6 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Firework.png?raw=true" width="256" /> |
 
   </div></p></details>
-
-
-- <details><summary>🧱🎷 Food, Plants, and Objects</summary><p>
-
-  - <details><summary>🧱🌱 Plants</summary><p><div align="center">
-
-	| Plant | Grass |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plant.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Grass.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Flowers |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flowers.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🧱🍄 Fungi</summary><p><div align="center">
-
-	| Fungi | Mushrooms |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fungi.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mushrooms.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🧱🚽 Other Objects</summary><p><div align="center">
-
-	| Seashell | Toilet | Tornado |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seashell.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Toilet.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Tornado.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Rubik's Cube |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rubiks_Cube.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Teapot<p><div align="center"><i><h6>@bob</h6></i></p> |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Teapot.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-  </p></details>
 
 
 <hr><!--------------->

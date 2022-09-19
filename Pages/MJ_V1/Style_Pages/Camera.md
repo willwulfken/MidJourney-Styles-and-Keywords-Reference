@@ -1,4 +1,4 @@
-<h2>📷 Camera, Film Types, Lenses, and Perspective</h2>
+<h2>📷 Camera, Film, Lenses, and Perspective</h2>
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 	</div></p></details>
 
 
-- <details><summary>📷🛤️ Perspective</summary><p><div align="center">
+- <details><summary>📷🔎 Depth of Field, Zoom, Pan, and Tilt</summary><p><div align="center">
 	
 	| Depth of Field | DOF |
 	| :-: | :-: |

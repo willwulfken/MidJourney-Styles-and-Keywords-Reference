@@ -1,4 +1,4 @@
-<h2>🌈 SFX, Post-Processing, and Shaders</h2>
+<h2>🌈 SFX and Shaders</h2>
 
 <div align="center">
 

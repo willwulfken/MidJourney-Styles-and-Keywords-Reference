@@ -107,53 +107,14 @@
   </p></details>
 
 
+- <details><summary>💠⏹ Topology Styles</summary><p><div align="center">
 
-- <details><summary>💠➰ Topology and Structural Modification</summary><p>
-
-  - <details><summary>💠➰ Spirals</summary><p><div align="center">
-
-	| Whirl | Spiraling | Spiral |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Whirl.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spiraling.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spiral.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Helix | Double-Helix |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Helix.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Double-Helix.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>💠⭕ Circular</summary><p><div align="center">
-
-	| Concentric | Concentric Circles |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric_Circles.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-
-  - <details><summary>💠⏹ Topology Styles</summary><p><div align="center">
-
-	| Topology | Topological |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topology.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topological.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-  </p></details>
-
-
-
-- <details><summary>💠 Other</summary><p><div align="center">
-
-	| Celtic Knot |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Celtic_Knot.png?raw=true" width="256" /> |
+| Topology | Topological |
+| :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topology.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Topological.png?raw=true" width="256" /> |
 
   </div></p></details>
+
 
 <hr><!--------------->
 <div align="center">
