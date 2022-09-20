@@ -39,8 +39,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide_light.png?raw=true" width = 758>
   <img alt="❔ How-To Guide" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 758>
 </picture></a>
-<br>
-<h5><details><summary><picture>
+<details><summary><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 746>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image_light.png?raw=true" width = 746>
   <img alt="⚪ Control and Image Seed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 746>
@@ -59,7 +58,7 @@
 	</tr>
   <tr align=center valign=middle>
     <td colspan=3>
-      <details><summary>Landscape</summary>
+      <p><details><summary>Landscape</summary><p>
         <table>
           <tr align=center valign=middle>
             <td>
@@ -70,11 +69,11 @@
             </td>
           </tr>
         </table>
-      </p></details>
+      </p></details></p>
     </td>
   </tr>
 </table>
-</p></details></h5>
+</p></details>
 
 </div>
 
