@@ -165,9 +165,14 @@
 </picture></a>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Seed_Parameter.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_seed_parameter.png?raw=true" width = 758>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_seed_parameter_light.png?raw=true" width = 758>
-  <img alt="🌱 Seed and Sameseed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_seed_parameters.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_seed_parameter.png?raw=true" width = 377>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_seed_parameter_light.png?raw=true" width = 377>
+  <img alt="🌱 Seed and Sameseed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_seed_parameter.png?raw=true" width = 377>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Tile_Parameter.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_tile__parameter.png?raw=true" width = 377>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_tile_parameter_light.png?raw=true" width = 377>
+  <img alt="🔲 --tile Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_tile_parameter.png?raw=true" width = 377>
 </picture></a>
 <br><!------------->
 <br><!------------->
