@@ -35,9 +35,14 @@
 </picture></a>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Tutorial_Pages/How-To_Guide.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 758>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide_light.png?raw=true" width = 758>
-  <img alt="❔ How-To Guide" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 377>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide_light.png?raw=true" width = 377>
+  <img alt="❔ How-To Guide" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 377>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%F0%9F%93%9D-Observation-and-Research-Notes"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_observation_and_research_notes.png?raw=true" width = 377>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_observation_and_research_notes_light.png?raw=true" width = 377>
+  <img alt="📝 Observation and Research Notes" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_observation_and_research_notes.png?raw=true" width = 377>
 </picture></a>
 <details><summary><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_control_image.png?raw=true" width = 746>
