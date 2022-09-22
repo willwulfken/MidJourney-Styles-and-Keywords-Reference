@@ -34,7 +34,7 @@
   <img alt="💬 Our Discord Thread" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_discord_thread.png?raw=true" width = 377>
 </picture></a>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Tutorial_Pages/How-To_Guide.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%E2%9D%94-How-To-Guide"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 377>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide_light.png?raw=true" width = 377>
   <img alt="❔ How-To Guide" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/top_section/button_how-to_guide.png?raw=true" width = 377>
