@@ -1,7 +1,5 @@
 <h2>⭐ Sponsors</h2>
 
-<br>
-
 <div align=center>
 
 <h3>Thank you to all of my sponsors! Thank you for your support!</h3>
