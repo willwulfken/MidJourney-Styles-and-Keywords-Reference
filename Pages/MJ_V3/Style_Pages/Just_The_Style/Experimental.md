@@ -14,7 +14,7 @@
 <br>
 
 
-- <details><summary>📔 Made up Artists</summary><p><div align="center">
+- <details><summary>📔 Made-up Artists</summary><p><div align="center">
 
 	| Painted by Vincent Bob Gray | Painted by Redrick J Hubedrin | Painted by Leandrew Bengolstein |
 	| :-: | :-: | :-: |
@@ -30,7 +30,7 @@
 
 
 
-- <details><summary>🔤 Made up Words</summary><p><div align="center">
+- <details><summary>🔤 Made-up Words</summary><p><div align="center">
 
 	| Flash-Traced | Glimmer-Traced | Halometric Patterns |
 	| :-: | :-: | :-: |
@@ -64,7 +64,7 @@
 
 
 
-- <details><summary>📓 Known Made up Words</summary><p><div align="center">
+- <details><summary>📓 Known Made-up Words</summary><p><div align="center">
 
 	| Supercalifragilisticexpialidocious | Fiddlededee |
 	| :-: | :-: |

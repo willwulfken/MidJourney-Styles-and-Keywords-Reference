@@ -372,9 +372,9 @@
 
       - <p><details><summary><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Experimental.md">🧪 Experimental</a></summary><p>
       
-        - <p>📔 Made up Artists</p>
-        - <p>🔤 Made up Words</p>
-        - <p>📓 Known Made up Words</p>
+        - <p>📔 Made-up Artists</p>
+        - <p>🔤 Made-up Words</p>
+        - <p>📓 Known Made-up Words</p>
         - <p>🔣 Chaos Prompts</p>
       
         </p></details></p>
