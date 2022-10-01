@@ -129,6 +129,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_diacritic_mark_comparison_light.png?raw=true" width = 249>
     <img alt="🗣 Diacritic Mark Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_diacritic_mark_comparison.png?raw=true" width = 249>
 </picture></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Hybrid_Comparison.md"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_style_hybrid_comparison.png?raw=true" width = 249>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_style_hybrid_comparison_light.png?raw=true" width = 249>
+    <img alt="🔰 Style Hybrid Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Main_Page/comparison_pages/button_style_hybrid_comparison.png?raw=true" width = 249>
+</picture></a>
 <br><!------------->
 <br><!------------->
 <picture>
