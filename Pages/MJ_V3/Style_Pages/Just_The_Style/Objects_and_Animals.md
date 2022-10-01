@@ -539,6 +539,15 @@
   </div></p></details>
 
 
+- <details><summary>🎷🪀 Toys</summary><p><div align="center">
+
+	| Toy |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Toy.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
 - <details><summary>🎷👚 Clothing</summary><p><div align="center">
 
 	| Uniform | Outfit | Wearable |
@@ -563,6 +572,12 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Dress.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Dressed.png?raw=true" width="256" /> |
 
+	<br>
+
+	| Shoe | Shoes | Hat |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Shoe.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Shoes.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Hat.png?raw=true" width="256" /> |
+	
 	<br>
 
 	| Glasses | Wearing Glasses |
