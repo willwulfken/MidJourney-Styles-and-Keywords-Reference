@@ -22,9 +22,9 @@
 
 <br>
 
-| hata (prompts.page) | LuxuryCardStore |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/hata.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/LuxuryCardStore.png?raw=true" width="192" /> |
+| hata (prompts.page) | LuxuryCardStore | DaveConrey.eth |
+| :-: | :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/hata.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/LuxuryCardStore.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/DaveConrey.eth.png?raw=true" width="192" /> |
 
 | john.l.stevenson | Magda | 3rdEyeGreen |
 | :-: | :-: | :-: |
