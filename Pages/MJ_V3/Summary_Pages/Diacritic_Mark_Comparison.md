@@ -5,53 +5,266 @@
 
 <div align="center">
 
-| Cauliflower |
-| :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Cauliflower.png?raw=true" width="256" /> |
+<table>
+    <tr align="center" valign="middle">
+        <th>Cauliflower</th>
+    </tr>
+    <tr align="center" valign="middle">
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Cauliflower.png?raw=true" width="256" /></td>
+    </tr>
+<table>
 
-<br><br>
+<br><br><br>
 
-| Diacritic | a | e | i | o | u |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| Circumflex | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_a.png?raw=true" width="256" /><p><code>Câuliflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_e.png?raw=true" width="256" /><p><code>Cauliflowêr</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_i.png?raw=true" width="256" /><p><code>Caulîflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_o.png?raw=true" width="256" /><p><code>Cauliflôwer</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_u.png?raw=true" width="256" /><p><code>Caûliflower</code></p> |
-| Macron | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_a.png?raw=true" width="256" /><p><code>Cāuliflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_e.png?raw=true" width="256" /><p><code>Cauliflowēr</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_i.png?raw=true" width="256" /><p><code>Caulīflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_o.png?raw=true" width="256" /><p><code>Cauliflōwer</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_u.png?raw=true" width="256" /><p><code>Caūliflower</code></p> |
-| Ogonek | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Ogonek_a.png?raw=true" width="256" /><p><code>Cąuliflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Ogonek_e.png?raw=true" width="256" /><p><code>Cauliflowęr</code></p> | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Ogonek_u.png?raw=true" width="256" /><p><code>Caųliflower</code></p> |
-| Acute | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_a.png?raw=true" width="256" /><p><code>Cáuliflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_e.png?raw=true" width="256" /><p><code>Cauliflowér</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_i.png?raw=true" width="256" /><p><code>Caulíflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_o.png?raw=true" width="256" /><p><code>Cauliflówer</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_u.png?raw=true" width="256" /><p><code>Caúliflower</code></p> |
-| Grave | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_a.png?raw=true" width="256" /><p><code>Càuliflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_e.png?raw=true" width="256" /><p><code>Cauliflowèr</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_i.png?raw=true" width="256" /><p><code>Caulìflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_o.png?raw=true" width="256" /><p><code>Cauliflòwer</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_u.png?raw=true" width="256" /><p><code>Caùliflower</code></p> |
-| Double Acute | - | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Double_Acute_o.png?raw=true" width="256" /><p><code>Cauliflőwer</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Double_Acute_u.png?raw=true" width="256" /><p><code>Caűliflower</code></p> |
-| Umlaut | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_a.png?raw=true" width="256" /><p><code>Cäuliflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_e.png?raw=true" width="256" /><p><code>Cauliflowër</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_i.png?raw=true" width="256" /><p><code>Caulïflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_o.png?raw=true" width="256" /><p><code>Cauliflöwer</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_u.png?raw=true" width="256" /><p><code>Caüliflower</code></p> |
-| Tilde | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Tilde_a.png?raw=true" width="256" /><p><code>Cãuliflower</code></p> | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Tilde_i.png?raw=true" width="256" /><p><code>Caulĩflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Tilde_o.png?raw=true" width="256" /><p><code>Cauliflõwer</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Tilde_u.png?raw=true" width="256" /><p><code>Caũliflower</code></p> |
-| Breve | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_a.png?raw=true" width="256" /><p><code>Căuliflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_e.png?raw=true" width="256" /><p><code>Cauliflowĕr</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_i.png?raw=true" width="256" /><p><code>Caulĭflower</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_o.png?raw=true" width="256" /><p><code>Cauliflŏwer</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_u.png?raw=true" width="256" /><p><code>Caŭliflower</code></p> |
-| Overring | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Overring_a.png?raw=true" width="256" /><p><code>Cåuliflower</code></p> | - | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Overring_u.png?raw=true" width="256" /><p><code>Caůliflower</code></p> |
-| Caron | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Caron_e.png?raw=true" width="256" /><p><code>Cauliflowěr</code></p> | - | - | - |
+<table>
+    <tr align="center" valign="middle">
+        <th>Diacritic</th>
+        <th>a</th>
+        <th>e</th>
+        <th>i</th>
+        <th>o</th>
+        <th>u</th>
+    </tr>
+	<tr align="center" valign="middle">
+		<th>Circumflex</th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_a.png?raw=true" width="256" /><p><code>Câuliflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_e.png?raw=true" width="256" /><p><code>Cauliflowêr</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_i.png?raw=true" width="256" /><p><code>Caulîflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_o.png?raw=true" width="256" /><p><code>Cauliflôwer</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Circumflex_u.png?raw=true" width="256" /><p><code>Caûliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Macron</th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_a.png?raw=true" width="256" /><p><code>Cāuliflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_e.png?raw=true" width="256" /><p><code>Cauliflowēr</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_i.png?raw=true" width="256" /><p><code>Caulīflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_o.png?raw=true" width="256" /><p><code>Cauliflōwer</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Macron_u.png?raw=true" width="256" /><p><code>Caūliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Ogonek</th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Ogonek_a.png?raw=true" width="256" /><p><code>Cąuliflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Ogonek_e.png?raw=true" width="256" /><p><code>Cauliflowęr</code></p></td>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Ogonek_u.png?raw=true" width="256" /><p><code>Caųliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Acute</th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_a.png?raw=true" width="256" /><p><code>Cáuliflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_e.png?raw=true" width="256" /><p><code>Cauliflowér</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_i.png?raw=true" width="256" /><p><code>Caulíflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_o.png?raw=true" width="256" /><p><code>Cauliflówer</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Acute_u.png?raw=true" width="256" /><p><code>Caúliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Grave</th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_a.png?raw=true" width="256" /><p><code>Càuliflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_e.png?raw=true" width="256" /><p><code>Cauliflowèr</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_i.png?raw=true" width="256" /><p><code>Caulìflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_o.png?raw=true" width="256" /><p><code>Cauliflòwer</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Grave_u.png?raw=true" width="256" /><p><code>Caùliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Double Acute</th>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Double_Acute_o.png?raw=true" width="256" /><p><code>Cauliflőwer</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Double_Acute_u.png?raw=true" width="256" /><p><code>Caűliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Umlaut</th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_a.png?raw=true" width="256" /><p><code>Cäuliflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_e.png?raw=true" width="256" /><p><code>Cauliflowër</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_i.png?raw=true" width="256" /><p><code>Caulïflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_o.png?raw=true" width="256" /><p><code>Cauliflöwer</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Umlaut_u.png?raw=true" width="256" /><p><code>Caüliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Tilde</th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Tilde_a.png?raw=true" width="256" /><p><code>Cãuliflower</code></p></td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Tilde_i.png?raw=true" width="256" /><p><code>Caulĩflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Tilde_o.png?raw=true" width="256" /><p><code>Cauliflõwer</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Tilde_u.png?raw=true" width="256" /><p><code>Caũliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Breve</th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_a.png?raw=true" width="256" /><p><code>Căuliflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_e.png?raw=true" width="256" /><p><code>Cauliflowĕr</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_i.png?raw=true" width="256" /><p><code>Caulĭflower</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_o.png?raw=true" width="256" /><p><code>Cauliflŏwer</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Breve_u.png?raw=true" width="256" /><p><code>Caŭliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Overring</th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Overring_a.png?raw=true" width="256" /><p><code>Cåuliflower</code></p></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Overring_u.png?raw=true" width="256" /><p><code>Caůliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Caron</th>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Caron_e.png?raw=true" width="256" /><p><code>Cauliflowěr</code></p></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+</table>
 
-<br><br>
+<br><br><br>
 
-| Diacritic | a | e | i | o | u |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| Close Central Unrounded/Rounded | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Close_Central_Unrounded_i.png?raw=true" width="256" /><p><code>Caulɨflower</code></p> | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Close_Central_Rounded_u.png?raw=true" width="256" /><p><code>Caʉliflower</code></p> |
-| Close Mid Central Unrounded/Rounded | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Close_Mid_Central_Unrounded_e.png?raw=true" width="256" /><p><code>Cauliflowɘr</code></p> | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Close_Mid_Central_Rounded_o.png?raw=true" width="256" /><p><code>Cauliflɵwer</code></p> | - |
-| Near Close Near-Back Rounded | - | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Near_Close_Near-Back_Rounded_o.png?raw=true" width="256" /><p><code>Cauliflɷwer</code></p> | - |
-| Near Close Near-Front Unrounded | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Near_Close_Near-Front_Unrounded_i.png?raw=true" width="256" /><p><code>Caulɪflower</code></p> | - | - |
-<br><br>
+<table>
+    <tr align="center" valign="middle">
+        <th>Diacritic</th>
+        <th>a</th>
+        <th>e</th>
+        <th>i</th>
+        <th>o</th>
+        <th>u</th>
+    </tr>
+	<tr align="center" valign="middle">
+		<th>Close Central Unrounded/Rounded</th>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Close_Central_Unrounded_i.png?raw=true" width="256" /><p><code>Caulɨflower</code></p></td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Close_Central_Rounded_u.png?raw=true" width="256" /><p><code>Caʉliflower</code></p></td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Close Mid Central Unrounded/Rounded</th>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Close_Mid_Central_Unrounded_e.png?raw=true" width="256" /><p><code>Cauliflowɘr</code></p></td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Close_Mid_Central_Rounded_o.png?raw=true" width="256" /><p><code>Cauliflɵwer</code></p></td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Near Close Near-Back Rounded</th>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Near_Close_Near-Back_Rounded_o.png?raw=true" width="256" /><p><code>Cauliflɷwer</code></p></td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Near Close Near-Front Unrounded</th>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Near_Close_Near-Front_Unrounded_i.png?raw=true" width="256" /><p><code>Caulɪflower</code></p></td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+</table>
 
-| Diacritic | a | e | i | o | u |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| Mid Front Rounded | - | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Mid_Front_Rounded_o.png?raw=true" width="256" /><p><code>Caulifløwer</code></p> | - |
-| Open Mid Front Unrounded | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Open_Mid_Front_Unrounded_e.png?raw=true" width="256" /><p><code>Cauliflowɛr</code></p> | - | - | - |
-| Open Mid Central Rounded | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Open_Mid_Central_Rounded_e.png?raw=true" width="256" /><p><code>Cauliflowɞr</code></p> | - | - | - |
-| Open Mid Central Unrounded | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Open_Mid_Central_Unrounded_e.png?raw=true" width="256" /><p><code>Cauliflowɜr</code></p> | - | - | - |
+<br><br><br>
 
-<br><br>
+<table>
+    <tr align="center" valign="middle">
+        <th>Diacritic</th>
+        <th>a</th>
+        <th>e</th>
+        <th>i</th>
+        <th>o</th>
+        <th>u</th>
+    </tr>
+	<tr align="center" valign="middle">
+		<th>Mid Front Rounded</th>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Mid_Front_Rounded_o.png?raw=true" width="256" /><p><code>Caulifløwer</code></p></td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Open Mid Front Unrounded</th>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Open_Mid_Front_Unrounded_e.png?raw=true" width="256" /><p><code>Cauliflowɛr</code></p></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Open Mid Central Rounded</th>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Open_Mid_Central_Rounded_e.png?raw=true" width="256" /><p><code>Cauliflowɞr</code></p></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Open Mid Central Unrounded</th>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Open_Mid_Central_Unrounded_e.png?raw=true" width="256" /><p><code>Cauliflowɜr</code></p></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+</table>
 
-| Diacritic | a | e | i | o | u |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| Latin Small Letter Closed Open | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Latin_Small_Letter_Closed_Open_e.png?raw=true" width="256" /><p><code>Cauliflowʚr</code></p> | - | - | - |
-| Reversed Open With Hook | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Reversed_Open_With_Hook_e.png?raw=true" width="256" /><p><code>Cauliflowɝr</code></p> | - | - | - |
-| Rhotic | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Rhotic_e.png?raw=true" width="256" /><p><code>Cauliflowɚr</code></p> | - | - | - |
-| Schwa / Dotless I | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Schwa_e.png?raw=true" width="256" /><p><code>Cauliflowər</code></p> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Dotless_i.png?raw=true" width="256" /><p><code>Caulıflower</code></p> | - | - |
-| Voiceless Bilabial Fricative | - | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Voiceless_Bilabial_Fricative_o.png?raw=true" width="256" /><p><code>Cauliflɸwer</code></p> | - |
-| Voiced Labiodental Approximant | - | - | - | - | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Voiced_Labiodental_Approximant_u.png?raw=true" width="256" /><p><code>Caʋliflower</code></p> |
+<br><br><br>
+
+<table>
+    <tr align="center" valign="middle">
+        <th>Diacritic</th>
+        <th>a</th>
+        <th>e</th>
+        <th>i</th>
+        <th>o</th>
+        <th>u</th>
+    </tr>
+	<tr align="center" valign="middle">
+		<th>Latin Small Letter Closed Open</th>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Latin_Small_Letter_Closed_Open_e.png?raw=true" width="256" /><p><code>Cauliflowʚr</code></p></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Reversed Open With Hook</th>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Reversed_Open_With_Hook_e.png?raw=true" width="256" /><p><code>Cauliflowɝr</code></p></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Rhotic</th>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Rhotic_e.png?raw=true" width="256" /><p><code>Cauliflowɚr</code></p></td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Schwa / Dotless I</th>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Schwa_e.png?raw=true" width="256" /><p><code>Cauliflowər</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Dotless_i.png?raw=true" width="256" /><p><code>Caulıflower</code></p></td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Voiceless Bilabial Fricative</th>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Voiceless_Bilabial_Fricative_o.png?raw=true" width="256" /><p><code>Cauliflɸwer</code></p></td>
+		<td>-</td>
+	</tr>
+	<tr align="center" valign="middle">
+		<th>Voiced Labiodental Approximant</th>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Diacritic_Mark_Comparison/Voiced_Labiodental_Approximant_u.png?raw=true" width="256" /><p><code>Caʋliflower</code></p></td>
+	</tr>
+</table>
 
 </div>
 
