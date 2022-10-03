@@ -36,17 +36,20 @@
   </div></p></details>
 
 
+- <details><summary>🎷🪀 Toys</summary><p><div align="center">
+
+	| Rubik's Cube |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rubiks_Cube.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
 - <details><summary>🎷🚽 Other Objects</summary><p><div align="center">
 
 	| Seashell | Toilet | Tornado |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seashell.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Toilet.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Tornado.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Rubik's Cube |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rubiks_Cube.png?raw=true" width="256" /> |
 
 	<br>
 

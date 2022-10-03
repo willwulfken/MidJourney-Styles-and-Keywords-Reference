@@ -129,6 +129,24 @@
   </div></p></details>
 
 
+- <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
+
+	| Industrial Design |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Industrial_Design.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
+- <details><summary>🎭🌲 Nature</summary><p><div align="center">
+
+	| Environment |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Environment.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
 
 - <details><summary>🎭⛄ Seasons and Weather</summary><p><div align="center">
 
@@ -153,7 +171,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭⛩ Styles</summary><p><div align="center">
+- <details><summary>🎭🎵 Music Styles</summary><p><div align="center">
 
 	| Vaporwave | Synthwave | Chillwave |
 	| :-: | :-: | :-: |
@@ -161,30 +179,11 @@
 	
 	<br>
 	
-	| Pastelwave |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pastelwave.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Clowncore |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clowncore.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Cartoon | Marvel Comics |
+	| Shpongle | In The Style of Shpongle |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cartoon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Marvel_Comics.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Anime |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Anime.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Shpongle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_In_The_Style_of_Shpongle.png?raw=true" width="256" /> |
 
   </div></p></details>
-
 
 
 - <details><summary>🎭🎪 Punk Styles (Steampunk, Cyberpunk, etc.)</summary><p><div align="center">
@@ -262,15 +261,31 @@
   </div></p></details>
 
 
-- <details><summary>🎭 Other Themes</summary><p><div align="center">
+- <details><summary>🎭⛩ Other Themes</summary><p><div align="center">
 	
-	| Shpongle | In The Style of Shpongle |
+	| Pastelwave |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pastelwave.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Clowncore |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clowncore.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Cartoon | Marvel Comics |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Shpongle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_In_The_Style_of_Shpongle.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cartoon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Marvel_Comics.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Anime |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Anime.png?raw=true" width="256" /> |
 
   </div></p></details>
-
-
 
 
 <hr><!--------------->

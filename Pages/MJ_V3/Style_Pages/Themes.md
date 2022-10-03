@@ -1035,6 +1035,7 @@
 
   </div></p></details>
 
+
 - <details><summary>🎭⛄ Seasons and Weather</summary><p><div align="center">
 
 	| Seasons | Spring | Summer |

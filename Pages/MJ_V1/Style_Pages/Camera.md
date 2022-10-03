@@ -1,4 +1,4 @@
-<h2>📷 Camera, Film, Lenses, and Perspective</h2>
+<h2>📷 Camera, Film, and Lenses</h2>
 
 <div align="center">
 
