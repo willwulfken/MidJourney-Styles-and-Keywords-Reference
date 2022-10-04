@@ -56,6 +56,22 @@
 
 	</div></p></details>
 
+
+- <details><summary>🎨 Color Based Designs</summary><p><div align="center">
+
+	| Gradient | Vibrance |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gradient.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Vibrance.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Spectrum |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spectrum.png?raw=true" width="256" /> |
+
+  </p></details>
+
+
 - <details><summary>🎨🖌 Chromatic Palettes</summary><p><div align="center">
 
 	| Warm Color Palette | Cool Color Palette | Inverted Colors |
