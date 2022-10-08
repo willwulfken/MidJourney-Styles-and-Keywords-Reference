@@ -159,7 +159,7 @@
   </p></details>
 
 
-- <details><summary>🖌🖨 Art Types Printed</summary><p><div align="center">
+- <details><summary>🖌🖨 Printed Art Types</summary><p><div align="center">
 
 	| Logo |
 	| :-: |

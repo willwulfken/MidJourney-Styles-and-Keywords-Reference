@@ -187,7 +187,7 @@
             </p></details></p>
 
           - <p>🖌🔠 Text</p>
-          - <p>🖌🖨 Art Types Printed</p>
+          - <p>🖌🖨 Printed Art Types</p>
 
           - <p><details><summary>🖌🎲 Physical Mediums</summary><p>
 

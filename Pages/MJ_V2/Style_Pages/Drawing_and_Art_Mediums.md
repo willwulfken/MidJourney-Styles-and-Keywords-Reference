@@ -319,7 +319,7 @@
 	</div></p></details>
 
 
-- <details><summary>🖌🖨 Art Types Printed</summary><p><div align="center">
+- <details><summary>🖌🖨 Printed Art Types</summary><p><div align="center">
 
 	| Print | Printed | 3D Printed |
 	| :-: | :-: | :-: |
@@ -718,6 +718,7 @@
 
 	</div></p></details>
 
+
   - <details><summary>🖌🎲 Other Physical Mediums</summary><p><div align="center">
 
 	| Arts and Crafts | Resin | Enamel Pin |
@@ -729,7 +730,6 @@
 	| Beadwork | Beads and String | Beads and Yarn |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Beadwork.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Beads_and_String.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Beads_and_Yarn.png?raw=true" width="256" /> |
-
 
 	<br>
 
