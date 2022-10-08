@@ -62,6 +62,12 @@
 
 - <details><summary>🌌 Overdimensional, Multiverse, etc.</summary><p><div align="center">
 
+	| Dimensionality |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Dimensionality.png?raw=true" width="256" /> |
+	
+	<br>
+
 	| Overdimensional | Underdimensional | Hyperdimensional |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Dimensionality/sphere_Overdimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Dimensionality/sphere_Underdimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Dimensionality/sphere_Hyperdimensional.png?raw=true" width="256" /> | 

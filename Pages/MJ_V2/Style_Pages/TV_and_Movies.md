@@ -84,6 +84,12 @@
 
 - <details><summary>🎬📺 TV Shows</summary><p><div align="center">
 
+	| TV Show |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_TV_Show.png?raw=true" width="256" /> |
+	
+	<br>
+
 	| Teletubbies |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_Teletubbies.png?raw=true" width="256" /> |
@@ -105,6 +111,18 @@
 
 
 - <details><summary>🎬📽 Movies</summary><p><div align="center">
+
+	| Movie |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Movie.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Fantasia |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Fantasia.png?raw=true" width="256" /> |
+
+	<br>
 
 	| Tron | In The Style of Tron |
 	| :-: | :-: |

@@ -17,6 +17,11 @@
 
 - <details><summary>💠⬜ 2D Shapes</summary><p><div align="center">
 
+	| 2D Shape |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/2D_Shape.png?raw=true" width="256" /> |
+	
+	<br>
+
 	| Point | Dot |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Point.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Dot.png?raw=true" width="256" /> |
@@ -67,6 +72,12 @@
 
 
 - <details><summary>💠🧊 3D Shapes</summary><p><div align="center">
+
+	| 3D Shape | Orb |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/3D_Shape.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Orb.png?raw=true" width="256" /> |
+	
+	<br>
 
 	| Cube | Cuboid |
 	| :-: | :-: |
@@ -161,6 +172,12 @@
 
 - <details><summary>💠🔲 4D Hyper Shapes</summary><p><div align="center">
 
+	| 4D Shape | Hyper Shape | 4D Hyper Shape |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/4D_Shape.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Hyper_Shape.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/4D_Hyper_Shape.png?raw=true" width="256" /> |
+	
+	<br>
+
 	| Hyperplane | Hypersurface |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Hyperplane.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Hypersurface.png?raw=true" width="256" /> |
@@ -209,9 +226,9 @@
 
 - <details><summary>💠⏹ Geometric Styles</summary><p><div align="center">
 
-	| Geometric | Non-Euclidian |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Geometric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Non-Euclidian.png?raw=true" width="256" /> |
+	| Geometry | Geometric | Non-Euclidian |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Geometry.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Geometric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Non-Euclidian.png?raw=true" width="256" /> |
 	
 	<br>
 	
