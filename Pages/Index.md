@@ -6,7 +6,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Format_Comparison.md
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Prompt_Format_Comparison.md
 ">⌨ Prompt Format Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
@@ -20,7 +20,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Text_In_Image_Comparison.md
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Text_In_Image_Comparison.md
 ">🔠 Text In Image Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
@@ -34,7 +34,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Keyword_Weight_Comparison.md
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Keyword_Weight_Comparison.md
 ">⚖ Keyword Weight Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
@@ -48,7 +48,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Quality_Comparison.md
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Quality_Comparison.md
 ">🦚 Adjective Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
@@ -62,7 +62,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Word_Suffix_Comparison.md
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Word_Suffix_Comparison.md
 ">📓 Word Suffix Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
@@ -76,7 +76,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Diacritic_Mark_Comparison.md">🗣 Diacritic Mark Comparison</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Diacritic_Mark_Comparison.md">🗣 Diacritic Mark Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>Diacritical</td>
@@ -89,7 +89,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Hybrid_Comparison.md">🔰 Style Hybrid Comparison</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Hybrid_Comparison.md">🔰 Style Hybrid Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>Style Mixing</td>
@@ -102,7 +102,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Comparison.md">🎇 --stylize Parameter</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Stylize_Comparison.md">🎇 --stylize Parameter</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -115,7 +115,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Quality_Comparison.md">💎 --quality Parameter</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Quality_Comparison.md">💎 --quality Parameter</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -128,7 +128,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Chaos_Comparison.md">🌪 --chaos Parameter</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Chaos_Comparison.md">🌪 --chaos Parameter</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -141,7 +141,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/No_Parameter_Comparison.md">🚫 --no Parameter</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/No_Parameter_Comparison.md">🚫 --no Parameter</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -154,7 +154,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Image_Weight_Comparison.md">🏋️‍ Image Weight Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>--iw</td>
@@ -167,7 +167,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Image_Algorithm_Comparison.md">🎛 Image Algorithm Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>--hd</td>
@@ -180,7 +180,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Seed_Parameter.md">🌱 Seed and Sameseed</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Parameters/Seed_Parameter.md">🌱 Seed and Sameseed</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>--sameseed</td>
@@ -193,7 +193,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Tile_Parameter.md">🔲 --tile Parameter</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Tile_Parameter.md">🔲 --tile Parameter</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -206,7 +206,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md">📏 Image Resolution Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>Width and Height</td>
@@ -234,7 +234,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md">🚀 Image Upscale Comparison</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>--uplight</td>
@@ -247,7 +247,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Quality_Cross_Analysis.md">🎇💎 --quality/--stylize Cross Analysis</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Stylize_Quality_Cross_Analysis.md">🎇💎 --quality/--stylize Cross Analysis</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -260,7 +260,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Stylize_Resolution_Cross_Analysis.md">🎇📏 --stylize/Resolution Cross Analysis</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Stylize_Resolution_Cross_Analysis.md">🎇📏 --stylize/Resolution Cross Analysis</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -273,7 +273,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Chaos_Stylize_Cross_Analysis.md">🌪🎇 --chaos/--stylize Cross Analysis</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Chaos_Stylize_Cross_Analysis.md">🌪🎇 --chaos/--stylize Cross Analysis</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -286,7 +286,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Chaos_Quality_Cross_Analysis.md">🌪💎 --chaos/--quality Cross Analysis</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Chaos_Quality_Cross_Analysis.md">🌪💎 --chaos/--quality Cross Analysis</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
