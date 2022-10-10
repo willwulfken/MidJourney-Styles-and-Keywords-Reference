@@ -38,7 +38,7 @@
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/No_Parameter_Comparison.md"></a>🚫 --no Parameter</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Image_Weight_Comparison.md"></a>🏋️‍ Image Weight Comparison</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Image_Algorithm_Comparison.md"></a>🎛 Image Algorithm Comparison</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Parameters/Seed_Parameter.md"></a>🌱 --seed and --sameseed</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Seed_Parameter.md"></a>🌱 --seed and --sameseed</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Tile_Parameter.md"></a>🔲 --tile Parameter</p>
         
         </p></details></p>

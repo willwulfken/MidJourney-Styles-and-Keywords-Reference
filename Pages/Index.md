@@ -180,7 +180,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Parameters/Seed_Parameter.md">🌱 Seed and Sameseed</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Seed_Parameter.md">🌱 Seed and Sameseed</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>--sameseed</td>
