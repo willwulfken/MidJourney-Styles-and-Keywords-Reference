@@ -11,8 +11,8 @@
         <th>BubbleBlack</th>
     </tr>
     <tr align=center valign=middle>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Font_Comparison/Bubbles.png?raw=true" width="256" /><p><code>ⓢⓟⓗⓔⓡⓔ</code></p</td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Font_Comparison/BubbleBlack.png?raw=true" width="256" /><p><code>🅢🅟🅗🅔🅡🅔</code></p</td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Font_Comparison/Bubbles.png?raw=true" width="256" /><p><code>ⓢⓟⓗⓔⓡⓔ</code></p></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Font_Comparison/BubbleBlack.png?raw=true" width="256" /><p><code>🅢🅟🅗🅔🅡🅔</code></p></td>
     </tr>
 </table>
 
@@ -24,8 +24,8 @@
         <th>UpAndDown</th>
     </tr>
     <tr align=center valign=middle>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Font_Comparison/Superscript.png?raw=true" width="256" /><p><code>ˢᵖʰᵉʳᵉ</code></p</td>e>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Font_Comparison/UpAndDown.png?raw=true" width="256" /><p><code>ₛₚₕₑᵣₑ</code></p</td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Font_Comparison/Superscript.png?raw=true" width="256" /><p><code>ˢᵖʰᵉʳᵉ</code></p></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Font_Comparison/UpAndDown.png?raw=true" width="256" /><p><code>ₛₚₕₑᵣₑ</code></p></td>
     </tr>
 </table>
 
