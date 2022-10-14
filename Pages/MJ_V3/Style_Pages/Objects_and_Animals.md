@@ -729,7 +729,7 @@
 
 	<br>
 
-	| <br>Teapot<p><div align="center"><i><h6>@bob</h6></i></p> |
+	| <br>Teapot<p><div align="center"><i><h6><a href="https://rexwang8.github.io/resource/ai/teapot">@bob</a></h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Materials/sphere_Teapot.png?raw=true" width="256" /> |
 
