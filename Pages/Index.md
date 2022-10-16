@@ -180,7 +180,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Seed_Parameter.md">🌱 Seed and Sameseed</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Seed_Parameter.md">🌱 Seed and Sameseed</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>--sameseed</td>
@@ -299,7 +299,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/V1_vs_V2_vs_V3.md
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/V1_vs_V2_vs_V3.md
 ">📇 V1 vs V2 vs V3</a></th>
     </tr>
     <tr align=center valign=middle>

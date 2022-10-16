@@ -38,7 +38,7 @@
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/No_Parameter_Comparison.md"></a>🚫 --no Parameter</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Image_Weight_Comparison.md"></a>🏋️‍ Image Weight Comparison</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Image_Algorithm_Comparison.md"></a>🎛 Image Algorithm Comparison</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Seed_Parameter.md"></a>🌱 --seed and --sameseed</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Seed_Parameter.md"></a>🌱 --seed and --sameseed</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Tile_Parameter.md"></a>🔲 --tile Parameter</p>
         
         </p></details></p>
@@ -56,7 +56,7 @@
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Stylize_Resolution_Cross_Analysis.md"></a>🎇📏 --stylize/Resolution Cross Analysis</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Chaos_Stylize_Cross_Analysis.md"></a>🌪🎇 --chaos/--stylize Cross Analysis</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Chaos_Quality_Cross_Analysis.md"></a>🌪💎 --chaos/--quality Cross Analysis</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/V1_vs_V2_vs_V3.md"></a>📇 V1 vs V2 vs V3</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/V1_vs_V2_vs_V3.md"></a>📇 V1 vs V2 vs V3</p>
 
         </p></details></p>
 
