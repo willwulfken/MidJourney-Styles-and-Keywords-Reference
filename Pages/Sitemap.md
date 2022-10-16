@@ -20,42 +20,42 @@
 
       - <p><details open><summary>✍ Prompt Writing</summary><p>
 
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Prompt_Format_Comparison.md"></a>⌨ Prompt Format Comparison</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Text_In_Image_Comparison.md">🔠 Text In Image Comparison</a></p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Keyword_Weight_Comparison.md"></a>⚖ Keyword Weight Comparison</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Adjective_Comparison.md"></a>🦚 Adjective Comparison</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Word_Suffix_Comparison.md"></a>📓 Word Suffix Comparison</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Diacritic_Mark_Comparison.md"></a>🗣 Diacritic Mark Comparison</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Prompt_Writing/Hybrid_Comparison.md"></a>🔰 Style Hybrid Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md"></a>⌨ Prompt Format Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md">🔠 Text In Image Comparison</a></p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Keyword_Weight_Comparison.md"></a>⚖ Keyword Weight Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Adjective_Comparison.md"></a>🦚 Adjective Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md"></a>📓 Word Suffix Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Diacritic_Mark_Comparison.md"></a>🗣 Diacritic Mark Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Hybrid_Comparison.md"></a>🔰 Style Hybrid Comparison</p>
 
         </p></details></p>
 
       - <p><details open><summary>🧩 Prompt Parameters</summary><p>
 
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Stylize_Comparison.md"></a>🎇 --stylize Parameter</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Quality_Comparison.md"></a>💎 --quality Parameter</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Chaos_Comparison.md"></a>🌪 --chaos Parameter</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/No_Parameter_Comparison.md"></a>🚫 --no Parameter</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Image_Weight_Comparison.md"></a>🏋️‍ Image Weight Comparison</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Image_Algorithm_Comparison.md"></a>🎛 Image Algorithm Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Stylize_Comparison.md"></a>🎇 --stylize Parameter</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Quality_Comparison.md"></a>💎 --quality Parameter</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Chaos_Comparison.md"></a>🌪 --chaos Parameter</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/No_Parameter_Comparison.md"></a>🚫 --no Parameter</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Image_Weight_Comparison.md"></a>🏋️‍ Image Weight Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Image_Algorithm_Comparison.md"></a>🎛 Image Algorithm Comparison</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Seed_Parameter.md"></a>🌱 --seed and --sameseed</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Parameters/Tile_Parameter.md"></a>🔲 --tile Parameter</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Tile_Parameter.md"></a>🔲 --tile Parameter</p>
         
         </p></details></p>
       
       - <p><details open><summary>📐 Image Resolution and Upscaling</summary><p>
 
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md"></a>📏 Image Resolution Comparison</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md"></a>🚀 Image Upscale Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison.md"></a>📏 Image Resolution Comparison</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md"></a>🚀 Image Upscale Comparison</p>
 
         </p></details></p>
 
       - <p><details open><summary>🔀 Cross Analysis Pages</summary><p>
 
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Stylize_Quality_Cross_Analysis.md"></a>🎇💎 --quality/--stylize Cross Analysis</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Stylize_Resolution_Cross_Analysis.md"></a>🎇📏 --stylize/Resolution Cross Analysis</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Chaos_Stylize_Cross_Analysis.md"></a>🌪🎇 --chaos/--stylize Cross Analysis</p>
-          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Summary_Pages/Cross_Analysis/Chaos_Quality_Cross_Analysis.md"></a>🌪💎 --chaos/--quality Cross Analysis</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Cross_Analysis/Stylize_Quality_Cross_Analysis.md"></a>🎇💎 --quality/--stylize Cross Analysis</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Cross_Analysis/Stylize_Resolution_Cross_Analysis.md"></a>🎇📏 --stylize/Resolution Cross Analysis</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Cross_Analysis/Chaos_Stylize_Cross_Analysis.md"></a>🌪🎇 --chaos/--stylize Cross Analysis</p>
+          - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Cross_Analysis/Chaos_Quality_Cross_Analysis.md"></a>🌪💎 --chaos/--quality Cross Analysis</p>
           - <p><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/V1_vs_V2_vs_V3.md"></a>📇 V1 vs V2 vs V3</p>
 
         </p></details></p>
