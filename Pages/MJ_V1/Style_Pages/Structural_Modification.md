@@ -28,6 +28,21 @@
   </div></p></details>
 
 
+- <details><summary>♻〰 Curves and Waves</summary><p><div align="center">
+
+	| Wavy |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wavy.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Squiggly |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Squiggly.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
 - <details><summary>♻⭕ Circular</summary><p><div align="center">
 
 	| Concentric | Concentric Circles |

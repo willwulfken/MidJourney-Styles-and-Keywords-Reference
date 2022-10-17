@@ -589,6 +589,12 @@
 
 	<br>
 
+	| Jigsaw | Puzzle | Maze |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Drawing_and_Art_Mediums/sphere_Jigsaw.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Drawing_and_Art_Mediums/sphere_Puzzle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Drawing_and_Art_Mediums/sphere_Maze.png?raw=true" width="256" /> |
+	
+	<br>
+
     | Slinky |
     | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Materials/sphere_Slinky.png?raw=true" width="256" /> |

@@ -108,22 +108,22 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Interlaced.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Moire_Patterns.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Twisted_Rays.png?raw=true" width="256" /> |
 	
 	<br>
-	
-	| Ripple | Wavy | Morph |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Ripple.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Wavy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Morph.png?raw=true" width="256" /> |
+
+	| Morph |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Morph.png?raw=true" width="256" /> |
 
 	<br>
-	
-	| Squiggly | Quantum-Wavetracing | Sabattier Effect |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Squiggly.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Quantum-Wavetracing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Sabattier_Effect.png?raw=true" width="256" /> |
+
+	| Quantum-Wavetracing | Sabattier Effect |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Quantum-Wavetracing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Sabattier_Effect.png?raw=true" width="256" /> |
 	
 	<br>
-	
-	| Rounded | Blobby | Blobs |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Rounded.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Blobby.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Blobs.png?raw=true" width="256" /> |
+
+	| Blobby | Blobs |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Blobby.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Blobs.png?raw=true" width="256" /> |
 
 	<br>
 	
@@ -139,12 +139,12 @@
 	
 	<br>
 
-	| Glowing Edges | Spherize | Harris Shutter |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Glowing_Edges.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Spherize.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Harris_Shutter.png?raw=true" width="256" /> |
-	
+	| Glowing Edges | Harris Shutter |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Glowing_Edges.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Harris_Shutter.png?raw=true" width="256" /> |
+
 	<br>
-	
+
 	| Tessellated | Emboss | Starburst |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Tessellated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Emboss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Starburst.png?raw=true" width="256" /> |

@@ -139,12 +139,6 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Esoteric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Supersonic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Magnetic.png?raw=true" width="256" /> |
 
 	<br>
-	
-	| Weak | Strong | Powerful |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Weak.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Strong.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Powerful.png?raw=true" width="256" /> |
-	
-	<br>
 
 	| Significant | Insanity |
 	| :-: | :-: |
@@ -348,35 +342,18 @@
 	</div></p></details>
 
 
-- <details><summary>➰☯ Symbols</summary><p><div align="center">
+- <details><summary>➰🏋️‍♂️ Strength and Durability</summary><p><div align="center">
 
-	| Symbol | Symbols |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Symbol.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Symbols.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Zodiac | Zodiac Sign |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Zodiac.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Zodiac_Sign.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Yin Yang | Clef |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Yin_Yang.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Clef.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Sigil | Ouroboros |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Sigil.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Ouroboros.png?raw=true" width="256" /> |
+	| Weak | Strong | Powerful |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Weak.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Strong.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Powerful.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
 
+- <details><summary>➰☯ Symbols</summary><p>
 
-- <details><summary>➰♓ Zodiac Signs</summary><p><div align="center">
+  - <details><summary>➰♓ Zodiac Signs</summary><p><div align="center">
 
     | Capricornus | Aquarius | Pisces |
     | :-: | :-: | :-: |
@@ -400,10 +377,10 @@
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Scorpio.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Sagittarius.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
-- <details><summary>➰🔣 Unicode Symbols</summary><p><div align="center">
+  - <details><summary>➰🔣 Unicode Symbols</summary><p><div align="center">
 
 	| ,<p><div align="center"><i><h6>Comma</a></h6></i></p> | &#x27;<p><div align="center"><i><h6>Apostrophe</a></h6></i></p> |
 	| :-: | :-: |
@@ -631,7 +608,36 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Unicode_Symbols/FourDots.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Unicode_Symbols/SpacedFourDots.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Unicode_Symbols/VerticalFourDots.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
+
+
+  - <details><summary>☯ Other Symbols</summary><p><div align="center">
+
+	| Symbol | Symbols |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Symbol.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Symbols.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Zodiac | Zodiac Sign |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Zodiac.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Zodiac_Sign.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Yin Yang | Clef |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Yin_Yang.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Clef.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Sigil | Ouroboros |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Sigil.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Ouroboros.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+  </p></details>
 
 
 - <details><summary>➰🔢 Numbers</summary><p><div align="center">

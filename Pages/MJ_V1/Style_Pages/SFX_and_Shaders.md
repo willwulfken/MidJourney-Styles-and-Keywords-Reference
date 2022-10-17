@@ -52,18 +52,6 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Scan_Lines.png?raw=true" width="256" /> |
 	
 	<br>
-	
-	| Wavy |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wavy.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Squiggly |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Squiggly.png?raw=true" width="256" /> |
-	
-	<br>
 
 	| Cracked |
 	| :-: |
