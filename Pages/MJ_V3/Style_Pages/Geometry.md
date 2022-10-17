@@ -18,6 +18,7 @@
 - <details><summary>💠⬜ 2D Shapes</summary><p><div align="center">
 
 	| 2D Shape |
+	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_2D_Shape.png?raw=true" width="256" /> |
 	
 	<br>

@@ -43,21 +43,20 @@
   </div></p></details>
 
 
+- <details><summary>♻🕸 Knots</summary><p><div align="center">
+
+	| Celtic Knot |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Celtic_Knot.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
 - <details><summary>♻⭕ Circular</summary><p><div align="center">
 
 	| Concentric | Concentric Circles |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric_Circles.png?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-
-- <details><summary>♻ Other</summary><p><div align="center">
-
-	| Celtic Knot |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Celtic_Knot.png?raw=true" width="256" /> |
 
   </div></p></details>
 
