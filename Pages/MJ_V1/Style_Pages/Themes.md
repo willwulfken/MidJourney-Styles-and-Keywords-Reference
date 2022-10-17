@@ -192,6 +192,30 @@
   </div></p></details>
 
 
+- <details><summary>🎭📺 Cartoons, Anime, and Comics</summary><p><div align="center">
+
+	| Cartoon | Marvel Comics |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cartoon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Marvel_Comics.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Anime |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Anime.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
+- <details><summary>🎭🎆 Colors, Crystals, Sparkles, and Light</summary><p><div align="center">
+
+	| Pastelwave |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pastelwave.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
 - <details><summary>🎭🎪 Punk Styles (Steampunk, Cyberpunk, etc.)</summary><p><div align="center">
 
 	| Punk | Post-Punk |
@@ -269,27 +293,9 @@
 
 - <details><summary>🎭⛩ Other Themes</summary><p><div align="center">
 	
-	| Pastelwave |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pastelwave.png?raw=true" width="256" /> |
-	
-	<br>
-	
 	| Clowncore |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clowncore.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Cartoon | Marvel Comics |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cartoon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Marvel_Comics.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Anime |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Anime.png?raw=true" width="256" /> |
 
   </div></p></details>
 
