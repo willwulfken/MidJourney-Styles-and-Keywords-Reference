@@ -419,15 +419,9 @@
 
 	<br>
 	
-	| Pokemon | Pokemon Card |
+	| Pokemon Card | Pokémon Card |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Pokemon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Pokemon_Card.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Pokémon | Pokémon Card |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Pokemon (2).png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Pokemon_Card (2).png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Pokemon_Card.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Pokemon_Card (2).png?raw=true" width="256" /> |
 
 	</div></p></details>
 

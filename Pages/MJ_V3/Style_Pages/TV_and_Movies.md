@@ -16,6 +16,12 @@
 
 - <details><summary>🎬🈯 Anime</summary><p><div align="center">
 
+	| Pokemon | Pokémon |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Drawing_and_Art_Mediums/sphere_Pokemon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Drawing_and_Art_Mediums/sphere_Pokemon (2).png?raw=true" width="256" /> |
+
+	<br>
+
 	| <br>Akira<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Attack on Titan<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Bakuman<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Akira.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Attack_on_Titan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Bakuman.png?raw=true" width="256" /> |
@@ -64,9 +70,9 @@
 	
 	<br>
 
-	| <br>One Piece<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Pokemon<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Ruroni Kenshin<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_One_Piece.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Pokemon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Ruroni_Kenshin.png?raw=true" width="256" /> |
+	| <br>One Piece<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> | <br>Ruroni Kenshin<p><div align="center"><i><h6>Added By <a href="https://github.com/jeisey">Jeisey</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_One_Piece.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/TV_and_Movies/Painting_of_Anime/sphere_Painting_of_Ruroni_Kenshin.png?raw=true" width="256" /> |
 	
 	<br>
 

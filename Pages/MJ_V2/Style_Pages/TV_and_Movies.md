@@ -62,9 +62,15 @@
 	
 	<br>
 
-	| One Piece | Pokemon | Ruroni Kenshin |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_One_Piece.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Pokemon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Ruroni_Kenshin.png?raw=true" width="256" /> |
+	| Pokemon | Pokémon |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Pokemon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Pokemon (2).png?raw=true" width="256" /> |
+
+	<br>
+
+	| One Piece | Ruroni Kenshin |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_One_Piece.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/TV_and_Movies/Anime/sphere_Painting_of_Ruroni_Kenshin.png?raw=true" width="256" /> |
 	
 	<br>
 
