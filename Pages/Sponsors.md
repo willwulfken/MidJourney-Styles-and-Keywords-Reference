@@ -16,25 +16,25 @@
 
 <br>
 
-| Blake K | Phil |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Blake_K.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Phil.png?raw=true" width="224" /> |
+| Blake K | Phil | 3xPMaverick |
+| :-: | :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Blake_K.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Phil.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3xPMaverick.png?raw=true" width="224" /> |
 
 <br>
 
-| hata (prompts.page) | LuxuryCardStore | DaveConrey.eth |
+| hata (prompts.page) | LuxuryCardStore | van |
 | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/hata.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/LuxuryCardStore.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/DaveConrey.eth.png?raw=true" width="192" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/hata.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/LuxuryCardStore.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/van.png?raw=true" width="192" /> |
 
-| john.l.stevenson | Magda | 3rdEyeGreen |
-| :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/john.l.stevenson.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Magda.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3rdEyeGreen.png?raw=true" width="192" /> |
+| DaveConrey.eth | john.l.stevenson | Magda | 3rdEyeGreen |
+| :-: | :-: | :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/DaveConrey.eth.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/john.l.stevenson.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Magda.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3rdEyeGreen.png?raw=true" width="192" /> |
 
 <br>
 
-| janco | artsea | jokilatas | Peter W. Szabo | 3xPMaverick |
-| :-: | :-: | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/janco.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/artsea.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/jokilatas.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Peter_W_Szabo.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3xPMaverick.png?raw=true" width="128" /> |
+| janco | artsea | jokilatas | Peter W. Szabo |
+| :-: | :-: | :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/janco.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/artsea.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/jokilatas.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Peter_W_Szabo.png?raw=true" width="128" /> |
 
 </div>
 
