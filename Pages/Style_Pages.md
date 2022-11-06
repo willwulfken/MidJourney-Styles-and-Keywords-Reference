@@ -227,7 +227,7 @@
 	<img alt="➰ Intangibles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_style_intangibles.png?raw=true" width = 190>
 	</picture></a>
 	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Just_The_Style/Song_Lyrics.md"><picture>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Song_Lyrics.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_song_lyrics.png?raw=true" width = 190>
 	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_song_lyrics_light.png?raw=true" width = 190>
 	<img alt="🎙 Song Lyrics" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_song_lyrics.png?raw=true" width = 190>
@@ -263,7 +263,7 @@
 
 	<br>
 
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Landscape/Just_The_Style/Artists.md"><picture>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Landscape/Artists.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_style_artists.png?raw=true" width = 190>
 	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_style_artists_light.png?raw=true" width = 190>
 	<img alt="📔 Artists" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_style_artists.png?raw=true" width = 190>
@@ -410,7 +410,7 @@
 
 	<br>
 
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Landscape/Just_The_Style/Artists.md"><picture>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Landscape/Artists.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_style_artists.png?raw=true" width = 190>
 	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_style_artists_light.png?raw=true" width = 190>
 	<img alt="📔 Artists" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Mini_Style_Buttons/button_style_artists.png?raw=true" width = 190>
