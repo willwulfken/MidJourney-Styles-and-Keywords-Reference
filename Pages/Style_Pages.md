@@ -1,4 +1,8 @@
-- <details><summary><b>MidJourney V3</summary></b><p><div align="center">
+<h2>🎴 Style Pages</h2>
+
+<br>
+
+- <details><summary><b>🔘 MidJourney V3</summary></b><p><div align="center">
 
 	<h3><pre>MidJourney V3</pre></h3>
 
@@ -125,7 +129,7 @@
 
 
 
-- <details><summary><b>MidJourney V3 (Just The Style)</summary></b><p><div align="center">
+- <details><summary><b>✨ MidJourney V3 (Just The Style)</summary></b><p><div align="center">
 
   <h3><pre>MidJourney V3 (Just The Style)</pre></h3>
 
@@ -257,7 +261,7 @@
 
 
 
-- <details><summary><b>MidJourney V3 (Landscape)</summary></b><p><div align="center">
+- <details><summary><b>🌄 MidJourney V3 (Landscape)</summary></b><p><div align="center">
 
   <h3><pre>MidJourney V3 (Landscape)</pre></h3>
 
@@ -272,12 +276,11 @@
 </div></p></details>
 
 
-
-<br><br>
-
+<br><br><hr><br><br>
 
 
-- <details><summary><b>MidJourney V2</summary></b><p><div align="center">
+
+- <details><summary><b>🟢 MidJourney V2</summary></b><p><div align="center">
 
   <h3><pre>MidJourney V2</pre></h3>
 
@@ -404,7 +407,7 @@
 
 
 
-- <details><summary><b>MidJourney V2 (Landscape)</summary></b><p><div align="center">
+- <details><summary><b>🏞️ MidJourney V2 (Landscape)</summary></b><p><div align="center">
 
   <h3><pre>MidJourney V2 (Landscape)</pre></h3>
 
@@ -420,11 +423,11 @@
 
 
 
-<br><br>
+<br><br><hr><br><br>
 
 
 
-- <details><summary><b>MidJourney V1</summary></b><p><div align="center">
+- <details><summary><b>🔵 MidJourney V1</summary></b><p><div align="center">
 
   <h3><pre>MidJourney V1</pre></h3>
 
@@ -517,3 +520,9 @@
 	</picture></a>
 
 </div></p></details>
+
+<br><br>
+<hr><!--------------->
+<div align="center">
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+</div>
