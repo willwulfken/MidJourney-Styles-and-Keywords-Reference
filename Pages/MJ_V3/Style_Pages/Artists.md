@@ -420,9 +420,9 @@
 
     - <details><summary>📔📷 Photographers</summary><p><div align="center">
 
-        | Art By Anne Geddes |
-        | :-: |
-        | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Art_By_Anne_Geddes.png?raw=true" width="256" /> |
+        | Art By Anne Geddes | <br>Art By Joel-Peter Witkin<p><div align="center"><i><h6>Added By <a href="https://github.com/fleshcrucifix">fleshcrucifix</a></h6></i></p> |
+        | :-: | :-: |
+        | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Art_By_Anne_Geddes.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Art_by_Joel-Peter_Witkin.png?raw=true" width="256" /> |
 
       </div></p></details>
 
