@@ -21,7 +21,7 @@
 	</div></p></details>
 
 
-- <details><summary>📦🏮 Light Manipulation</summary><p><div align="center">
+- <details><summary>📦🏮 Optics and Light Manipulation</summary><p><div align="center">
 
 	| Optics |
 	| :-: |
@@ -32,6 +32,24 @@
 	| Opalescent |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Opalescent.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Iridescent | Dispersion |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Iridescent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dispersion.png?raw=true" width="256" /> | 
+	
+	<br>
+	
+	| Chromatic | Prismatic |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Chromatic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Prismatic.png?raw=true" width="256" /> | 
+
+	<br>
+
+	| Glitter | Sparkly |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glitter.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sparkly.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -56,21 +74,6 @@
 	| Glossy | Shiny |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glossy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Shiny.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>📦🎨 Color (Dispersion, Chromatic, etc.)</summary><p><div align="center">
-
-	| Iridescent | Dispersion |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Iridescent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dispersion.png?raw=true" width="256" /> | 
-	
-	<br>
-	
-	| Chromatic | Prismatic |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Chromatic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Prismatic.png?raw=true" width="256" /> | 
 
 	</div></p></details>
 

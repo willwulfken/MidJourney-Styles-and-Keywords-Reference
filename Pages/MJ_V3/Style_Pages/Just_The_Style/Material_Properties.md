@@ -30,7 +30,7 @@
 	</div></p></details>
 
 
-- <details><summary>📦🏮 Light Manipulation</summary><p><div align="center">
+- <details><summary>📦🏮 Optics and Light Manipulation</summary><p><div align="center">
 
 	| Optics | Materiality |
 	| :-: | :-: |
@@ -60,6 +60,22 @@
 	| Solarization | Solarized |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Solarization.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Solarized.png?raw=true" width="256" /> |
+
+	| Iridescent | Dispersion |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Iridescent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Dispersion.png?raw=true" width="256" /> | 
+	
+	<br>
+	
+	| Chromatic | Prismatic |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Chromatic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Prismatic.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Glitter | Sparkly |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Glitter.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Drawing_and_Art_Mediums/Sparkly.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -270,21 +286,6 @@
 	| Ionization | Deionization |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Ionization.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Deionization.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>📦🎨 Color (Dispersion, Chromatic, etc.)</summary><p><div align="center">
-
-	| Iridescent | Dispersion |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Iridescent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Dispersion.png?raw=true" width="256" /> | 
-	
-	<br>
-	
-	| Chromatic | Prismatic |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Chromatic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Prismatic.png?raw=true" width="256" /> | 
 
 	</div></p></details>
 

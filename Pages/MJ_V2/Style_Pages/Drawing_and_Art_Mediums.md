@@ -729,15 +729,6 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🎇 Glitter and Sparkles</summary><p><div align="center">
-
-	| Glitter | Sparkly |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_glitter.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Sparkly.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
   - <details><summary>🖌🎲 Other Physical Mediums</summary><p><div align="center">
 
 	| Arts and Crafts | Resin | Enamel Pin |
