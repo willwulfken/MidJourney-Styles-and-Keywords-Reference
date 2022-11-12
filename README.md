@@ -251,6 +251,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_experimental_midjourney_features_light.png?raw=true" width = 758>
     <img alt="🕋 New Experimental MidJourney Features" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_experimental_midjourney_features.png?raw=true" width = 758>
 </picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%F0%9F%A7%AA-Experiments"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_experiments.png?raw=true" width = 758>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_experiments_light.png?raw=true" width = 758>
+    <img alt="🧪 Experiments" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_experiments.png?raw=true" width = 758>
+</picture></a>
 
 </div>
 
