@@ -313,7 +313,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Experimental_Midjourney_Features.md">🕋 New Experimental MidJourney Features</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features.md">🕋 New Experimental MidJourney Features</a></th>
     </tr>
     <tr align=center valign=middle>
         <td>--test</td>
