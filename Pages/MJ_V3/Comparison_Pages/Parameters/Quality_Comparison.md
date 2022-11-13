@@ -1,7 +1,6 @@
 <h2>💎 --quality Parameter</h2>
 <b>The Quality Parameter will define how long the AI spends creating your image.</b>
 <br>
-<h6><b>sphere --seed 4776</b> is used for all images</h6>
 
 <hr><!--------------->
 

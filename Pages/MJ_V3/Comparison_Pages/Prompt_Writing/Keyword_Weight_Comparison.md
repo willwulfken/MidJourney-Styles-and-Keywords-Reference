@@ -1,5 +1,4 @@
 <h2>⚖ Keyword Weight Comparison</h2>
-<h4><b>--seed 4776</b> is used for all images</h4>
 
 <hr><!--------------->
 

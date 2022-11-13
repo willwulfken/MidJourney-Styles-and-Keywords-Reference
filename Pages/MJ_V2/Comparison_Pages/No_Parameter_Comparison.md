@@ -1,7 +1,6 @@
 <h2>🚫 --no Parameter</h2>
 <b>The No Parameter will tell the AI to prevent adding a specific thing to an image</b>
 <br>
-<h6><b>seed 4776</b> is used for all images</h6>
 
 <hr><!--------------->
 

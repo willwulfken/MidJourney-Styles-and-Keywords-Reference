@@ -1,5 +1,4 @@
 <h2>📇 V1 vs V2 vs V3</h2>
-<h6><b>sphere --seed 4776</b> is used for all images</h6>
 
 <hr><!--------------->
 

@@ -1,5 +1,4 @@
 <h2>🦚 Adjective Comparison</h2>
-<h6><b>seed 4776</b> is used for all images</h6>
 
 <hr><!--------------->
 

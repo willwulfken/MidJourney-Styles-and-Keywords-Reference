@@ -1,7 +1,6 @@
 <h2>🏋️‍ Image Weight Comparison</h2>
 <b>The Image Weight Parameter changes how much an inputted image will effect the generated image.</b>
 <br>
-<h6><b>seed 4776</b> is used for all images</h6>
 
 <hr><!--------------->
 
