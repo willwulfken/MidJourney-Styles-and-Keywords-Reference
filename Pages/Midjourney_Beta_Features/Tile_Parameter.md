@@ -28,217 +28,217 @@
         <tr align=center valign=middle>
             <td>Sphere</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Sphere_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Sphere_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Sphere_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Fullerene</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Fullerene_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Fullerene_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Fullerene_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Seashell</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Seashell_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Seashell_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Seashell_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Orbeez</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Orbeez_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Orbeez_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Orbeez_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Supernova</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Supernova_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Supernova_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Supernova_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Deep Dream</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Carved Lacquer</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Marker Art</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Marker_Art_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Marker_Art_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Marker_Art_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Lactarius-Indigo</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Liquid Crystal</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Milky Quartz</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glow-In-The-Dark</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Clouds</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Clouds_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Clouds_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Clouds_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Hexagonal</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Hexagonal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Hexagonal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Hexagonal_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>CGA</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/CGA_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/CGA_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/CGA_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>2-Dimensional</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Plasma Globe</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Chromatic Aberration</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Control_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterControl_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterImages/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test/Tiled_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Tile_ParameterTiled_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
         </tr>
     </table>
@@ -261,217 +261,217 @@
         <tr align=center valign=middle>
             <td>Sphere</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Sphere_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Sphere_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Sphere_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Fullerene</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Fullerene_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Fullerene_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Fullerene_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Seashell</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Seashell_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Seashell_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Seashell_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Orbeez</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Orbeez_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Orbeez_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Orbeez_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Supernova</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Supernova_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Supernova_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Supernova_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Deep Dream</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Carved Lacquer</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Marker Art</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Marker_Art_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Marker_Art_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Marker_Art_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Lactarius-Indigo</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Liquid Crystal</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Milky Quartz</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glow-In-The-Dark</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Clouds</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Clouds_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Clouds_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Clouds_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Hexagonal</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Hexagonal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Hexagonal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Hexagonal_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>CGA</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/CGA_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/CGA_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/CGA_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>2-Dimensional</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Plasma Globe</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Chromatic Aberration</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Control_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterControl_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterImages/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/test_creative/Tiled_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Comparison_Pages/Tile_ParameterTiled_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
         </tr>
     </table>
@@ -494,217 +494,217 @@
         <tr align=center valign=middle>
             <td>Sphere</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Sphere_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Sphere_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Sphere_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Fullerene</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Fullerene_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Fullerene_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Fullerene_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Seashell</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Seashell_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Seashell_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Seashell_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Orbeez</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Orbeez_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Orbeez_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Orbeez_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Supernova</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Supernova_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Supernova_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Supernova_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Deep Dream</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Carved Lacquer</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Marker Art</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Marker_Art_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Marker_Art_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Marker_Art_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Lactarius-Indigo</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Liquid Crystal</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Milky Quartz</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glow-In-The-Dark</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Clouds</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Clouds_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Clouds_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Clouds_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Hexagonal</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Hexagonal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Hexagonal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Hexagonal_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>CGA</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/CGA_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/CGA_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/CGA_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>2-Dimensional</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Plasma Globe</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Chromatic Aberration</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Control_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterControl_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterImages/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp/Tiled_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Tile_ParameterTiled_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
         </tr>
     </table>
@@ -727,217 +727,217 @@
         <tr align=center valign=middle>
             <td>Sphere</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Sphere_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Sphere_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Sphere_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Sphere_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Fullerene</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Fullerene_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Fullerene_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Fullerene_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Fullerene_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Seashell</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Seashell_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Seashell_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Seashell_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Seashell_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Orbeez</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Orbeez_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Orbeez_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Orbeez_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Orbeez_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Supernova</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Supernova_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Supernova_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Supernova_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Supernova_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Deep Dream</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Deep_Dream_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Deep_Dream_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Carved Lacquer</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Carved_Lacquer_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Marker Art</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Marker_Art_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Marker_Art_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Marker_Art_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Marker_Art_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Lactarius-Indigo</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Lactarius-Indigo_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Liquid Crystal</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Liquid_Crystal_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Milky Quartz</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Milky_Quartz_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Milky_Quartz_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glow-In-The-Dark</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Glow-In-The-Dark_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Clouds</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Clouds_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Clouds_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Clouds_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Clouds_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Hexagonal</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Hexagonal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Hexagonal_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Hexagonal_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Hexagonal_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>CGA</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/CGA_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/CGA_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/CGA_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/CGA_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>2-Dimensional</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/2-Dimensional_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/2-Dimensional_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Plasma Globe</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Plasma_Globe_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Plasma_Globe_(2).png?raw=true" width="192" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Chromatic Aberration</td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Control_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterControl_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterImages/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
             <td>
-                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Tile_Parameter/testp_creative/Tiled_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
+                <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Comparison_Pages/Tile_ParameterTiled_Images/Chromatic_Aberration_(2).png?raw=true" width="192" />
             </td>
         </tr>
     </table>
