@@ -247,9 +247,9 @@
 <hr>
 
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_midjourney_Beta_Features.png?raw=true" width = 758>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_midjourney_Beta_Features_light.png?raw=true" width = 758>
-    <img alt="🕋 MidJourney Beta Features" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_midjourney_Beta_Features.png?raw=true" width = 758>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_midjourney_beta_features.png?raw=true" width = 758>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_midjourney_beta_features_light.png?raw=true" width = 758>
+    <img alt="🕋 MidJourney Beta Features" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_midjourney_beta_features.png?raw=true" width = 758>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%F0%9F%A7%AA-Experiments"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_experiments.png?raw=true" width = 758>
