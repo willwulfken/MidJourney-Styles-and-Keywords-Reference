@@ -238,10 +238,10 @@
   <img alt="🌪💎 --chaos/--quality Cross Analysis" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_chaos_quality_cross_analysis.png?raw=true" width = 377>
 </picture></a>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/V1_vs_V2_vs_V3.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3.png?raw=true" width = 758>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3_light.png?raw=true" width = 758>
-    <img alt="📇 V1 vs V2 vs V3" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_V1_vs_V2_vs_V3.png?raw=true" width = 758>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_version_comparison.png?raw=true" width = 758>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_version_comparison_light.png?raw=true" width = 758>
+    <img alt="📇 Version Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/comparison_pages/button_version_comparison.png?raw=true" width = 758>
 </picture></a>
 
 <hr>
