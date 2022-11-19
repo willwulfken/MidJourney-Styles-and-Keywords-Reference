@@ -114,6 +114,12 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Adventure_Time.png?raw=true" width="256" /> |
 
+	<br>
+	
+	| Star Trek |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Star_Trek.png?raw=true" width="256" /> |
+
 	</div></p></details>
 
 
@@ -141,6 +147,12 @@
 	| Saw |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Saw.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Godzilla |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Godzilla.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
