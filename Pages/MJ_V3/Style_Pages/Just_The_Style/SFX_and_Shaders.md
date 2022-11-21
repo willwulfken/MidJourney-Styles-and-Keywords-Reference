@@ -70,12 +70,17 @@
 	</div></p></details>
 
 
+- <details><summary>🌈🕶 Parallax</summary><p><div align="center">
 
-- <details><summary>🌈💫 Stylized</summary><p><div align="center">
-
-	| Chromatic Aberration | RGB Displacement | Anaglyph |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Chromatic_Aberration.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/RGB_Displacement.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Anaglyph.png?raw=true" width="256" /> |
+	| Parallax |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Parallax.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Anaglyph |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Anaglyph.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -83,23 +88,14 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Multiscopy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Autostereoscopy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Stereoscopy.png?raw=true" width="256" /> |
 	
-	<br>
-	
-	| Scan Lines | Parallax |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Scan_Lines.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Parallax.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Posterization | Quantization |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Posterization.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Quantization.png?raw=true" width="256" /> |
+	</div></p></details>
 
-	<br>
-	
-	| Sobel Operator | Edge Detection | Convolution Matrix |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Sobel_Operator.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Edge_Detection.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Convolution_Matrix.png?raw=true" width="256" /> |
+
+- <details><summary>🌈🌫 Distortion</summary><p><div align="center">
+
+	| Distortion | Morph |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Distortion.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Morph.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -109,15 +105,57 @@
 
 	<br>
 
-	| Moire Patterns | Twisted Rays |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Moire_Patterns.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Twisted_Rays.png?raw=true" width="256" /> |
+	| Lenticular |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Lenticular.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| Morph |
+	| Tornadic |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Morph.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Tornadic.png?raw=true" width="256" /> |
+	
+	</div></p></details>
+
+
+- <details><summary>🌈🎨 Chromatic SFX</summary><p><div align="center">
+
+	| Chromatic Aberration | RGB Displacement |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Chromatic_Aberration.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/RGB_Displacement.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Harris Shutter |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Harris_Shutter.png?raw=true" width="256" /> |
+	
+	</div></p></details>
+
+
+- <details><summary>🌈💫 Stylized</summary><p><div align="center">
+
+	| Scan Lines |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Scan_Lines.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Posterization | Quantization |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Posterization.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Quantization.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Sobel Operator | Edge Detection | Convolution Matrix |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Sobel_Operator.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Edge_Detection.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Convolution_Matrix.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Moire Patterns | Twisted Rays |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Moire_Patterns.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Twisted_Rays.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -127,27 +165,15 @@
 	
 	<br>
 
-	| Blobby | Blobs |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Blobby.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Blobs.png?raw=true" width="256" /> |
+	| Textured |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Textured.png?raw=true" width="256" /> |
 
 	<br>
-	
-	| Textured | Tornadic |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Textured.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Tornadic.png?raw=true" width="256" /> |
-	
-	<br>
 
-	| Cracks | Cracked |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Cracks.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Cracked.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Glowing Edges | Harris Shutter |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Glowing_Edges.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Harris_Shutter.png?raw=true" width="256" /> |
+	| Glowing Edges |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Glowing_Edges.png?raw=true" width="256" /> |
 
 	<br>
 	
@@ -156,17 +182,11 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Tessellated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Emboss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Starburst.png?raw=true" width="256" /> |
 
 	<br>
-	
-	| Dirty | With Imperfections | Distortion |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Dirty.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/With_Imperfections.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Distortion.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Cropped | Sharpened | Lenticular |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Cropped.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Sharpened.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Lenticular.png?raw=true" width="256" /> |
-	
+
+	| Cropped | Sharpened |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Cropped.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Sharpened.png?raw=true" width="256" /> |
+
 	<br>
 	
 	| Dilate | Erode |

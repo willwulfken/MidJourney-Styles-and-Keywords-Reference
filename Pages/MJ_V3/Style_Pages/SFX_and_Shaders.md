@@ -70,36 +70,32 @@
 	</div></p></details>
 
 
+- <details><summary>🌈🕶 Parallax</summary><p><div align="center">
 
-- <details><summary>🌈💫 Stylized</summary><p><div align="center">
-
-	| Chromatic Aberration | RGB Displacement | Anaglyph |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Chromatic_Aberration.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_RGB_Displacement.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Anaglyph.png?raw=true" width="256" /> |
+	| Parallax |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Parallax.png?raw=true" width="256" /> |
 	
 	<br>
 	
+	| Anaglyph |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Anaglyph.png?raw=true" width="256" /> |
+
+	<br>
+
 	| Multiscopy | Autostereoscopy | Stereoscopy |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Multiscopy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Autostereoscopy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Stereoscopy.png?raw=true" width="256" /> |
 	
-	<br>
-	
-	| Scan Lines | Parallax |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Scan_Lines.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Parallax.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Posterization | Quantization |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Posterization.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Quantization.png?raw=true" width="256" /> |
+	</div></p></details>
 
-	<br>
-	
-	| Sobel Operator | Edge Detection | Convolution Matrix |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Sobel_Operator.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Edge_Detection.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Convolution_Matrix.png?raw=true" width="256" /> |
+
+- <details><summary>🌈🌫 Distortion</summary><p><div align="center">
+
+	| Distortion | Morph |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Distortion.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Morph.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -109,45 +105,75 @@
 
 	<br>
 
-	| Moire Patterns | Twisted Rays |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Moire_Patterns.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Twisted_Rays.png?raw=true" width="256" /> |
+	| Lenticular |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Lenticular.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| Morph |
+	| Tornadic |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Morph.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Tornadic.png?raw=true" width="256" /> |
+	
+	</div></p></details>
+
+
+- <details><summary>🌈🎨 Chromatic SFX</summary><p><div align="center">
+
+	| Chromatic Aberration | RGB Displacement |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Chromatic_Aberration.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_RGB_Displacement.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Harris Shutter |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Harris_Shutter.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+- <details><summary>🌈💫 Stylized</summary><p><div align="center">
+
+	| Scan Lines |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Scan_Lines.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Posterization | Quantization |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Posterization.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Quantization.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Sobel Operator | Edge Detection | Convolution Matrix |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Sobel_Operator.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Edge_Detection.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Convolution_Matrix.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Moire Patterns | Twisted Rays |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Moire_Patterns.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Twisted_Rays.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Quantum-Wavetracing | Sabattier Effect |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Quantum-Wavetracing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Sabattier_Effect.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Blobby | Blobs |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Blobby.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Blobs.png?raw=true" width="256" /> |
 
 	<br>
 	
-	| Textured | Tornadic |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Textured.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Tornadic.png?raw=true" width="256" /> |
-	
+	| Textured |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Textured.png?raw=true" width="256" /> |
+
 	<br>
 
-	| Cracks | Cracked |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Cracks.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Cracked.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Glowing Edges | Harris Shutter |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Glowing_Edges.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Harris_Shutter.png?raw=true" width="256" /> |
+	| Glowing Edges |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Glowing_Edges.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -156,17 +182,11 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Tessellated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Emboss.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Starburst.png?raw=true" width="256" /> |
 
 	<br>
-	
-	| Dirty | With Imperfections | Distortion |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Dirty.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_With_Imperfections.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Distortion.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Cropped | Sharpened | Lenticular |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Cropped.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Sharpened.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Lenticular.png?raw=true" width="256" /> |
-	
+
+	| Cropped | Sharpened |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Cropped.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/SFX_and_Shaders/sphere_Sharpened.png?raw=true" width="256" /> |
+
 	<br>
 	
 	| Dilate | Erode |

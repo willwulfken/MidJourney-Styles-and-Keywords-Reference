@@ -326,11 +326,29 @@
 	</div></p></details>
 
 
-- <details><summary>📦 Other Material Properties</summary><p><div align="center">
+- <details><summary>📦🧽 Physical Properties</summary><p><div align="center">
 
-	| Anisotropy | Carbonated | Effervescent |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Anisotropy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Carbonated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Effervescent.png?raw=true" width="256" /> |
+	| Blobby | Blobs |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Blobby.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Blobs.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Cracks | Cracked |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Cracks.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Cracked.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Dirty | With Imperfections |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/Dirty.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/SFX_and_Shaders/With_Imperfections.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Carbonated | Effervescent |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Carbonated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Effervescent.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -349,6 +367,15 @@
 	| Hydrophobic |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Hydrophobic.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+- <details><summary>📦 Other Material Properties</summary><p><div align="center">
+
+	| Anisotropy |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Anisotropy.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
