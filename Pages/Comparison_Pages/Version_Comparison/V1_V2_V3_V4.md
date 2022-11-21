@@ -13,6 +13,7 @@
 <hr>
 <br>
 
+<div align="center">
 
 <table>
     <tr align="center" valign="middle">
