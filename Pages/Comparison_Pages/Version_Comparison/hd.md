@@ -18,9 +18,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -87,9 +85,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -174,9 +170,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -226,9 +220,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -248,9 +240,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -315,9 +305,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -363,9 +351,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -390,9 +376,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -427,9 +411,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -444,9 +426,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -476,9 +456,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
@@ -508,9 +486,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V2</th>
         <th>V2 --hd</th>
-        <th>V3</th>
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
