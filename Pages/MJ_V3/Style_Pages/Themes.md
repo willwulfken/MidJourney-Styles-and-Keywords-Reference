@@ -1684,31 +1684,7 @@
   </div></p></details>
 
 
-- <details><summary>🎭⛩ Other Themes</summary><p><div align="center">
-	
-	| Theme | Neural |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Theme.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Neural.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Bleak | Barren |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Bleak.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Barren.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Gourmet | Corrupt | Corrupted |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Gourmet.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Corrupt.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Corrupted.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Cleancore | Safetycore |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Cleancore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Safetycore.png?raw=true" width="256" /> |
-
-	<br>
+- <details><summary>🎭😁 Mood Based Themes</summary><p><div align="center">
 
 	| Warmcore | Lovecore |
 	| :-: | :-: |
@@ -1719,30 +1695,6 @@
 	| Happycore | Smilecore |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Happycore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Smilecore.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Academia |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Academia.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Tinycore | Miniaturecore | Miniature World |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Tinycore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Miniaturecore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Miniature_World.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Eerie | Vast |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Eerie.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Vast.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Escapism | Ligne Claire |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Escapism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Ligne_Claire.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -1756,11 +1708,32 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Dazecore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Sleepycore.png?raw=true" width="256" /> |
 
+  </div></p></details>
+
+
+- <details><summary>🎭⛩ Other Themes</summary><p><div align="center">
+
+	| Gourmet |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Gourmet.png?raw=true" width="256" /> |
+
 	<br>
 	
-	| Existentialism | Lovecraftian | Bohemianism |
+	| Cleancore | Safetycore |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Cleancore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Safetycore.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Academia |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Academia.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Tinycore | Miniaturecore | Miniature World |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Existentialism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Lovecraftian.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Bohemianism.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Themes_and_Design_Styles/sphere_Tinycore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Miniaturecore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Miniature_World.png?raw=true" width="256" /> |
 
 	<br>
 	

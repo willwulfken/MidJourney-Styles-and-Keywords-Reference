@@ -811,6 +811,12 @@
 	
 	<br>
 
+	| Stuff | Things | Items |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Stuff.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Things.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Items.png?raw=true" width="256" /> |
+	
+	<br>
+
 	| Trinket | Knickknack | Nick-Nack |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_14/sphere_Trinket.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_14/sphere_Knickknack.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_14/sphere_Nick-Nack.png?raw=true" width="256" /> |

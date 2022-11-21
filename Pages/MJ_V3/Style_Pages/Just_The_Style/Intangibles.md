@@ -88,6 +88,12 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Intangibles/Evil.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Diabolic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Demonic.png?raw=true" width="256" /> |
 
 	<br>
+
+	| Corrupt | Corrupted |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Corrupt.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Corrupted.png?raw=true" width="256" /> |
+
+	<br>
 	
 	| God | Devil |
 	| :-: | :-: |
@@ -170,12 +176,24 @@
 	
 	<br>
 	
-	| Stuff | Things | Items |
+	| Theme |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Theme.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Neural | Bleak | Barren |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Stuff.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Things.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Items.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Neural.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Bleak.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Barren.png?raw=true" width="256" /> |
 	
 	<br>
+
+	| Eerie | Vast |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Eerie.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Vast.png?raw=true" width="256" /> |
 	
+	<br>
+
 	| Nothing | Something |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Nothing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Something.png?raw=true" width="256" /> |
@@ -676,7 +694,9 @@
   </p></details>
 
 
-- <details><summary>➰🔢 Numbers</summary><p><div align="center">
+- <details><summary>➰🔢Numbers and Number Systems</summary><p>
+
+  - <details><summary>➰🔢 Numbers</summary><p><div align="center">
 
 	| Hundred | Thousand |
 	| :-: | :-: |
@@ -694,11 +714,11 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Quadrillion.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 
-- <details><summary>➰🔢 Number Systems</summary><p><div align="center">
+  - <details><summary>➰🔢 Number Systems</summary><p><div align="center">
 
 	| Unary | Binary | Ternary |
 	| :-: | :-: | :-: |
@@ -725,7 +745,7 @@
 	</div></p></details>
 
 
-- <details><summary>➰🔢 Tuples</summary><p><div align="center">
+  - <details><summary>➰🔢 Tuples</summary><p><div align="center">
 
 	| Single | Double | Triple |
 	| :-: | :-: | :-: |
@@ -737,7 +757,9 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_14/Quadruple.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_14/Quintuple.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
+
+  </p></details>
 
 
 - <details><summary>➰🕒 Time</summary><p><div align="center">

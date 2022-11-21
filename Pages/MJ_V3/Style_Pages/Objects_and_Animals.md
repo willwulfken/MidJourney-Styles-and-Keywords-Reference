@@ -811,6 +811,12 @@
 	| Object |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Object.png?raw=true" width="256" /> |
+		
+	<br>
+
+	| Stuff | Things | Items |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Stuff.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Things.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Items.png?raw=true" width="256" /> |
 	
 	<br>
 

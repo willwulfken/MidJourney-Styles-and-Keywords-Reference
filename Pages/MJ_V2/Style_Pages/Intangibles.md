@@ -86,7 +86,12 @@
 
 	<br>
 
-	
+	| Corrupt | Corrupted |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Corrupt.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Corrupted.png?raw=true" width="256" /> |
+
+	<br>
+
     | God | Devil |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_God.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_9/sphere_Devil.png?raw=true" width="256" /> |
@@ -165,15 +170,27 @@
 	| Thin | Thick | Solid |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Thin.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Thick.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Solid.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Theme |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Theme.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Neural | Bleak | Barren |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Neural.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Bleak.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Barren.png?raw=true" width="256" /> |
 	
 	<br>
 
-	| Stuff | Things | Items |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Stuff.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Things.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Items.png?raw=true" width="256" /> |
-	
+	| Eerie | Vast |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Eerie.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Vast.png?raw=true" width="256" /> |
+
 	<br>
-	
+
 	| Nothing | Something |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Nothing.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Something.png?raw=true" width="256" /> |
@@ -442,8 +459,9 @@
 
   </p></details>
 
+- <details><summary>➰🔢Numbers and Number Systems</summary><p>
 
-- <details><summary>➰🔢 Numbers</summary><p><div align="center">
+  - <details><summary>➰🔢 Numbers</summary><p><div align="center">
 
 	| Hundred | Thousand |
 	| :-: | :-: |
@@ -461,12 +479,12 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_12/sphere_Quadrillion.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 
 
-- <details><summary>➰🔢 Number Systems</summary><p><div align="center">
+  - <details><summary>➰🔢 Number Systems</summary><p><div align="center">
 
 	| Unary | Binary | Ternary |
 	| :-: | :-: | :-: |
@@ -493,7 +511,7 @@
 	</div></p></details>
 
 
-- <details><summary>➰🔢 Tuples</summary><p><div align="center">
+  - <details><summary>➰🔢 Tuples</summary><p><div align="center">
 
 	| Single | Double | Triple |
 	| :-: | :-: | :-: |
@@ -505,7 +523,9 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_14/sphere_Quadruple.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_14/sphere_Quintuple.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
+
+  </p></details>
 
 
 - <details><summary>➰🕒 Time</summary><p><div align="center">

@@ -810,7 +810,13 @@
 	| Object |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Object.png?raw=true" width="256" /> |
+		
+	<br>
 	
+	| Stuff | Things | Items |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Stuff.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Things.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Items.png?raw=true" width="256" /> |
+
 	<br>
 
 	| Trinket | Knickknack | Nick-Nack |

@@ -921,6 +921,18 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_14/Brocade.png?raw=true" width="256" /> |
 
+	<br>
+	
+	| Escapism | Ligne Claire |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Escapism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Ligne_Claire.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Existentialism | Lovecraftian | Bohemianism |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Existentialism.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Lovecraftian.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Bohemianism.png?raw=true" width="256" /> |
+	
   </div></p></details>
 
 
