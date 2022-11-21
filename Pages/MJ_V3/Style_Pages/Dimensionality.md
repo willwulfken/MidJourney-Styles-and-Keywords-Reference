@@ -74,7 +74,7 @@
 	
 	<br>
 	
-	| Subdimensional | Everdimensional |  Omnidimensional|
+	| Subdimensional | Everdimensional | Omnidimensional |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Dimensionality/sphere_Subdimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Dimensionality/sphere_Everdimensional.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Dimensionality/sphere_Omnidimensional.png?raw=true" width="256" /> |
 	
