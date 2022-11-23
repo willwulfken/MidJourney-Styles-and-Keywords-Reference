@@ -6,6 +6,8 @@
 
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/comparison_page_group_button/button_v1_v2_v3_v4_inactive.png?raw=true" alt="V1 vs V2 vs V3 vs V4" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/comparison_page_group_button/button_v4_test_testp_inactive.png?raw=true" alt="V4 vs --test vs --testp" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_test_testp.md)
+<br>
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/version_button/Midjourney_Beta_Features/button_version_MJV4_alpha_inactive.png?raw=true" alt="Midjourney V4 Alpha" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/comparison_page_group_button/button_hd_active.png?raw=true" alt="hd" height="64" />]()
 
 </div>
