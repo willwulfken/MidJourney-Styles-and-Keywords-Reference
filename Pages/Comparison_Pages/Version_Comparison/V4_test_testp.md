@@ -25,6 +25,12 @@
         <th>--testp</th>
     </tr>
     <tr align="center" valign="middle">
+        <th>Sphere</th>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Sphere.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Midjourney_Styles/Sphere.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Midjourney_Styles/Sphere.png?raw=true" width="256" /></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Photorealistic</th>
     	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Photorealistic.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Midjourney_Styles/Photorealistic.png?raw=true" width="256" /></td>

@@ -26,6 +26,11 @@
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
+        <th>Sphere</th>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Sphere.png?raw=true" width="256" /></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Photorealistic</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Photorealistic.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Photorealistic.png?raw=true" width="256" /></td>
