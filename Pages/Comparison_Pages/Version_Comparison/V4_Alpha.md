@@ -55,8 +55,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Supernova</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Supernova.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Supernova.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Supernova.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Supernova.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Autumn</th>
@@ -107,8 +107,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Chaotic</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Chaotic.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Chaotic.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Chaotic.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Chaotic.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Intricate Surface Detail</th>
@@ -197,8 +197,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>4k</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/4k.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/4k.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/4k.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/4k.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>8-bit</th>
@@ -322,8 +322,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Marker Art</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Marker_Art.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Marker_Art.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Marker_Art.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Marker_Art.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Paper-Marbling</th>
@@ -387,8 +387,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Milky Quartz</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Milky_Quartz.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Milky_Quartz.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Milky_Quartz.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Milky_Quartz.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Agate</th>
@@ -412,13 +412,13 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Lactarius-Indigo</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Clouds</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Clouds.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Clouds.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Clouds.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Clouds.png?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -433,13 +433,13 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Plasma Globe</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Plasma_Globe.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Plasma_Globe.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Plasma_Globe.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Plasma_Globe.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Glow-In-The-Dark</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Glow-In-The-Dark.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Glow-In-The-Dark.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Glow-In-The-Dark.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Glow-In-The-Dark.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Glossy</th>
@@ -468,8 +468,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Chromatic Aberration</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Chromatic_Aberration.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Chromatic_Aberration.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Chromatic_Aberration.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Chromatic_Aberration.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Scan Lines</th>
@@ -503,13 +503,13 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Cyan</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Cyan.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Cyan.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Aqua</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Aqua.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Aqua.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Aqua.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Aqua.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Electric Colors</th>
@@ -523,13 +523,13 @@
     </tr>
     <tr align="center" valign="middle">
         <th>CGA</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/CGA.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/CGA.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/CGA.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/CGA.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Technicolor</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Technicolor.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Technicolor.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Technicolor.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Technicolor.png?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -543,8 +543,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Cinematic</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Cinematic.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Cinematic.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Cinematic.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Cinematic.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Bokeh</th>
@@ -578,8 +578,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>2-Dimensional</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/2-Dimensional.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/2-Dimensional.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/2-Dimensional.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/2-Dimensional.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Hexagon</th>
@@ -588,8 +588,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Hexagonal</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Hexagonal.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Hexagonal.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Hexagonal.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Hexagonal.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Klein Bottle</th>
@@ -623,8 +623,8 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Happy</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Happy.png?raw=true" width="384" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Happy.png?raw=true" width="384" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Happy.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Happy.png?raw=true" width="256" /></td>
     </tr>
 </table>
 
