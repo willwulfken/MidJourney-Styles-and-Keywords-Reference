@@ -9,95 +9,95 @@
     <table>
         <tr align="center" valign="middle">
             <th>Sphere</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Sphere.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Sphere.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Supernova</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Supernova.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Supernova.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Chaotic</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Chaotic.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Chaotic.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Deep Dream</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Deep_Dream.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Deep_Dream.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Carved Lacquer</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Carved_Lacquer.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Carved_Lacquer.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Marker Art</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Marker_Art.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Marker_Art.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Lactarius-Indigo</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Lactarius-Indigo.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Liquid Crystal</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Liquid_Crystal.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Liquid_Crystal.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Milky Quartz</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Milky_Quartz.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Milky_Quartz.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Glow-In-The-Dark</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Glow-In-The-Dark.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Glow-In-The-Dark.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Clouds</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Clouds.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Clouds.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Cyan</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Cyan.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Cyan.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Aqua</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Aqua.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Aqua.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Technicolor</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Technicolor.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Technicolor.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Hexagonal</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Hexagonal.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Hexagonal.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>4k</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/4k.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/4k.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>CGA</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/CGA.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/CGA.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>2-Dimensional</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/2-Dimensional.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/2-Dimensional.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Plasma Globe</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Plasma_Globe.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Plasma_Globe.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Ray Tracing Reflections</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Ray_Tracing_Reflections.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Ray_Tracing_Reflections.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Chromatic Aberration</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Chromatic_Aberration.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Chromatic_Aberration.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Cinematic</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Cinematic.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Cinematic.png?raw=true" width="384" /></td>
         </tr>
         <tr align="center" valign="middle">
             <th>Happy</th>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/Midjourney_Styles/V4_Alpha_2/Happy.png?raw=true" width="384" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Happy.png?raw=true" width="384" /></td>
         </tr>
     </table>
 
