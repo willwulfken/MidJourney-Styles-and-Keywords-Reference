@@ -20,7 +20,7 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Alpha</th>
+        <th>V4 "Alpha 2"</th>
         <th>--test</th>
         <th>--testp</th>
     </tr>
