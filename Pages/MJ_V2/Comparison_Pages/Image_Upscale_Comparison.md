@@ -30,13 +30,13 @@
             Upscale (Regular)
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_1.png?raw=true" width="256" /><p><code>256x256</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_1.png?raw=true" width="256" /><p><code>256x256</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_1_upscale.png?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_1_upscale.png?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_1_upscale_max.png?raw=true" width="512" /><p><code>1664x1664</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_1_upscale_max.png?raw=true" width="512" /><p><code>1664x1664</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
@@ -44,13 +44,13 @@
             Upscale (Light)
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_1.png?raw=true" width="256" /><p><code>256x256</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_1.png?raw=true" width="256" /><p><code>256x256</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_1_upscale_light.png?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_1_upscale_light.png?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_1_upscale_light_max.png?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_1_upscale_light_max.png?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
@@ -58,13 +58,13 @@
             Upscale (Regular)
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_2.png?raw=true" width="256" /><p><code>256x256</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_2.png?raw=true" width="256" /><p><code>256x256</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_2_upscale.png?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_2_upscale.png?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_2_upscale_max.png?raw=true" width="512" /><p><code>1664x1664</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_2_upscale_max.png?raw=true" width="512" /><p><code>1664x1664</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
@@ -72,13 +72,13 @@
             Upscale (Light)
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_2.png?raw=true" width="256" /><p><code>256x256</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_2.png?raw=true" width="256" /><p><code>256x256</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_2_upscale_light.png?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_2_upscale_light.png?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_2_upscale_light_max.png?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_2_upscale_light_max.png?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
@@ -86,13 +86,13 @@
             Upscale (Regular)
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_3.png?raw=true" width="256" /><p><code>256x256</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_3.png?raw=true" width="256" /><p><code>256x256</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_3_upscale.png?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_3_upscale.png?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_3_upscale_max.png?raw=true" width="512" /><p><code>1664x1664</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_3_upscale_max.png?raw=true" width="512" /><p><code>1664x1664</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
@@ -100,13 +100,13 @@
             Upscale (Light)
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_3.png?raw=true" width="256" /><p><code>256x256</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_3.png?raw=true" width="256" /><p><code>256x256</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_3_upscale_light.png?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_3_upscale_light.png?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_3_upscale_light_max.png?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_3_upscale_light_max.png?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
@@ -114,13 +114,13 @@
             Upscale (Regular)
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_4.png?raw=true" width="256" /><p><code>256x256</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_4.png?raw=true" width="256" /><p><code>256x256</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_4_upscale.png?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_4_upscale.png?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_4_upscale_max.png?raw=true" width="512" /><p><code>1664x1664</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_4_upscale_max.png?raw=true" width="512" /><p><code>1664x1664</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
@@ -128,13 +128,13 @@
             Upscale (Light)
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_4.png?raw=true" width="256" /><p><code>256x256</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_4.png?raw=true" width="256" /><p><code>256x256</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_4_upscale_light.png?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_4_upscale_light.png?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Image_Upscale_Summary/sphere_4_upscale_light_max.png?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Upscale_Summary/sphere_4_upscale_light_max.png?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
 </table>

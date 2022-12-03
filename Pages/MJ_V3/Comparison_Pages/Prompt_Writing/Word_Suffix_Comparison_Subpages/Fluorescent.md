@@ -11,7 +11,7 @@
 			<br>
 		</th>
         <td>
-			<p><code>Fluorescent</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Fluorescent.png?raw=true" width="256" /></p>
+			<p><code>Fluorescent</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescent.png?raw=true" width="256" /></p>
         </td>
 		<th>
 			<br>
@@ -19,30 +19,30 @@
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Fluoresced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Fluoresced.png?raw=true" width="256" /></p>
+			<p><code>Fluoresced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluoresced.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Fluorescing</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Fluorescing.png?raw=true" width="256" /></p>
+			<p><code>Fluorescing</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescing.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Fluorescentcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Fluorescentcore.png?raw=true" width="256" /></p>
+			<p><code>Fluorescentcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentcore.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Fluorescentwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Fluorescentwave.png?raw=true" width="256" /></p>
+			<p><code>Fluorescentwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentwave.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Fluorescentpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Fluorescentpunk.png?raw=true" width="256" /></p>
+			<p><code>Fluorescentpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentpunk.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Fluorescentboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Fluorescentboop.png?raw=true" width="256" /></p>
+			<p><code>Fluorescentboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescentboop.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
         <td>
-			<p><code>Fluorescence</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Fluorescence.png?raw=true" width="256" /></p>
+			<p><code>Fluorescence</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescence.png?raw=true" width="256" /></p>
         </td>
 		<td>-</td>
 	</tr>

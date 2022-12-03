@@ -11,7 +11,7 @@
 			<br>
 		</th>
         <td>
-			<p><code>Shadow</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadow.png?raw=true" width="256" /></p>
+			<p><code>Shadow</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadow.png?raw=true" width="256" /></p>
         </td>
 		<th>
 			<br>
@@ -19,44 +19,44 @@
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Shadowed</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowed.png?raw=true" width="256" /></p>
+			<p><code>Shadowed</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowed.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Shadows</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadows.png?raw=true" width="256" /></p>
+			<p><code>Shadows</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadows.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Shadowy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowy.png?raw=true" width="256" /></p>
-        </td>
-	</tr>
-	<tr align=center valign=middle>
-        <td>
-			<p><code>Shadowing</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowing.png?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Shadowized</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowized.png?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Shadowist</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowist.png?raw=true" width="256" /></p>
+			<p><code>Shadowy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowy.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Shadowistic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowistic.png?raw=true" width="256" /></p>
+			<p><code>Shadowing</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowing.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Shadowcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowcore.png?raw=true" width="256" /></p>
+			<p><code>Shadowized</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowized.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Shadowwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowwave.png?raw=true" width="256" /></p>
+			<p><code>Shadowist</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowist.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Shadowpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowpunk.png?raw=true" width="256" /></p>
+			<p><code>Shadowistic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowistic.png?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Shadowcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowcore.png?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Shadowwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowwave.png?raw=true" width="256" /></p>
+        </td>
+	</tr>
+	<tr align=center valign=middle>
+        <td>
+			<p><code>Shadowpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowpunk.png?raw=true" width="256" /></p>
         </td>
 		<td>-</td>
         <td>
-			<p><code>Shadowboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Shadowboop.png?raw=true" width="256" /></p>
+			<p><code>Shadowboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadowboop.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 </table>

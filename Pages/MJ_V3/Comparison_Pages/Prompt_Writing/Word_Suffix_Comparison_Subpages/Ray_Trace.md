@@ -11,7 +11,7 @@
 			<br>
 		</th>
         <td>
-            <p><code>Ray Trace</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Ray_Trace.png?raw=true" width="256" /></p>
+            <p><code>Ray Trace</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Trace.png?raw=true" width="256" /></p>
         </td>
 		<th>
 			<br>
@@ -19,35 +19,35 @@
 	</tr>
 	<tr align=center valign=middle>
         <td>
-            <p><code>Ray Traced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Ray_Traced.png?raw=true" width="256" /></p>
+            <p><code>Ray Traced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Traced.png?raw=true" width="256" /></p>
         </td>
         <td>
-            <p><code>Ray Tracey</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Ray_Tracey.png?raw=true" width="256" /></p>
+            <p><code>Ray Tracey</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Tracey.png?raw=true" width="256" /></p>
         </td>
         <td>
-            <p><code>Ray Tracing</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Ray_Tracing.png?raw=true" width="256" /></p>
-        </td>
-	</tr>
-	<tr align=center valign=middle>
-        <td>
-            <p><code>Ray-Tracecore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Ray-Tracecore.png?raw=true" width="256" /></p>
-        </td>
-        <td>
-            <p><code>Ray-Tracewave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Ray-Tracewave.png?raw=true" width="256" /></p>
-        </td>
-        <td>
-            <p><code>Ray-Tracepunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Ray-Tracepunk.png?raw=true" width="256" /></p>
+            <p><code>Ray Tracing</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Tracing.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-            <p><code>Ray-Traceboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Ray-Traceboop.png?raw=true" width="256" /></p>
+            <p><code>Ray-Tracecore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Tracecore.png?raw=true" width="256" /></p>
         </td>
         <td>
-            <p><code>Ray-Traced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Ray-Traced.png?raw=true" width="256" /></p>
+            <p><code>Ray-Tracewave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Tracewave.png?raw=true" width="256" /></p>
         </td>
         <td>
-            <p><code>RayTraced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_RayTraced.png?raw=true" width="256" /></p>
+            <p><code>Ray-Tracepunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Tracepunk.png?raw=true" width="256" /></p>
+        </td>
+	</tr>
+	<tr align=center valign=middle>
+        <td>
+            <p><code>Ray-Traceboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Traceboop.png?raw=true" width="256" /></p>
+        </td>
+        <td>
+            <p><code>Ray-Traced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Traced.png?raw=true" width="256" /></p>
+        </td>
+        <td>
+            <p><code>RayTraced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_RayTraced.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 </table>

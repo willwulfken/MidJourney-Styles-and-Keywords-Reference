@@ -11,7 +11,7 @@
 			<br>
 		</th>
         <td>
-			<p><code>Glitter</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glitter.png?raw=true" width="256" /></p>
+			<p><code>Glitter</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitter.png?raw=true" width="256" /></p>
         </td>
 		<th>
 			<br>
@@ -19,44 +19,44 @@
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Glittered</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glittered.png?raw=true" width="256" /></p>
+			<p><code>Glittered</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glittered.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Glitters</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glitters.png?raw=true" width="256" /></p>
+			<p><code>Glitters</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitters.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Glittery</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glittery.png?raw=true" width="256" /></p>
-        </td>
-	</tr>
-	<tr align=center valign=middle>
-        <td>
-			<p><code>Glittering</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glittering.png?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Glitterized</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glitterized.png?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Glitterist</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glitterist.png?raw=true" width="256" /></p>
+			<p><code>Glittery</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glittery.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Glitteristic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glitteristic.png?raw=true" width="256" /></p>
+			<p><code>Glittering</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glittering.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Glittercore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glittercore.png?raw=true" width="256" /></p>
+			<p><code>Glitterized</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitterized.png?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Glitterwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glitterwave.png?raw=true" width="256" /></p>
+			<p><code>Glitterist</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitterist.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Glitterpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glitterpunk.png?raw=true" width="256" /></p>
+			<p><code>Glitteristic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitteristic.png?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Glittercore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glittercore.png?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Glitterwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitterwave.png?raw=true" width="256" /></p>
+        </td>
+	</tr>
+	<tr align=center valign=middle>
+        <td>
+			<p><code>Glitterpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitterpunk.png?raw=true" width="256" /></p>
         </td>
 		<td>-</td>
         <td>
-			<p><code>Glitterboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Summary_Images/Word_Suffix_Comparison/sphere_Glitterboop.png?raw=true" width="256" /></p>
+			<p><code>Glitterboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitterboop.png?raw=true" width="256" /></p>
         </td>
 	</tr>
 </table>

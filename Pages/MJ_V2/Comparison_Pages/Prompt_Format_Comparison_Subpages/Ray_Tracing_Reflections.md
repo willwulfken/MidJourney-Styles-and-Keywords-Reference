@@ -21,7 +21,7 @@
 			<br>
 		</th>
 		<th>
-			<p><code>Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" width="256" /></p>
+			<p><code>Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" width="256" /></p>
 		</th>
 		<th>
 			<br>
@@ -29,46 +29,46 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_RayTracingReflections.png?raw=true" width="256" /></p>
+			<p><code>sphere Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_RayTracingReflections.png?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere, Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-RayTracingReflections.png?raw=true" width="256" /></p>
+			<p><code>sphere, Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-RayTracingReflections.png?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>Ray Tracing Reflections sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections_sphere.png?raw=true" width="256" /></p>
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<p><code>sphere; Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-semicolon-RayTracingReflections.png?raw=true" width="256" /></p>
-		</td>
-		<td>
-			<p><code>sphere:Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-colon-RayTracingReflections.png?raw=true" width="256" /></p>
-		</td>
-		<td>
-			<p><code>sphere::Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere-double_colon-RayTracingReflections.png?raw=true" width="256" /></p>
+			<p><code>Ray Tracing Reflections sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/RayTracingReflections_sphere.png?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere - Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_-_RayTracingReflections.png?raw=true" width="256" /></p>
+			<p><code>sphere; Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-semicolon-RayTracingReflections.png?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere(Ray Tracing Reflections)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere(RayTracingReflections).png?raw=true" width="256" /></p>
+			<p><code>sphere:Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-RayTracingReflections.png?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere in the style of Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_in_the_style_of_RayTracingReflections.png?raw=true" width="256" /></p>
+			<p><code>sphere::Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-RayTracingReflections.png?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere made of Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/sphere_made_of_RayTracingReflections.png?raw=true" width="256" /></p>
+			<p><code>sphere - Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_-_RayTracingReflections.png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere(Ray Tracing Reflections)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere(RayTracingReflections).png?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere in the style of Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_in_the_style_of_RayTracingReflections.png?raw=true" width="256" /></p>
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere made of Ray Tracing Reflections</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_made_of_RayTracingReflections.png?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<br>
 		</td>
 		<td>
-			<p><code>Ray Tracing Reflections of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Summary_Images/Prompt_Format_Comparison/RayTracingReflections_of_a_sphere.png?raw=true" width="256" /></p>
+			<p><code>Ray Tracing Reflections of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/RayTracingReflections_of_a_sphere.png?raw=true" width="256" /></p>
 		</td>
 </table>
 
