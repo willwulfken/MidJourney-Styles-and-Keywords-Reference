@@ -2,8 +2,6 @@
 
 <hr><!--------------->
 
-<br>
-
 <h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md">🌀 V4 Alpha</a></h3>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md">📇 V1 vs V2 vs V3 vs V4</a>
@@ -19,8 +17,6 @@
 <br><hr>
 
 <h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md">🚀 Beta Upscale</a></h3>
-
-<br>
 
 <hr><!--------------->
 <div align="center">
