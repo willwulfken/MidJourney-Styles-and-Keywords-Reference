@@ -26,8 +26,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Sphere</th>
@@ -103,8 +103,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Hyperdetailed</th>
@@ -193,8 +193,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Octane</th>
@@ -263,8 +263,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Painting By Salvador Dali</th>
@@ -303,8 +303,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Sketch</th>
@@ -373,8 +373,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Brushed Aluminum</th>
@@ -434,8 +434,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Plasma Globe</th>
@@ -464,8 +464,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Ray Tracing Reflections</th>
@@ -504,8 +504,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Cyan</th>
@@ -544,8 +544,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Cinematic</th>
@@ -579,8 +579,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>2-Dimensional</th>
@@ -619,8 +619,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th>V4 Style 4a</th>
-        <th>V4 Style 4b</th>
+        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Angelic</th>
