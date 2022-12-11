@@ -1,4 +1,4 @@
-<h2>📇 Version Comparison</h2>
+<h2>📇 Removed From Version Comparison</h2>
 
 <hr><!--------------->
 
