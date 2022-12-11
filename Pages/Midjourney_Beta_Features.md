@@ -10,13 +10,13 @@
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_test_testp.md">📇 V4 vs --test vs --testp</a>
 
-<br><hr><br>
+<br><hr>
 
 <h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/test_testp_creative.md">🧩 --test, --testp, and --creative</a></h3>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/Tile_Parameter.md">🔲 --tile Parameter</a>
 
-<br><hr><br>
+<br><hr>
 
 <h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md">🚀 Beta Upscale</a></h3>
 
