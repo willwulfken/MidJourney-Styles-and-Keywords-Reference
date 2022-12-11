@@ -1,4 +1,4 @@
-<h2>🕋 New Experimental MidJourney Features</h2>
+<h2>🕋 MidJourney Beta Features</h2>
 
 <hr><!--------------->
 
