@@ -449,6 +449,11 @@
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
+        <th>Ray Traced</th>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Ray_Traced.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Ray_Traced.png?raw=true" width="256" /></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Ray Tracing Reflections</th>
     	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Ray_Tracing_Reflections.png?raw=true" width="256" /></td>
     	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Ray_Tracing_Reflections.png?raw=true" width="256" /></td>
@@ -472,11 +477,6 @@
         <th>Tessellated</th>
     	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Tessellated.png?raw=true" width="256" /></td>
     	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Tessellated.png?raw=true" width="256" /></td>
-    </tr>
-    <tr align="center" valign="middle">
-        <th>Ray Traced</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Ray_Traced.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Ray_Traced.png?raw=true" width="256" /></td>
     </tr>
 </table>
 

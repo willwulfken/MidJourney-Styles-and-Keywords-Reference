@@ -388,6 +388,11 @@
         <th>V3 --hd</th>
     </tr>
     <tr align="center" valign="middle">
+        <th>Ray Traced</th>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Ray_Traced.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Ray_Traced.png?raw=true" width="256" /></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Ray Tracing Reflections</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Ray_Tracing_Reflections.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Ray_Tracing_Reflections.png?raw=true" width="256" /></td>
@@ -406,11 +411,6 @@
         <th>Tessellated</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Tessellated.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Tessellated.png?raw=true" width="256" /></td>
-    </tr>
-    <tr align="center" valign="middle">
-        <th>Ray Traced</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Ray_Traced.png?raw=true" width="256" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_hd/Ray_Traced.png?raw=true" width="256" /></td>
     </tr>
 </table>
 
