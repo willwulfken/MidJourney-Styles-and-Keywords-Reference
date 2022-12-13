@@ -33,7 +33,7 @@
 </table>
 <table>
     <tr align=center valign=middle>
-        <th ><span color=red>Stacking --no paramters will not work correctly</span></th>
+        <th><span color=red>Stacking --no paramters will not work correctly</span></th>
         <th><span color=green>Instead, try using the format "--no input1, input2"</span></th>
     </tr>
     <tr align=center valign=middle>
