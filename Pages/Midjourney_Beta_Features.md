@@ -2,11 +2,14 @@
 
 <hr><!--------------->
 
-<h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md">🌀 V4 Alpha</a></h3>
+<h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Styles.md">🌌 Midjourney V4 Alpha - Styles</a></h3>
+<h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/Niji_Journey_Beta/Styles.md">⛩ Niji Journey Beta - Styles</a></h3>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md">📇 V1 vs V2 vs V3 vs V4</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md">📇 Version Comparison - V4 Alpha</a>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_test_testp.md">📇 V4 vs --test vs --testp</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md">📇 Version Comparison - V1 vs V2 vs V3 vs V4</a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_test_testp.md">📇 Version Comparison - V4 vs --test vs --testp</a>
 
 <br><hr>
 
