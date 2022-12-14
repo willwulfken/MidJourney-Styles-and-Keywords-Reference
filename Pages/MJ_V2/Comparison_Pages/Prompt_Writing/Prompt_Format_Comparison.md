@@ -30,7 +30,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Supernova.md">Supernova</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Supernova.md">Supernova</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Supernova.png?raw=true" width="256" />
@@ -50,7 +50,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Chaotic.md">Chaotic</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Chaotic.md">Chaotic</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Chaotic.png?raw=true" width="256" />
@@ -70,7 +70,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Deep_Dream.md">Deep Dream</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Deep_Dream.md">Deep Dream</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/DeepDream.png?raw=true" width="256" />
@@ -90,7 +90,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Carved_Lacquer.md">Carved Lacquer</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Carved_Lacquer.md">Carved Lacquer</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/CarvedLacquer.png?raw=true" width="256" />
@@ -110,7 +110,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Marker_Art.md">Marker Art</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Marker_Art.md">Marker Art</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/MarkerArt.png?raw=true" width="256" />
@@ -130,7 +130,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Lactarius-Indigo.md">Lactarius-Indigo</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Lactarius-Indigo.md">Lactarius-Indigo</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Lactarius-Indigo.png?raw=true" width="256" />
@@ -158,7 +158,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Liquid_Crystal.md">Liquid Crystal</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Liquid_Crystal.md">Liquid Crystal</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/LiquidCrystal.png?raw=true" width="256" />
@@ -178,7 +178,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Milky_Quartz.md">Milky Quartz</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Milky_Quartz.md">Milky Quartz</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/MilkyQuartz.png?raw=true" width="256" />
@@ -198,7 +198,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Glow-In-The-Dark.md">Glow-In-The-Dark</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Glow-In-The-Dark.md">Glow-In-The-Dark</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Glow-In-The-Dark.png?raw=true" width="256" />
@@ -218,7 +218,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Clouds.md">Clouds</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Clouds.md">Clouds</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Clouds.png?raw=true" width="256" />
@@ -238,7 +238,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Cyan.md">Cyan</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Cyan.md">Cyan</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Cyan.png?raw=true" width="256" />
@@ -258,7 +258,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Aqua.md">Aqua</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Aqua.md">Aqua</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Aqua.png?raw=true" width="256" />
@@ -286,7 +286,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Technicolor.md">Technicolor</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Technicolor.md">Technicolor</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Technicolor.png?raw=true" width="256" />
@@ -306,7 +306,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Hexagonal.md">Hexagonal</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Hexagonal.md">Hexagonal</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Hexagonal.png?raw=true" width="256" />
@@ -326,7 +326,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/4k.md">4k</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/4k.md">4k</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/4k.png?raw=true" width="256" />
@@ -346,7 +346,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/CGA.md">CGA</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/CGA.md">CGA</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/CGA.png?raw=true" width="256" />
@@ -366,7 +366,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/2-Dimensional.md">2-Dimensional</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/2-Dimensional.md">2-Dimensional</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/2-Dimensional.png?raw=true" width="256" />
@@ -386,7 +386,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Plasma_Globe.md">Plasma Globe</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Plasma_Globe.md">Plasma Globe</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/PlasmaGlobe.png?raw=true" width="256" />
@@ -414,7 +414,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Ray_Tracing_Reflections.md">Ray Tracing Reflections</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Ray_Tracing_Reflections.md">Ray Tracing Reflections</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" width="256" />
@@ -434,7 +434,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">Chromatic Aberration</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">Chromatic Aberration</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/ChromaticAberration.png?raw=true" width="256" />
@@ -454,7 +454,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Cinematic.md">Cinematic</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Cinematic.md">Cinematic</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Cinematic.png?raw=true" width="256" />
@@ -474,7 +474,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Happy.md">Happy</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Happy.md">Happy</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Happy.png?raw=true" width="256" />
@@ -516,7 +516,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Supernova.md">Supernova</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Supernova.md">Supernova</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Supernova.png?raw=true" width="256" />
@@ -536,7 +536,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Chaotic.md">Chaotic</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Chaotic.md">Chaotic</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Chaotic.png?raw=true" width="256" />
@@ -556,7 +556,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Deep_Dream.md">Deep Dream</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Deep_Dream.md">Deep Dream</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/DeepDream.png?raw=true" width="256" />
@@ -576,7 +576,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Carved_Lacquer.md">Carved Lacquer</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Carved_Lacquer.md">Carved Lacquer</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/CarvedLacquer.png?raw=true" width="256" />
@@ -596,7 +596,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Marker_Art.md">Marker Art</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Marker_Art.md">Marker Art</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/MarkerArt.png?raw=true" width="256" />
@@ -616,7 +616,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Lactarius-Indigo.md">Lactarius-Indigo</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Lactarius-Indigo.md">Lactarius-Indigo</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Lactarius-Indigo.png?raw=true" width="256" />
@@ -644,7 +644,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Liquid_Crystal.md">Liquid Crystal</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Liquid_Crystal.md">Liquid Crystal</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/LiquidCrystal.png?raw=true" width="256" />
@@ -664,7 +664,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Milky_Quartz.md">Milky Quartz</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Milky_Quartz.md">Milky Quartz</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/MilkyQuartz.png?raw=true" width="256" />
@@ -684,7 +684,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Glow-In-The-Dark.md">Glow-In-The-Dark</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Glow-In-The-Dark.md">Glow-In-The-Dark</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Glow-In-The-Dark.png?raw=true" width="256" />
@@ -704,7 +704,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Clouds.md">Clouds</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Clouds.md">Clouds</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Clouds.png?raw=true" width="256" />
@@ -724,7 +724,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Cyan.md">Cyan</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Cyan.md">Cyan</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Cyan.png?raw=true" width="256" />
@@ -744,7 +744,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Aqua.md">Aqua</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Aqua.md">Aqua</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Aqua.png?raw=true" width="256" />
@@ -772,7 +772,7 @@
 		</tr>
 			<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Technicolor.md">Technicolor</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Technicolor.md">Technicolor</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Technicolor.png?raw=true" width="256" />
@@ -792,7 +792,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Hexagonal.md">Hexagonal</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Hexagonal.md">Hexagonal</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Hexagonal.png?raw=true" width="256" />
@@ -812,7 +812,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/4k.md">4k</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/4k.md">4k</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/4k.png?raw=true" width="256" />
@@ -832,7 +832,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/CGA.md">CGA</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/CGA.md">CGA</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/CGA.png?raw=true" width="256" />
@@ -852,7 +852,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/2-Dimensional.md">2-Dimensional</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/2-Dimensional.md">2-Dimensional</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/2-Dimensional.png?raw=true" width="256" />
@@ -872,7 +872,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Plasma_Globe.md">Plasma Globe</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Plasma_Globe.md">Plasma Globe</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/PlasmaGlobe.png?raw=true" width="256" />
@@ -900,7 +900,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Ray_Tracing_Reflections.md">Ray Tracing Reflections</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Ray_Tracing_Reflections.md">Ray Tracing Reflections</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" width="256" />
@@ -920,7 +920,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">Chromatic Aberration</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">Chromatic Aberration</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/ChromaticAberration.png?raw=true" width="256" />
@@ -940,7 +940,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Cinematic.md">Cinematic</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Cinematic.md">Cinematic</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Cinematic.png?raw=true" width="256" />
@@ -960,7 +960,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Happy.md">Happy</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Happy.md">Happy</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Happy.png?raw=true" width="256" />
@@ -1002,7 +1002,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Supernova.md">Supernova</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Supernova.md">Supernova</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Supernova.png?raw=true" width="256" />
@@ -1019,7 +1019,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Chaotic.md">Chaotic</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Chaotic.md">Chaotic</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Chaotic.png?raw=true" width="256" />
@@ -1036,7 +1036,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Deep_Dream.md">Deep Dream</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Deep_Dream.md">Deep Dream</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/DeepDream.png?raw=true" width="256" />
@@ -1053,7 +1053,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Carved_Lacquer.md">Carved Lacquer</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Carved_Lacquer.md">Carved Lacquer</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/CarvedLacquer.png?raw=true" width="256" />
@@ -1070,7 +1070,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Marker_Art.md">Marker Art</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Marker_Art.md">Marker Art</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/MarkerArt.png?raw=true" width="256" />
@@ -1087,7 +1087,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Lactarius-Indigo.md">Lactarius-Indigo</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Lactarius-Indigo.md">Lactarius-Indigo</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Lactarius-Indigo.png?raw=true" width="256" />
@@ -1111,7 +1111,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Liquid_Crystal.md">Liquid Crystal</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Liquid_Crystal.md">Liquid Crystal</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/LiquidCrystal.png?raw=true" width="256" />
@@ -1128,7 +1128,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Milky_Quartz.md">Milky Quartz</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Milky_Quartz.md">Milky Quartz</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/MilkyQuartz.png?raw=true" width="256" />
@@ -1145,7 +1145,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Glow-In-The-Dark.md">Glow-In-The-Dark</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Glow-In-The-Dark.md">Glow-In-The-Dark</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Glow-In-The-Dark.png?raw=true" width="256" />
@@ -1162,7 +1162,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Clouds.md">Clouds</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Clouds.md">Clouds</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Clouds.png?raw=true" width="256" />
@@ -1179,7 +1179,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Cyan.md">Cyan</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Cyan.md">Cyan</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Cyan.png?raw=true" width="256" />
@@ -1196,7 +1196,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Aqua.md">Aqua</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Aqua.md">Aqua</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Aqua.png?raw=true" width="256" />
@@ -1220,7 +1220,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Technicolor.md">Technicolor</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Technicolor.md">Technicolor</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Technicolor.png?raw=true" width="256" />
@@ -1237,7 +1237,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Hexagonal.md">Hexagonal</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Hexagonal.md">Hexagonal</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Hexagonal.png?raw=true" width="256" />
@@ -1254,7 +1254,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/4k.md">4k</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/4k.md">4k</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/4k.png?raw=true" width="256" />
@@ -1271,7 +1271,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/CGA.md">CGA</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/CGA.md">CGA</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/CGA.png?raw=true" width="256" />
@@ -1288,7 +1288,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/2-Dimensional.md">2-Dimensional</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/2-Dimensional.md">2-Dimensional</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/2-Dimensional.png?raw=true" width="256" />
@@ -1305,7 +1305,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Plasma_Globe.md">Plasma Globe</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Plasma_Globe.md">Plasma Globe</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/PlasmaGlobe.png?raw=true" width="256" />
@@ -1329,7 +1329,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Ray_Tracing_Reflections.md">Ray Tracing Reflections</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Ray_Tracing_Reflections.md">Ray Tracing Reflections</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/RayTracingReflections.png?raw=true" width="256" />
@@ -1346,7 +1346,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">Chromatic Aberration</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Chromatic_Aberration.md">Chromatic Aberration</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/ChromaticAberration.png?raw=true" width="256" />
@@ -1363,7 +1363,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Cinematic.md">Cinematic</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Cinematic.md">Cinematic</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Cinematic.png?raw=true" width="256" />
@@ -1380,7 +1380,7 @@
 		</tr>
 		<tr align=center valign=middle>
 			<td>
-				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Format_Comparison_Subpages/Happy.md">Happy</a>
+				<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Happy.md">Happy</a>
 			</td>
 			<td>
 				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Happy.png?raw=true" width="256" />
