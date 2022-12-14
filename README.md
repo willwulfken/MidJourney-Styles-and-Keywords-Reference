@@ -271,6 +271,17 @@
 
 <br>
 
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Styles.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_MJV4_alpha.png?raw=true" width = 376>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_MJV4_alpha_light.png?raw=true" width = 376>
+  <img alt="🌌 Midjourney V4 Alpha" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_MJV4_alpha.png" width = 376>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/Niji_Journey_Beta/Styles.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_niji_beta.png?raw=true" width = 376>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_niji_beta_light.png?raw=true" width = 376>
+  <img alt="⛩ Niji Journey Beta" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_niji_beta.png" width = 376>
+</picture></a>
+<br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Themes.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/style_buttons/button_style_themes.png?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/style_buttons/button_style_themes_light.png?raw=true" width = 249>
