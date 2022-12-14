@@ -2,6 +2,30 @@
 
 <br>
 
+- <details><summary><b>🏗 Alpha and Beta Versions</summary></b><p><div align="center">
+
+	<h3><pre>🏗 Alpha and Beta Versions</pre></h3>
+
+	<br>
+
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Styles.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_MJV4_alpha.png?raw=true" width = 376>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_MJV4_alpha_light.png?raw=true" width = 376>
+	<img alt="🌌 Midjourney V4 Alpha" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_MJV4_alpha.png" width = 376>
+	</picture></a>
+	<br>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/Niji_Journey_Beta/Styles.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_niji_beta.png?raw=true" width = 376>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_niji_beta_light.png?raw=true" width = 376>
+	<img alt="⛩ Niji Journey Beta" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page/version_style_page_buttons/button_niji_beta.png" width = 376>
+	</picture></a>
+
+</div></p></details>
+
+
+<br><br><hr><br><br>
+
+
 - <details><summary><b>🔘 MidJourney V3</summary></b><p><div align="center">
 
 	<h3><pre>MidJourney V3</pre></h3>
@@ -277,7 +301,6 @@
 
 
 <br><br><hr><br><br>
-
 
 
 - <details><summary><b>🟢 MidJourney V2</summary></b><p><div align="center">
