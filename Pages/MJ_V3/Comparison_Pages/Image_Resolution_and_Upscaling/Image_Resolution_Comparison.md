@@ -12,43 +12,6 @@
 <hr>
 <br>
 
-- <details><summary><b>📏 Preset Resolutions</summary></b><p><div align="center">
-
-	<table>
-		<tr>
-			<td width=150 align=center>--wallpaper</td>
-			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/_sphere_--wallpaper.png?raw=true" width="1920" /><p><code>1920x1024 (hd)</code></p></td>
-		</tr>
-		<tr>
-			<td width=150 align=center>--ll</td>
-			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/_sphere_--ll.png?raw=true" width="768" /><p><code>768x512 (hd)</code></p></td>
-		</tr>
-		<tr>
-			<td width=150 align=center>--ml</td>
-			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/_sphere_--ml.png?raw=true" width="448" /><p><code>448x320</code></p></td>
-		</tr>
-		<tr>
-			<td width=150 align=center>--sl</td>
-			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/_sphere_--sl.png?raw=true" width="320" /><p><code>320x256</code></p></td>
-		</tr>
-		<tr>
-			<td width=150 align=center>--lp</td>
-			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/_sphere_--lp.png?raw=true" width="512" /><p><code>512x768 (hd)</code></p></td>
-		</tr>
-		<tr>
-			<td width=150 align=center>--mp</td>
-			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/_sphere_--mp.png?raw=true" width="320" /><p><code>320x448</code></p></td>
-		</tr>
-		<tr>
-			<td width=150 align=center>--sp</td>
-			<td align=center><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/_sphere_--sp.png?raw=true" width="256" /><p><code>256x320</code></p></td>
-		</tr>
-	</table>
-
-  </div></p></details>
-
-
-
 - <details><summary><b>🔳 Aspect Ratio Resolutions (--ar)</b></summary><p><div align="center">
 
 	<table>
