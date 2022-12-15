@@ -276,6 +276,86 @@
 <br>
 
 
+- <details><summary>-Diffraction | -Grating | -Pattern | -Morphism</summary><p><div align="center">
+
+    <table>
+        <tr align=center valign=middle>
+            <td width=192>Style</td>
+            <td width=192>-Diffraction</td>
+            <td width=192>-Grating</td>
+            <td width=192>-Pattern</td>
+        </tr>
+        <tr align=center valign=middle>
+            <td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison_Subpages/Ray_Trace.md">sphere, Ray Trace</a></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Trace-Diffraction.png?raw=true" width="192" /><p><code>Ray-Trace-Diffraction</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Trace-Grating.png?raw=true" width="192" /><p><code>Ray-Trace-Grating</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Trace-Pattern.png?raw=true" width="192" /><p><code>Ray-Trace-Pattern</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Trace-Morphism.png?raw=true" width="192" /><p><code>Ray-Trace-Morphism</code></p></td>
+        </tr>
+        <tr align=center valign=middle>
+            <td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison_Subpages/Fluorescent.md">sphere, Fluorescent</a></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescent-Diffraction.png?raw=true" width="192" /><p><code>Fluorescent-Diffraction</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescent-Grating.png?raw=true" width="192" /><p><code>Fluorescent-Grating</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescent-Pattern.png?raw=true" width="192" /><p><code>Fluorescent-Pattern</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Fluorescent-Morphism.png?raw=true" width="192" /><p><code>Fluorescent-Morphism</code></p></td>
+        </tr>
+        <tr align=center valign=middle>
+            <td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison_Subpages/Shadow.md">sphere, Shadow</a></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadow-Diffraction.png?raw=true" width="192" /><p><code>Shadow-Diffraction</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadow-Grating.png?raw=true" width="192" /><p><code>Shadow-Grating</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadow-Pattern.png?raw=true" width="192" /><p><code>Shadow-Pattern</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Shadow-Morphism.png?raw=true" width="192" /><p><code>Shadow-Morphism</code></p></td>
+        </tr>
+        <tr align=center valign=middle>
+            <td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison_Subpages/Watercolor.md">sphere, Watercolor</a></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Watercolor-Diffraction.png?raw=true" width="192" /><p><code>Watercolor-Diffraction</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Watercolor-Grating.png?raw=true" width="192" /><p><code>Watercolor-Grating</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Watercolor-Pattern.png?raw=true" width="192" /><p><code>Watercolor-Pattern</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Watercolor-Morphism.png?raw=true" width="192" /><p><code>Watercolor-Morphism</code></p></td>
+        </tr>
+        <tr align="center" valign="middle">
+            <td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison_Subpages/Blacklight_Paint.md">sphere, Blacklight Paint</a></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Blacklight-Paint-Diffraction.png?raw=true" width="192" /><p><code>Blacklight-Paint-Diffraction</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Blacklight-Paint-Grating.png?raw=true" width="192" /><p><code>Blacklight-Paint-Grating</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Blacklight-Paint-Pattern.png?raw=true" width="192" /><p><code>Blacklight-Paint-Pattern</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Blacklight-Paint-Morphism.png?raw=true" width="192" /><p><code>Blacklight-Paint-Morphism</code></p></td>
+        </tr>
+        <tr align="center" valign="middle">
+            <td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison_Subpages/Glitter.md">sphere, Glitter</a></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitter-Diffraction.png?raw=true" width="192" /><p><code>Glitter-Diffraction</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitter-Grating.png?raw=true" width="192" /><p><code>Glitter-Grating</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitter-Pattern.png?raw=true" width="192" /><p><code>Glitter-Pattern</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Glitter-Morphism.png?raw=true" width="192" /><p><code>Glitter-Morphism</code></p></td>
+        </tr>
+        <tr align="center" valign="middle">
+            <td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison_Subpages/Vapochromism.md">sphere, Vapochromism</a></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromism-Diffraction.png?raw=true" width="192" /><p><code>Vapochromism-Diffraction</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromism-Grating.png?raw=true" width="192" /><p><code>Vapochromism-Grating</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromism-Pattern.png?raw=true" width="192" /><p><code>Vapochromism-Pattern</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Vapochromism-Morphism.png?raw=true" width="192" /><p><code>Vapochromism-Morphism</code></p></td>
+        </tr>
+        <tr align="center" valign="middle">
+            <td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison_Subpages/Extradimensional.md">sphere, Extradimensional</a></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensional-Diffraction.png?raw=true" width="192" /><p><code>Extradimensional-Diffraction</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensional-Grating.png?raw=true" width="192" /><p><code>Extradimensional-Grating</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensional-Pattern.png?raw=true" width="192" /><p><code>Extradimensional-Pattern</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensional-Morphism.png?raw=true" width="192" /><p><code>Extradimensional-Morphism</code></p></td>
+        </tr>
+        <tr align="center" valign="middle">
+            <td><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison_Subpages/Polygonal.md">sphere, Polygonal</a></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonal-Diffraction.png?raw=true" width="192" /><p><code>Polygonal-Diffraction</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonal-Grating.png?raw=true" width="192" /><p><code>Polygonal-Grating</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonal-Pattern.png?raw=true" width="192" /><p><code>Polygonal-Pattern</code></p></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonal-Morphism.png?raw=true" width="192" /><p><code>Polygonal-Morphism</code></p></td>
+        </tr>
+    </table>
+
+  </div></p></details>
+
+
+<br>
+
+
 - <details><summary>-boop | Other Suffixes</summary><p><div align="center">
 
     <table>
