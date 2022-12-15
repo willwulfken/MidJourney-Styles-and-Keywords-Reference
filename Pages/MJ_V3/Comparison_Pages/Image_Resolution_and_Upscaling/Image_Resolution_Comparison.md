@@ -83,18 +83,6 @@
 
 	<table>
 		<tr align=center valign=middle>
-			<td width="150">64x64</td>
-			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/sphere_wh64.png?raw=true" width="64" /></td>
-		</tr>
-		<tr align=center valign=middle>
-			<td width="150">128x128</td>
-			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/sphere_wh128.png?raw=true" width="128" /></td>
-		</tr>
-		<tr align=center valign=middle>
-			<td width="150">192x192</td>
-			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/sphere_wh192.png?raw=true" width="192" /></td>
-		</tr>
-		<tr align=center valign=middle>
 			<td width="150">256x256</td>
 			<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Resolution_Comparison/sphere_wh256.png?raw=true" width="256" /></td>
 		</tr>
