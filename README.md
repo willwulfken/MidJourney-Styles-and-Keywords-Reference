@@ -44,41 +44,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_observation_and_research_notes_light.png?raw=true" width = 377>
   <img alt="📝 Observation and Research Notes" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_observation_and_research_notes.png?raw=true" width = 377>
 </picture></a>
-<details><summary><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image.png?raw=true" width = 746>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image_light.png?raw=true" width = 746>
-  <img alt="⚪ Control and Image Seed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image.png?raw=true" width = 746>
-</picture></summary><p><div align="center">
-<table>
-	<tr align=center valign=middle>
-		<td>
-			<p><code>sphere --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true"  width="256" /></p>
-		</td>
-    <td>
-      <p><code>sphere --version 2 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" /></p>
-    </td>
-    <td>
-      <p><code>sphere --version 1 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" /></p>
-    </td>
-	</tr>
-  <tr align=center valign=middle>
-    <td colspan=3>
-      <p><details><summary>Landscape</summary><p>
-        <table>
-          <tr align=center valign=middle>
-            <td>
-              <p><code>sphere --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/_landscape_--seed4776.png?raw=true"  width="256" /></p>
-            </td>
-            <td>
-              <p><code>sphere --version 2 --seed 4776</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/_landscape_--seed4776.png?raw=true" width="256" /></p>
-            </td>
-          </tr>
-        </table>
-      </p></details></p>
-    </td>
-  </tr>
-</table>
-</p></details>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Control_Image.md"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image_light.png?raw=true" width = 758>
+  <img alt="⚪ Control and Image Seed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_control_image.png?raw=true" width = 758>
+</picture></a>
 
 </div>
 
