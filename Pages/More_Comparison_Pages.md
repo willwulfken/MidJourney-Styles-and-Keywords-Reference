@@ -31,9 +31,9 @@
 </picture>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Seed_Parameter.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_seed_parameter_full.png?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_seed_parameter_full_light.png?raw=true" width = 377>
-  <img alt="🌱 Seed and Sameseed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_seed_parameter_full.png?raw=true" width = 377>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_seed_parameter_full.png?raw=true" width = 758>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_seed_parameter_full_light.png?raw=true" width = 758>
+  <img alt="🌱 Seed and Sameseed" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_seed_parameter_full.png?raw=true" width = 758>
 </picture></a>
 <br><!------------->
 <br><!------------->
