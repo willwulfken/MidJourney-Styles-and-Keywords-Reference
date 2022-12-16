@@ -108,14 +108,14 @@
 </picture>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Stylize_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter.png?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter_light.png?raw=true" width = 377>
-  <img alt="🎇 --stylize Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter.png?raw=true" width = 377>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter.png?raw=true" width = 249>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter_light.png?raw=true" width = 249>
+  <img alt="🎇 --stylize Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter.png?raw=true" width = 249>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Quality_Comparison.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter.png?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter_light.png?raw=true" width = 377>
-  <img alt="💎 --quality Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter.png?raw=true" width = 377>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter.png?raw=true" width = 249>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter_light.png?raw=true" width = 249>
+  <img alt="💎 --quality Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter.png?raw=true" width = 249>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Chaos_Comparison.md"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_chaos_parameter.png?raw=true" width = 249>
@@ -124,9 +124,9 @@
 </picture></a>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Tile_Parameter.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_tile_parameter.png?raw=true" width = 377>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_tile_parameter_light.png?raw=true" width = 377>
-  <img alt="🔲 --tile Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_tile_parameter.png?raw=true" width = 377>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_tile_parameter.png?raw=true" width = 249>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_tile_parameter_light.png?raw=true" width = 249>
+  <img alt="🔲 --tile Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_tile_parameter.png?raw=true" width = 249>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/No_Parameter_Comparison.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_no_parameter.png?raw=true" width = 249>
@@ -185,7 +185,7 @@
   <img alt="🌪💎 --chaos/--quality Cross Analysis" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_chaos_quality.png?raw=true" width = 249>
 </picture></a>
 
-<br>
+<hr>
 
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_comparison.png?raw=true" width = 758>
