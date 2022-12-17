@@ -18,7 +18,7 @@
     <tr align=center valign=middle>
         <td>
             <p><code>--hd</code></p>
-            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_--hd.png?raw=true" width="512" /></p>
+            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_hd.png?raw=true" width="512" /></p>
         </td>
     </tr>
 </table>
@@ -29,15 +29,15 @@
     <tr align=center valign=middle>
         <td>
             <p><code>--vibe<p>(now --version 1)</p></code></p>
-            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_--vibe.png?raw=true" width="256" /></p>
+            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_vibe.png?raw=true" width="256" /></p>
         </td>
         <td>
             <p><code>--fast<p>(now --quality)</p></code></p>
-            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_--fast.png?raw=true" width="256" /></p> 
+            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_fast.png?raw=true" width="256" /></p> 
         </td>
         <td>
             <p><code>--vibefast<p>(now --version 1 --quality)</p></code></p>
-            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_--vibefast.png?raw=true" width="256" /></p>
+            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_vibefast.png?raw=true" width="256" /></p>
         </td>
     </tr>
 </table>

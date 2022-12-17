@@ -33,28 +33,28 @@
 				Bubble Design
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_--iw-1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_iw-1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_--iw-0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_iw-0.5.png?raw=true" width="256" />
 			</td>
 			<td>
 				 <br>
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_--iw0.25.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_iw0.25.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_--iw0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_iw0.5.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_--iw0.75.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_iw0.75.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_--iw1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_iw1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_--iw2.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_BubbleDesign_iw2.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -62,28 +62,28 @@
 				Mandelbulb
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_--iw-1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_iw-1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_--iw-0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_iw-0.5.png?raw=true" width="256" />
 			</td>
 			<td>
 				<br>
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_--iw0.25.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_iw0.25.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_--iw0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_iw0.5.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_--iw0.75.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_iw0.75.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_--iw1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_iw1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_--iw2.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Mandelbulb_iw2.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -91,28 +91,28 @@
 				Databending
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_--iw-1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_iw-1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_--iw-0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_iw-0.5.png?raw=true" width="256" />
 			</td>
 			<td>
 				<br>
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_--iw0.25.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_iw0.25.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_--iw0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_iw0.5.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_--iw0.75.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_iw0.75.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_--iw1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_iw1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_--iw2.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_Databending_iw2.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -120,28 +120,28 @@
 				Spray Paint
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_--iw-1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_iw-1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_--iw-0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_iw-0.5.png?raw=true" width="256" />
 			</td>
 			<td>
 				<br>
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_--iw0.25.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_iw0.25.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_--iw0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_iw0.5.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_--iw0.75.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_iw0.75.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_--iw1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_iw1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_--iw2.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sphererainbow_SprayPaint_iw2.png?raw=true" width="256" />
 			</td>
 		</tr>
 	</table>
@@ -171,28 +171,28 @@
 				Bubble Design
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_--iw-1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_iw-1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_--iw-0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_iw-0.5.png?raw=true" width="256" />
 			</td>
 			<td>
 				<br>
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_--iw0.25.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_iw0.25.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_--iw0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_iw0.5.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_--iw0.75.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_iw0.75.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_--iw1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_iw1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_--iw2.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_BubbleDesign_iw2.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -200,28 +200,28 @@
 				Mandelbulb
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_--iw-1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_iw-1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_--iw-0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_iw-0.5.png?raw=true" width="256" />
 			</td>
 			<td>
 				<br>
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_--iw0.25.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_iw0.25.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_--iw0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_iw0.5.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_--iw0.75.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_iw0.75.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_--iw1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_iw1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_--iw2.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Mandelbulb_iw2.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -229,28 +229,28 @@
 				Databending
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_--iw-1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_iw-1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_--iw-0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_iw-0.5.png?raw=true" width="256" />
 			</td>
 			<td>
 				<br>
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_--iw0.25.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_iw0.25.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_--iw0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_iw0.5.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_--iw0.75.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_iw0.75.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_--iw1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_iw1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_--iw2.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_Databending_iw2.png?raw=true" width="256" />
 			</td>
 		</tr>
 		<tr align=center valign=middle>
@@ -258,28 +258,28 @@
 				Spray Paint
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_--iw-1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_iw-1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_--iw-0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_iw-0.5.png?raw=true" width="256" />
 			</td>
 			<td>
 				<br>
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_--iw0.25.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_iw0.25.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_--iw0.5.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_iw0.5.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_--iw0.75.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_iw0.75.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_--iw1.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_iw1.png?raw=true" width="256" />
 			</td>
 			<td>
-				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_--iw2.png?raw=true" width="256" />
+				<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Weight_Comparison/sunset_SprayPaint_iw2.png?raw=true" width="256" />
 			</td>
 		</tr>
 	</table>
