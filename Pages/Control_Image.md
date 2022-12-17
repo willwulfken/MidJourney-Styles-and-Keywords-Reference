@@ -21,13 +21,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true"  width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" />
 		</td>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true"  width="256" />
 		</td>
 	</tr>
 </table>
