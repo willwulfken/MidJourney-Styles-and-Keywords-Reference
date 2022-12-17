@@ -37,7 +37,7 @@
         <th colspan=2>Both stacking --no paramters and using the format "--no input1, input2" seem to work</th>
     </tr>
     <tr align=center valign=middle>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/--no_Comparison/sphere,_Colorful_--no_red_no_pink.png?raw=true" width="256" /><p><code>sphere, Colorful --no red --no pink</code></p></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/--no_Comparison/sphere,_Colorful_no_red_no_pink.png?raw=true" width="256" /><p><code>sphere, Colorful --no red --no pink</code></p></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/--no_Comparison/sphere,_Colorful_no_red,_pink.png?raw=true" width="256" /><p><code>sphere, Colorful --no red, pink</code></p></td>
     </tr>
 </table>
