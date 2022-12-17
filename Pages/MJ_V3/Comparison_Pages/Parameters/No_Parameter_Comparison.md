@@ -33,8 +33,7 @@
 </table>
 <table>
     <tr align=center valign=middle>
-        <th><span color=red>Stacking --no paramters will not work correctly</span></th>
-        <th><span color=green>Instead, try using the format "--no input1, input2"</span></th>
+        <th colspan=2>Both stacking --no paramters and using the format "--no input1, input2" seem to work</th>
     </tr>
     <tr align=center valign=middle>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/--no_Comparison/sphere,_Colorful_--no_red_--no_pink.png?raw=true" width="256" /><p><code>sphere, Colorful --no red --no pink</code></p></td>
