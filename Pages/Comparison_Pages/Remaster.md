@@ -314,3 +314,13 @@
 		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/Remaster_and_Upscale_Beta/Remaster_Upscale/Happy.png?raw=true" width="256" /><p><code>Remaster Upscale</code></p></td>
 	</tr>
 </table>
+
+</div>
+
+
+<br>
+
+<hr><!--------------->
+<div align="center">
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+</div>
