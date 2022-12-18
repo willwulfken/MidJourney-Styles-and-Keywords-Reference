@@ -2,8 +2,6 @@
 
 <hr><!--------------->
 
-<br>
-
 <div align="center">
 
 <h3>Seed: 4776</h3>
@@ -101,10 +99,13 @@
 	</tr>
 </table>
 
+<a href="https://github.com/Arthur-Von-WikleTits/Egg"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main/Images/Repo_Parts/Buttons/Buttons/test/rect_dark.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main/Images/Repo_Parts/Buttons/Buttons/test/rect_light.png?raw=true">
+  <img alt="Midjourney Styles and Keywords Reference" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main/Images/Repo_Parts/Buttons/Buttons/test/rect_light.png?raw=true"></a>
+</picture>
 
 </div>
-
-<br>
 
 <hr><!--------------->
 <div align="center">
