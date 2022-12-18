@@ -333,7 +333,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_remaster_half_light.png?raw=true" width = 377>
   <img alt="✨ Remaster" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_remaster_half.png?raw=true" width = 377>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Remaster.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Remixing.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_remixing.png?raw=true" width = 377>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_remixing_light.png?raw=true" width = 377>
   <img alt="🧬 Version Remixing" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_remixing.png?raw=true" width = 377>
