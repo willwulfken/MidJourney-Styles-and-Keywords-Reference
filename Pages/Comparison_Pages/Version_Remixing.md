@@ -9,7 +9,7 @@
 
 <table>
 	<tr align=center valign=middle>
-		<th></th>
+		<th>Galaxy</th>
 		<th>V1</th>
 		<th>V2</th>
 		<th>V3</th>
