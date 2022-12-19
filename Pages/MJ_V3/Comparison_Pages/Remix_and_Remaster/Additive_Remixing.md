@@ -6,6 +6,7 @@
 
 <div align="center">
 
+<h2>Adding a Style to a Subject</h2>
 <table>
 	<tr align=center valign=middle>
 		<th>Subject</th>
@@ -92,8 +93,9 @@
 	</tr>
 </table>
 
-<br>
+<br><br><br>
 
+<h2>Adding a Subject to a Style</h2>
 <table>
 	<tr align=center valign=middle>
 		<th>Style</th>
