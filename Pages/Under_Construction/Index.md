@@ -337,7 +337,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Themes.md">🎭 Themes</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Themes.md">🎭 Themes</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🎭⛱ Realism/Abstraction</td>
@@ -380,7 +380,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Design_Styles.md">🖼 Design Styles</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Design_Styles.md">🖼 Design Styles</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🖼🟧 Simplicity/Complexity</td>
@@ -413,7 +413,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Digital.md">🖥 Digital</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Digital.md">🖥 Digital</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🎮 Rendering Engines</td>
@@ -451,7 +451,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Artists.md">📔 Artists</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Artists.md">📔 Artists</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>📔⛱ Realism</td>
@@ -509,7 +509,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Drawing_and_Art_Mediums.md">🖌 Drawing and Art Mediums</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Drawing_and_Art_Mediums.md">🖌 Drawing and Art Mediums</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🖌✏ Illustration and Drawing</td>
@@ -552,7 +552,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Colors_and_Palettes.md">🎨 Colors and Palettes</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Colors_and_Palettes.md">🎨 Colors and Palettes</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🎨🔴 Colors</td>
@@ -580,7 +580,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Materials.md">🧱 Materials</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Materials.md">🧱 Materials</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🧱💎 Solids</td>
@@ -628,7 +628,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Objects_and_Animals.md">🎷 Objects and Animals</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Objects_and_Animals.md">🎷 Objects and Animals</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🎷🍣 Food and Consumables</td>
@@ -656,7 +656,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Material_Properties.md">📦 Material Properties</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Material_Properties.md">📦 Material Properties</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>📦🧫 Opacity</td>
@@ -684,7 +684,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Lighting.md">💡 Lighting</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Lighting.md">💡 Lighting</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>💡🏮 Types of Lights</td>
@@ -702,7 +702,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/SFX_and_Shaders.md">🌈 SFX and Shaders</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/SFX_and_Shaders.md">🌈 SFX and Shaders</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🌈🔍 Reflections</td>
@@ -720,7 +720,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Dimensionality.md">🌌 Dimensionality</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Dimensionality.md">🌌 Dimensionality</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🌌 0D-5D</td>
@@ -733,7 +733,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Camera.md">📷 Camera, Film, and Lenses</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Camera.md">📷 Camera, Film, and Lenses</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>📷🌇 Camera and Scenes</td>
@@ -761,7 +761,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Perspective.md">🛤️ Perspective</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Perspective.md">🛤️ Perspective</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🛤️🔭 Views</td>
@@ -774,7 +774,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/TV_and_Movies.md">🎬 TV Shows and Movies</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/TV_and_Movies.md">🎬 TV Shows and Movies</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🎬🈯 Anime</td>
@@ -787,7 +787,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Geometry.md">💠 Geometry</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Geometry.md">💠 Geometry</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>💠⬜ 2D Shapes</td>
@@ -810,7 +810,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Structural_Modification.md">♻ Structural Modification</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Structural_Modification.md">♻ Structural Modification</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>♻➰ Spirals, Loops, and Helixes</td>
@@ -828,7 +828,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Intangibles.md">➰ Intangibles</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Intangibles.md">➰ Intangibles</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>➰😁 Emotions and Qualities</td>
@@ -874,7 +874,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Combinations.md">🖇🎰 Combinations</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Combinations.md">🖇🎰 Combinations</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -887,7 +887,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Miscellaneous.md">🎛 Miscellaneous</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Miscellaneous.md">🎛 Miscellaneous</a></th>
     </tr>
     <tr align=center valign=middle>
         <td></td>
@@ -900,7 +900,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Experimental.md">🧪 Experimental</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Experimental.md">🧪 Experimental</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🧪 Experimental</td>
