@@ -60,6 +60,15 @@
 	</div></p></details>
 
 
+  - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
+
+	| Steampunk |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/Midjourney_Styles/Steampunk.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
   - <details><summary>🎭⛄ Seasons and Weather</summary><p><div align="center">
 
 	| Autumn |
@@ -108,15 +117,6 @@
 	</div></p></details>
 
 
-  - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
-
-	| Steampunk |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/Midjourney_Styles/Steampunk.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
   - <details><summary>🎭🎆 Colors, Crystals, Sparkles, and Light</summary><p><div align="center">
 
 	| Fractalpunk |
@@ -160,15 +160,6 @@
 	</div></p></details>
 
 
-  - <details><summary>🖼🌈 Synesthesia</summary><p><div align="center">
-
-	| Synesthesia |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/Midjourney_Styles/Synesthesia.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
   - <details><summary>🖼🎨 Patterns</summary><p><div align="center">
 
 	| Halftone |
@@ -191,7 +182,7 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/Midjourney_Styles/Cubism.png?raw=true" width="256" /> |
 
 	</div></p></details>
-
+	
 
   - <details><summary>🖼🔮 Neo</summary><p><div align="center">
 
@@ -213,6 +204,15 @@
 	| Sacred Geometry |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/Midjourney_Styles/Sacred_Geometry.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>🖼🌈 Synesthesia</summary><p><div align="center">
+
+	| Synesthesia |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/Midjourney_Styles/Synesthesia.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -243,6 +243,15 @@
 
 
 - <details><summary>🖥 Digital</summary><p>
+
+  - <details><summary>🖥🖼 Digital Styles</summary><p><div align="center">
+
+	| 8-bit |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/Midjourney_Styles/8-bit.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
 
   - <details><summary>🖥🖼 Digital Styles</summary><p><div align="center">
 
@@ -672,15 +681,6 @@
 	</div></p></details>
 
 
-  - <details><summary>🌈🕶 Shaders and Post Processing</summary><p><div align="center">
-
-	| Ray Traced |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/Midjourney_Styles/Ray_Traced.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
   - <details><summary>🌈🎨 Chromatic SFX</summary><p><div align="center">
 
 	| Chromatic Aberration |
@@ -705,6 +705,14 @@
 	</div></p></details>
   </p></details>
 
+
+  - <details><summary>🌈🕶 Shaders and Post Processing</summary><p><div align="center">
+
+	| Ray Traced |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/Midjourney_Styles/Ray_Traced.png?raw=true" width="256" /> |
+
+	</div></p></details>
 
 <br>
 

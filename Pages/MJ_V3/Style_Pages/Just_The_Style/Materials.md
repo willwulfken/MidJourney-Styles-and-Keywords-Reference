@@ -1189,13 +1189,13 @@
 
 	| Vapor | Vaporized |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Vapor.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Vapor.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Vaporized.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Aerosol |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Aerosol.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Vaporized.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Aerosol.png?raw=true" width="256" /> |
 
 	<br>
 
