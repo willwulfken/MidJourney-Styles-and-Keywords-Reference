@@ -28,7 +28,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Sphere</th>
@@ -119,7 +119,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Hyperdetailed</th>
@@ -226,7 +226,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>4k</th>
@@ -303,7 +303,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Painting By Salvador Dali</th>
@@ -344,7 +344,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Sketch</th>
@@ -427,7 +427,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Brushed Aluminum</th>
@@ -493,7 +493,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Plasma Globe</th>
@@ -522,7 +522,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Ray Traced</th>
@@ -569,7 +569,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Aqua</th>
@@ -610,7 +610,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Cinematic</th>
@@ -639,7 +639,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>2-Dimensional</th>
@@ -680,7 +680,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2.5"<p>(12-16-22)</p></th>
+        <th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Angelic</th>
