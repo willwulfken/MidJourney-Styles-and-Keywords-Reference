@@ -72,7 +72,7 @@
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Styles.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Version_Style_Pages/button_niji.png?raw=true" width = 376>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Version_Style_Pages/button_niji_light.png?raw=true" width = 376>
-  <img alt="⛩ Niji Journey Beta" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Version_Style_Pages/button_niji.png" width = 376>
+  <img alt="⛩ Niji Journey" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Version_Style_Pages/button_niji.png" width = 376>
 </picture></a>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Themes.md"><picture>

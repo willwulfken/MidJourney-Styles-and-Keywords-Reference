@@ -1,4 +1,4 @@
-<h2>⛩ Niji Journey Beta - Styles</h2>
+<h2>⛩ Niji Journey - Styles</h2>
 
 <div align="center">
 
