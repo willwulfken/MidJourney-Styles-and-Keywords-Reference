@@ -244,7 +244,7 @@
 
 - <details><summary>🖥 Digital</summary><p>
 
-  - <details><summary>🖥🖼 Digital Styles</summary><p><div align="center">
+  - <details><summary>🖥🟩 1-bit - 16-bit</summary><p><div align="center">
 
 	| 8-bit |
 	| :-: |
