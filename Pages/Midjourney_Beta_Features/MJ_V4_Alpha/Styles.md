@@ -244,6 +244,15 @@
 
 - <details><summary>🖥 Digital</summary><p>
 
+  - <details><summary>🖥📐 Resolution</summary><p><div align="center">
+
+	| 4k |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/4k.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
   - <details><summary>🖥🟩 1-bit - 16-bit</summary><p><div align="center">
 
 	| 8-bit |
@@ -714,8 +723,19 @@
 	</div></p></details>
   </p></details>
 
+
 <br>
 
+
+- <details><summary>🌌 Dimensionality</summary><p>
+  - <details><summary>🌌 0D-5D</summary><p><div align="center">
+
+	| 2-Dimensional |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/2-Dimensional.png?raw=true" width="256" /> |
+
+	</div></p></details>
+  </p></details>
 
 - <details><summary>📷 Camera, Film, and Lenses</summary><p>
 
