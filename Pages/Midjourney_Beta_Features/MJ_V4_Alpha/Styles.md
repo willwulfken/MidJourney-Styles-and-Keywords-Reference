@@ -728,6 +728,7 @@
 
 
 - <details><summary>🌌 Dimensionality</summary><p>
+
   - <details><summary>🌌 0D-5D</summary><p><div align="center">
 
 	| 2-Dimensional |
