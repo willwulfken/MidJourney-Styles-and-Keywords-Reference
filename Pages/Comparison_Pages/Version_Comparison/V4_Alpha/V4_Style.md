@@ -26,8 +26,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_C.md"> </a></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Sphere</th>
@@ -103,8 +103,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Hyperdetailed</th>
@@ -193,8 +193,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>4k</th>
@@ -258,8 +258,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Painting By Salvador Dali</th>
@@ -293,8 +293,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Sketch</th>
@@ -363,8 +363,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Brushed Aluminum</th>
@@ -419,8 +419,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Plasma Globe</th>
@@ -444,8 +444,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Ray Traced</th>
@@ -484,8 +484,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Aqua</th>
@@ -519,8 +519,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Cinematic</th>
@@ -544,8 +544,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>2-Dimensional</th>
@@ -579,8 +579,8 @@
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
-        <th><br>V4 "Alpha 2" Style 4a<p>(11-22-22)</p></th>
-        <th><br>V4 "Alpha 2" Style 4b<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
+        <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Angelic</th>
