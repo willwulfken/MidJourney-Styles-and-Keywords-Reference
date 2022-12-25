@@ -326,7 +326,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/remix_and_remaster.webp?raw=true" width = 758>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/remix_and_remaster_light.webp?raw=true" width = 758>
-  <img alt="🔀 Cross Analysis Pages" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/remix_and_remaster.webp?raw=true" width = 758>
+  <img alt="📀 Remix and Remaster" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/remix_and_remaster.webp?raw=true" width = 758>
 </picture>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Remaster.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_remaster_half.webp?raw=true" width = 377>
