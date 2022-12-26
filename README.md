@@ -6,9 +6,15 @@
 
 <blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
 
-
-
 <hr><!--------------->
+
+<div align="center">
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Main_Page_Top_Section/button_MJSR_light.webp?raw=true" width = 758>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Main_Page_Top_Section/button_MJSR_light_light.webp?raw=true" width = 758>
+  <img alt="Try MidJourney Styles and Keywords Reference Light" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Main_Page_Top_Section/button_MJSR_light.webp?raw=true" width = 758>
+</picture></a>
+</div>
 
 <div align="center">
 
