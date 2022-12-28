@@ -64,8 +64,8 @@
 	<tr align=center valign=middle>
 		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/MJ_V1/Galaxy_V1_(1).png?raw=true" width="256" /></td>
 		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/MJ_V1/Galaxy_V1_V2_(1).png?raw=true" width="256" /></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/Galaxy_V1_V2_V3_(1).png?raw=true" width="256" /></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/Galaxy_V1_V2_V3_V4_(3).png?raw=true" width="256" /></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/V1_V2_V3_V4/Galaxy_V1_V2_V3_(1).png?raw=true" width="256" /></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/V1_V2_V3_V4/Galaxy_V1_V2_V3_V4_(3).png?raw=true" width="256" /></td>
 	</tr>
 </table>
 
