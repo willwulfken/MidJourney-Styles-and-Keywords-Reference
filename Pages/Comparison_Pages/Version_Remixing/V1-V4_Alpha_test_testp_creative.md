@@ -97,7 +97,7 @@
 		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_V4_(1).png?raw=true" width="256" /><p><code>test-c ➡ V4</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
-		<th>testp-c Alpha</th>
+		<th>testp-c</th>
 		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_(2).png?raw=true" width="256" /><p><b><code>testp-c</code></b></p></th>
 		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V1_(1).png?raw=true" width="256" /><p><code>testp-c ➡ V1</code></p></td>
 		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V2_(2).png?raw=true" width="256" /><p><code>testp-c ➡ V2</code></p></td>
