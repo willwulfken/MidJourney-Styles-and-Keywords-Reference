@@ -9,7 +9,9 @@
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_MJV1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Comparison_Pages/Parameters/Quality_Comparison.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_MJV2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Parameters/Quality_Comparison.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_MJV3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Quality_Comparison.md)
+<br>
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_MJV4_alpha_active.webp?raw=true" alt="MidJourney V4 Alpha" height="64" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_inactive.webp?raw=true" alt="Niji Journey" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Comparison_Pages/Parameters/Quality_Comparison.md)
 
 </div>
 
