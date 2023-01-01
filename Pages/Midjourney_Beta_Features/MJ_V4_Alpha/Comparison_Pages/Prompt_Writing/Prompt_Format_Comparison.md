@@ -128,6 +128,70 @@
 	</tr>
 </table>
 
+<br><br><br>
+
+<table>
+	<tr align=center valign=middle>
+		<th></th>
+		<th>No Style</th>
+		<th>Galaxy</th>
+	</tr>
+	<tr align=center valign=middle>
+		<th><i>&#60;style&#62;, Art By Alex Gray</i></th>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Gray/Art_By_Alex_Grey.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Alex_Gray/Galaxy,_Art_By_Alex_Grey.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<th><i>&#60;style&#62;, Art Made By Alex Gray</i></th>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Gray/Art_Made_By_Alex_Grey.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Alex_Gray/Galaxy,_Art_Made_By_Alex_Grey.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<th><i>&#60;style&#62; Art Made By Alex Gray</i></th>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Gray/Art_Made_By_Alex_Grey.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Alex_Gray/Galaxy_Art_Made_By_Alex_Grey.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<th><i>&#60;style&#62;, Painting By Alex Gray</i></th>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Gray/Painting_By_Alex_Grey.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Alex_Gray/Galaxy,_Painting_By_Alex_Grey.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<th><i>&#60;style&#62;, Painted By Alex Gray</i></th>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Gray/Painted_By_Alex_Gray.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Alex_Gray/Galaxy,_Painted_By_Alex_Grey.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<th><i>&#60;style&#62; in The Style of Alex Gray</i></th>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Gray/in_The_Style_of_Alex_Grey.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Alex_Gray/Galaxy_in_The_Style_of_Alex_Grey.png?raw=true" width="256" />
+		</td>
+	</tr>
+</table>
+
 </div>
 
 <br>
