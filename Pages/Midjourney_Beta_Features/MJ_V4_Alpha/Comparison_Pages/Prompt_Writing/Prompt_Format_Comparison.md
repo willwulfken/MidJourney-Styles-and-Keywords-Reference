@@ -29,6 +29,8 @@
 		<td><i>&#60;style&#62;</i></td>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Sphere.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Galaxy.png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -36,6 +38,8 @@
 		<th>&#60;style&#62; <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_Galaxy.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy_Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -43,6 +47,8 @@
 		<th>&#60;style&#62;, <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere,_Galaxy.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy,_Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -50,6 +56,8 @@
 		<th>&#60;style&#62;::<i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_double-colon_Galaxy.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy_double-colon_Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -57,6 +65,8 @@
 		<th><i>&#60;style&#62;; &#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_semicolon_Galaxy.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy_semicolon_Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -64,6 +74,8 @@
 		<th><i>&#60;style&#62;:&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_colon_Galaxy.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy_colon_Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -71,6 +83,8 @@
 		<th><i>&#60;style&#62; - &#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_-_Galaxy.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy_-_Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -78,6 +92,8 @@
 		<th><i>&#60;style&#62; (&#60;style-2&#62;)</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_(Galaxy).png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy_(Sphere).png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -85,6 +101,8 @@
 		<th><i>&#60;style&#62; in the style of &#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_in_the_style_of_Galaxy.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy_in_the_style_of_Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -92,6 +110,8 @@
 		<th><i>&#60;style&#62; made of &#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_made_of_Galaxy.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy_made_of_Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
@@ -99,6 +119,8 @@
 		<th><i>&#60;style&#62; of a &#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_of_a_Galaxy.png?raw=true" width="256" />
+		</td>
+		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Galaxy/Sphere/Galaxy_of_a_Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
