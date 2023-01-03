@@ -26,10 +26,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_1250.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_1250.png?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_1500.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_1500.png?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -43,10 +43,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_1750.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_1750.png?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_2000.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_2000.png?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -60,10 +60,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_2250.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_2250.png?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_2500.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_2500.png?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -77,10 +77,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_2750.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_2750.png?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_3000.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_3000.png?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -94,10 +94,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_3250.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_3250.png?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_3500.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_3500.png?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -111,10 +111,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_3750.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_3750.png?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_4000.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_4000.png?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -128,10 +128,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_4250.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_4250.png?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_4500.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_4500.png?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -145,10 +145,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_4750.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_4750.png?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_5000.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Stylize_Parameter/sphere_stylize_5000.png?raw=true" width=384 />
         </td>
     </tr>
 </table>
