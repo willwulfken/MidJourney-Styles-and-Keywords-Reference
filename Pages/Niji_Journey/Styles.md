@@ -766,25 +766,24 @@
 		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Agate.png?raw=true" width="256" /> |
 
 	  </div></p></details>
-
-
-    - <details><summary>🧱💧 Liquids</summary><p><div align="center">
-
-		| Liquid Crystal |
-		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Liquid_Crystal.png?raw=true" width="256" /> |
-
-	  </div></p></details>
-
-
-    - <details><summary>🧱🌫️ Gasses and Vapors</summary><p><div align="center">
-
-		| Clouds |
-		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Clouds.png?raw=true" width="256" /> |
-
-	  </div></p></details>
 	</p></details>
+
+  - <details><summary>🧱💧 Liquids</summary><p><div align="center">
+
+	| Liquid Crystal |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Liquid_Crystal.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>🧱🌫️ Gasses and Vapors</summary><p><div align="center">
+
+	| Clouds |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Clouds.png?raw=true" width="256" /> |
+
+	</div></p></details>
   </p></details>
 
 
