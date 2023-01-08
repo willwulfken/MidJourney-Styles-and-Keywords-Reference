@@ -89,7 +89,7 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Lego.png?raw=true" width="256" /> |
 
 	</div></p></details>
-    </p></details>
+  </p></details>
 
 - <details><summary>🧱💧 Liquids</summary><p><div align="center">
 
@@ -103,7 +103,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Sea_Foam.png?raw=true" width="256" /> |
 
-	</div></p></details>
+  </div></p></details>
 
 
 - <details><summary>🧱🌫️ Gasses and Vapors</summary><p><div align="center">
@@ -112,7 +112,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Clouds.png?raw=true" width="256" /> |
 
-	</div></p></details>
+  </div></p></details>
 
 
 <hr><!--------------->
