@@ -7,7 +7,7 @@
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Colors_and_Palettes.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V4_Alpha_active.webp?raw=true" alt="MidJourney V4 Alpha" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Style_Pages/Colors_and_Palettes.md)
 <br>
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_inactive_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Colors_and_Palettes.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_active_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Colors_and_Palettes.md)
 
 
 </div>
@@ -22,7 +22,7 @@
 
 	| Aqua |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Aqua.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Aqua.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -30,36 +30,18 @@
 
 - <details><summary>🎨 Color Based Designs</summary><p><div align="center">
 
-	| Vivid |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Vivid.png?raw=true" width="256" /> |
-
-	<br>
-
 	| Spectrum |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Spectrum.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Spectrum.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
 
 - <details><summary>🎨🖌 Chromatic Palettes</summary><p><div align="center">
 
-	| Colorful |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Colorful.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Vibrant |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Vibrant.png?raw=true" width="256" /> |
-
-	<br>
-
 	| Electric Colors |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Electric_Colors.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Electric_Colors.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -68,13 +50,13 @@
 
 	| CMYK |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/CMYK.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/CMYK.png?raw=true" width="256" /> |
 
 	<br>
 
 	| CGA |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/CGA.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/CGA.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -83,7 +65,7 @@
 
 	| Technicolor |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Technicolor.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Technicolor.png?raw=true" width="256" /> |
 
 	</div></p></details>
 

@@ -2,12 +2,13 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Themes.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Themes.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Themes.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_active_full_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Digital.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Digital.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Digital.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V4_Alpha_active.webp?raw=true" alt="MidJourney V4 Alpha" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Style_Pages/Digital.md)
+<br>
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_active_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Digital.md)
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md)
 
 </div>
 
@@ -15,7 +16,7 @@
 <br>
 
 
-  - <details><summary>🖥📐 Resolution</summary><p><div align="center">
+- <details><summary>🖥📐 Resolution</summary><p><div align="center">
 
 	| 4k |
 	| :-: |
@@ -24,7 +25,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖥🟩 1-bit - 16-bit</summary><p><div align="center">
+- <details><summary>🖥🟩 1-bit - 16-bit</summary><p><div align="center">
 
 	| 8-bit |
 	| :-: |
@@ -33,7 +34,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖥🖼 Digital Styles</summary><p><div align="center">
+- <details><summary>🖥🖼 Digital Styles</summary><p><div align="center">
 
 	| Cyberdelic |
 	| :-: |
@@ -42,7 +43,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖥🎞 VFX and Video Companies</summary><p><div align="center">
+- <details><summary>🖥🎞 VFX and Video Companies</summary><p><div align="center">
 
 	| Disney |
 	| :-: |
@@ -51,7 +52,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖥🎨 Art Programs and Applications</summary><p><div align="center">
+- <details><summary>🖥🎨 Art Programs and Applications</summary><p><div align="center">
 
 	| Microsoft Paint |
 	| :-: |
@@ -60,7 +61,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖥🖼 Image Formats and Types</summary><p><div align="center">
+- <details><summary>🖥🖼 Image Formats and Types</summary><p><div align="center">
 
 	| Lowpoly |
 	| :-: |
@@ -75,7 +76,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖥🏁 Dithering</summary><p><div align="center">
+- <details><summary>🖥🏁 Dithering</summary><p><div align="center">
 
 	| Floyd–Steinberg Dithering |
 	| :-: |
@@ -84,7 +85,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖥👩‍💻 Glitchy</summary><p><div align="center">
+- <details><summary>🖥👩‍💻 Glitchy</summary><p><div align="center">
 
 	| Databending |
 	| :-: |
@@ -93,7 +94,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖥🧠 AI and Neural Networks</summary><p><div align="center">
+- <details><summary>🖥🧠 AI and Neural Networks</summary><p><div align="center">
 
 	| Deep Dream |
 	| :-: |
@@ -102,14 +103,13 @@
 	</div></p></details>
 
 
-  - <details><summary>🖥🕹 Video Game Styles</summary><p><div align="center">
+- <details><summary>🖥🕹 Video Game Styles</summary><p><div align="center">
 
 	| Tetris |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Tetris.png?raw=true" width="256" /> |
 
 	</div></p></details>
-
 
 
 <hr><!--------------->

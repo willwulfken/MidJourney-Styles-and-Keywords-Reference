@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Themes.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Themes.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Themes.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Artists.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Artists.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Artists.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V4_Alpha_active.webp?raw=true" alt="MidJourney V4 Alpha" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Style_Pages/Artists.md)
 <br>
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_active_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_active_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Artists.md)
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md)
 
 </div>
 
@@ -16,7 +16,7 @@
 <br>
 
 
-  - <details><summary>📔❇ Surrealism</summary><p><div align="center">
+- <details><summary>📔❇ Surrealism</summary><p><div align="center">
 
 	| Painting By Salvador Dali |
 	| :-: |
@@ -25,7 +25,7 @@
 	</div></p></details>
 
 
-  - <details><summary>📔➿ Post-Impressionism</summary><p><div align="center">
+- <details><summary>📔➿ Post-Impressionism</summary><p><div align="center">
 
 	| Painting By Van Gogh |
 	| :-: |
@@ -34,7 +34,7 @@
 	</div></p></details>
 
 
-  - <details><summary>📔☯ Psychedelic</summary><p><div align="center">
+- <details><summary>📔☯ Psychedelic</summary><p><div align="center">
 
 	| Painting By Alex Grey |
 	| :-: |
@@ -43,7 +43,7 @@
 	</div></p></details>
 
 
-  - <details><summary>📔🈯 Manga</summary><p><div align="center">
+- <details><summary>📔🈯 Manga</summary><p><div align="center">
 
 	| Painting By Junji Ito |
 	| :-: |
@@ -70,13 +70,14 @@
 	</div></p></details>
 
 
-  - <details><summary>📔 Other Artists</summary><p><div align="center">
+- <details><summary>📔 Other Artists</summary><p><div align="center">
 
 	| Painting By Bob Ross | Art By M.C. Escher |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Painting_By_Bob_Ross.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Art_By_M.C._Escher.png?raw=true" width="256" /> |
 
 	</div></p></details>
+
 
 <hr><!--------------->
 <div align="center">

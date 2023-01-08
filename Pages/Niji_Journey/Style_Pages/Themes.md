@@ -5,9 +5,10 @@
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Themes.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Themes.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Themes.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_active_full_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V4_Alpha_active.webp?raw=true" alt="MidJourney V4 Alpha" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Style_Pages/Themes.md)
+<br>
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_active_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md)
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md)
 
 </div>
 
@@ -45,7 +46,7 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Fantasy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Ethereal_Fantasy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Dark_Fantasy.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭💾 Retro/Modern</summary><p><div align="center">
@@ -54,7 +55,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Retro.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭🪐 Sci-fi</summary><p><div align="center">
@@ -87,7 +88,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Angelcore.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭☄ Outer Space</summary><p><div align="center">
@@ -102,7 +103,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Supernova.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭🎌 Countries and Nations</summary><p><div align="center">
@@ -123,7 +124,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Japanese-Style.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
@@ -132,7 +133,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Steampunk.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭⛄ Seasons and Weather</summary><p><div align="center">
@@ -147,7 +148,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Tornado.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭🎄 Holidays</summary><p><div align="center">
@@ -156,7 +157,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Halloween.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭🐱‍👤 Professions and Types of People</summary><p><div align="center">
@@ -165,7 +166,7 @@
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Samurai.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Samurai_Warrior.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭🎵 Music Styles</summary><p><div align="center">
@@ -186,7 +187,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/K-Pop.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭📺 Cartoons, Anime, and Comics</summary><p><div align="center">
@@ -207,7 +208,7 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Kawaii.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
 - <details><summary>🎭🎆 Colors, Crystals, Sparkles, and Light</summary><p><div align="center">
@@ -216,7 +217,8 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Fractalpunk.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
+
 
 <hr><!--------------->
 <div align="center">

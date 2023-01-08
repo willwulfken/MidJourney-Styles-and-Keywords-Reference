@@ -2,12 +2,13 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Themes.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Themes.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Themes.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_active_full_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Design_Styles.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Design_Styles.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Design_Styles.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V4_Alpha_active.webp?raw=true" alt="MidJourney V4 Alpha" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Style_Pages/Design_Styles.md)
+<br>
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_niji_active_full.webp?raw=true" alt="Niji Journey" height="64.6" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Design_Styles.md)
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md)
 
 </div>
 
@@ -15,7 +16,7 @@
 <br>
 
 
-  - <details><summary>🖼🟧 Simplicity/Complexity</summary><p><div align="center">
+- <details><summary>🖼🟧 Simplicity/Complexity</summary><p><div align="center">
 
 	| Simple |
 	| :-: |
@@ -54,7 +55,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖼🎨 Patterns</summary><p><div align="center">
+- <details><summary>🖼🎨 Patterns</summary><p><div align="center">
 
 	| Halftone |
 	| :-: |
@@ -69,7 +70,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖼🧊 Cubism</summary><p><div align="center">
+- <details><summary>🖼🧊 Cubism</summary><p><div align="center">
 
 	| Cubism |
 	| :-: |
@@ -78,7 +79,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖼🔮 Neo</summary><p><div align="center">
+- <details><summary>🖼🔮 Neo</summary><p><div align="center">
 
 	| Neo-Tokyo |
 	| :-: |
@@ -87,7 +88,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖼🌀 Psychedelic, Divine, Fractal, and Noise</summary><p><div align="center">
+- <details><summary>🖼🌀 Psychedelic, Divine, Fractal, and Noise</summary><p><div align="center">
 
 	| Psychedelica |
 	| :-: |
@@ -102,7 +103,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖼🌈 Synesthesia</summary><p><div align="center">
+- <details><summary>🖼🌈 Synesthesia</summary><p><div align="center">
 
 	| Synesthesia |
 	| :-: |
@@ -111,7 +112,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖼💫 Stylized</summary><p><div align="center">
+- <details><summary>🖼💫 Stylized</summary><p><div align="center">
 
 	| Extreme Bubble Design |
 	| :-: |
