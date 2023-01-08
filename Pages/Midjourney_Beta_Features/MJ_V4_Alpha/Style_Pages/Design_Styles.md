@@ -115,6 +115,15 @@
 	</div></p></details>
 
 
+- <details><summary>🖼🌈 Synesthesia</summary><p><div align="center">
+
+	| Synesthesia |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Synesthesia.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
 - <details><summary>🖼👩‍🎨 Art Styles</summary><p><div align="center">
 
 	| Art Deco |
@@ -132,15 +141,6 @@
 	| Memphis Style | Memphis Design |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Memphis_Style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Memphis_Design.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>🖼🌈 Synesthesia</summary><p><div align="center">
-
-	| Synesthesia |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Synesthesia.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
