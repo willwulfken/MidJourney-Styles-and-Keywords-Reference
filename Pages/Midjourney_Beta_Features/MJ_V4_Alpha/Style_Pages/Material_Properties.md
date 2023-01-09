@@ -16,6 +16,21 @@
 <br>
 
 
+- <details><summary>📦🧫 Opacity</summary><p><div align="center">
+
+	| Opacity |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Opacity.png?raw=true" width="256" /> |
+	
+	<br>
+
+	| Transparent | Translucent | Opaque |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Transparent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Translucent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Opaque.png?raw=true" width="256" /> | 
+
+	</div></p></details>
+
+
 - <details><summary>📦🏮 Optics and Light Manipulation</summary><p><div align="center">
 
 	| Opalescent |
@@ -46,11 +61,35 @@
 	</div></p></details>
 
 
+- <details><summary>📦🧊 Softness and Hardness</summary><p><div align="center">
+
+	| Soft | Hard |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Soft.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Hard.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Soft Body | Squishy |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Soft_Body.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Squishy.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
 - <details><summary>📦🧽 Physical Properties</summary><p><div align="center">
 
 	| Cracked |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Cracked.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+- <details><summary>📦 Other Material Properties</summary><p><div align="center">
+
+	| Anisotropy |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Anisotropy.png?raw=true" width="256" /> |
 
 	</div></p></details>
 

@@ -16,7 +16,13 @@
 <br>
 
 
+- <details><summary>🛤️📐 Angles</summary><p><div align="center">
 
+	| Low Angle | High Angle |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Low_Angle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/High_Angle.png?raw=true" width="256" /> |
+
+  </div></p></details>
 
 
 <hr><!--------------->
