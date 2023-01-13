@@ -13,9 +13,9 @@
 		<th colspan=3><h3>Sphere</h3></th>
 	</tr>
 	<tr align=center valign=middle>
-		<th>Version 1</th>
-		<th>Version 2</th>
-		<th>Version 3</th>
+		<th>V1</th>
+		<th>V2</th>
+		<th>V3</th>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
