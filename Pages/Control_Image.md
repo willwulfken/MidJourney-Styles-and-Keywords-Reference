@@ -87,11 +87,12 @@
 
 <table>
 	<tr align=center valign=middle>
-		<th colspan=2><h3>Landscape</h3></th>
+		<th colspan=3><h3>Landscape</h3></th>
 	</tr>
 	<tr align=center valign=middle>
-		<th>Version 2</th>
-		<th>Version 3</th>
+		<th>V2</th>
+		<th>V3</th>
+		<th>V4 "Alpha 3"</th>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
@@ -99,6 +100,9 @@
 		</td>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/_landscape_--seed4776.png?raw=true"  width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Midjourney_Styles/Landscape.png"  width="256" />
 		</td>
 	</tr>
 </table>
