@@ -12,6 +12,9 @@
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_test_inactive.webp?raw=true" alt="test" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/test/Comparison_Pages/Parameters/Stylize_Comparison.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_testp_inactive.webp?raw=true" alt="testp" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp/Comparison_Pages/Parameters/Stylize_Comparison.md)
 
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Image_Type_Buttons/button_galaxy_active.webp?raw=true" alt="Galaxy" width="140.5" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Image_Type_Buttons/button_architecture_inactive.webp?raw=true" alt="Architecture" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison_Architecture.md)
+
 </div>
 
 <hr>

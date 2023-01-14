@@ -242,7 +242,7 @@
   <img alt="🧩 Prompt Parameters" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_parameters.webp?raw=true" width = 758>
 </picture>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Parameters/Stylize_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter_light.webp?raw=true" width = 249>
   <img alt="🎇 --stylize Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter.webp?raw=true" width = 249>
@@ -252,7 +252,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter_light.webp?raw=true" width = 249>
   <img alt="💎 --quality Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Parameters/Chaos_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Parameters/Chaos_Comparison/Chaos_Comparison.md"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_chaos_parameter.webp?raw=true" width = 249>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_chaos_parameter_light.webp?raw=true" width = 249>
     <img alt="🌪 --chaos Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_chaos_parameter.webp?raw=true" width = 249>
