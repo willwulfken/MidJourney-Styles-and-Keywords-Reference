@@ -5,6 +5,7 @@
 <div align="center">
 
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/MJ_V4_Alpha/Comparison_Pages/Prompt_Writing/Hybrid_Comparison.md)
 
 </div>
 
