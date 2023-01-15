@@ -1,3 +1,7 @@
+<h1>Warning!</h1>
+<h3>If you are on a limited data plan, close this page now!</h3>
+<h3>This page will load multiple gigabytes of data!</h3>
+
 - <details><summary>0-9</summary><p><div align="center">
 
 	| Style Name | Image |
