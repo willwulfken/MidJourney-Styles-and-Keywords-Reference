@@ -30,13 +30,13 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_0.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_0.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_100.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_100.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_200.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_200.png?raw=true" width="256" />
         </td>
     </tr>
 </table>
@@ -51,13 +51,13 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_300.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_300.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_400.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_400.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_500.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_500.png?raw=true" width="256" />
         </td>
     </tr>
 </table>
@@ -72,13 +72,13 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_600.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_600.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_700.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_700.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_800.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_800.png?raw=true" width="256" />
         </td>
     </tr>
 </table>
@@ -92,10 +92,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_900.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_900.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_1000.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Stylize_Comparison/Architecture_stylize_1000.png?raw=true" width="256" />
         </td>
     </tr>
 </table>

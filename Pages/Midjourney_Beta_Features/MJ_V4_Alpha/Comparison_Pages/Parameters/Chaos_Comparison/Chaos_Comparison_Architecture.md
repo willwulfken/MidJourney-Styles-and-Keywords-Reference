@@ -30,13 +30,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_0.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_0.png?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_10.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_10.png?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_20.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_20.png?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -51,13 +51,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_30.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_30.png?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_40.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_40.png?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_50.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_50.png?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -72,13 +72,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_60.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_60.png?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_70.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_70.png?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_80.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_80.png?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -92,10 +92,10 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_90.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_90.png?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_100.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_3.5/Comparison_Page_Images/Chaos_Comparison/Architecture_chaos_100.png?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
