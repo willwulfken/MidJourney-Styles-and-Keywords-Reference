@@ -1,0 +1,42 @@
+{
+    "Themes": {
+        "Name": "🎭 Themes",
+        "URL": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/",
+        "Versions": {
+            "V1": {
+                "Sphere": "MJ_V1/Style_Pages/Sphere/Themes.md"
+            },
+            "V2": {
+                "Sphere": "MJ_V2/Style_Pages/Sphere/Themes.md"
+            },
+            "V3": {
+                "Just_The_Styles": "MJ_V3/Style_Pages/Just_The_Style/Themes.md",
+                "Sphere": "MJ_V3/Style_Pages/Sphere/Themes.md"
+            },
+            "V4": {
+                "Just_The_Styles": "Midjourney_Beta_Features/MJ_V4_Alpha/Style_Pages/Themes.md"
+            },
+            "Niji": "Niji_Journey/Style_Pages/Themes.md"
+        }
+    },
+    "Design Styles": {
+        "Name": "🖼 Design Styles",
+        "URL": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/",
+        "Versions": {
+            "V1": {
+                "Sphere": "MJ_V1/Style_Pages/Sphere/Design_Styles.md"
+            },
+            "V2": {
+                "Sphere": "MJ_V2/Style_Pages/Sphere/Design_Styles.md"
+            },
+            "V3": {
+                "Just_The_Styles": "MJ_V3/Style_Pages/Just_The_Style/Design_Styles.md",
+                "Sphere": "MJ_V3/Style_Pages/Sphere/Design_Styles.md"
+            },
+            "V4": {
+                "Just_The_Styles": "Midjourney_Beta_Features/MJ_V4_Alpha/Style_Pages/Design_Styles.md"
+            },
+            "Niji": "Niji_Journey/Style_Pages/Design_Styles.md"
+        }
+    }
+}
