@@ -16,7 +16,9 @@
             "V4": {
                 "Just_The_Styles": "Midjourney_Beta_Features/MJ_V4_Alpha/Style_Pages/Themes.md"
             },
-            "Niji": "Niji_Journey/Style_Pages/Themes.md"
+            "Niji": {
+                "Just_The_Styles": "Niji_Journey/Style_Pages/Themes.md"
+            }
         }
     },
     "Design Styles": {
@@ -36,7 +38,9 @@
             "V4": {
                 "Just_The_Styles": "Midjourney_Beta_Features/MJ_V4_Alpha/Style_Pages/Design_Styles.md"
             },
-            "Niji": "Niji_Journey/Style_Pages/Design_Styles.md"
+            "Niji": {
+                "Just_The_Styles": "Niji_Journey/Style_Pages/Design_Styles.md"
+            }
         }
     }
 }
