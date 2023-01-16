@@ -1,7 +1,7 @@
 {
     "Themes": {
         "Name": "🎭 Themes",
-        "URL": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/",
+        "URL": "https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Pages/",
         "Versions": {
             "V1": {
                 "Sphere": "MJ_V1/Style_Pages/Sphere/Themes.md"
@@ -23,7 +23,7 @@
     },
     "Design Styles": {
         "Name": "🖼 Design Styles",
-        "URL": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/",
+        "URL": "https://raw.githubusercontent.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/main/Pages/",
         "Versions": {
             "V1": {
                 "Sphere": "MJ_V1/Style_Pages/Sphere/Design_Styles.md"
