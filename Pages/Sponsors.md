@@ -16,9 +16,9 @@
 
 <br>
 
-| Ricky | Blake K | Phil | 3xPMaverick |
-| :-: | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Ricky.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Blake_K.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Phil.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3xPMaverick.png?raw=true" width="224" /> |
+| Aarom Stone | Ricky | Blake K | Phil | 3xPMaverick |
+| :-: | :-: | :-: | :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Aarom_Stone.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Ricky.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Blake_K.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Phil.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3xPMaverick.png?raw=true" width="224" /> |
 
 <br>
 
