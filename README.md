@@ -229,10 +229,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_word_suffix_comparison_light.webp?raw=true" width = 249>
     <img alt="📓 Word Suffix Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_word_suffix_comparison.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Hybrid_Comparison.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_style_hybrid_comparison_one_third.webp?raw=true" width = 249>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_style_hybrid_comparison_one_third_light.webp?raw=true" width = 249>
-    <img alt="🔰 Style Hybrid Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_style_hybrid_comparison_one_third.webp?raw=true" width = 249>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Compound_Word_Format_Comparison.md"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_compound_word_format.webp?raw=true" width = 249>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_compound_word_format_light.webp?raw=true" width = 249>
+    <img alt="🗜 Compound Word Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_compound_word_format.webp?raw=true" width = 249>
 </picture></a>
 <br><!------------->
 <br><!------------->

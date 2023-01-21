@@ -1,4 +1,4 @@
-<h2>🗜 Compound Word Comparison</h2>
+<h2>🗜 Compound Word Format Comparison</h2>
 
 <div align="center">
 

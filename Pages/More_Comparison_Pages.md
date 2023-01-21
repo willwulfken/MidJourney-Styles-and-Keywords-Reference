@@ -12,15 +12,20 @@
   <img alt="✍ Prompt Writing" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_writing.webp?raw=true" width = 758>
 </picture>
 <br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Hybrid_Comparison.md"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_style_hybrid_comparison_one_third.webp?raw=true" width = 249>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_style_hybrid_comparison_one_third_light.webp?raw=true" width = 249>
+    <img alt="🔰 Style Hybrid Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_style_hybrid_comparison_one_third.webp?raw=true" width = 249>
+</picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Diacritic_Mark_Comparison.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_diacritic_mark_comparison_half.webp?raw=true" width = 377>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_diacritic_mark_comparison_half_light.webp?raw=true" width = 377>
-    <img alt="🗣 Diacritic Mark Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_diacritic_mark_comparison_half.webp?raw=true" width = 377>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_diacritic_mark_comparison.webp?raw=true" width = 249>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_diacritic_mark_comparison_light.webp?raw=true" width = 249>
+    <img alt="🗣 Diacritic Mark Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_diacritic_mark_comparison.webp?raw=true" width = 249>
 </picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Font_Comparison.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_font_comparison.webp?raw=true" width = 377>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_font_comparison_light.webp?raw=true" width = 377>
-    <img alt="© Font Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_font_comparison.webp?raw=true" width = 377>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_font_comparison.webp?raw=true" width = 249>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_font_comparison_light.webp?raw=true" width = 249>
+    <img alt="© Font Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_font_comparison.webp?raw=true" width = 249>
 </picture></a>
 <br><!------------->
 <br><!------------->
