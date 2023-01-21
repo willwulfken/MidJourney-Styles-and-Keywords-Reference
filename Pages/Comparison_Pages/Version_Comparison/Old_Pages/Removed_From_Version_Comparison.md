@@ -17,56 +17,56 @@
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Themes_and_Design_Styles/Octane.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Painting By Pablo Picasso</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Artists/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Kapton Tape</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Materials/Kapton_Tape.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Glossy</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Material_Properties/Glossy.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Cyan</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Colors/Basic_Colors/Cyan.png?raw=true" width="256" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Polaroid</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Camera/Polaroid.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Super-Resolution Microscopy</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Camera/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Hexagon</th>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
         <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Geometry/Hexagon.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -82,59 +82,59 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Octane</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Octane.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Painting By Pablo Picasso</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Painting_By_Pablo_Picasso.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Kapton Tape</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Kapton_Tape.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Glossy</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Glossy.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Cyan</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Cyan.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Polaroid</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Polaroid.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Super-Resolution Microscopy</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Super-Resolution_Microscopy.png?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Hexagon</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_1/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/MJ_V4_Alpha/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Hexagon.png?raw=true" width="256" /></td>
     </tr>
 </table>
 
