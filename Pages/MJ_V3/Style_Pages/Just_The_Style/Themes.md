@@ -394,7 +394,7 @@
 
 
 
-- <details><summary>🎭🌎 Planets</summary><p><div align="center">
+- <details><summary>🎭🌎 Planets and Celestial Bodies</summary><p><div align="center">
 
 	| Planet | Planets | Planetary |
 	| :-: | :-: | :-: |

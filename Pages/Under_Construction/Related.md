@@ -47,7 +47,7 @@
 	</tr>
 	<tr align="center" valign="middle">
 		<td width=280>🎭☄ Outer Space</td>
-		<td width=280>🎭🌎 Planets</td>
+		<td width=280>🎭🌎 Planets and Celestial Bodies</td>
 		<td width=280>🎭⚽ Sports</td>
 	</td>
 	<tr align="center" valign="middle">

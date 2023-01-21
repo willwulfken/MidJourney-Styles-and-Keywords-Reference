@@ -346,7 +346,7 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>🎭☄ Outer Space</td>
-		<td>🎭🌎 Planets</td>
+		<td>🎭🌎 Planets and Celestial Bodies</td>
 		<td>🎭🎌 Countries and Nations</td>
 	</tr>
 	<tr align=center valign=middle>
