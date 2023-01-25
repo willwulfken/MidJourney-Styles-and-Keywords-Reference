@@ -2,7 +2,7 @@
 
 <hr><!--------------->
 
-<h3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Styles.md">🌌 Midjourney V4 Alpha - Styles</a></h3>
+<h3>🌌 Midjourney V4 Alpha</h3>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md">📇 Version Comparison - V4 Alpha</a>
 <br>
