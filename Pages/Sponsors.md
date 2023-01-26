@@ -22,9 +22,9 @@
 
 <br>
 
-| hata (prompts.page) | LuxuryCardStore | van |
-| :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/hata.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/LuxuryCardStore.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/van.png?raw=true" width="160" /> |
+| hata (prompts.page) | LuxuryCardStore | van | Albert Bardewyck |
+| :-: | :-: | :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/hata.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/LuxuryCardStore.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/van.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Albert_Bardewyck.png?raw=true" width="160" /> |
 
 <br>
 
