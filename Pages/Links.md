@@ -7,7 +7,7 @@
 <table>
 	<tr align=center valign=middle>
 		<td><img src="https://i.imgur.com/2H1Ruh6.png" width=64 /></td>
-		<td><a href="https://midjourney.gitbook.io/docs/">Midjourney Documentation</a></td>
+		<td><a href="https://docs.midjourney.com/">Midjourney Documentation</a></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td><img src="https://i.imgur.com/IJuqEnz.png" width=64 /></td>
