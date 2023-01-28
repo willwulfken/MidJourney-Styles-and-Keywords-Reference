@@ -163,8 +163,6 @@
 	| Copper-Sulfate |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Copper-Sulfate.png?raw=true" width="256" /> |
-	
-	<br>
 
 	</div></p></details>
 
@@ -285,12 +283,6 @@
 	| Linoleum |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Linoleum.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Silly Band |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Silly_Band.png?raw=true" width="256" /> |
 
 	</div></p></details>
 

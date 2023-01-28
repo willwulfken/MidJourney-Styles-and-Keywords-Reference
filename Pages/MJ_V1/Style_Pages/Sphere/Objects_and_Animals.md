@@ -56,6 +56,12 @@
 
 	<br>
 
+	| Silly Band |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Silly_Band.png?raw=true" width="256" /> |
+
+	<br>
+
 	| <br>Teapot<p><div align="center"><i><h6><a href="https://rexwang8.github.io/resource/ai/teapot">@bob</a></h6></i></p> |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Teapot.png?raw=true" width="256" /> |
