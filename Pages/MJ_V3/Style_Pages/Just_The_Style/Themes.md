@@ -1550,8 +1550,6 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Hockey.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_11/Hockey_Puck.png?raw=true" width="256" /> |
 
 	<br>
-
-	<br>
 	
 	| Volleyball |
 	| :-: |
