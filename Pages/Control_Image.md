@@ -35,7 +35,8 @@
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
 		<th><br>V4 "Alpha 3"<p>(12-16-22)</p></th>
-		<th><br>V4 "Alpha 3.5"<p>(1-7-23)</p></th>
+		<th><br>V4 "Alpha 3.1"<p>(1-7-23)</p></th>
+		<th><br>V4 "Alpha 3.2"<p>(1-7-23)</p></th>
 	</tr>
 	<tr align=center valign=middle>
     	<td>
@@ -49,6 +50,9 @@
 		</td>
     	<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sphere.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Sphere.png?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
