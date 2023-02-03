@@ -264,6 +264,80 @@
 
 
 
+- <details><summary><b>🧩🔬 Test (Just The Style)</summary></b><p><div align="center">
+
+  <h3><pre>Test (Just The Style)</pre></h3>
+
+	<br>
+
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/test/Style_Pages/Styles.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<img alt="Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	</picture></a>
+
+</div></p></details>
+
+
+<br><br>
+
+
+- <details><summary><b>🧩🔬🖍 Test Creative (Just The Style)</summary></b><p><div align="center">
+
+  <h3><pre>Test Creative (Just The Style)</pre></h3>
+
+	<br>
+
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/test_creative/Style_Pages/Styles.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<img alt="Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	</picture></a>
+
+</div></p></details>
+
+
+<br><br>
+
+
+- <details><summary><b>🧩📷 Testp (Just The Style)</summary></b><p><div align="center">
+
+  <h3><pre>Testp (Just The Style)</pre></h3>
+
+	<br>
+
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp/Style_Pages/Styles.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<img alt="Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	</picture></a>
+
+</div></p></details>
+
+
+<br><br>
+
+
+- <details><summary><b>🧩📷🖍 Testp Creative (Just The Style)</summary></b><p><div align="center">
+
+  <h3><pre>Testp Creative (Just The Style)</pre></h3>
+
+	<br>
+
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp_creative/Style_Pages/Styles.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<img alt="Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	</picture></a>
+
+</div></p></details>
+
+
+
+<br><br><hr><br><br>
+
+
+
 - <details><summary><b>✨ MidJourney V3 (Just The Style)</summary></b><p><div align="center">
 
   <h3><pre>MidJourney V3 (Just The Style)</pre></h3>
@@ -538,7 +612,43 @@
 </div></p></details>
 
 
+<br><br>
+
+
+- <details><summary><b>✨💎 MidJourney V3 HD (Just The Style)</summary></b><p><div align="center">
+
+  <h3><pre>MidJourney V3 HD (Just The Style)</pre></h3>
+
+	<br>
+
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Styles_HD.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<img alt="Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	</picture></a>
+
+</div></p></details>
+
+
 <br><br><hr><br><br>
+
+
+- <details><summary><b>🟩 MidJourney V2 (Just The Style)</summary></b><p><div align="center">
+
+  <h3><pre>MidJourney V2 (Just The Style)</pre></h3>
+
+	<br>
+
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Just_The_Style/Styles.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<img alt="Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	</picture></a>
+
+</div></p></details>
+
+
+<br><br>
 
 
 - <details><summary><b>🟢 MidJourney V2 (Sphere)</summary></b><p><div align="center">
@@ -683,9 +793,45 @@
 </div></p></details>
 
 
+<br><br>
+
+
+- <details><summary><b>🟩💎 MidJourney V2 HD (Just The Style)</summary></b><p><div align="center">
+
+  <h3><pre>MidJourney V2 HD (Just The Style)</pre></h3>
+
+	<br>
+
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Just_The_Style/Styles_HD.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<img alt="Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	</picture></a>
+
+</div></p></details>
+
+
 
 <br><br><hr><br><br>
 
+
+
+- <details><summary><b>🟦 MidJourney V1 (Just The Style)</summary></b><p><div align="center">
+
+  <h3><pre>MidJourney V1 (Just The Style)</pre></h3>
+
+	<br>
+
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Just_The_Style/Styles.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	<img alt="Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
+	</picture></a>
+
+</div></p></details>
+
+
+<br><br>
 
 
 - <details><summary><b>🔵 MidJourney V1 (Sphere)</summary></b><p><div align="center">
