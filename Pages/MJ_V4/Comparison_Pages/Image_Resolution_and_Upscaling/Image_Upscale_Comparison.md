@@ -15,6 +15,8 @@
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive.webp?raw=true" alt="Niji Journey" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_beta_upscale_inactive.webp?raw=true" alt="Beta Upscale" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md)
 
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3_active.webp?raw=true" alt="V4 Alpha 3" width="140.5" />]()
+
 </div>
 
 <hr>
@@ -23,9 +25,6 @@
 <div align="center">
 
 <table>
-    <tr align=center valign=middle>
-        <th colspan=3>V4 "Alpha 3"</th>
-    </tr>
     <tr align=center valign=middle>
         <th>Original Image</th>
         <th>Regular Upscale</th>
