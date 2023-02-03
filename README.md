@@ -64,11 +64,13 @@
 
   <h3><pre>Styles</pre></h3>
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Rainbow_of_Colors.md"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width = 758>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors_light.webp?raw=true" width = 758>
-  <img alt="🌈 Rainbow of Midjourney Colors" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width = 758>
-</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Rainbow_of_Colors.md">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width=758>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors_light.webp?raw=true" width=758>
+  <img alt="🌈 Rainbow of Midjourney Colors" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width=758>
+  </picture>
+</a>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Themes.md"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_style_themes.webp?raw=true" width = 249>
