@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/WEBP/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
 
 </div>
 
