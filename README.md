@@ -345,15 +345,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_comparison_light.webp?raw=true" width = 758>
     <img alt="📇 Version Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_comparison.webp?raw=true" width = 758>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features.md"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_midjourney_beta_features_half.webp?raw=true" width = 377>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_midjourney_beta_features_half_light.webp?raw=true" width = 377>
-    <img alt="🕋 MidJourney Beta Features" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_midjourney_beta_features_half.webp?raw=true" width = 377>
-</picture></a>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%F0%9F%A7%AA-Experiments"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_experiments_half.webp?raw=true" width = 377>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_experiments_half_light.webp?raw=true" width = 377>
-    <img alt="🧪 Experiments" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_experiments_half.webp?raw=true" width = 377>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_experiments.webp?raw=true" width = 758>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_experiments_light.webp?raw=true" width = 758>
+    <img alt="🧪 Experiments" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_experiments.webp?raw=true" width = 758>
 </picture></a>
 
 <hr>
