@@ -298,7 +298,7 @@
 
 	<br>
 
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp/Style_Pages/Styles.md"><img src="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp/Style_Pages/Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
 </div></p></details>
 
