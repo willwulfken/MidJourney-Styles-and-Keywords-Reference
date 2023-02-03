@@ -312,11 +312,7 @@
 
 	<br>
 
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp_creative/Style_Pages/Styles.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
-	<img alt="Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190>
-	</picture></a>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp_creative/Style_Pages/Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
 </div></p></details>
 
