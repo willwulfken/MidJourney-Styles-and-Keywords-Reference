@@ -14,9 +14,9 @@
 
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/button_V4_all_inactive.webp?raw=true" alt="V4 All" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison_V4_All.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_2.5_inactive.webp?raw=true" alt="V4 Alpha 2.5" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_2.5_4a.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3_inactive.webp?raw=true" alt="V4 Alpha 3" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_3.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3_active.webp?raw=true" alt="V4 Alpha 3" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_3.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3.5_inactive.webp?raw=true" alt="V4 Alpha 3.5" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Older_Versions/V4_Alpha_3.5.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3.6_active.webp?raw=true" alt="V4 Alpha 3.6" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3.6_inactive.webp?raw=true" alt="V4 Alpha 3.6" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
 
 </div>
 
@@ -33,13 +33,13 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_0.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_0.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_100.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_100.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_200.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_200.png?raw=true" width="256" />
         </td>
     </tr>
 </table>
@@ -54,13 +54,13 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_300.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_300.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_400.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_400.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_500.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_500.png?raw=true" width="256" />
         </td>
     </tr>
 </table>
@@ -75,13 +75,13 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_600.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_600.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_700.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_700.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_800.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_800.png?raw=true" width="256" />
         </td>
     </tr>
 </table>
@@ -95,10 +95,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_900.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_900.png?raw=true" width="256" />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_1000.png?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Stylize_Comparison/Galaxy_stylize_1000.png?raw=true" width="256" />
         </td>
     </tr>
 </table>
