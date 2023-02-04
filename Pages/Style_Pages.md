@@ -200,7 +200,7 @@
   
 	<details><summary>V4 Alpha 2.5 (Style 4a and 4b)</summary><p><div align="center">
 
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Older_Versions/Just_The_Style/V4_Alpha_2.5_4a.md"><img alt="V4 Alpha 2.5 Style 4a" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Style/button_V4_style_4a_active.webp?raw=true" width = 134 /></a>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Older_Versions/Just_The_Style/V4_Alpha_2.5_4a.md"><img alt="V4 Alpha 2.5 Style 4a" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Style/button_V4_style_4a_inactive.webp?raw=true" width = 134 /></a>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Older_Versions/Just_The_Style/V4_Alpha_2.5_4b.md"><img alt="V4 Alpha 2.5 Style 4b" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Style/button_V4_style_4b_inactive.webp?raw=true" width = 134 /></a>
 
 	</div></p></details>
