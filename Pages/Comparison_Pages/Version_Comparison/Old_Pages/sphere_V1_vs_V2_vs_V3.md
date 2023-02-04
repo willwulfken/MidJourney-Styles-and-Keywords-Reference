@@ -6,8 +6,6 @@
 
 <div align="center">
 
-
-
 <table>
     <tr align="center" valign="middle">
         <th width=120></th>
