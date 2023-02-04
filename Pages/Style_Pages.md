@@ -2,9 +2,11 @@
 
 <br>
 
-- <details><summary><b>🌌 MidJourney V4 (Just The Style)</summary></b><p><div align="center">
+<details><summary><h3>🌌 MidJourney V4</h3></summary><p><br>
 
-  <h3><pre>MidJourney V4 (Just The Style)</pre></h3>
+  - <details><summary><b>🌌 MidJourney V4 (Just The Style)</summary></b><p><div align="center">
+
+	<h3><pre>MidJourney V4 (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Just_The_Style/Themes.md"><picture>
@@ -125,15 +127,15 @@
 	<img alt="🎛 Miscellaneous" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>🏞 MidJourney V4 (Landscape)</summary></b><p><div align="center">
+  - <details><summary><b>🏞 MidJourney V4 (Landscape)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V4 (Landscape)</pre></h3>
+	<h3><pre>MidJourney V4 (Landscape)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Landscape/Artists.md"><picture>
@@ -147,15 +149,15 @@
 	<img alt="🛤️ Perspective" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective.webp?raw=true" width = 190>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>💎 MidJourney V4 (Crystal)</summary></b><p><div align="center">
+  - <details><summary><b>💎 MidJourney V4 (Crystal)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V4 (Crystal)</pre></h3>
+	<h3><pre>MidJourney V4 (Crystal)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Crystal/Material_Properties.md"><picture>
@@ -164,15 +166,15 @@
 	<img alt="📦 Material Properties" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties.webp?raw=true" width = 190>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>🌲 MidJourney V4 (Tree)</summary></b><p><div align="center">
+  - <details><summary><b>🌲 MidJourney V4 (Tree)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V4 (Tree)</pre></h3>
+	<h3><pre>MidJourney V4 (Tree)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Tree/Camera.md"><picture>
@@ -181,39 +183,44 @@
 	<img alt="📷 Camera, Film, and Lenses" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera.webp?raw=true" width = 190>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>🕰️ MidJourney V4 (Older Alpha Versions)</summary></b><p><div align="center">
+  - <details><summary><b>🕰️ MidJourney V4 (Older Alpha Versions)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V4 (Older Alpha Versions)</pre></h3>
+	<h3><pre>MidJourney V4 (Older Alpha Versions)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Older_Versions/Just_The_Style/V4_Alpha_1.md"><img alt="V4 Alpha 1" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_1_inactive.webp?raw=true" width = 134 /></a>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Older_Versions/Just_The_Style/V4_Alpha_2.md"><img alt="V4 Alpha 2" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_2_inactive.webp?raw=true" width = 134 /></a>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Older_Versions/Just_The_Style/V4_Alpha_3.md"><img alt="V4 Alpha 3" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3_inactive.webp?raw=true" alt="V4 Alpha 3" width = 134 /></a>
-  
+
 	<br><br>
-  
-	<details><summary>V4 Alpha 2.5 (Style 4a and 4b)</summary><p><div align="center">
+
+	  <details><summary>V4 Alpha 2.5 (Style 4a and 4b)</summary><p><div align="center">
 
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Older_Versions/Just_The_Style/V4_Alpha_2.5_4a.md"><img alt="V4 Alpha 2.5 Style 4a" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Style/button_V4_style_4a_inactive.webp?raw=true" width = 134 /></a>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Older_Versions/Just_The_Style/V4_Alpha_2.5_4b.md"><img alt="V4 Alpha 2.5 Style 4b" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Style/button_V4_style_4b_inactive.webp?raw=true" width = 134 /></a>
 
+	  </div></p></details>
+
 	</div></p></details>
 
-</div></p></details>
+<br>
+
+</p></details>
 
 
-<br><br><hr><br><br>
 
 
-- <details><summary><b>⛩ Niji Journey (Just The Style)</summary></b><p><div align="center">
+<details><summary><h3>⛩ Niji Journey</h3></summary><p><br>
 
-  <h3><pre>Niji Journey (Just The Style)</pre></h3>
+  - <details><summary><b>⛩ Niji Journey (Just The Style)</summary></b><p><div align="center">
+
+	<h3><pre>Niji Journey (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md"><picture>
@@ -334,71 +341,77 @@
 	<img alt="🎛 Miscellaneous" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
+
+<br>
+
+</p></details>
 
 
 
-<br><br><hr><br><br>
 
+<details><summary><h3>🧩 Test, Testp, Creative</h3></summary><p><br>
 
+  - <details><summary><b>🧩🔬 Test (Just The Style)</summary></b><p><div align="center">
 
-- <details><summary><b>🧩🔬 Test (Just The Style)</summary></b><p><div align="center">
-
-  <h3><pre>Test (Just The Style)</pre></h3>
+	<h3><pre>Test (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/test/Style_Pages/Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>🧩🔬🖍 Test Creative (Just The Style)</summary></b><p><div align="center">
+  - <details><summary><b>🧩🔬🖍 Test Creative (Just The Style)</summary></b><p><div align="center">
 
-  <h3><pre>Test Creative (Just The Style)</pre></h3>
+	<h3><pre>Test Creative (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/test_creative/Style_Pages/Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>🧩📷 Testp (Just The Style)</summary></b><p><div align="center">
+  - <details><summary><b>🧩📷 Testp (Just The Style)</summary></b><p><div align="center">
 
-  <h3><pre>Testp (Just The Style)</pre></h3>
+	<h3><pre>Testp (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp/Style_Pages/Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>🧩📷🖍 Testp Creative (Just The Style)</summary></b><p><div align="center">
+  - <details><summary><b>🧩📷🖍 Testp Creative (Just The Style)</summary></b><p><div align="center">
 
-  <h3><pre>Testp Creative (Just The Style)</pre></h3>
+	<h3><pre>Testp Creative (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp_creative/Style_Pages/Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
-</div></p></details>
+	</div></p></details>
+
+<br>
+
+</p></details>
 
 
 
-<br><br><hr><br><br>
 
+<details><summary><h3>✨ Midjourney V3</h3></summary><p><br>
 
+  - <details><summary><b>✨ MidJourney V3 (Just The Style)</summary></b><p><div align="center">
 
-- <details><summary><b>✨ MidJourney V3 (Just The Style)</summary></b><p><div align="center">
-
-  <h3><pre>MidJourney V3 (Just The Style)</pre></h3>
+	<h3><pre>MidJourney V3 (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Themes.md"><picture>
@@ -519,15 +532,15 @@
 	<img alt="🎛 Miscellaneous" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
 
 
-<br><br>
+	<br><br>
 
 
 
-- <details><summary><b>🔘 MidJourney V3 (Sphere)</summary></b><p><div align="center">
+  - <details><summary><b>🔘 MidJourney V3 (Sphere)</summary></b><p><div align="center">
 
 	<h3><pre>MidJourney V3 (Sphere)</pre></h3>
 
@@ -645,17 +658,15 @@
 	<img alt="🎛 Miscellaneous" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-
-<br><br>
-
+	<br><br>
 
 
-- <details><summary><b>🌄 MidJourney V3 (Landscape)</summary></b><p><div align="center">
+  - <details><summary><b>🌄 MidJourney V3 (Landscape)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V3 (Landscape)</pre></h3>
+	<h3><pre>MidJourney V3 (Landscape)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Landscape/Artists.md"><picture>
@@ -664,41 +675,46 @@
 	<img alt="📔 Artists" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists.webp?raw=true" width = 190>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>✨💎 MidJourney V3 HD (Just The Style)</summary></b><p><div align="center">
+  - <details><summary><b>✨💎 MidJourney V3 HD (Just The Style)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V3 HD (Just The Style)</pre></h3>
+	<h3><pre>MidJourney V3 HD (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Styles_HD.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
-</div></p></details>
+	</div></p></details>
+
+<br>
+
+</p></details>
 
 
-<br><br><hr><br><br>
 
 
-- <details><summary><b>🟩 MidJourney V2 (Just The Style)</summary></b><p><div align="center">
+<details><summary><h3>🟩 Midjourney V2</h3></summary><p><br>
 
-  <h3><pre>MidJourney V2 (Just The Style)</pre></h3>
+  - <details><summary><b>🟩 MidJourney V2 (Just The Style)</summary></b><p><div align="center">
+
+	<h3><pre>MidJourney V2 (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Just_The_Style/Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>🟢 MidJourney V2 (Sphere)</summary></b><p><div align="center">
+  - <details><summary><b>🟢 MidJourney V2 (Sphere)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V2 (Sphere)</pre></h3>
+	<h3><pre>MidJourney V2 (Sphere)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Themes.md"><picture>
@@ -814,17 +830,17 @@
 	<img alt="🎛 Miscellaneous" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
 
 
-<br><br>
+	<br><br>
 
 
 
-- <details><summary><b>🏞️ MidJourney V2 (Landscape)</summary></b><p><div align="center">
+  - <details><summary><b>🏞️ MidJourney V2 (Landscape)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V2 (Landscape)</pre></h3>
+	<h3><pre>MidJourney V2 (Landscape)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Landscape/Artists.md"><picture>
@@ -833,43 +849,46 @@
 	<img alt="📔 Artists" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists.webp?raw=true" width = 190>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>🟩💎 MidJourney V2 HD (Just The Style)</summary></b><p><div align="center">
+  - <details><summary><b>🟩💎 MidJourney V2 HD (Just The Style)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V2 HD (Just The Style)</pre></h3>
+	<h3><pre>MidJourney V2 HD (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Just_The_Style/Styles_HD.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
-</div></p></details>
+	</div></p></details>
+
+<br>
+
+</p></details>
 
 
 
-<br><br><hr><br><br>
 
+<details><summary><h3>🟦 MidJourney V1</h3></summary><p><br>
 
+  - <details><summary><b>🟦 MidJourney V1 (Just The Style)</summary></b><p><div align="center">
 
-- <details><summary><b>🟦 MidJourney V1 (Just The Style)</summary></b><p><div align="center">
-
-  <h3><pre>MidJourney V1 (Just The Style)</pre></h3>
+	<h3><pre>MidJourney V1 (Just The Style)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Just_The_Style/Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" width = 190 /></a>
 
-</div></p></details>
+	</div></p></details>
 
 
-<br><br>
+	<br><br>
 
 
-- <details><summary><b>🔵 MidJourney V1 (Sphere)</summary></b><p><div align="center">
+  - <details><summary><b>🔵 MidJourney V1 (Sphere)</summary></b><p><div align="center">
 
-  <h3><pre>MidJourney V1 (Sphere)</pre></h3>
+	<h3><pre>MidJourney V1 (Sphere)</pre></h3>
 
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Themes.md"><picture>
@@ -958,9 +977,13 @@
 	<img alt="➰ Intangibles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
 	</picture></a>
 
-</div></p></details>
+	</div></p></details>
 
-<br><br>
+<br>
+
+</p></details>
+
+<br>
 <hr><!--------------->
 <div align="center">
 <h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
