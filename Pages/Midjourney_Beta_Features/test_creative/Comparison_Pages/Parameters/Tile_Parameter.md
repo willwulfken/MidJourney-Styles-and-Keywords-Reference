@@ -18,6 +18,9 @@
 <hr>
 <br>
 
+
+<div align="center">
+
 <table>
     <tr align=center valign=middle>
         <th></th>
@@ -242,6 +245,8 @@
         </td>
     </tr>
 </table>
+
+</div>
 
 <br>
 
