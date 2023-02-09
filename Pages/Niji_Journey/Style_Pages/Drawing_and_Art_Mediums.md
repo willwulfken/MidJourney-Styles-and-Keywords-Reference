@@ -104,19 +104,26 @@
   </p></details>
 
 
-- <details><summary>🖌🖨 Printed Art Types</summary><p><div align="center">
+- <details><summary>🖌🖨 Printed Material</summary><p>
+
+  - <details><summary>🖌🖨 Print Types</summary><p><div align="center">
 
 	| Comic Book |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Comic_Book.png?raw=true" width="256" /> |
 
-	<br>
-	
+	</div></p></details>
+
+
+  - <details><summary>🖌🃏 Cards and Stamps</summary><p><div align="center">
+
 	| Pokemon Card | Pokémon Card |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card (2).png?raw=true" width="256" /> |
 
 	</div></p></details>
+
+  </p></details>
 
 
 - <details><summary>🖌🎲 Physical Mediums</summary><p>

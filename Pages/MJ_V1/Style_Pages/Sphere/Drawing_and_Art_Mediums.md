@@ -159,17 +159,13 @@
   </p></details>
 
 
-- <details><summary>🖌🖨 Printed Art Types</summary><p><div align="center">
+- <details><summary>🖌🖨 Printed Material</summary><p>
+
+  - <details><summary>🖌🖨 Print Types</summary><p><div align="center">
 
 	| Logo |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Logo.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Comic Book |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Comic_Book.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -178,6 +174,17 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sticker.png?raw=true" width="256" /> |
 
 	</div></p></details>
+
+
+  - <details><summary>🖌📚 Books and Posters</summary><p><div align="center">
+
+	| Comic Book |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Comic_Book.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+  </p></details>
 
 
 - <details><summary>🖌🎲 Physical Mediums</summary><p>
