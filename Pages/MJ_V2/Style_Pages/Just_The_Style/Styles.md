@@ -50,50 +50,11 @@
 	</div></p></details>
 
 
-  - <details><summary>🎭☄ Outer Space</summary><p><div align="center">
-
-	| Galaxy |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Galaxy.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Supernova |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Supernova.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
   - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
 
 	| Steampunk |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Steampunk.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🎭⛄ Seasons and Weather</summary><p><div align="center">
-
-	| Autumn |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Autumn.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Tornado |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Tornado.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🎭🎄 Holidays</summary><p><div align="center">
-
-	| Halloween |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Halloween.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -653,22 +614,6 @@
 <br>
 
 
-- <details><summary>🎷 Objects and Animals</summary><p>
-
-  - <details><summary>🎷🍄 Fungi</summary><p><div align="center">
-
-	| Lactarius-Indigo |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-  </p></details>
-
-
-<br>
-
-
 - <details><summary>📦 Material Properties</summary><p>
 
   - <details><summary>📦🏮 Optics and Light Manipulation</summary><p><div align="center">
@@ -789,6 +734,75 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/2-Dimensional.png?raw=true" width="256" /> |
 
 	</div></p></details>
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>🌲 Nature and Animals</summary><p>
+
+  - <details><summary>🌲🍄 Fungi</summary><p><div align="center">
+
+	| Lactarius-Indigo |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>🌲⛄ Seasons and Weather</summary><p><div align="center">
+
+	| Autumn |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Autumn.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Tornado |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Tornado.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>🗺 Geography and Culture</summary><p>
+
+  - <details><summary>🗺🎄 Holidays</summary><p><div align="center">
+
+	| Halloween |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Halloween.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>☄ Outer Space</summary><p>
+
+  - <details><summary>☄ Other</summary><p><div align="center">
+
+	| Galaxy |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Galaxy.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Supernova |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Midjourney_Styles/Supernova.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
   </p></details>
 
 

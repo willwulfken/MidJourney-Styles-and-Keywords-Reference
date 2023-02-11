@@ -1016,7 +1016,7 @@
 <br>
 
 
-- <details><summary>🎷 Objects and Animals</summary><p>
+- <details><summary>🎷 Objects</summary><p>
 
   - <details><summary>🎷🍄 Fungi</summary><p><div align="center">
 

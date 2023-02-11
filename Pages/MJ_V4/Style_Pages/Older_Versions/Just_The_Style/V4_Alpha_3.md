@@ -134,27 +134,6 @@
 	</div></p></details>
 
 
-  - <details><summary>🎭☄ Outer Space</summary><p><div align="center">
-
-	| Galaxy |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Galaxy.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Supernova |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Supernova.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Blackhole |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Blackhole.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
   - <details><summary>🎭🛋 Rooms</summary><p><div align="center">
 
 	| Inside |
@@ -187,68 +166,6 @@
 	| Steampunk |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Steampunk.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🎭🏝 Biomes and Landscapes</summary><p><div align="center">
-
-	| Landscape |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Landscape.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Tropical |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Tropical.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Deep Sea |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Deep_Sea.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Waterfall |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Waterfall.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-  - <details><summary>🎭⛄ Seasons and Weather</summary><p><div align="center">
-
-	| Autumn |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Autumn.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Lightning |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Lightning.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Tornado |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Tornado.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🎭🎄 Holidays</summary><p><div align="center">
-
-	| Christmas |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Christmas.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Halloween |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Halloween.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -1036,25 +953,7 @@
 <br>
 
 
-- <details><summary>🎷 Objects and Animals</summary><p>
-
-  - <details><summary>🎷🍄 Fungi</summary><p><div align="center">
-
-	| Lactarius-Indigo |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🎷🦞 Sealife</summary><p><div align="center">
-
-	| Jellyfish |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Jellyfish.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
+- <details><summary>🎷 Objects</summary><p>
 
   - <details><summary>🎷🚽 Other Objects</summary><p><div align="center">
 
@@ -1217,6 +1116,129 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/2-Dimensional.png?raw=true" width="256" /> |
 
 	</div></p></details>
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>🌲 Nature and Animals</summary><p>
+
+  - <details><summary>🌲🍄 Fungi</summary><p><div align="center">
+
+	| Lactarius-Indigo |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>🌲🦞 Sealife</summary><p><div align="center">
+
+	| Jellyfish |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Jellyfish.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>🌲🏝 Biomes and Landscapes</summary><p><div align="center">
+
+	| Landscape |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Landscape.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Tropical |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Tropical.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Deep Sea |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Deep_Sea.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Waterfall |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Waterfall.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>🌲⛄ Seasons and Weather</summary><p><div align="center">
+
+	| Autumn |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Autumn.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Lightning |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Lightning.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Tornado |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Tornado.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>🗺 Geography and Culture</summary><p>
+
+  - <details><summary>🗺🎄 Holidays</summary><p><div align="center">
+
+	| Christmas |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Christmas.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Halloween |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Halloween.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>☄ Outer Space</summary><p>
+
+  - <details><summary>☄ Other</summary><p><div align="center">
+
+	| Galaxy |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Galaxy.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Supernova |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Supernova.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Blackhole |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Blackhole.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
   </p></details>
 
 

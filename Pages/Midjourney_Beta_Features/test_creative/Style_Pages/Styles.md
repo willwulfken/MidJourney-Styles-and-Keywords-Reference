@@ -16,20 +16,6 @@
 
 </div></p></details>
 
-<br>
-
-- <details><summary>🎭 Themes</summary><p>
-
-  - <details><summary>🎭☄ Outer Space</summary><p><div align="center">
-
-	| Supernova |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Supernova.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-  </p></details>
-
 
 <br>
 
@@ -187,22 +173,6 @@
 <br>
 
 
-- <details><summary>🎷 Objects and Animals</summary><p>
-
-  - <details><summary>🎷🍄 Fungi</summary><p><div align="center">
-
-	| Lactarius-Indigo |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-  </p></details>
-
-
-<br>
-
-
 - <details><summary>📦 Material Properties</summary><p>
 
   - <details><summary>📦💡 Luminescence</summary><p><div align="center">
@@ -266,6 +236,40 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/2-Dimensional.png?raw=true" width="256" /> |
 
 	</div></p></details>
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>🌲 Nature and Animals</summary><p>
+
+  - <details><summary>🌲🍄 Fungi</summary><p><div align="center">
+
+	| Lactarius-Indigo |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Lactarius-Indigo.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+	</div></p></details>
+
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>☄ Outer Space</summary><p>
+
+  - <details><summary>☄ Other</summary><p><div align="center">
+
+	| Supernova |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Supernova.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
   </p></details>
 
 

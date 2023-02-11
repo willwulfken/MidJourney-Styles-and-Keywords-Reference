@@ -50,44 +50,11 @@
 	</div></p></details>
 
 
-  - <details><summary>🎭☄ Outer Space</summary><p><div align="center">
-
-	| Galaxy |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Galaxy.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
   - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
 
 	| Steampunk |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Steampunk.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🎭⛄ Seasons and Weather</summary><p><div align="center">
-
-	| Autumn |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Autumn.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Tornado |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Tornado.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🎭🎄 Holidays</summary><p><div align="center">
-
-	| Halloween |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Halloween.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -612,6 +579,60 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Ray_Traced.png?raw=true" width="256" /> |
 
 	</div></p></details>
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>🌲 Nature and Animals</summary><p>
+
+  - <details><summary>🌲⛄ Seasons and Weather</summary><p><div align="center">
+
+	| Autumn |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Autumn.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Tornado |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Tornado.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>🗺 Geography and Culture</summary><p>
+
+  - <details><summary>🗺🎄 Holidays</summary><p><div align="center">
+
+	| Halloween |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Halloween.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+  </p></details>
+
+
+<br>
+
+
+- <details><summary>☄ Outer Space</summary><p>
+
+  - <details><summary>☄ Other</summary><p><div align="center">
+
+	| Galaxy |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_hd/Galaxy.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
   </p></details>
 
 

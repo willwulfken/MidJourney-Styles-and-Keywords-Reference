@@ -128,22 +128,6 @@
   </div></p></details>
 
 
-
-- <details><summary>🎭☄ Outer Space</summary><p><div align="center">
-
-    | Cosmic |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cosmic.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Galaxy | Outer Space | Universe |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Galaxy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Outer_Space.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Universe.png?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
 - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
 
 	| Industrial Design |
@@ -173,51 +157,6 @@
 	| Legopunk |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Legopunk.png?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-- <details><summary>🎭🌲 Nature</summary><p><div align="center">
-
-	| Environment |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Environment.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Biopunk |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Biopunk.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Seapunk |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seapunk.png?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-
-- <details><summary>🎭⛄ Seasons and Weather</summary><p><div align="center">
-
-	| Seasons | Spring | Summer |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seasons.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spring.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Summer.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Autumn | Winter |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Autumn.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Winter.png?raw=true" width="256" /> |
-
-  </div></p></details>
-
-- <details><summary>🎭🎄 Holidays</summary><p><div align="center">
-
-	| Christmas | Halloween |
-	| :-: |	:-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Christmas.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Halloween.png?raw=true" width="256" /> |
 
   </div></p></details>
 

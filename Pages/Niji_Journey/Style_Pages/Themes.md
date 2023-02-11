@@ -91,80 +91,11 @@
 	</div></p></details>
 
 
-- <details><summary>🎭☄ Outer Space</summary><p><div align="center">
-
-	| Galaxy |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Galaxy.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Supernova |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Supernova.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>🎭🎌 Countries and Nations</summary><p><div align="center">
-
-	| Chinese-Style |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Chinese-Style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Japanese |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Japanese.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Japanese-Style |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Japanese-Style.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
 - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
 
 	| Steampunk |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Steampunk.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>🎭⛄ Seasons and Weather</summary><p><div align="center">
-
-	| Autumn |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Autumn.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Tornado |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Tornado.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>🎭🎄 Holidays</summary><p><div align="center">
-
-	| Halloween |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Halloween.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>🎭🐱‍👤 Professions and Types of People</summary><p><div align="center">
-	
-	| Samurai | Samurai Warrior |
-    | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Samurai.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Samurai_Warrior.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
