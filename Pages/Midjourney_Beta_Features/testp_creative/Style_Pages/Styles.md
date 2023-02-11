@@ -173,9 +173,6 @@
 <br>
 
 
-<br>
-
-
 - <details><summary>📦 Material Properties</summary><p>
 
   - <details><summary>📦💡 Luminescence</summary><p><div align="center">
