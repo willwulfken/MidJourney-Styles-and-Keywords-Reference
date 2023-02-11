@@ -1219,7 +1219,7 @@
 
 - <details><summary>☄ Outer Space</summary><p>
 
-  - <details><summary>☄ Other</summary><p><div align="center">
+  - <details><summary>☄🌌 Galaxies, Nebulae, and Other Cosmic Structures</summary><p><div align="center">
 
 	| Galaxy |
 	| :-: |
@@ -1231,7 +1231,10 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Supernova.png?raw=true" width="256" /> |
 
-	<br>
+	</div></p></details>
+
+
+  - <details><summary>☄⚫ Black Holes and Singularities</summary><p><div align="center">
 
 	| Blackhole |
 	| :-: |

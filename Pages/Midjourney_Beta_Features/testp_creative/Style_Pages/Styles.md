@@ -262,7 +262,7 @@
 
 - <details><summary>☄ Outer Space</summary><p>
 
-  - <details><summary>☄ Other</summary><p><div align="center">
+  - <details><summary>☄🌌 Galaxies, Nebulae, and Other Cosmic Structures</summary><p><div align="center">
 
 	| Supernova |
 	| :-: |
