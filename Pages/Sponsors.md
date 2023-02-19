@@ -10,9 +10,9 @@
 
 <br><br>
 
-| ShaneMcG |
-| :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/ShaneMcG.png?raw=true" width="256" /> |
+| ShaneMcG | Chromie |
+| :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/ShaneMcG.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Chromie.png?raw=true" width="256" /> |
 
 <br>
 
@@ -34,15 +34,15 @@
 
 <br>
 
-| DaveConrey.eth | john.l.stevenson | Magda | 3rdEyeGreen | Friend
+| DaveConrey.eth | john.l.stevenson | Magda | 3rdEyeGreen | Friend |
 | :-: | :-: | :-: | :-: | :-: |
 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/DaveConrey.eth.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/john.l.stevenson.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Magda.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3rdEyeGreen.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Friend.png?raw=true" width="160" /> |
 
 <br>
 
-| janco | artsea | jokilatas | Jae Gi | RaymondTeo |
-| :-: | :-: | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/janco.png?raw=true" width="144" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/artsea.png?raw=true" width="144" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/jokilatas.png?raw=true" width="144" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Jae_Gi.png?raw=true" width="144" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/RaymondTeo.png?raw=true" width="144" /> |
+| janco | artsea | jokilatas | Jae Gi | RaymondTeo | Ke |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/janco.png?raw=true" width="144" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/artsea.png?raw=true" width="144" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/jokilatas.png?raw=true" width="144" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Jae_Gi.png?raw=true" width="144" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/RaymondTeo.png?raw=true" width="144" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Ke.png?raw=true" width="144" /> |
 
 <br>
 
