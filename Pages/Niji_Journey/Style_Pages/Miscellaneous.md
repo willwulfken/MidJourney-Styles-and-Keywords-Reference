@@ -17,7 +17,9 @@
 
 <p><div align="center">
 
-
+| <br>Sphube<p><div align="center"><i><h6>@TwoDukes</h6></i></div></p> |
+| :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Sphube.png?raw=true" width="256" /> |
 
 </div></p>
 

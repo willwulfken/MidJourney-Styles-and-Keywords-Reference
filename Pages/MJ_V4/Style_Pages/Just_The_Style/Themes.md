@@ -234,9 +234,9 @@
 
 	<br>
 
-	| Aurora Borealis |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aurora_Borealis.png?raw=true" width="256" /> |
+	| Aurora Borealis | <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aurora_Borealis.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Weirdcore_Aurora.png?raw=true" width="256" /> |
 
 	<br>
 	
@@ -798,6 +798,12 @@
 	| Fractalpunk |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fractalpunk.png?raw=true" width="256" /> |
+
+	<br>
+
+	| <br>Chromiesthesia<p><div align="center"><i><h6>@Chromie</h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chromiesthesia.png?raw=true" width="256" /> |
 
   </div></p></details>
 

@@ -237,6 +237,12 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Aurora.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Aurorae.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Auroracore.png?raw=true" width="256" /> |
 
 	<br>
+
+	| <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Weirdcore_Aurora.png?raw=true" width="256" /> |
+
+	<br>
 	
 	| Magic | Magical | Magicpunk |
 	| :-: | :-: | :-: |
@@ -682,6 +688,12 @@
 	| Fractalpunk |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Fractalpunk.png?raw=true" width="256" /> |
+
+	<br>
+
+	| <br>Chromiesthesia<p><div align="center"><i><h6>@Chromie</h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Chromiesthesia.png?raw=true" width="256" /> |
 
   </div></p></details>
 

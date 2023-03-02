@@ -33,6 +33,14 @@
 		<td><img src="https://i.imgur.com/ZeebGCK.png" width=64 /></td>
 		<td><a href="https://wiki.artmechanicum.com/wiki/Main_Page">Art Mechanicum</a></td>
 	</tr>
+	<tr align=center valign=middle>
+		<td><img src="https://i.imgur.com/TeCLPhD.jpg" width=64 /></td>
+		<td><a href="https://www.youtube.com/@FutureTechPilot">Youtube - Future Tech Pilot</a></td>
+	</tr>	
+	<tr align=center valign=middle>
+		<td><img src="https://i.imgur.com/bRxgWnK.jpg" width=64 /></td>
+		<td><a href="https://www.youtube.com/@mreflow">Youtube - Matt Wolfe</a></td>
+	</tr>	
 </table>
 
 </div>

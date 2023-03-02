@@ -46,6 +46,11 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Sci-fi.png?raw=true" width="256" /> |
 
+	<br>
+
+	| <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Weirdcore_Aurora.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -89,6 +94,12 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Fractalpunk.png?raw=true" width="256" /> |
 
+	<br>
+
+	| <br>Chromiesthesia<p><div align="center"><i><h6>@Chromie</h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/Chromiesthesia.png?raw=true" width="256" /> |
+	
 	</div></p></details>
 
   </p></details>

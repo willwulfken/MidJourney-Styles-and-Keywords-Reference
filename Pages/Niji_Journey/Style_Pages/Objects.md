@@ -16,7 +16,13 @@
 <br>
 
 
+- <details><summary>🎷🚽 Other Objects</summary><p><div align="center">
 
+	| <br>Teapot<p><div align="center"><i><h6><a href="https://rexwang8.github.io/resource/ai/teapot">@bob</a></h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Teapot.png?raw=true" width="256" /> |
+
+  </div></p></details>
 
 
 <hr><!--------------->

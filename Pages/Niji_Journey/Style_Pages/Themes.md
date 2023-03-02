@@ -66,6 +66,12 @@
 
 	<br>
 
+	| <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Weirdcore_Aurora.png?raw=true" width="256" /> |
+
+	<br>
+
 	| Magical |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Magical.png?raw=true" width="256" /> |
@@ -147,6 +153,12 @@
 	| Fractalpunk |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Fractalpunk.png?raw=true" width="256" /> |
+
+	<br>
+
+	| <br>Chromiesthesia<p><div align="center"><i><h6>@Chromie</h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Chromiesthesia.png?raw=true" width="256" /> |
 
 	</div></p></details>
 
