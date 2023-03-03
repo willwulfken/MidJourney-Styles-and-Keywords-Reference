@@ -16,21 +16,21 @@
 
 <br>
 
-| Aarom Stone | Ricky | Blake K |
+| Aarom Stone | Ricky | Blake K | Radcrafters |
 | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Aarom_Stone.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Ricky.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Blake_K.png?raw=true" width="224" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Aarom_Stone.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Ricky.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Blake_K.png?raw=true" width="224" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Radcrafters.png?raw=true" width="224" /> |
 
 <br>
 
-| 3xPMaverick | Phil | Supporter |
+| 3xPMaverick | Phil |
 | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3xPMaverick.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Phil.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Supporter.png?raw=true" width="192" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/3xPMaverick.png?raw=true" width="192" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Phil.png?raw=true" width="192" /> |
 
 <br>
 
-| hata (prompts.page) | LuxuryCardStore | van | Albert Bardewyck |
+| hata (prompts.page) | LuxuryCardStore | van | Albert Bardewyck | PawtelStudio |
 | :-: | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/hata.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/LuxuryCardStore.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/van.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Albert_Bardewyck.png?raw=true" width="160" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/hata.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/LuxuryCardStore.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/van.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Albert_Bardewyck.png?raw=true" width="160" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/PawtelStudio.png?raw=true" width="160" /> |
 
 <br>
 
@@ -46,9 +46,9 @@
 
 <br>
 
-| Lyoness | Peter W. Szabo | Nyan | Nadir |
-| :-: | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Lyoness.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Peter_W_Szabo.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Nyan.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Nadir.png?raw=true" width="128" /> |
+| Lyoness | Peter W. Szabo | Nyan | Nadir | NunyaBiz |
+| :-: | :-: | :-: | :-: | :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Lyoness.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Peter_W_Szabo.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Nyan.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/Nadir.png?raw=true" width="128" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Sponsor_Images/NunyaBiz.png?raw=true" width="128" /> |
 
 </div>
 
