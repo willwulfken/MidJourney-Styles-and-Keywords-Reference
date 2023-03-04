@@ -329,6 +329,75 @@
   </div></p></details>
 
 
+- <details><summary>📔💨 Graffiti Artists</summary><p><div align="center">
+
+	| Graffiti By Mr. Brainwash | Graffiti By Thierry Guetta |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Mr._Brainwash.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Thierry_Guetta.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Seen | Graffiti By Richard Mirando |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Seen.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Richard_Mirando.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Futura | Graffiti By Leonard Hilton McGurr |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Futura.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Leonard_Hilton_McGurr.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Os Gemeos |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Os_Gemeos.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Tristan Eaton |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Tristan_Eaton.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Banksy |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Banksy.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Eduardo Kobra |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Eduardo_Kobra.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Swoon | Graffiti By Caledonia Curry |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Swoon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Caledonia_Curry.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Artur Bordalo |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Artur_Bordalo.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Invader |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Invader.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Graffiti By Anthony Lister |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Graffiti_By_Anthony_Lister.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
 - <details><summary>📔🖼 Instagram Artist</summary><p><div align="center">
 	
 	| Uon.visuals | Art By Uon.visuals |
