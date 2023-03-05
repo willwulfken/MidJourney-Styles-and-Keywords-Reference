@@ -182,9 +182,9 @@
 
 - <details><summary>📔🔴 Pop Art</summary><p><div align="center">
 
-	| Painted By Andy Warhol | Painting By David Hockney |
+	| Painted By Andy Worhol | Painting By David Hockney |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painted_by_Andy_Warhol.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painting_by_David_Hockney.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painted_By_Andy_Worhol.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Artists/sphere_Painting_by_David_Hockney.png?raw=true" width="256" /> |
 
   </div></p></details>
 
