@@ -21,7 +21,12 @@
 	| Crepuscular Rays |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Crepuscular_Rays.png?raw=true" width="256" /> |
-	
+
+	</div></p></details>
+
+
+  - <details><summary>💡🪔 Lamps and Tubes</summary><p><div align="center">
+
 	| Plasma Globe |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Plasma_Globe.png?raw=true" width="256" /> |

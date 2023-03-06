@@ -669,8 +669,11 @@
 	| Crepuscular Rays |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Midjourney_Styles/Crepuscular_Rays.png?raw=true" width="256" /> |
-	
-	<br>
+
+	</div></p></details>
+
+
+  - <details><summary>💡🪔 Lamps and Tubes</summary><p><div align="center">
 
 	| Plasma Globe |
 	| :-: |

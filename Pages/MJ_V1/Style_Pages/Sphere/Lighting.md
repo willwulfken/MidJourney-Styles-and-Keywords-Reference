@@ -45,25 +45,28 @@
 	| Sunlight | Sunshine Ray |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunlight.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunshine_Ray.png?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Plasma Globe |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plasma_Globe.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Glow Stick |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glow_Stick.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+- <details><summary>💡🪔 Lamps and Tubes</summary><p><div align="center">
+
+	| Plasma Globe |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plasma_Globe.png?raw=true" width="256" /> |
 	
 	<br>
 
 	| Neon Lamp |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neon_Lamp.png?raw=true" width="256" /> |
-
+	
 	</div></p></details>
 
 

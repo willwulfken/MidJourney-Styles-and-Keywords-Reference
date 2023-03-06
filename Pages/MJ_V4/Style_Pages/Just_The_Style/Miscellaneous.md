@@ -17,9 +17,9 @@
 
 <p><div align="center">
 
-| Continuous Droste | Floss |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Continuous_Droste.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Floss.png?raw=true" width="256" /> |
+| Floss |
+| :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Floss.png?raw=true" width="256" /> |
 
 <br>
 
@@ -35,9 +35,9 @@
 
 <br>
 
-| Manila | Mayo |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Manila.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mayo.png?raw=true" width="256" /> |
+| Manila |
+| :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Manila.png?raw=true" width="256" /> |
 
 <br>
 
@@ -47,9 +47,9 @@
 
 <br>
 
-| Crab Pulsar | Eggcrate |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Crab_Pulsar.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Eggcrate.png?raw=true" width="256" /> |
+| Eggcrate |
+| :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Eggcrate.png?raw=true" width="256" /> |
 
 <br>
 
@@ -62,12 +62,6 @@
 | Medium | Binder |
 | :-: | :-: |
 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Medium.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Binder.png?raw=true" width="256" /> |
-
-<br>
-
-| Volume | Oscillation |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Volume.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Oscillation.png?raw=true" width="256" /> |
 
 <br>
 

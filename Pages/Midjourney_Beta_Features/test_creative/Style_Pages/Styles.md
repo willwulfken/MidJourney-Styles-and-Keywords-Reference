@@ -190,7 +190,7 @@
 
 - <details><summary>💡 Lighting</summary><p>
 
-  - <details><summary>💡🏮 Types of Lights</summary><p><div align="center">
+  - <details><summary>💡🪔 Lamps and Tubes</summary><p><div align="center">
 
 	| Plasma Globe |
 	| :-: |

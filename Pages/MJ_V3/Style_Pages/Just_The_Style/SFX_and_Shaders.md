@@ -32,7 +32,7 @@
 
 	<br>
 
-	| Reflection in a puddle | Water Reflection |
+	| Reflection in a Puddle | Water Reflection |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Reflection_in_a_puddle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_10/Water_Reflection.png?raw=true" width="256" /> |
 
@@ -135,7 +135,13 @@
 	| Lenticular |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Lenticular.png?raw=true" width="256" /> |
-	
+		
+	<br>
+
+	| Continuous Droste |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Continuous_Droste.png?raw=true" width="256" /> |
+
 	<br>
 
 	| Tornadic |
@@ -237,6 +243,12 @@
 	| Tracers |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Tracers.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Volume | Oscillation |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_14/Volume.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_14/Oscillation.png?raw=true" width="256" /> |
 
 	</div></p></details>
 

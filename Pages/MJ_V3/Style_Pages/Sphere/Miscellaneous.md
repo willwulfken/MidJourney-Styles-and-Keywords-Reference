@@ -19,9 +19,9 @@
 
 <p><div align="center">
 
-| Continuous Droste | Floss |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Continuous_Droste.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Floss.png?raw=true" width="256" /> |
+| Floss |
+| :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Floss.png?raw=true" width="256" /> |
 
 <br>
 
@@ -37,9 +37,9 @@
 
 <br>
 
-| Manila | Mayo |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Manila.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Mayo.png?raw=true" width="256" /> |
+| Manila |
+| :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Manila.png?raw=true" width="256" /> |
 
 <br>
 
@@ -49,9 +49,9 @@
 
 <br>
 
-| Crab Pulsar | Eggcrate |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Crab_Pulsar.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Eggcrate.png?raw=true" width="256" /> |
+| Eggcrate |
+| :-: |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Eggcrate.png?raw=true" width="256" /> |
 
 <br>
 
@@ -64,12 +64,6 @@
 | Medium | Binder |
 | :-: | :-: |
 | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Medium.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Binder.png?raw=true" width="256" /> |
-
-<br>
-
-| Volume | Oscillation |
-| :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Volume.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Oscillation.png?raw=true" width="256" /> |
 
 <br>
 

@@ -65,14 +65,16 @@
 
 	</div></p></details>
 
-
-- <details><summary>📷🔎 Depth of Field, Zoom, Pan, and Tilt</summary><p><div align="center">
+- <details><summary>📷👁 Focus and Depth of Field</summary><p><div align="center">
 	
 	| Depth of Field | DOF |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Depth_of_Field.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_DOF.png?raw=true" width="256" /> |
-	
-	<br>
+
+	</div></p></details>
+
+
+- <details><summary>📷🔎 Zoom, Pan, and Tilt</summary><p><div align="center">
 	
 	| Dolly Zoom |
 	| :-: |

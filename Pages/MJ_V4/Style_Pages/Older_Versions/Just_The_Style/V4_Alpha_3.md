@@ -1036,15 +1036,18 @@
 
 	<br>
 
-	| Plasma Globe |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Plasma_Globe.png?raw=true" width="256" /> |
-
-	<br>
-
 	| Ultraviolet |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Ultraviolet.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>💡🪔 Lamps and Tubes</summary><p><div align="center">
+
+	| Plasma Globe |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Plasma_Globe.png?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
