@@ -993,9 +993,9 @@
 	
 	<br>
 	
-	| Bling | Jewel Tones | Blocky |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Bling.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Jeweltones.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Blocky.png?raw=true" width="256" /> |
+	| Jewel Tones | Blocky |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Jeweltones.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Blocky.png?raw=true" width="256" /> |
 
 	<br>
 

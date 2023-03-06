@@ -129,21 +129,9 @@
 
 	<br>
 
-	| Lenticular |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lenticular.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Continuous Droste |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Continuous_Droste.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Tornadic |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tornadic.png?raw=true" width="256" /> |
+	| Lenticular | Continuous Droste | Tornadic |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lenticular.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Continuous_Droste.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tornadic.png?raw=true" width="256" /> |
 	
 	</div></p></details>
 
@@ -165,9 +153,9 @@
 
 - <details><summary>🌈💫 Stylized</summary><p><div align="center">
 
-	| Scan Lines |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Scan_Lines.png?raw=true" width="256" /> |
+	| Scan Lines | Edge Detection |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Scan_Lines.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Edge_Detection.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -177,9 +165,9 @@
 
 	<br>
 	
-	| Sobel Operator | Edge Detection | Convolution Matrix |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sobel_Operator.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Edge_Detection.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Convolution_Matrix.png?raw=true" width="256" /> |
+	| Sobel Operator | Convolution Matrix |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sobel_Operator.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Convolution_Matrix.png?raw=true" width="256" /> |
 
 	<br>
 

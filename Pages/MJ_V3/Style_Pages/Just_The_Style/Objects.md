@@ -645,6 +645,12 @@
 
 	<br>
 
+	| Bling |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Bling.png?raw=true" width="256" /> |
+
+	<br>
+
 	| Tesla Valve |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Tesla_Valve.png?raw=true" width="256" /> |

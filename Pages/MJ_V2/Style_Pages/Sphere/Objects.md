@@ -642,6 +642,12 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Bracelet.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_11/sphere_Ribbons.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Fingerprint.png?raw=true" width="256" /> |
 
 	<br>
+	
+	| Bling |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Bling.png?raw=true" width="256" /> |
+
+	<br>
 
 	| Tesla Valve |
 	| :-: |

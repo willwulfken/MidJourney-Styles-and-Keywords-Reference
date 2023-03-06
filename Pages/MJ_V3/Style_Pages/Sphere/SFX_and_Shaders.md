@@ -132,21 +132,9 @@
 
 	<br>
 
-	| Lenticular |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Lenticular.png?raw=true" width="256" /> |
-		
-	<br>
-
-	| Continuous Droste |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Continuous_Droste.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Tornadic |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Tornadic.png?raw=true" width="256" /> |
+	| Lenticular | Continuous Droste | Tornadic |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Lenticular.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Continuous_Droste.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Tornadic.png?raw=true" width="256" /> |
 	
 	</div></p></details>
 
@@ -168,9 +156,9 @@
 
 - <details><summary>🌈💫 Stylized</summary><p><div align="center">
 
-	| Scan Lines |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Scan_Lines.png?raw=true" width="256" /> |
+	| Scan Lines | Edge Detection |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Scan_Lines.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Edge_Detection.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -180,9 +168,9 @@
 
 	<br>
 	
-	| Sobel Operator | Edge Detection | Convolution Matrix |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sobel_Operator.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Edge_Detection.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Convolution_Matrix.png?raw=true" width="256" /> |
+	| Sobel Operator | Convolution Matrix |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sobel_Operator.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Convolution_Matrix.png?raw=true" width="256" /> |
 
 	<br>
 
