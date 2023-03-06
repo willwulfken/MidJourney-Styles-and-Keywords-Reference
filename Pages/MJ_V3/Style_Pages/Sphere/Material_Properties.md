@@ -81,6 +81,12 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Glitter.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sparkly.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Sparkles.png?raw=true" width="256" /> |
 
+	<br>
+	
+	| Scintillating |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Scintillating.png?raw=true" width="256" /> |
+
 	</div></p></details>
 
 
@@ -371,6 +377,12 @@
 	| Hydrophobic |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Hydrophobic.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Flowing |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Flowing.png?raw=true" width="256" /> |
 
 	</div></p></details>
 

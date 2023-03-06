@@ -277,6 +277,12 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Nordic_Mythology.png?raw=true" width="256" /> |
 
 	<br>
+	
+	| Victorian |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Victorian.png?raw=true" width="256" /> |
+
+	<br>
 
 	| Byzantine | Byzantine Icon |
 	| :-: | :-: |
@@ -365,15 +371,15 @@
 
 	<br>
 
-    | Samurai | Samurai Warrior |
-    | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Samurai.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Samurai_Warrior.png?raw=true" width="256" /> |
+	| Warrior | Samurai | Samurai Warrior |
+	| :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Warrior.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Samurai.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Samurai_Warrior.png?raw=true" width="256" /> |
 
 	<br>
 	
-	| Artist |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Artist.png?raw=true" width="256" /> |
+	| Artist | Bard | Cleric |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Artist.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Bard.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Cleric.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -386,12 +392,6 @@
     | Viking | Pilgrim |
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Viking.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Pilgrim.png?raw=true" width="256" /> |
-
-	<br>
-
-    | Goblin |
-    | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Goblin.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -448,6 +448,39 @@
 		<tr height=256><td width=256></td></tr>
 	</table>
 	
+  </div></p></details>
+
+
+- <details><summary>🗺🧜‍♀️ Fictional Non-Human Creatures</summary><p><div align="center">
+
+	| Entities |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Entities.png?raw=true" width="256" /> |
+
+	<br>
+	
+    | Goblin | Halfling |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_12/Goblin.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Halfling.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Warlock | Wizard |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Warlock.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wizard.png?raw=true" width="256" /> |\
+
+	<br>
+	
+	| Elf | Orc |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Elf.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Orc.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Mermaid |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Mermaid.png?raw=true" width="256" /> |
+
   </div></p></details>
 
 

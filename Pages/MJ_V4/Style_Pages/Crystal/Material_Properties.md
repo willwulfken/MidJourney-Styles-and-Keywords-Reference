@@ -80,6 +80,12 @@
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Glitter.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Sparkly.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Sparkles.png?raw=true" width="256" /> |
 
+	<br>
+	
+	| Scintillating |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Scintillating.png?raw=true" width="256" /> |
+
 	</div></p></details>
 
 <!--
@@ -370,6 +376,12 @@
 	| Hydrophobic |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Hydrophobic.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Flowing |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Flowing.png?raw=true" width="256" /> |
 
 	</div></p></details>
 

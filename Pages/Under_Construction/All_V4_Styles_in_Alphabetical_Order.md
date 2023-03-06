@@ -2691,7 +2691,7 @@
 	| Painted By Andre Masson | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Andre_Masson.png?raw=true" width="256" /> |
 	| Painted By Andreas Rocha | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Andreas_Rocha.png?raw=true" width="256" /> |
 	| Painted By Andrew Wyeth | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Andrew_Wyeth.png?raw=true" width="256" /> |
-	| Painted By Andy Worhol | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Andy_Worhol.png?raw=true" width="256" /> |
+	| Painted By Andy Warhol | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_by_Andy_Warhol.png?raw=true" width="256" /> |
 	| Painted By Angus McKie | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Angus_McKie.png?raw=true" width="256" /> |
 	| Painted By Anna Dittmann | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Anna_Dittmann.png?raw=true" width="256" /> |
 	| Painted By Anne Stokes | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Anne_Stokes.png?raw=true" width="256" /> |

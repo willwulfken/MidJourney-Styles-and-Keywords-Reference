@@ -50,9 +50,15 @@
 
 	<br>
 
-	| Photoshoot | Portrait | Cinematic Haze |
+	| Photoshoot | Cinematic Haze |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Photoshoot.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Cinematic_Haze.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Portrait | Full Body Portrait | Portraiture |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Photoshoot.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Portrait.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Cinematic_Haze.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Portrait.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Full_Body_Portrait.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(tree)/Camera/Tree_Portraiture.png?raw=true" width="256" /> |
 
 	<br>
 	
@@ -126,7 +132,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Action_Scene.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_War_Photography.png?raw=true" width="256" /> |
 
-	</div></p></details>
+  </div></p></details>
 
 <!--
 - <details><summary>📷🌇 Camera and Film Types</summary><p><div align="center">
@@ -407,10 +413,55 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Gamma.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_White_Balance.png?raw=true" width="256" /> |
 
+	<br>
+	
+	| Rule of Thirds |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(tree)/Camera/Tree_Rule_of_Thirds.png?raw=true" width="256" /> |
+
 	</div></p></details>
 
 
-- <details><summary>📷🔎 Depth of Field, Zoom, Pan, and Tilt</summary><p><div align="center">
+- <details><summary>📷👁 Focus and Depth of Field</summary><p><div align="center">
+
+	| Depth | Depth of Field | DOF |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Depth.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Depth_of_Field.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_DOF.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Horizon Line | Vantage Point | Vanishing Point |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Horizon_Line.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Vantage_Point.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Vanishing_Point.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Defocused | Unfocused |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Defocused.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Unfocused.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Focal Point | Soft-Focus |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Focal_Point.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Soft-Focus.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Shallow Focus | Deep Focus |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Shallow_Focus.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Deep_Focus.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Rack Focus | Split Diopter | Tilted Plane Focus |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Rack_Focus.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Split_Diopter.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Tilted_Plane_Focus.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+- <details><summary>📷🔎 Zoom, Pan, and Tilt</summary><p><div align="center">
 
 	| Depth | Depth of Field | DOF |
 	| :-: | :-: | :-: |

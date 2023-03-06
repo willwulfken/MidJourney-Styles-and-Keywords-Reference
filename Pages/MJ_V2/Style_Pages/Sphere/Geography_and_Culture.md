@@ -275,6 +275,12 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Nordic_Mythology.png?raw=true" width="256" /> |
 
 	<br>
+	
+	| Victorian |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Victorian.png?raw=true" width="256" /> |
+
+	<br>
 
 	| Byzantine | Byzantine Icon |
 	| :-: | :-: |
@@ -363,15 +369,15 @@
 	
 	<br>
 
-	| Samurai | Samurai Warrior |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_12/sphere_Samurai.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_12/sphere_Samurai_Warrior.png?raw=true" width="256" /> |
+	| Warrior | Samurai | Samurai Warrior |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Warrior.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_12/sphere_Samurai.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_12/sphere_Samurai_Warrior.png?raw=true" width="256" /> |
 
 	<br>
 	
-	| Artist |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Artist.png?raw=true" width="256" /> |
+	| Artist | Bard | Cleric |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Artist.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Bard.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Cleric.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -384,12 +390,6 @@
     | Viking | Pilgrim |
     | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_12/sphere_Viking.png?raw=true" width="256" /> 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_12/sphere_Pilgrim.png?raw=true" width="256" /> |
-	
-	<br>
-
-	| Goblin |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_12/sphere_Goblin.png?raw=true" width="256" /> |
 	
 	<br>
 
@@ -445,6 +445,39 @@
 		<tr><th>John Cena</th><tr>
 		<tr height=256><td width=256></td></tr>
 	</table>
+
+  </div></p></details>
+
+
+- <details><summary>🗺🧜‍♀️ Fictional Non-Human Creatures</summary><p><div align="center">
+	
+	| Entities |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Entities.png?raw=true" width="256" /> |
+
+	<br>
+
+    | Goblin | Halfling |
+    | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_12/sphere_Goblin.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Halfling.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Warlock | Wizard |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Warlock.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Wizard.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Elf | Orc |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Elf.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Orc.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Mermaid |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Mermaid.png?raw=true" width="256" /> |
 
   </div></p></details>
 
