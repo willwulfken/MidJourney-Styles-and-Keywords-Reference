@@ -59,7 +59,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62;<i>; </i>&#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i>; <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere--semicolon--_Vaporwave.png?raw=true" width="256" />
 		</td>

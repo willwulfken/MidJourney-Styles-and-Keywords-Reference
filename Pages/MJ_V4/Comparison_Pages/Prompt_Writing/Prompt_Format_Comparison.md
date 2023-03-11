@@ -70,7 +70,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62;<i>; </i>&#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i>; <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Galaxy/Sphere_semicolon_Galaxy.png?raw=true" width="256" />
 		</td>
