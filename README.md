@@ -9,7 +9,7 @@
 <hr><!--------------->
 
 <div align="center">
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference-Light" title="Midjourney Styles and Keywords Reference Light is a version of this repo that uses signifigantly less data, but at the cost of lower quality images and fewer updates"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_MJSR_light_thin.webp?raw=true" width = 758>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_MJSR_light_light_thin.webp?raw=true" width = 758>
   <img alt="Try MidJourney Styles and Keywords Reference Light" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Main_Page_Top_Section/button_MJSR_light_thin.webp?raw=true" width = 758>
@@ -207,7 +207,7 @@
   <img alt="🧪 Experimental" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_style_experimental.webp?raw=true" width = 758>
 </picture></a>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Style_Pages.md">
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Style_Pages.md" title="Links to all of the style pages for every MidJourney version">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_all_style_pages.webp?raw=true" width=758>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/button_all_style_pages_light.webp?raw=true" width=758>
