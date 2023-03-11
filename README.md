@@ -231,33 +231,33 @@
   <img alt="✍ Prompt Writing" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_writing.webp?raw=true" width = 758>
 </picture>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md" title="Formatting prompts with commas, colons, and more"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_prompt_formatting.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_prompt_formatting_light.webp?raw=true" width = 249>
   <img alt="⌨ Prompt Format Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_prompt_formatting.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md" title="Shows how you can get words to generate in an image"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_text_in_image.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_text_in_image_light.webp?raw=true" width = 249>
   <img alt="🔠 Text In Image Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_text_in_image.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Keyword_Weight_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Keyword_Weight_Comparison.md" title="Applying weights to keywords using <keyword>::<weight>"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_keyword_weight.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_keyword_weight_light.webp?raw=true" width = 249>
   <img alt="⚖ Keyword Weight Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_keyword_weight.webp?raw=true" width = 249>
 </picture></a>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Adjective_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Adjective_Comparison.md" title="Adding adjectives to words can affect a prompt"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_adjective_comparison.webp?raw=true" width = 249>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_adjective_comparison_light.webp?raw=true" width = 249>
     <img alt="🦚 Adjective Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_adjective_comparison.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md" title="Using different word endings"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_word_suffix_comparison.webp?raw=true" width = 249>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_word_suffix_comparison_light.webp?raw=true" width = 249>
     <img alt="📓 Word Suffix Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_word_suffix_comparison.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Compound_Word_Format_Comparison/Compound_Word_Format_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Compound_Word_Format_Comparison/Compound_Word_Format_Comparison.md" title="Using a space, dash, underscore, and more in compound words"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_compound_word_format.webp?raw=true" width = 249>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_compound_word_format_light.webp?raw=true" width = 249>
     <img alt="🗜 Compound Word Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_compound_word_format.webp?raw=true" width = 249>
@@ -270,33 +270,33 @@
   <img alt="🧩 Prompt Parameters" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_parameters.webp?raw=true" width = 758>
 </picture>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md" title="Using the --stylize or --s parameter"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter_light.webp?raw=true" width = 249>
   <img alt="🎇 --stylize Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_stylize_parameter.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Quality_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Quality_Comparison/Quality_Comparison.md" title="Using the --quality or --q parameter"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter_light.webp?raw=true" width = 249>
   <img alt="💎 --quality Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_quality_parameter.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Chaos_Comparison/Chaos_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Chaos_Comparison/Chaos_Comparison.md" title="Using the --chaos or --c parameter"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_chaos_parameter.webp?raw=true" width = 249>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_chaos_parameter_light.webp?raw=true" width = 249>
     <img alt="🌪 --chaos Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_chaos_parameter.webp?raw=true" width = 249>
 </picture></a>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Tile_Parameter.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Tile_Parameter.md" title="Using the --tile parameter"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_tile_parameter.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_tile_parameter_light.webp?raw=true" width = 249>
   <img alt="🔲 --tile Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_tile_parameter.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/No_Parameter_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/No_Parameter_Comparison.md" title="Using the --no parameter"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_no_parameter.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_no_parameter_light.webp?raw=true" width = 249>
   <img alt="🚫 --no Parameter" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_no_parameter.webp?raw=true" width = 249>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Image_Weight_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Image_Weight_Comparison.md" title="Using the --iw parameter"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_image_weight.webp?raw=true" width = 249>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_image_weight_light.webp?raw=true" width = 249>
   <img alt="🏋️‍ Image Weight Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_image_weight.webp?raw=true" width = 249>
@@ -309,12 +309,12 @@
   <img alt="📐 Image Resolution and Upscaling" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/image_resolution_and_upscaling.webp?raw=true" width = 758>
 </picture>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison/Image_Resolution_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Resolution_Comparison/Image_Resolution_Comparison.md" title="Using different image resolutions with --ar, --w, and --h"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_image_resolutions_half.webp?raw=true" width = 377>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_image_resolutions_half_light.webp?raw=true" width = 377>
   <img alt="📏 Image Resolution Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_image_resolutions_half.webp?raw=true" width = 377>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md" title="Using different upscaling methods for images"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_image_upscaling_half.webp?raw=true" width = 377>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_image_upscaling_half_light.webp?raw=true" width = 377>
   <img alt="🚀 Image Upscale Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_image_upscaling_half.webp?raw=true" width = 377>
@@ -349,12 +349,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/remix_and_remaster_light.webp?raw=true" width = 758>
   <img alt="📀 Remix and Remaster" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/remix_and_remaster.webp?raw=true" width = 758>
 </picture>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Remaster.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Remaster.md" title="Using remaster on images"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_remaster_half.webp?raw=true" width = 377>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_remaster_half_light.webp?raw=true" width = 377>
   <img alt="✨ Remaster" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_remaster_half.webp?raw=true" width = 377>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Remixing/V1-V4_Alpha.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Remixing/V1-V4_Alpha.md" title="Remixing images by generating variations from one version to another"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_remixing.webp?raw=true" width = 377>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_remixing_light.webp?raw=true" width = 377>
   <img alt="🧬 Version Remixing" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_remixing.webp?raw=true" width = 377>
@@ -362,12 +362,12 @@
 
 <hr>
 
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md" title="Comparison between all MidJourney versions"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_comparison.webp?raw=true" width = 758>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_comparison_light.webp?raw=true" width = 758>
     <img alt="📇 Version Comparison" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_comparison.webp?raw=true" width = 758>
 </picture></a>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%F0%9F%A7%AA-Experiments"><picture>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%F0%9F%A7%AA-Experiments" title="Various experiments that I have conducted"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_experiments.webp?raw=true" width = 758>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_experiments_light.webp?raw=true" width = 758>
     <img alt="🧪 Experiments" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_experiments.webp?raw=true" width = 758>
