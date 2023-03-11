@@ -41,7 +41,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th>&#60;style&#62; <i>&#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_Marker_Art.png?raw=true" width="256" />
 		</td>
@@ -50,7 +50,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th>&#60;style&#62;, <i>&#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i>, <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime,_Marker_Art.png?raw=true" width="256" />
 		</td>
@@ -59,7 +59,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; - &#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> - <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_-_Marker_Art.png?raw=true" width="256" />
 		</td>
@@ -68,7 +68,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; (&#60;style-2&#62;)</i></th>
+		<th><i>&#60;style&#62;</i> (<i>&#60;style-2&#62;</i>)</th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_(Marker_Art).png?raw=true" width="256" />
 		</td>
@@ -77,7 +77,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; in the style of &#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> in the style of <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_in_the_style_of_Marker_Art.png?raw=true" width="256" />
 		</td>
@@ -86,7 +86,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; made of &#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> made of <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_made_of_Marker_Art.png?raw=true" width="256" />
 		</td>
@@ -95,7 +95,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; of a &#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> of a <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_of_a_Marker_Art.png?raw=true" width="256" />
 		</td>

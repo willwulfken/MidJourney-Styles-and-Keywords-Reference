@@ -41,7 +41,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th>&#60;style&#62; <i>&#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_Vaporwave.png?raw=true" width="256" />
 		</td>
@@ -50,7 +50,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th>&#60;style&#62;, <i>&#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i>, <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere,_Vaporwave.png?raw=true" width="256" />
 		</td>
@@ -59,7 +59,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62;; &#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;<i>; </i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere--semicolon--_Vaporwave.png?raw=true" width="256" />
 		</td>
@@ -68,7 +68,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62;:&#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i>:<i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere--colon--Vaporwave.png?raw=true" width="256" />
 		</td>
@@ -77,7 +77,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; - &#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> - <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_-_Vaporwave.png?raw=true" width="256" />
 		</td>
@@ -86,7 +86,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; (&#60;style-2&#62;)</i></th>
+		<th><i>&#60;style&#62;</i> (<i>&#60;style-2&#62;</i>)</th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_(Vaporwave).png?raw=true" width="256" />
 		</td>
@@ -95,7 +95,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; in the style of &#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> in the style of <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_in_the_style_of_Vaporwave.png?raw=true" width="256" />
 		</td>
@@ -104,7 +104,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; made of &#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> made of <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_made_of_Vaporwave.png?raw=true" width="256" />
 		</td>
@@ -113,7 +113,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; of a &#60;style-2&#62;</i></th>
+		<th><i>&#60;style&#62;</i> of a <i>&#60;style-2&#62;</i></th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_of_a_Vaporwave.png?raw=true" width="256" />
 		</td>
@@ -132,7 +132,7 @@
 		<th>Vaporwave</th>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62;, Art By Alex Grey</i></th>
+		<th><i>&#60;style&#62;</i>, Art By Alex Grey</th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Alex_Grey/Art_By_Alex_Grey.png?raw=true" width="256" />
 		</td>
@@ -141,7 +141,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62;, Art Made By Alex Grey</i></th>
+		<th><i>&#60;style&#62;</i>, Art Made By Alex Grey</th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Alex_Grey/Art_Made_By_Alex_Grey.png?raw=true" width="256" />
 		</td>
@@ -150,7 +150,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; Art Made By Alex Grey</i></th>
+		<th><i>&#60;style&#62;</i> Art Made By Alex Grey</th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Alex_Grey/Art_Made_By_Alex_Grey.png?raw=true" width="256" />
 		</td>
@@ -159,7 +159,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62;, Painting By Alex Grey</i></th>
+		<th><i>&#60;style&#62;</i>, Painting By Alex Grey</th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Alex_Grey/Painting_By_Alex_Grey.png?raw=true" width="256" />
 		</td>
@@ -168,7 +168,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62;, Painted By Alex Grey</i></th>
+		<th><i>&#60;style&#62;</i>, Painted By Alex Grey</th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Alex_Grey/Painted_By_Alex_Grey.png?raw=true" width="256" />
 		</td>
@@ -177,7 +177,7 @@
 		</td>
 	</tr>
 	<tr align=center valign=middle>
-		<th><i>&#60;style&#62; in The Style of Alex Grey</i></th>
+		<th><i>&#60;style&#62;</i> in The Style of Alex Grey</th>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Format_Comparison/Alex_Grey/in_The_Style_of_Alex_Grey.png?raw=true" width="256" />
 		</td>
