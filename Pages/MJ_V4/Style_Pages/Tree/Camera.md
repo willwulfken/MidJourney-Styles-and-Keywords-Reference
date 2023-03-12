@@ -26,9 +26,21 @@
 	
 	<br>
 
-	| Photography | Filmic | Cinematic |
+	| Photography | Photograph | Photographia |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Photography.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Filmic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Cinematic.png?raw=true" width="256" /> | 
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Photography.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(tree)/Camera/Tree_Photograph.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(tree)/Camera/Tree_Photographia.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Closed Composition |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(tree)/Camera/Tree_Closed_Composition.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Filmic | Cinematic |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Filmic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Cinematic.png?raw=true" width="256" /> | 
 	
 	<br>
 	
@@ -50,15 +62,21 @@
 
 	<br>
 
-	| Photoshoot | Cinematic Haze |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Photoshoot.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Cinematic_Haze.png?raw=true" width="256" /> |
+	| Photoshoot |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Photoshoot.png?raw=true" width="256" /> |
 
 	<br>
 
 	| Portrait | Full Body Portrait | Portraiture |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Portrait.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Full_Body_Portrait.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(tree)/Camera/Tree_Portraiture.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Cinematic Haze |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Cinematic_Haze.png?raw=true" width="256" /> |
 
 	<br>
 	
@@ -132,7 +150,7 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Action_Scene.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_War_Photography.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 <!--
 - <details><summary>📷🌇 Camera and Film Types</summary><p><div align="center">
@@ -463,33 +481,15 @@
 
 - <details><summary>📷🔎 Zoom, Pan, and Tilt</summary><p><div align="center">
 
-	| Depth | Depth of Field | DOF |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Depth.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Depth_of_Field.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_DOF.png?raw=true" width="256" /> |
-	
-	<br>
-	
 	| Zoom | Dolly Zoom |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Zoom.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Dolly_Zoom.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Horizon Line | Vantage Point | Vanishing Point |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Horizon_Line.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Vantage_Point.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Vanishing_Point.png?raw=true" width="256" /> |
 
 	<br>
 	
 	| Pan | Tilt |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Pan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Tilt.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Focal Point | Soft-Focus |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Focal_Point.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Soft-Focus.png?raw=true" width="256" /> |
 
 	</div></p></details>
 

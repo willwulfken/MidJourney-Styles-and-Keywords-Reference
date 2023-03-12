@@ -89,6 +89,12 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Curvaceous.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Curvilinear.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sinuous.png?raw=true" width="256" /> |
 
 	<br>
+	
+	| Curlicue |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Curlicue.png?raw=true" width="256" /> |
+
+	<br>
 
 	| Ripple | Squiggly |
 	| :-: | :-: |
@@ -174,6 +180,14 @@
 
   </div></p></details>
 
+
+- <details><summary>♻🗡️ Dull and Pointy</summary><p><div align="center">
+
+	| Pointy | Pointed |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pointy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pointed.png?raw=true" width="256" /> |
+
+  </div></p></details>
 
 
 - <details><summary>♻ Other</summary><p><div align="center">

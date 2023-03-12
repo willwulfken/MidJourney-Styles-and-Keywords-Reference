@@ -444,6 +444,12 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Ray_Tracing_Global_Illumination.png?raw=true" width="256" /> |
 
+	<br>
+
+	| Photon-Mapping |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Photon-Mapping.png?raw=true" width="256" /> |
+
 	</div></p></details>
 
 

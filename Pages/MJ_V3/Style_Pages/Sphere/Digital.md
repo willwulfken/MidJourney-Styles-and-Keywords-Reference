@@ -373,6 +373,12 @@
     | :-: | :-: |
     | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pre-Rendered_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Physically_Based_Rendering.png?raw=true" width="256" /> |
 
+	<br>
+	
+	| Computational Geometry |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Computational_Geometry.png?raw=true" width="256" /> |
+
     <br>
 	
 	| Holographic | Holography |
@@ -411,9 +417,15 @@
 
 	<br>
 
-	| Procedural Texture | Algorithmic Art | Character Design |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Procedural_Texture.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Algorithmic_Art.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Character_Design.png?raw=true" width="256" /> |
+	| Procedural Texture | Algorithmic Art |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Procedural_Texture.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Algorithmic_Art.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Character Design | Character Portrait |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Character_Design.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Character_Portrait.png?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -458,6 +470,14 @@
   </div></p></details>
 
 
+- <details><summary>🖥🔘 Interpolation</summary><p><div align="center">
+
+	| Interpolation | Bicubic Interpolation | Bilinear Interpolation |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Interpolation.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Bicubic_Interpolation.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Bilinear_Interpolation.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
 
 - <details><summary>🖥🌐 Websites</summary><p><div align="center">
 
@@ -501,6 +521,12 @@
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Google_Maps.png?raw=true" width="256" /> |
 
+	<br>
+	
+	| Flaticon |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Flaticon.png?raw=true" width="256" /> |
+
   </div></p></details>
 
 
@@ -529,81 +555,391 @@
   </div></p></details>
 
 
-- <details><summary>🖥🧠 AI and Neural Networks</summary><p><div align="center">
+- <details><summary>🕹 Video Games and Game Systems</summary><p>
 
-	| AI | Neural Network |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_AI.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Neural_Network.png?raw=true" width="256" /> |
-	
-	<br>
+  - <details><summary>🕹🖼 Video Game Styles</summary><p><div align="center">
 
-	| AI Generated | Neural Art | Neural Style Transfer |
+	| Game | Video Game | Flash Game |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_AI_Generated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Neural_Art.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Neural_Style_Transfer.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Game.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Video_Game.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Flash_Game.png?raw=true" width="256" /> |
+	
 	<br>
-
-	| Deep Dream |
+	
+	| HD Mod |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Deep_Dream.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_HD_Mod.png?raw=true" width="256" /> |
 	
 	<br>
-
-	| Generated by Midjourney | Generated by Dall-e | Generated by Dall-e2 |
-    | :-: | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Generated_By_Midjourney.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Generated_by_Dall-e.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Generated_by_Dall-e2.png?raw=true" width="256" /> |
-
-    <br>
-
-    | Convolutional Features | Image Segmentation |
-    | :-: | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Convolutional_Features.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Image_Segmentation.png?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-
-- <details><summary>🖥👾 Game System Graphics</summary><p><div align="center">
-
-	| Atari Graphics |
+	
+	| Gamercore | Nintencore | Nintendo |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Gamercore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nintencore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Nintendo.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Tetris | <br>Tetris Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Tetris.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_tetris_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Pacman | <br>Pac-Man Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pacman.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_pac-man_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Minecraft | <br>Minecraft Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Minecraft.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_minecraft_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Terraria | <br>Terraria Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Terraria.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_terraria_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Roblox |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_Graphics.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Roblox.png?raw=true" width="256" /> |
+	
 	<br>
-
-	| Atari 2600 | Atari 2600 Palette |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_2600.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_2600_Palette.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Atari ST | Atari ST Palette |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_ST.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_ST_Palette.png?raw=true" width="256" /> |
-
-	<br>
-
-	| PS1 Graphics |
+	
+	| No Mans Sky |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PS1_Graphics.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_No_Mans_Sky.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Farmville |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Farmville.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Guitar Hero |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Guitar_Hero.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Fallout | <br>Fallout 4 Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Fallout.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_fallout_4_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Skyrim | <br>Skyrim Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Morrowind Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Skyrim.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_skyrim_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_morrowind_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Super Mario Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Pokemon Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_super_mario_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_pokemon_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Angry Birds Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Candy Crush Saga Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_angry_birds_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_candy_crush_saga_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Polybius | LSD-Dream-Emulator |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Polybius.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_LSD-Dream-Emulator.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Stardew Valley Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Sid Meiers Civilization Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_stardew_valley_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_sid_meiers_civilization_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Among Us Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>The Sims 4 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Cyberpunk 2077 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_among_us_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_the_sims_4_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_cyberpunk_2077_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Fortnite Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>PUBG Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_fortnite_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_PUBG_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Doom 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Quake 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_doom_3_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_quake_3_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Grand Theft Auto Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Forza Horizon Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_grand_theft_auto_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_forza_horizon_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Assassins Creed Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Destiny 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Mass Effect 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_assassins_creed_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_destiny_2_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_mass_effect_3_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Call of Duty Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Battlefield Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_call_of_duty_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_battlefield_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Batman Arkham Knight Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Marvels Spider-Man Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Star Wars The Old Republic Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_batman_arkham_knight_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_marvels_spider-man_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_star_wars_the_old_republic_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Bioshock Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Resident Evil Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Silent Hill 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_bioshock_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_resident_evil_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_silent_hill_2_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Dark Souls 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Ghost of Tsushima Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>For Honor Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_dark_souls_3_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_ghost_of_tsushima_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_for_honor_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>The Last of Us Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Dishonored Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Prey Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_the_last_of_us_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_dishonored_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_prey_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Bloodborne Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Disco Elysium Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_bloodborne_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_disco_elysium_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Far Cry Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Uncharted 4 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_far_cry_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_uncharted_4_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>DOTA 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Counter-Strike Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>League of Legends Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_DOTA_2_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_counter-strike_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_league_of_legends_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Overwatch Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Runescape Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Starcraft Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_overwatch_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_runescape_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_starcraft_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Gears of War Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>God of War Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Total War Warhammer Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_gears_of_war_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_god_of_war_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_total_war_warhammer_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>World of Warcraft Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Diablo Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Fable 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_world_of_warcraft_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_diablo_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_fable_2_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Witcher Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Witcher 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Hearthstone Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_witcher_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_witcher_3_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_hearthstone_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Final Fantasy Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Divinity Original Sin 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Dragon Age Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_final_fantasy_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_divinity_original_sin_2_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_dragon_age_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Horizon Zero Dawn Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Legends of Runeterra Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Monster Hunter Rise Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_horizon_zero_dawn_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_legends_of_runeterra_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_monster_hunter_rise_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Ori and The Blind Forest Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>The Long Dark Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_ori_and_the_blind_forest_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_the_long_dark_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Castlevania Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Darksiders Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Graveyard Keeper Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_castlevania_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_darksiders_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_graveyard_keeper_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Dune Spice Wars Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Lineage 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_dune_spice_wars_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_lineage_2_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>XCOM 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Heroes of Might and Magic 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Sea of Theaves Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_XCOM_2_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_heroes_of_might_and_magic_3_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_sea_of_theaves_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>Shadowrun Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Stray Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_shadowrun_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_stray_style.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| <br>FIFA 18 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_FIFA_18_style.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>🕹🤺 Video Game Characters</summary><p><div align="center">
+
+	| Mario | Luigi | Yoshi |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Mario.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Luigi.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Yoshi.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Princess Peach | Rosalina |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Princess_Peach.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Rosalina.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Wario | Waluigi |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Wario.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Waluigi.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Diddy Kong | Donkey Kong | Bowser |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Diddy_Kong.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Donkey_Kong.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Bowser.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Goomba | Koopa |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Goomba.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Koopa.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Kirby | King Dedede |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Kirby.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_King_Dedede.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Pikachu | Meowth | Jigglypuff |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pikachu.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Meowth.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Jigglypuff.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Charmander | Charizard |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Charmander.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Charizard.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Squirtle | Bulbasaur |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Squirtle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Bulbasaur.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Sonic | Knuckles the Echidna | Doctor Eggman |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sonic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Sphere_Knuckles_the_Echidna.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Sphere_Doctor_Eggman.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Mega Man | Metroid | Samus |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Mega_Man.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Metroid.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Samus.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Link | Zelda |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Link.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Zelda.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Chibi-Robo |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Chibi-Robo.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>🕹👾 Game System Graphics</summary><p><div align="center">
+
+	| Atari Graphics | Atari 2600 Palette | Atari ST Palette |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_2600_Palette.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_ST_Palette.png?raw=true" width="256" /> |
 
 	<br>
 
-	| PS2 Graphics | PS3 Graphics |
+	| PS1 Graphics | PlayStation 1 Graphics |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS2_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS3_Graphics.png?raw=true" width="256" /> |
-	
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PS1_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_1_Graphics.png?raw=true" width="256" /> |
+
 	<br>
-	
-	| PS4 Graphics | PS5 Graphics |
+
+	| PS2 Graphics | PlayStation 2 Graphics |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS4_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS5_Graphics.png?raw=true" width="256" /> |
-	
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS2_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_2_Graphics.png?raw=true" width="256" /> |
+
 	<br>
-	
-	| PSP Graphics | PS Vita Graphics |
+
+	| PS3 Graphics | PlayStation 3 Graphics |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PSP_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS_Vita_Graphics.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS3_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_3_Graphics.png?raw=true" width="256" /> |
+
+	<br>
+
+	| PS4 Graphics | PlayStation 4 Graphics |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS4_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_4_Graphics.png?raw=true" width="256" /> |
+
+	<br>
+
+	| PS5 Graphics | PlayStation 5 Graphics |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS5_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_5_Graphics.png?raw=true" width="256" /> |
+
+	<br>
+
+	| PSP Graphics | PlayStation Portable Graphics |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PSP_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_Portable_Graphics.png?raw=true" width="256" /> |
+
+	<br>
+
+	| PS Vita Graphics | PlayStation Vita Graphics |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_PS_Vita_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_Vita_Graphics.png?raw=true" width="256" /> |
 	
 	<br>
 
@@ -619,15 +955,9 @@
 
 	<br>
 
-	| NES | NES Palette |
+	| NES Palette | SNES Palette |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_NES.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_NES_Palette.png?raw=true" width="256" /> |
-
-	<br>
-
-	| SNES | SNES Palette |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_SNES.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_SNES_Palette.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_NES_Palette.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_SNES_Palette.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -649,21 +979,15 @@
 
 	<br>
 
-	| Game Boy | Game Boy Palette | Gameboy Graphics |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Palette.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Gameboy_Graphics.png?raw=true" width="256" /> |
+	| Game Boy Palette | Gameboy Graphics |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Palette.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Gameboy_Graphics.png?raw=true" width="256" /> |
 
 	<br>
 
-	| Game Boy Color | Game Boy Color Palette |
+	| Game Boy Color Palette | Game Boy Advance Palette |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Color.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Color_Palette.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Game Boy Advance | Game Boy Advance Palette |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Advance.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Advance_Palette.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Color_Palette.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Advance_Palette.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -671,266 +995,101 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Nintendo_DS_Graphics.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Nintendo_3DS_Graphics.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
-- <details><summary>🖥🕹 Video Game Styles</summary><p><div align="center">
+  - <details><summary>🕹🎮 Game Systems</summary><p><div align="center">
 
-	| Game | Video Game | Flash Game |
+	| Atari | Atari 2600 | Atari ST |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Game.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Video_Game.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Flash_Game.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_2600.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Atari_ST.png?raw=true" width="256" /> |
 
 	<br>
 
-	| HD Mod |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_HD_Mod.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Gamercore | Nintencore | Nintendo |
-    | :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Gamercore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nintencore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Nintendo.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Tetris | <br>Tetris Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Tetris.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_tetris_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Pacman | <br>Pac-Man Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pacman.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_pac-man_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Minecraft | <br>Minecraft Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Minecraft.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_minecraft_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Terraria | <br>Terraria Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Terraria.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_terraria_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Roblox |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Roblox.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| No Mans Sky |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_No_Mans_Sky.png?raw=true" width="256" /> |
-
-	<br>
-	
-	| Farmville |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Farmville.png?raw=true" width="256" /> |
+	| PlayStation 1 | PlayStation 2 | PlayStation 3 |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_1.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_2.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_3.png?raw=true" width="256" /> |
 	
 	<br>
 	
-	| Guitar Hero |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Guitar_Hero.png?raw=true" width="256" /> |
-
-	<br>
-
-	| Fallout | <br>Fallout 4 Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| PlayStation 4 | PlayStation 5 |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Fallout.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_fallout_4_style.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_4.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_5.png?raw=true" width="256" /> |
+	
 	<br>
-
-	| Skyrim | <br>Skyrim Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Morrowind Style<p><div align="center"><i><h6>Added By <a href="https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Skyrim.png?raw=true" width="256" /> |  <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_skyrim_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_morrowind_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Super Mario Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Pokemon Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	
+	| PSP | PlayStation Portable |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_super_mario_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_pokemon_style.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PSP.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_Portable.png?raw=true" width="256" /> |
+	
 	<br>
-
-	| <br>Angry Birds Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Candy Crush Saga Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	
+	| PS Vita | PlayStation Vita |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_angry_birds_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_candy_crush_saga_style.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PS_Vita.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_PlayStation_Vita.png?raw=true" width="256" /> |
+	
 	<br>
-
-	| Polybius | LSD-Dream-Emulator |
+	
+	| Xbox | Xbox 360 |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Polybius.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_LSD-Dream-Emulator.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Xbox.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Xbox_360.png?raw=true" width="256" /> |
+	
 	<br>
-
-	| <br>Stardew Valley Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Sid Meiers Civilization Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	
+	| Xbox One | Xbox One X |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_stardew_valley_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_sid_meiers_civilization_style.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Xbox_One.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Xbox_One_X.png?raw=true" width="256" /> |
+	
 	<br>
 
-	| <br>Among Us Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>The Sims 4 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Cyberpunk 2077 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_among_us_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_the_sims_4_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_cyberpunk_2077_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Fortnite Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>PUBG Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| NES | Nintendo Entertainment System |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_fortnite_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_PUBG_style.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_NES.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nintendo_Entertainment_System.png?raw=true" width="256" /> |
 
 	<br>
 
-	| <br>Doom 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Quake 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| SNES | Super Nintendo Entertainment System |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_doom_3_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_quake_3_style.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_SNES.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Super_Nintendo_Entertainment_System.png?raw=true" width="256" /> |
 
 	<br>
 
-	| <br>Grand Theft Auto Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Forza Horizon Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| Famicom | Nintendo Famicom |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_grand_theft_auto_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_forza_horizon_style.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Famicom.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nintendo_Famicom.png?raw=true" width="256" /> |
+	
 	<br>
-
-	| <br>Assassins Creed Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Destiny 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Mass Effect 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_assassins_creed_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_destiny_2_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_mass_effect_3_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Call of Duty Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Battlefield Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	
+	| Nintendo 64 | GameCube |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_call_of_duty_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_battlefield_style.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nintendo_64.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_GameCube.png?raw=true" width="256" /> |
+	
 	<br>
-
-	| <br>Batman Arkham Knight Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Marvels Spider-Man Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Star Wars The Old Republic Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	
+	| Wii | Wii U | Nintendo Switch |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_batman_arkham_knight_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_marvels_spider-man_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_star_wars_the_old_republic_style.png?raw=true" width="256" /> |
-
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Wii.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Wii_U.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nintendo_Switch.png?raw=true" width="256" /> |
+	
 	<br>
 
-	| <br>Bioshock Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Resident Evil Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Silent Hill 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	| Game Boy | Game Boy Color | Game Boy Advance |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_bioshock_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_resident_evil_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_silent_hill_2_style.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Color.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Game_Boy_Advance.png?raw=true" width="256" /> |
 
 	<br>
-
-	| <br>Dark Souls 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Ghost of Tsushima Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>For Honor Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
+	
+	| Nintendo DS | Nintendo DSi | Nintendo 3DS |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_dark_souls_3_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_ghost_of_tsushima_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_for_honor_style.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nintendo_DS.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nintendo_DSi.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nintendo_3DS.png?raw=true" width="256" /> |
 
-	<br>
+	</div></p></details>
 
-	| <br>The Last of Us Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Dishonored Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Prey Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_the_last_of_us_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_dishonored_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_prey_style.png?raw=true" width="256" /> |
+  </p></details>
+  
 
-	<br>
+- <details><summary>💾 Computer Systems and Operating Systems</summary><p>
 
-	| <br>Bloodborne Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Disco Elysium Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_bloodborne_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_disco_elysium_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Far Cry Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Uncharted 4 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_far_cry_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_uncharted_4_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>DOTA 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Counter-Strike Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>League of Legends Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_DOTA_2_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_counter-strike_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_league_of_legends_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Overwatch Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Runescape Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Starcraft Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_overwatch_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_runescape_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_starcraft_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Gears of War Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>God of War Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Total War Warhammer Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_gears_of_war_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_god_of_war_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_total_war_warhammer_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>World of Warcraft Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Diablo Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Fable 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_world_of_warcraft_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_diablo_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_fable_2_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Witcher Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Witcher 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Hearthstone Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_witcher_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_witcher_3_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_hearthstone_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Final Fantasy Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Divinity Original Sin 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Dragon Age Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_final_fantasy_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_divinity_original_sin_2_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_dragon_age_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Horizon Zero Dawn Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Legends of Runeterra Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Monster Hunter Rise Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_horizon_zero_dawn_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_legends_of_runeterra_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_monster_hunter_rise_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Ori and The Blind Forest Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>The Long Dark Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_ori_and_the_blind_forest_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_the_long_dark_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Castlevania Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Darksiders Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Graveyard Keeper Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_castlevania_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_darksiders_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_graveyard_keeper_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Dune Spice Wars Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Lineage 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_dune_spice_wars_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_lineage_2_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>XCOM 2 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Heroes of Might and Magic 3 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Sea of Theaves Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_XCOM_2_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_heroes_of_might_and_magic_3_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_sea_of_theaves_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>Shadowrun Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> | <br>Stray Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_shadowrun_style.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_stray_style.png?raw=true" width="256" /> |
-
-	<br>
-
-	| <br>FIFA 18 Style<p><div align="center"><i><h6>Added By <a href= "https://github.com/karynatrychyk">karynatrychyk</a></h6></i></p> |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Games/sphere_FIFA_18_style.png?raw=true" width="256" /> |
-
-  </div></p></details>
-
-
-
-- <details><summary>🖥 Computer System Graphics</summary><p><div align="center">
+  - <details><summary>💾🖥 Computer System Graphics</summary><p><div align="center">
 
 	| PC Graphics |
 	| :-: |
@@ -984,11 +1143,10 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Mattel_Aquarius.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Mattel_Aquarius_Palette.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
 
-
-- <details><summary>🖥💽 Operating Systems</summary><p><div align="center">
+  - <details><summary>💾💽 Operating Systems</summary><p><div align="center">
 
 	| OS | Operating System |
 	| :-: | :-: |
@@ -1042,8 +1200,42 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Chrome_OS.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_AmigaOS.png?raw=true" width="256" /> |
 
-  </div></p></details>
+	</div></p></details>
 
+  </p></details>
+
+
+- <details><summary>🖥🧠 AI and Neural Networks</summary><p><div align="center">
+
+	| AI | Neural Network |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_AI.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Neural_Network.png?raw=true" width="256" /> |
+	
+	<br>
+
+	| AI Generated | Neural Art | Neural Style Transfer |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_AI_Generated.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Neural_Art.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Neural_Style_Transfer.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Deep Dream |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Deep_Dream.png?raw=true" width="256" /> |
+	
+	<br>
+
+	| Generated by Midjourney | Generated by Dall-e | Generated by Dall-e2 |
+    | :-: | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Generated_By_Midjourney.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Generated_by_Dall-e.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Generated_by_Dall-e2.png?raw=true" width="256" /> |
+
+    <br>
+
+    | Convolutional Features | Image Segmentation |
+    | :-: | :-: |
+    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Convolutional_Features.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Image_Segmentation.png?raw=true" width="256" /> |
+
+  </div></p></details>
 
 
 - <details><summary>🖥 Other</summary><p><div align="center">
@@ -1075,6 +1267,18 @@
 	| Capcha | Recapcha |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Capcha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Recapcha.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Prototype | Pre-Release |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Prototype.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pre-Release.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Alpha | Beta |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Alpha.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Beta.png?raw=true" width="256" /> |
 
   </div></p></details>
 

@@ -500,6 +500,37 @@
 	</div></p></details>
 
 
+  - <details><summary>🕹 Video Games and Game Systems</summary><p>
+
+    - <details><summary>🕹🖼 Video Game Styles</summary><p><div align="center">
+
+		| Tetris |
+		| :-: |
+		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Tetris.png?raw=true" width="256" /> |
+
+		<br>
+
+		| Minecraft |
+		| :-: |
+		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Minecraft.png?raw=true" width="256" /> |
+
+		<br>
+
+		| Terraria |
+		| :-: |
+		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Terraria.png?raw=true" width="256" /> |
+
+		<br>
+
+		| LSD-Dream-Emulator |
+		| :-: |
+		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/LSD-Dream-Emulator.png?raw=true" width="256" /> |
+		
+	  </div></p></details>
+
+	</p></details>
+
+
   - <details><summary>🖥🧠 AI and Neural Networks</summary><p><div align="center">
 
 	| Deep Dream |
@@ -514,32 +545,6 @@
 
 	</div></p></details>
 
-
-  - <details><summary>🖥🕹 Video Game Styles</summary><p><div align="center">
-
-	| Tetris |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Tetris.png?raw=true" width="256" /> |
-
-	<br>
-
-    | Minecraft |
-    | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Minecraft.png?raw=true" width="256" /> |
-
-    <br>
-
-    | Terraria |
-    | :-: |
-    | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Terraria.png?raw=true" width="256" /> |
-
-    <br>
-
-	| LSD-Dream-Emulator |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/LSD-Dream-Emulator.png?raw=true" width="256" /> |
-
-	</div></p></details>
 
   - <details><summary>🖥 Other</summary><p><div align="center">
 

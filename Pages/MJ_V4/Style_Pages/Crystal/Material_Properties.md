@@ -64,6 +64,8 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Solarization.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Solarized.png?raw=true" width="256" /> |
 
+	<br>
+
 	| Iridescent | Dispersion |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Iridescent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Dispersion.png?raw=true" width="256" /> | 
@@ -265,6 +267,12 @@
 
 	<br>
 	
+	| Specular Highlights |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Specular_Highlights.png?raw=true" width="256" /> |
+
+	<br>
+	
 	| Glare |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Glare.png?raw=true" width="256" /> |
@@ -349,6 +357,12 @@
 	
 	<br>
 	
+	| Corroded |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Corroded.png?raw=true" width="256" /> |
+
+	<br>
+	
 	| Dirty | With Imperfections |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Dirty.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_With_Imperfections.png?raw=true" width="256" /> |
@@ -376,7 +390,7 @@
 	| Hydrophobic |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(crystal)/Material_Properties/Crystal_Hydrophobic.png?raw=true" width="256" /> |
-
+	
 	<br>
 	
 	| Flowing |

@@ -300,20 +300,24 @@
 	</div></p></details>
 
 
+  - <details><summary>🕹 Video Games and Game Systems</summary><p>
+
+    - <details><summary>🕹🖼 Video Game Styles</summary><p><div align="center">
+
+		| Tetris |
+		| :-: |
+		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Tetris.png?raw=true" width="256" /> |
+
+	  </div></p></details>
+
+	</p></details>
+
+
   - <details><summary>🖥🧠 AI and Neural Networks</summary><p><div align="center">
 
 	| Deep Dream |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Deep_Dream.png?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-  - <details><summary>🖥🕹 Video Game Styles</summary><p><div align="center">
-
-	| Tetris |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Tetris.png?raw=true" width="256" /> |
 
 	</div></p></details>
 

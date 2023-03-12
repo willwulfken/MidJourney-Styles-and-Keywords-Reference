@@ -434,6 +434,19 @@
 	</div></p></details>
 
 
+  - <details><summary>🕹 Video Games and Game Systems</summary><p>
+
+    - <details><summary>🕹🖼 Video Game Styles</summary><p><div align="center">
+
+		| Tetris |
+		| :-: |
+		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Tetris.png?raw=true" width="256" /> |
+
+	  </div></p></details>
+
+	</p></details>
+
+
   - <details><summary>🖥🧠 AI and Neural Networks</summary><p><div align="center">
 
 	| Deep Dream |
@@ -442,14 +455,6 @@
 
 	</div></p></details>
 
-
-  - <details><summary>🖥🕹 Video Game Styles</summary><p><div align="center">
-
-	| Tetris |
-	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Tetris.png?raw=true" width="256" /> |
-
-	</div></p></details>
   </p></details>
 
 

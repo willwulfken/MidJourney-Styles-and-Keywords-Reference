@@ -26,9 +26,9 @@
 	
 	<br>
 	
-	| Aerial View | View From an Airplane |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Aerial_View.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_View_From_an_Airplane.png?raw=true" width="256" /> |
+	| Worms-Eye View | Aerial View | View From an Airplane |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Worms-Eye_View.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Aerial_View.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_View_From_an_Airplane.png?raw=true" width="256" /> |
 
 	<br>
 
@@ -41,7 +41,7 @@
 	| Wide Shot | Epic Wide Shot |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Wide_Shot.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Epic_Wide_Shot.png?raw=true" width="256" /> |
-
+	
 	<br>
 
 	| Centered-Shot | Selfie |
@@ -74,15 +74,9 @@
 
 - <details><summary>🛤️🛣️ Perspective and Projections</summary><p><div align="center">
 
-	| Perspective | Panini Projection |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Perspective.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Panini_Projection.png?raw=true" width="256" /> | 
-
-	<br>
-	
-	| Orthographic | Isometric | Axonometric |
+	| Perspective | Perspective Projection | Panini Projection |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Orthographic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Isometric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Axonometric.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Perspective.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Perspective_Projection.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Panini_Projection.png?raw=true" width="256" /> | 
 
 	<br>
 	
@@ -91,16 +85,47 @@
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Miniature_Faking.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Brenizer_Method.png?raw=true" width="256" /> |
 
 	<br>
-
-	| Accelerated Perspective | Linear Perspective | Curvilinear Perspective |
-	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Accelerated_Perspective.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Linear_Perspective.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Curvilinear_Perspective.png?raw=true" width="256" /> |
-
-	<br>
 	
 	| Forced Perspective | Aerial Perspective |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Forced_Perspective.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Aerial_Perspective.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Isometric |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Isometric.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Orthographic | Multiview Projection |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Orthographic.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Multiview_Projection.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Axonometric | Axonometric Projection |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Axonometric.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Axonometric_Projection.png?raw=true" width="256" /> |
+
+	<br>
+	
+	| Dimetric Projection | Trimetric Projection |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Dimetric_Projection.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Trimetric_Projection.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Parallel Projection | Oblique Projection |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Parallel_Projection.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Oblique_Projection.png?raw=true" width="256" /> |
+
+	<br>
+
+	| Anamorphosis | Accelerated Perspective | Linear Perspective |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Anamorphosis.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Accelerated_Perspective.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Linear_Perspective.png?raw=true" width="256" /> |
+
 		
 	<br>
 	
@@ -110,15 +135,48 @@
 	
 	<br>
 
+	| Curvilinear Perspective |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Curvilinear_Perspective.png?raw=true" width="256" /> |
+
+	<br>
+
 	| Cylindrical Perspective |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Cylindrical_Perspective.png?raw=true" width="256" /> |
 
 	<br>
 	
-	| Anamorphosis |
+	| Reverse Perspective | Inverse Perspective | Inverted Perspective |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Reverse_Perspective.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Inverse_Perspective.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Inverted_Perspective.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Divergent Perspective |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Anamorphosis.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Divergent_Perspective.png?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
+- <details><summary>🛤️✂️ Cutaway View and Cross-Sections</summary><p><div align="center">
+
+	| Cross-Section |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Cross-Section.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Cutaway | Cutaway-View | Cutaway Drawing |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Cutaway.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Cutaway-View.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Cutaway_Drawing.png?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Exploded-View | Exploded-View Drawing |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Exploded-View.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(landscape)/Perspective/Landscape_Exploded-View_Drawing.png?raw=true" width="256" /> |
 
   </div></p></details>
 
