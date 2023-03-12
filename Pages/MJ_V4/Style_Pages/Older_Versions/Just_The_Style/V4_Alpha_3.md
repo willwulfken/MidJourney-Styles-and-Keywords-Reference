@@ -917,15 +917,6 @@
 		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Agate.png?raw=true" width="256" /> |
 
 	  </div></p></details>
-	
-
-	- <details><summary>🧱🥤 Plastic and Foam</summary><p><div align="center">
-
-		| Lego |
-		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Lego.png?raw=true" width="256" /> |
-
-	  </div></p></details>
 
     </p></details>
 
@@ -959,6 +950,15 @@
 
 
 - <details><summary>🎷 Objects</summary><p>
+
+  - <details><summary>🎷🪀 Toys</summary><p><div align="center">
+
+	| Lego |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Lego.png?raw=true" width="256" /> |
+
+	</div></p></details>
+
 
   - <details><summary>🎷🚽 Other Objects</summary><p><div align="center">
 
