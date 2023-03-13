@@ -376,7 +376,7 @@
 
   - <details><summary>🖌✏ Illustration and Drawing</summary><p>
 
-    - <details><summary>🖌🖼 Drawing Types</summary><p><div align="center">
+    - <details><summary>✏🖼 Drawing Types</summary><p><div align="center">
 
 		| Sketch |
 		| :-: |
@@ -391,7 +391,7 @@
 	  </div></p></details>
 
 
-    - <details><summary>🖌✏ Pencil and Graphite</summary><p><div align="center">
+    - <details><summary>✏ Pencil and Graphite</summary><p><div align="center">
 
 		| Colored Pencil |
 		| :-: |
@@ -400,7 +400,7 @@
 	  </div></p></details>
 
 
-    - <details><summary>🖌🖊 Ink</summary><p><div align="center">
+    - <details><summary>✏🖊 Ink</summary><p><div align="center">
 
 		| Ballpoint Pen |
 		| :-: |
@@ -419,7 +419,7 @@
 
   - <details><summary>🖌🎨 Paint</summary><p>
 
-    - <details><summary>🖌🖼 Painting Types</summary><p><div align="center">
+    - <details><summary>🎨🖼 Painting Types</summary><p><div align="center">
 
 		| Paper-Marbling |
 		| :-: |
@@ -428,7 +428,7 @@
 	  </div></p></details>
 
 
-    - <details><summary>🖌🎨 Paint Types</summary><p><div align="center">
+    - <details><summary>🎨 Paint Types</summary><p><div align="center">
 
 		| Splatter Paint |
 		| :-: |
@@ -441,7 +441,7 @@
 
   - <details><summary>🖌🎲 Physical Mediums</summary><p>
 
-    - <details><summary>🖌🖼 Framed, Banner, and Decal</summary><p><div align="center">
+    - <details><summary>🎲🖼 Framed, Banner, and Decal</summary><p><div align="center">
 
 		| Wall Decal |
 		| :-: |
@@ -450,7 +450,7 @@
 	  </div></p></details>
 
 
-    - <details><summary>🖌🗿 Carving, Etching, and Modeling</summary><p><div align="center">
+    - <details><summary>🎲🗿 Carving, Etching, and Modeling</summary><p><div align="center">
 
 		| Bejeweled |
 		| :-: |
@@ -464,7 +464,7 @@
 
 	  </div></p></details>
 
-    - <details><summary>🖌🏺 Pottery and Glass</summary><p><div align="center">
+    - <details><summary>🎲🏺 Pottery and Glass</summary><p><div align="center">
 
 		| Bone China |
 		| :-: |

@@ -45,7 +45,7 @@
 
 - <details><summary>➰☯ Symbols</summary><p>
 
-  - <details><summary>➰♓ Zodiac Signs</summary><p><div align="center">
+  - <details><summary>☯♓ Zodiac Signs</summary><p><div align="center">
 
     | Capricornus | Aquarius | Pisces |
     | :-: | :-: | :-: |

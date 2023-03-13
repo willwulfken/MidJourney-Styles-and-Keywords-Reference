@@ -15,7 +15,7 @@
 
 - <details><summary>🖌✏ Illustration and Drawing</summary><p>
 
-  - <details><summary>🖌🖼 Drawing Types</summary><p><div align="center">
+  - <details><summary>✏🖼 Drawing Types</summary><p><div align="center">
 
 	| Sketch | Drawing |
 	| :-: | :-: |
@@ -54,7 +54,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌✏ Pencil and Graphite</summary><p><div align="center">
+  - <details><summary>✏ Pencil and Graphite</summary><p><div align="center">
 
 	| Pencil Art | Charcoal Art |
 	| :-: | :-: |
@@ -69,7 +69,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🖊 Ink</summary><p><div align="center">
+  - <details><summary>✏🖊 Ink</summary><p><div align="center">
 
 	| Ink | Ballpoint Pen |
 	| :-: | :-: |
@@ -90,7 +90,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🖍 Crayon, Chalk, and Pastel</summary><p><div align="center">
+  - <details><summary>✏🖍 Crayon, Chalk, and Pastel</summary><p><div align="center">
 
 	| Crayon | Chalk | Pastel Art |
 	| :-: | :-: | :-: |
@@ -103,7 +103,7 @@
 
 - <details><summary>🖌🎨 Paint</summary><p>
 
-  - <details><summary>🖌🖼 Painting Types</summary><p><div align="center">
+  - <details><summary>🎨🖼 Painting Types</summary><p><div align="center">
 
 	| Painting |
 	| :-: |
@@ -124,7 +124,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🎨 Paint Types</summary><p><div align="center">
+  - <details><summary>🎨 Paint Types</summary><p><div align="center">
 
 	| Paint |
 	| :-: |
@@ -161,7 +161,7 @@
 
 - <details><summary>🖌🖨 Printed Material</summary><p>
 
-  - <details><summary>🖌🖨 Print Types</summary><p><div align="center">
+  - <details><summary>🖨📄 Print Types</summary><p><div align="center">
 
 	| Logo |
 	| :-: |
@@ -176,7 +176,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌📚 Books and Posters</summary><p><div align="center">
+  - <details><summary>🖨📚 Books and Posters</summary><p><div align="center">
 
 	| Comic Book |
 	| :-: |
@@ -189,7 +189,7 @@
 
 - <details><summary>🖌🎲 Physical Mediums</summary><p>
 
-  - <details><summary>🖌📄 Origami</summary><p><div align="center">
+  - <details><summary>🎲📄 Origami</summary><p><div align="center">
 
 	| Origami |
 	| :-: |
@@ -198,7 +198,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🀣 Mosaic</summary><p><div align="center">
+  - <details><summary>🎲🀣 Mosaic</summary><p><div align="center">
 
 	| Mosaic | Micromosaic | Glass Mosaic |
 	| :-: | :-: | :-: |
@@ -206,7 +206,7 @@
 
 	</div></p></details>
 
-  - <details><summary>🖌🖼 Framed, Banner, and Decal</summary><p><div align="center">
+  - <details><summary>🎲🖼 Framed, Banner, and Decal</summary><p><div align="center">
 
 	| Framed |
 	| :-: |
@@ -220,7 +220,7 @@
 
 	</div></p></details>
 
-  - <details><summary>🖌🗿 Carving, Etching, and Modeling</summary><p><div align="center">
+  - <details><summary>🎲🗿 Carving, Etching, and Modeling</summary><p><div align="center">
 
 	| Carving | Etching |
 	| :-: | :-: |
@@ -253,7 +253,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🏺 Pottery and Glass</summary><p><div align="center">
+  - <details><summary>🎲🏺 Pottery and Glass</summary><p><div align="center">
 
 	| Glaze |
 	| :-: |
@@ -280,7 +280,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🎲 Other Physical Mediums</summary><p><div align="center">
+  - <details><summary>🎲 Other Physical Mediums</summary><p><div align="center">
 
 	| Resin | Enamel Pin |
 	| :-: | :-: |

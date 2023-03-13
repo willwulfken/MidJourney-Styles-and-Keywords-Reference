@@ -431,7 +431,7 @@
 
 - <details><summary>➰☯ Symbols</summary><p>
 
-  - <details><summary>➰♓ Zodiac Signs</summary><p><div align="center">
+  - <details><summary>☯♓ Zodiac Signs</summary><p><div align="center">
 
     | Capricornus | Aquarius | Pisces |
     | :-: | :-: | :-: |
@@ -522,7 +522,7 @@
 
 - <details><summary>➰🔢Numbers and Number Systems</summary><p>
 
-  - <details><summary>➰🔢 Numbers</summary><p><div align="center">
+  - <details><summary>🔢 Numbers</summary><p><div align="center">
 
 	| Hundred | Thousand |
 	| :-: | :-: |
@@ -545,7 +545,7 @@
 
 
 
-  - <details><summary>➰🔢 Number Systems</summary><p><div align="center">
+  - <details><summary>🔢 Number Systems</summary><p><div align="center">
 
 	| Unary | Binary | Ternary |
 	| :-: | :-: | :-: |
@@ -572,7 +572,7 @@
 	</div></p></details>
 
 
-  - <details><summary>➰🔢 Tuples</summary><p><div align="center">
+  - <details><summary>🔢 Tuples</summary><p><div align="center">
 
 	| Single | Double | Triple |
 	| :-: | :-: | :-: |

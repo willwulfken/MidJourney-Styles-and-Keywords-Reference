@@ -15,7 +15,7 @@
 
 - <details><summary>🖌✏ Illustration and Drawing</summary><p>
 
-  - <details><summary>🖌🖼 Drawing Types</summary><p><div align="center">
+  - <details><summary>✏🖼 Drawing Types</summary><p><div align="center">
 
 	| Sketch | Drawing | Doodle |
 	| :-: | :-: | :-: |
@@ -78,7 +78,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌✏ Pencil and Graphite</summary><p><div align="center">
+  - <details><summary>✏ Pencil and Graphite</summary><p><div align="center">
 
 	| Pencil Art | Graphite | Charcoal Art |
 	| :-: | :-: | :-: |
@@ -93,7 +93,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🖊 Ink</summary><p><div align="center">
+  - <details><summary>✏🖊 Ink</summary><p><div align="center">
 
 	| Ink | Calligraphy | Ballpoint Pen |
 	| :-: | :-: | :-: |
@@ -138,7 +138,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🖍 Crayon, Chalk, and Pastel</summary><p><div align="center">
+  - <details><summary>✏🖍 Crayon, Chalk, and Pastel</summary><p><div align="center">
 
 	| Crayon | Chalk | Pastel Art |
 	| :-: | :-: | :-: |
@@ -157,7 +157,7 @@
 
 - <details><summary>🖌🎨 Paint</summary><p>
 
-  - <details><summary>🖌🖼 Painting Types</summary><p><div align="center">
+  - <details><summary>🎨🖼 Painting Types</summary><p><div align="center">
 
 	| Painting | Canvas | Hard Edge Painting |
 	| :-: | :-: | :-: |
@@ -282,7 +282,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🎨 Paint Types</summary><p><div align="center">
+  - <details><summary>🎨 Paint Types</summary><p><div align="center">
 
 	| Paint | Oil Paint | Tempera Paint |
 	| :-: | :-: | :-: |
@@ -376,7 +376,7 @@
 
 - <details><summary>🖌🖨 Printed Material</summary><p>
 
-  - <details><summary>🖌🖨 Print Types</summary><p><div align="center">
+  - <details><summary>🖨📄 Print Types</summary><p><div align="center">
 
 	| Print | Printed | 3D Printed |
 	| :-: | :-: | :-: |
@@ -439,7 +439,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🟫 Block Printing</summary><p><div align="center">
+  - <details><summary>🖨🟫 Block Printing</summary><p><div align="center">
 
 	| Block Printing |
 	| :-: |
@@ -453,7 +453,7 @@
 
 	</div></p></details>
 
-  - <details><summary>🖌🃏 Cards and Stamps</summary><p><div align="center">
+  - <details><summary>🖨🃏 Cards and Stamps</summary><p><div align="center">
 
 	| Stamp | Postage Stamp | Business Card |
 	| :-: | :-: | :-: |
@@ -468,7 +468,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌📚 Books and Posters</summary><p><div align="center">
+  - <details><summary>🖨📚 Books and Posters</summary><p><div align="center">
 
 	| Magazine | Comic Book | Underground Comix |
 	| :-: | :-: | :-: |
@@ -499,7 +499,7 @@
 
 - <details><summary>🖌🎲 Physical Mediums</summary><p>
 
-  - <details><summary>🖌📄 Origami</summary><p><div align="center">
+  - <details><summary>🎲📄 Origami</summary><p><div align="center">
 
 	| Origami | Rigid Origami | Modular Origami |
 	| :-: | :-: | :-: |
@@ -520,7 +520,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🀣 Mosaic</summary><p><div align="center">
+  - <details><summary>🎲🀣 Mosaic</summary><p><div align="center">
 
 	| Mosaic | Micromosaic | Glass Mosaic |
 	| :-: | :-: | :-: |
@@ -547,7 +547,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🖼 Framed, Banner, and Decal</summary><p><div align="center">
+  - <details><summary>🎲🖼 Framed, Banner, and Decal</summary><p><div align="center">
 
 	| Frame | Framed |
 	| :-: | :-: |
@@ -591,7 +591,7 @@
 
 	</div></p></details>
 
-  - <details><summary>🖌🗿 Carving, Etching, and Modeling</summary><p><div align="center">
+  - <details><summary>🎲🗿 Carving, Etching, and Modeling</summary><p><div align="center">
 
 	| Carving | Pyrography | Etching |
 	| :-: | :-: | :-: |
@@ -727,7 +727,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🏺 Pottery and Glass</summary><p><div align="center">
+  - <details><summary>🎲🏺 Pottery and Glass</summary><p><div align="center">
 
 	| Glaze | Overglaze |
 	| :-: | :-: |
@@ -796,7 +796,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🏮 Scrapbooking and Collages</summary><p><div align="center">
+  - <details><summary>🎲🏮 Scrapbooking and Collages</summary><p><div align="center">
 
 	| Collage | Photocollage | Fotocollage |
 	| :-: | :-: | :-: |
@@ -811,7 +811,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌💡 Light</summary><p><div align="center">
+  - <details><summary>🎲💡 Light</summary><p><div align="center">
 
 	| Light Art | Light Painting | Lightpainting |
 	| :-: | :-: | :-: |
@@ -826,7 +826,7 @@
 	</div></p></details>
 
 
-  - <details><summary>🖌🎲 Other Physical Mediums</summary><p><div align="center">
+  - <details><summary>🎲 Other Physical Mediums</summary><p><div align="center">
 
 	| Arts and Crafts | Resin | Enamel Pin |
 	| :-: | :-: | :-: |

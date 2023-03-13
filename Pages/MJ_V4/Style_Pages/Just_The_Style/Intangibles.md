@@ -498,7 +498,7 @@
 
 - <details><summary>➰☯ Symbols</summary><p>
 
-  - <details><summary>➰♓ Zodiac Signs</summary><p><div align="center">
+  - <details><summary>☯♓ Zodiac Signs</summary><p><div align="center">
 
     | Capricornus | Aquarius | Pisces |
     | :-: | :-: | :-: |
@@ -525,7 +525,7 @@
 	</div></p></details>
 
 
-  - <details><summary>➰🔣 Unicode Symbols</summary><p><div align="center">
+  - <details><summary>☯🔣 Unicode Symbols</summary><p><div align="center">
 
 	| ,<p><div align="center"><i><h6>Comma</a></h6></i></p> | &#x27;<p><div align="center"><i><h6>Apostrophe</a></h6></i></p> |
 	| :-: | :-: |
@@ -892,7 +892,7 @@
 
 - <details><summary>➰🔢Numbers and Number Systems</summary><p>
 
-  - <details><summary>➰🔢 Numbers</summary><p><div align="center">
+  - <details><summary>🔢 Numbers</summary><p><div align="center">
 
 	| Hundred | Thousand |
 	| :-: | :-: |
@@ -913,7 +913,7 @@
 	</div></p></details>
 
 
-  - <details><summary>➰🔢 Number Systems</summary><p><div align="center">
+  - <details><summary>🔢 Number Systems</summary><p><div align="center">
 
 	| Unary | Binary | Ternary |
 	| :-: | :-: | :-: |
@@ -940,7 +940,7 @@
 	</div></p></details>
 
 
-  - <details><summary>➰🔢 Tuples</summary><p><div align="center">
+  - <details><summary>🔢 Tuples</summary><p><div align="center">
 
 	| Single | Double | Triple |
 	| :-: | :-: | :-: |

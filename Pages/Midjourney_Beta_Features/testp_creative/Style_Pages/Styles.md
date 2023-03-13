@@ -64,7 +64,7 @@
 
   - <details><summary>🖌✏ Illustration and Drawing</summary><p>
 
-    - <details><summary>🖌🖊 Ink</summary><p><div align="center">
+    - <details><summary>✏🖊 Ink</summary><p><div align="center">
 
 		| Marker Art |
 		| :-: |
@@ -77,7 +77,7 @@
 
   - <details><summary>🖌🎲 Physical Mediums</summary><p>
 
-    - <details><summary>🖌🗿 Carving, Etching, and Modeling</summary><p><div align="center">
+    - <details><summary>🎲🗿 Carving, Etching, and Modeling</summary><p><div align="center">
 
 		| Carved Lacquer |
 		| :-: |
