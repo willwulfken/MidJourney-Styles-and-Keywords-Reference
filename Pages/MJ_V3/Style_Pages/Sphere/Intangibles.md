@@ -529,229 +529,229 @@
 
   - <details><summary>☯🔣 Unicode Symbols</summary><p><div align="center">
 
-	| ,<p><div align="center"><i><h6>Comma</a></h6></i></p> | &#x27;<p><div align="center"><i><h6>Apostrophe</a></h6></i></p> |
+	| <br>,<p><div align="center"><i><h6>Comma</h6></i></div></p> | <br>&#x27;<p><div align="center"><i><h6>Apostrophe</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Comma.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Apostrophe.png?raw=true" width="256" /> |
 
 	<br>
 
-	| &#x22;<p><div align="center"><i><h6>Quotation Mark</a></h6></i></p> | „<p><div align="center"><i><h6>Double Low-9 Quotation Mark</a></h6></i></p> |
+	| <br>&#x22;<p><div align="center"><i><h6>Quotation Mark</h6></i></div></p> | <br>„<p><div align="center"><i><h6>Double Low-9 Quotation Mark</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_QuotationMark.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_DoubleLow-9QuotationMark.png?raw=true" width="256" /> |
 
 	<br>
 
-	| .<p><div align="center"><i><h6>Period</a></h6></i></p> | …<p><div align="center"><i><h6>Ellipsis</a></h6></i></p> | `<p><div align="center"><i><h6>Backtick</a></h6></i></p> |
+	| <br>.<p><div align="center"><i><h6>Period</h6></i></div></p> | <br>…<p><div align="center"><i><h6>Ellipsis</h6></i></div></p> | <br>`<p><div align="center"><i><h6>Backtick</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Period.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Ellipsis.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Backtick.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ~<p><div align="center"><i><h6>Tilde</a></h6></i></p> | _<p><div align="center"><i><h6>Underscore</a></h6></i></p> | ¯<p><div align="center"><i><h6>Macron</a></h6></i></p> |
+	| <br>~<p><div align="center"><i><h6>Tilde</h6></i></div></p> | <br>_<p><div align="center"><i><h6>Underscore</h6></i></div></p> | <br>¯<p><div align="center"><i><h6>Macron</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Tilde.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Underscore.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Macron.png?raw=true" width="256" /> |
 
 	<br>
 
-	| @<p><div align="center"><i><h6>At Sign</a></h6></i></p> | #<p><div align="center"><i><h6>Number Sign</a></h6></i></p> |
+	| <br>@<p><div align="center"><i><h6>At Sign</h6></i></div></p> | <br>#<p><div align="center"><i><h6>Number Sign</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_AtSign.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_NumberSign.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ^<p><div align="center"><i><h6>Caret</a></h6></i></p> | °<p><div align="center"><i><h6>Degrees</a></h6></i></p> | ¤<p><div align="center"><i><h6>Currency Sign</a></h6></i></p> |
+	| <br>^<p><div align="center"><i><h6>Caret</h6></i></div></p> | <br>°<p><div align="center"><i><h6>Degrees</h6></i></div></p> | <br>¤<p><div align="center"><i><h6>Currency Sign</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Caret.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Degrees.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_CurrencySign.png?raw=true" width="256" /> |
 
 	<br>
 
-	| $<p><div align="center"><i><h6>Dollar</a></h6></i></p> | ¢<p><div align="center"><i><h6>Cent</a></h6></i></p> | £<p><div align="center"><i><h6>Pound</a></h6></i></p> |
+	| <br>$<p><div align="center"><i><h6>Dollar</h6></i></div></p> | <br>¢<p><div align="center"><i><h6>Cent</h6></i></div></p> | <br>£<p><div align="center"><i><h6>Pound</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Dollar.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Cent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Pound.png?raw=true" width="256" /> |
 
 	<br>
 
-	| €<p><div align="center"><i><h6>Euro</a></h6></i></p> | ¥<p><div align="center"><i><h6>Yen</a></h6></i></p> | ₩<p><div align="center"><i><h6>Won</a></h6></i></p> |
+	| <br>€<p><div align="center"><i><h6>Euro</h6></i></div></p> | <br>¥<p><div align="center"><i><h6>Yen</h6></i></div></p> | <br>₩<p><div align="center"><i><h6>Won</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Euro.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Yen.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Won.png?raw=true" width="256" /> |
 
 	<br>
 
-	| %<p><div align="center"><i><h6>Percent</a></h6></i></p> | ‰<p><div align="center"><i><h6>Permile</a></h6></i></p> |
+	| <br>%<p><div align="center"><i><h6>Percent</h6></i></div></p> | <br>‰<p><div align="center"><i><h6>Permile</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Percent.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Permile.png?raw=true" width="256" /> |
 
 	<br>
 
-	| &<p><div align="center"><i><h6>Ampersand</a></h6></i></p> | ⅋<p><div align="center"><i><h6>Turned Ampersand</a></h6></i></p> |
+	| <br>&<p><div align="center"><i><h6>Ampersand</h6></i></div></p> | <br>⅋<p><div align="center"><i><h6>Turned Ampersand</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Ampersand.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_TurnedAmpersand.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ;<p><div align="center"><i><h6>Semicolon</a></h6></i></p> | :<p><div align="center"><i><h6>Colon</a></h6></i></p> | ⁝<p><div align="center"><i><h6>Isocolon</a></h6></i></p> |
+	| <br>;<p><div align="center"><i><h6>Semicolon</h6></i></div></p> | <br>:<p><div align="center"><i><h6>Colon</h6></i></div></p> | <br>⁝<p><div align="center"><i><h6>Isocolon</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Semicolon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Colon.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Isocolon.png?raw=true" width="256" /> |
 
 	<br>
 
-	| &#x7C;<p><div align="center"><i><h6>Vertical Bar</a></h6></i></p> | ¦<p><div align="center"><i><h6>Broken Vertical Bar</a></h6></i></p> |
+	| <br>&#x7C;<p><div align="center"><i><h6>Vertical Bar</h6></i></div></p> | <br>¦<p><div align="center"><i><h6>Broken Vertical Bar</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_VerticalBar.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_BrokenVerticalBar.png?raw=true" width="256" /> |
 
 	<br>
 
-	| /<p><div align="center"><i><h6>Slash</a></h6></i></p> | &#x5C;<p><div align="center"><i><h6>Backslash</a></h6></i></p> |
+	| <br>/<p><div align="center"><i><h6>Slash</h6></i></div></p> | <br>&#x5C;<p><div align="center"><i><h6>Backslash</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Slash.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Backslash.png?raw=true" width="256" /> |
 
 	<br>
 
-	| +<p><div align="center"><i><h6>Plus</a></h6></i></p> | -<p><div align="center"><i><h6>Hyphen</a></h6></i></p> | ±<p><div align="center"><i><h6>Plus-Minus Sign</a></h6></i></p> |
+	| <br>+<p><div align="center"><i><h6>Plus</h6></i></div></p> | <br>-<p><div align="center"><i><h6>Hyphen</h6></i></div></p> | <br>±<p><div align="center"><i><h6>Plus-Minus Sign</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Plus.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Hyphen.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Plus-MinusSign.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ×<p><div align="center"><i><h6>Multiply</a></h6></i></p> | ÷<p><div align="center"><i><h6>Divide</a></h6></i></p> | =<p><div align="center"><i><h6>Equals</a></h6></i></p> |
+	| <br>×<p><div align="center"><i><h6>Multiply</h6></i></div></p> | <br>÷<p><div align="center"><i><h6>Divide</h6></i></div></p> | <br>=<p><div align="center"><i><h6>Equals</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Multiply.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Divide.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Equals.png?raw=true" width="256" /> |
 
 	<br>
 
-	| <<p><div align="center"><i><h6>Less Than</a></h6></i></p> | ><p><div align="center"><i><h6>Greater Than</a></h6></i></p> |
+	| <br><<p><div align="center"><i><h6>Less Than</h6></i></div></p> | <br>><p><div align="center"><i><h6>Greater Than</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_LessThan.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_GreaterThan.png?raw=true" width="256" /> |
 
 	<br>
 
-	| !<p><div align="center"><i><h6>Exclimation Mark</a></h6></i></p> | ¡<p><div align="center"><i><h6>Inverted Exclimation Mark</a></h6></i></p> |
+	| <br>!<p><div align="center"><i><h6>Exclimation Mark</h6></i></div></p> | <br>¡<p><div align="center"><i><h6>Inverted Exclimation Mark</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_ExclimationMark.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_InvertedExclimationMark.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ?<p><div align="center"><i><h6>Question Mark</a></h6></i></p> | ¿<p><div align="center"><i><h6>Inverted Question Mark</a></h6></i></p> | ‽<p><div align="center"><i><h6>Interrobang</a></h6></i></p> |
+	| <br>?<p><div align="center"><i><h6>Question Mark</h6></i></div></p> | <br>¿<p><div align="center"><i><h6>Inverted Question Mark</h6></i></div></p> | <br>‽<p><div align="center"><i><h6>Interrobang</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_QuestionMark.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_InvertedQuestionMark.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Interrobang.png?raw=true" width="256" /> |
 
 	<br>
 
-	| *<p><div align="center"><i><h6>Asterisk</a></h6></i></p> | ⁂<p><div align="center"><i><h6>Asterism</a></h6></i></p> |
+	| <br>*<p><div align="center"><i><h6>Asterisk</h6></i></div></p> | <br>⁂<p><div align="center"><i><h6>Asterism</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Asterisk.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Asterism.png?raw=true" width="256" /> |
 
 	<br>
 
-	| •<p><div align="center"><i><h6>Bullet</a></h6></i></p> | ‣<p><div align="center"><i><h6>Triangular Bullet</a></h6></i></p> |
+	| <br>•<p><div align="center"><i><h6>Bullet</h6></i></div></p> | <br>‣<p><div align="center"><i><h6>Triangular Bullet</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Bullet.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_TriangularBullet.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ○<p><div align="center"><i><h6>White Circle</a></h6></i></p> | ●<p><div align="center"><i><h6>Black Circle</a></h6></i></p> |
+	| <br>○<p><div align="center"><i><h6>White Circle</h6></i></div></p> | <br>●<p><div align="center"><i><h6>Black Circle</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_WhiteCircle.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_BlackCircle.png?raw=true" width="256" /> |
 
 	<br>
 
-	| □<p><div align="center"><i><h6>White Square</a></h6></i></p> | ■<p><div align="center"><i><h6>Black Square</a></h6></i></p> | ▪︎<p><div align="center"><i><h6>Small Black Square</a></h6></i></p> |
+	| <br>□<p><div align="center"><i><h6>White Square</h6></i></div></p> | <br>■<p><div align="center"><i><h6>Black Square</h6></i></div></p> | ▪<br>︎<p><div align="center"><i><h6>Small Black Square</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_WhiteSquare.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_BlackSquare.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_SmallBlackSquare.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ☆<p><div align="center"><i><h6>Star</a></h6></i></p> | ◇<p><div align="center"><i><h6>Diamond</a></h6></i></p> |
+	| <br>☆<p><div align="center"><i><h6>Star</h6></i></div></p> | <br>◇<p><div align="center"><i><h6>Diamond</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Star.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Diamond.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ♤<p><div align="center"><i><h6>Spade</a></h6></i></p> | ♡<p><div align="center"><i><h6>Heart</a></h6></i></p> | ♧<p><div align="center"><i><h6>Club</a></h6></i></p> |
+	| <br>♤<p><div align="center"><i><h6>Spade</h6></i></div></p> | <br>♡<p><div align="center"><i><h6>Heart</h6></i></div></p> | <br>♧<p><div align="center"><i><h6>Club</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Spade.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Heart.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Club.png?raw=true" width="256" /> |
 
 	<br>
 
-	| †<p><div align="center"><i><h6>Dagger</a></h6></i></p> | ‡<p><div align="center"><i><h6>Double Dagger</a></h6></i></p> |
+	| <br>†<p><div align="center"><i><h6>Dagger</h6></i></div></p> | <br>‡<p><div align="center"><i><h6>Double Dagger</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Dagger.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_DoubleDagger.png?raw=true" width="256" /> |
 
 	<br>
 
-	| (<p><div align="center"><i><h6>Left Parenthesis</a></h6></i></p> | )<p><div align="center"><i><h6>Right Parenthesis</a></h6></i></p> |
+	| <br>(<p><div align="center"><i><h6>Left Parenthesis</h6></i></div></p> | <br>)<p><div align="center"><i><h6>Right Parenthesis</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_LeftParenthesis.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_RightParenthesis.png?raw=true" width="256" /> |
 
 	<br>
 
-	| [<p><div align="center"><i><h6>Left Square Bracket</a></h6></i></p> | ]<p><div align="center"><i><h6>Right Square Bracket</a></h6></i></p> |
+	| <br>[<p><div align="center"><i><h6>Left Square Bracket</h6></i></div></p> | <br>]<p><div align="center"><i><h6>Right Square Bracket</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_LeftSquareBracket.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_RightSquareBracket.png?raw=true" width="256" /> |
 
 	<br>
 
-	| {<p><div align="center"><i><h6>Left Curly Bracket</a></h6></i></p> | }<p><div align="center"><i><h6>Right Curly Bracket</a></h6></i></p> |
+	| <br>{<p><div align="center"><i><h6>Left Curly Bracket</h6></i></div></p> | <br>}<p><div align="center"><i><h6>Right Curly Bracket</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_LeftCurlyBracket.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_RightCurlyBracket.png?raw=true" width="256" /> |
 
 	<br>
 
-	| 《<p><div align="center"><i><h6>Left Guillemet</a></h6></i></p> | 》<p><div align="center"><i><h6>Right Guillemet</a></h6></i></p> |
+	| <br>《<p><div align="center"><i><h6>Left Guillemet</h6></i></div></p> | <br>》<p><div align="center"><i><h6>Right Guillemet</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_LeftGuillemet.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_RightGuillemet.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ‹<p><div align="center"><i><h6>Single Left-Pointing Angle Quotation Mark</a></h6></i></p> | ›<p><div align="center"><i><h6>Single Right-Pointing Angle Quotation Mark</a></h6></i></p> |
+	| <br>‹<p><div align="center"><i><h6>Single Left-Pointing Angle Quotation Mark</h6></i></div></p> | <br>›<p><div align="center"><i><h6>Single Right-Pointing Angle Quotation Mark</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_SingleLeft-PointingAngleQuotationMark.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_SingleRight-PointingAngleQuotationMark.png?raw=true" width="256" /> |
 
 	<br>
 
-	| «<p><div align="center"><i><h6>Double Left-Pointing Angle Quotation Mark</a></h6></i></p> | »<p><div align="center"><i><h6>Double Right-Pointing Angle Quotation Mark</a></h6></i></p> |
+	| <br>«<p><div align="center"><i><h6>Double Left-Pointing Angle Quotation Mark</h6></i></div></p> | <br>»<p><div align="center"><i><h6>Double Right-Pointing Angle Quotation Mark</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_DoubleLeft-PointingAngleQuotationMark.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_DoubleRight-PointingAngleQuotationMark.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ™<p><div align="center"><i><h6>Trademark</a></h6></i></p> | ©<p><div align="center"><i><h6>Copyright</a></h6></i></p> | ®<p><div align="center"><i><h6>Registered Trademark</a></h6></i></p> |
+	| <br>™<p><div align="center"><i><h6>Trademark</h6></i></div></p> | <br>©<p><div align="center"><i><h6>Copyright</h6></i></div></p> | <br>®<p><div align="center"><i><h6>Registered Trademark</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Trademark.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Copyright.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_RegisteredTrademark.png?raw=true" width="256" /> |
 
 	<br>
 
-	| §<p><div align="center"><i><h6>Section Sign</a></h6></i></p> | ¶<p><div align="center"><i><h6>Paragraph</a></h6></i></p> | ⁋<p><div align="center"><i><h6>Pilcrow</a></h6></i></p> |
+	| <br>§<p><div align="center"><i><h6>Section Sign</h6></i></div></p> | <br>¶<p><div align="center"><i><h6>Paragraph</h6></i></div></p> | <br>⁋<p><div align="center"><i><h6>Pilcrow</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_SectionSign.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Paragraph.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_Pilcrow.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ⁁<p><div align="center"><i><h6>Caret Insertion Point</a></h6></i></p> | ƒ<p><div align="center"><i><h6>LatinF</a></h6></i></p> |
+	| <br>⁁<p><div align="center"><i><h6>Caret Insertion Point</h6></i></div></p> | <br>ƒ<p><div align="center"><i><h6>LatinF</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_CaretInsertionPoint.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_LatinF.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ←<p><div align="center"><i><h6>Left Arrow</a></h6></i></p> | →<p><div align="center"><i><h6>Right Arrow</a></h6></i></p> |
+	| <br>←<p><div align="center"><i><h6>Left Arrow</h6></i></div></p> | <br>→<p><div align="center"><i><h6>Right Arrow</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_LeftArrow.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_RightArrow.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ↑<p><div align="center"><i><h6>Up Arrow</a></h6></i></p> | ↓<p><div align="center"><i><h6>Down Arrow</a></h6></i></p> |
+	| <br>↑<p><div align="center"><i><h6>Up Arrow</h6></i></div></p> | <br>↓<p><div align="center"><i><h6>Down Arrow</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_UpArrow.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_DownArrow.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ⁚<p><div align="center"><i><h6>Two Dots</a></h6></i></p> | ⁖<p><div align="center"><i><h6>Three Dots</a></h6></i></p> | ⁙<p><div align="center"><i><h6>Five Dots</a></h6></i></p> |
+	| <br>⁚<p><div align="center"><i><h6>Two Dots</h6></i></div></p> | <br>⁖<p><div align="center"><i><h6>Three Dots</h6></i></div></p> | <br>⁙<p><div align="center"><i><h6>Five Dots</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_TwoDots.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_ThreeDots.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_FiveDots.png?raw=true" width="256" /> |
 
 	<br>
 
-	| ⁘<p><div align="center"><i><h6>Four Dots</a></h6></i></p> | ⁛<p><div align="center"><i><h6>Four Dots</a></h6></i></p> | ⁞<p><div align="center"><i><h6>Vertical Four Dots</a></h6></i></p> |
+	| <br>⁘<p><div align="center"><i><h6>Four Dots</h6></i></div></p> | <br>⁛<p><div align="center"><i><h6>Four Dots</h6></i></div></p> | <br>⁞<p><div align="center"><i><h6>Vertical Four Dots</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_FourDots.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_SpacedFourDots.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/Unicode_Symbols/sphere_VerticalFourDots.png?raw=true" width="256" /> |
 
