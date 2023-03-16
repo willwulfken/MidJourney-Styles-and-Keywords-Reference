@@ -38,72 +38,7 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_0.png?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_10.png?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_20.png?raw=true" width="256" />
-		</td>
-	</tr>
-</table>
-
-<br>
-
-<table>
-	<tr align=center valign=middle>
-		<th>--chaos 30</th>
-		<th>--chaos 40</th>
-		<th>--chaos 50</th>
-	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_30.png?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_40.png?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_50.png?raw=true" width="256" />
-		</td>
-	</tr>
-</table>
-
-<br>
-
-<table>
-	<tr align=center valign=middle>
-		<th>--chaos 60</th>
-		<th>--chaos 70</th>
-		<th>--chaos 80</th>
-	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_60.png?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_70.png?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_80.png?raw=true" width="256" />
-		</td>
-	</tr>
-</table>
-
-<br>
-
-<table>
-	<tr align=center valign=middle>
-		<th>--chaos 90</th>
-		<th>--chaos 100</th>
-	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_90.png?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_100.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Chaos_Comparison/Sphere_chaos_0.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
