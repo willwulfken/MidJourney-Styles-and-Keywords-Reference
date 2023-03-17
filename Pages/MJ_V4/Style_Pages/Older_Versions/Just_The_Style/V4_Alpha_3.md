@@ -1,4 +1,4 @@
-<h2>🌌 MidJourney V4 "Alpha 3" - Just The Style</h2>
+<h2>🌌 MidJourney V4 "Alpha 3"</h2>
 
 <div align="center">
 

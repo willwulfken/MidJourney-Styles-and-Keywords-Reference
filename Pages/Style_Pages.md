@@ -2,6 +2,17 @@
 
 <br>
 
+<details><summary><h3>🎇 MidJourney V5</h3></summary><p><div align="center">
+
+<h3><pre>🎇 MidJourney V5 (Just The Style)</pre></h3>
+
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp_creative/Style_Pages/Styles.md"><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/V5_Alpha_Versions/button_version_V5_Alpha_1_inactive.webp?raw=true" width = 190 /></a>
+
+</div></p></details>
+
+
+
+
 <details><summary><h3>🌌 MidJourney V4</h3></summary><p><br>
 
   - <details><summary><b>🌌 MidJourney V4 (Just The Style)</summary></b><p><div align="center">
@@ -232,152 +243,146 @@
 
 
 
-<details><summary><h3>⛩ Niji Journey</h3></summary><p><br>
+<details><summary><h3>⛩ Niji Journey</h3></summary><p><div align="center">
 
-  - <details><summary><b>⛩ Niji Journey (Just The Style)</summary></b><p><div align="center">
-
-	<h3><pre>Niji Journey (Just The Style)</pre></h3>
-
-	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes_light.webp?raw=true" width = 190>
-	<img alt="🎭 Themes" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Design_Styles.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_design_styles.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_design_styles_light.webp?raw=true" width = 190>
-	<img alt="🖼 Design Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_design_styles.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Digital.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_digital.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_digital_light.webp?raw=true" width = 190>
-	<img alt="🖥 Digital" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_digital.webp?raw=true" width = 190>
-	</picture></a>
-	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Artists.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists_light.webp?raw=true" width = 190>
-	<img alt="📔 Artists" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Drawing_and_Art_Mediums.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_drawing_and_art_mediums.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_drawing_and_art_mediums_light.webp?raw=true" width = 190>
-	<img alt="🖌 Drawing and Art Mediums" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_drawing_and_art_mediums.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Colors_and_Palettes.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_colors_and_palettes.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_colors_and_palettes_light.webp?raw=true" width = 190>
-	<img alt="🎨 Colors and Palettes" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_colors_and_palettes.webp?raw=true" width = 190>
-	</picture></a>
-	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Materials.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_materials.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_materials_light.webp?raw=true" width = 190>
-	<img alt="🧱 Materials" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_materials.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Objects.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_objects.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_objects_light.webp?raw=true" width = 190>
-	<img alt="🎷 Objects" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_objects.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Material_Properties.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties_light.webp?raw=true" width = 190>
-	<img alt="📦 Material Properties" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties.webp?raw=true" width = 190>
-	</picture></a>
-	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Lighting.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_lighting.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_lighting_light.webp?raw=true" width = 190>
-	<img alt="💡 Lighting" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_lighting.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/SFX_and_Shaders.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_sfx.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_sfx_light.webp?raw=true" width = 190>
-	<img alt="🌈 SFX and Shaders" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_sfx.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Dimensionality.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_dimensionality.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_dimensionality_light.webp?raw=true" width = 190>
-	<img alt="🌌 Dimensionality" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_dimensionality.webp?raw=true" width = 190>
-	</picture></a>
-	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Nature_and_Animals.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_nature_and_animals.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_nature_and_animals_light.webp?raw=true" width = 190>
-	<img alt="🌲 Nature and Animals" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Geography_and_Culture.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geography_and_culture.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geography_and_culture_light.webp?raw=true" width = 190>
-	<img alt="🗺 Geography and Culture" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Outer_Space.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_outer_space.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_outer_space_light.webp?raw=true" width = 190>
-	<img alt="☄ Outer Space" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_.webp?raw=true" width = 190>
-	</picture></a>
-	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Camera.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera_light.webp?raw=true" width = 190>
-	<img alt="📷 Camera, Film, and Lenses" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Perspective.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective_light.webp?raw=true" width = 190>
-	<img alt="🛤️ Perspective" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/TV_and_Movies.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_tv_and_movies.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_tv_and_movies_light.webp?raw=true" width = 190>
-	<img alt="🎬 TV Shows and Movies" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_tv_and_movies.webp?raw=true" width = 190>
-	</picture></a>
-	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Geometry.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry_light.webp?raw=true" width = 190>
-	<img alt="💠 Geometry" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Structural_Modification.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification_light.webp?raw=true" width = 190>
-	<img alt="♻ Structural Modification" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Intangibles.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles_light.webp?raw=true" width = 190>
-	<img alt="➰ Intangibles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
-	</picture></a>
-	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Song_Lyrics.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics_light.webp?raw=true" width = 190>
-	<img alt="🎙 Song Lyrics" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Combinations.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_combinations.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_combinations_light.webp?raw=true" width = 190>
-	<img alt="🖇🎰 Combinations" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_combinations.webp?raw=true" width = 190>
-	</picture></a>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Experimental.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_experimental.webp?raw=true" width = 190>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_experimental_light.webp?raw=true" width = 190>
-	<img alt="🧪 Experimental" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_experimental.webp?raw=true" width = 190>
-	</picture></a>
-	<br>
-	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Miscellaneous.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous_light.webp?raw=true" width = 580>
-	<img alt="🎛 Miscellaneous" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
-	</picture></a>
-
-	</div></p></details>
+<h3><pre>Niji Journey (Just The Style)</pre></h3>
 
 <br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Themes.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes_light.webp?raw=true" width = 190>
+<img alt="🎭 Themes" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Design_Styles.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_design_styles.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_design_styles_light.webp?raw=true" width = 190>
+<img alt="🖼 Design Styles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_design_styles.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Digital.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_digital.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_digital_light.webp?raw=true" width = 190>
+<img alt="🖥 Digital" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_digital.webp?raw=true" width = 190>
+</picture></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Artists.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists_light.webp?raw=true" width = 190>
+<img alt="📔 Artists" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Drawing_and_Art_Mediums.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_drawing_and_art_mediums.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_drawing_and_art_mediums_light.webp?raw=true" width = 190>
+<img alt="🖌 Drawing and Art Mediums" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_drawing_and_art_mediums.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Colors_and_Palettes.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_colors_and_palettes.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_colors_and_palettes_light.webp?raw=true" width = 190>
+<img alt="🎨 Colors and Palettes" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_colors_and_palettes.webp?raw=true" width = 190>
+</picture></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Materials.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_materials.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_materials_light.webp?raw=true" width = 190>
+<img alt="🧱 Materials" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_materials.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Objects.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_objects.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_objects_light.webp?raw=true" width = 190>
+<img alt="🎷 Objects" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_objects.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Material_Properties.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties_light.webp?raw=true" width = 190>
+<img alt="📦 Material Properties" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties.webp?raw=true" width = 190>
+</picture></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Lighting.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_lighting.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_lighting_light.webp?raw=true" width = 190>
+<img alt="💡 Lighting" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_lighting.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/SFX_and_Shaders.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_sfx.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_sfx_light.webp?raw=true" width = 190>
+<img alt="🌈 SFX and Shaders" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_sfx.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Dimensionality.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_dimensionality.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_dimensionality_light.webp?raw=true" width = 190>
+<img alt="🌌 Dimensionality" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_dimensionality.webp?raw=true" width = 190>
+</picture></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Nature_and_Animals.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_nature_and_animals.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_nature_and_animals_light.webp?raw=true" width = 190>
+<img alt="🌲 Nature and Animals" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Geography_and_Culture.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geography_and_culture.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geography_and_culture_light.webp?raw=true" width = 190>
+<img alt="🗺 Geography and Culture" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Outer_Space.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_outer_space.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_outer_space_light.webp?raw=true" width = 190>
+<img alt="☄ Outer Space" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_.webp?raw=true" width = 190>
+</picture></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Camera.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera_light.webp?raw=true" width = 190>
+<img alt="📷 Camera, Film, and Lenses" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Perspective.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective_light.webp?raw=true" width = 190>
+<img alt="🛤️ Perspective" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/TV_and_Movies.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_tv_and_movies.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_tv_and_movies_light.webp?raw=true" width = 190>
+<img alt="🎬 TV Shows and Movies" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_tv_and_movies.webp?raw=true" width = 190>
+</picture></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Geometry.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry_light.webp?raw=true" width = 190>
+<img alt="💠 Geometry" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Structural_Modification.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification_light.webp?raw=true" width = 190>
+<img alt="♻ Structural Modification" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Intangibles.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles_light.webp?raw=true" width = 190>
+<img alt="➰ Intangibles" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
+</picture></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Song_Lyrics.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics_light.webp?raw=true" width = 190>
+<img alt="🎙 Song Lyrics" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Combinations.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_combinations.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_combinations_light.webp?raw=true" width = 190>
+<img alt="🖇🎰 Combinations" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_combinations.webp?raw=true" width = 190>
+</picture></a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Experimental.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_experimental.webp?raw=true" width = 190>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_experimental_light.webp?raw=true" width = 190>
+<img alt="🧪 Experimental" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_experimental.webp?raw=true" width = 190>
+</picture></a>
+<br>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Miscellaneous.md"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous_light.webp?raw=true" width = 580>
+<img alt="🎛 Miscellaneous" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
+</picture></a>
 
-</p></details>
+</div></p></details>
 
 
 
