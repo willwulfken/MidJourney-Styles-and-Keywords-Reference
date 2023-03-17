@@ -30,35 +30,35 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Sphere</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Sphere.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Sphere.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Photorealistic</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Photorealistic.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Photorealistic.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Surrealism</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Surrealism.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Surrealism.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Retro</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Retro.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Retro.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Supernova</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Supernova.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Supernova.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Halloween</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Halloween.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Halloween.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Vaporwave</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Vaporwave.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Vaporwave.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Cartoon</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Cartoon.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Cartoon.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -73,27 +73,27 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Hyperdetailed</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Hyperdetailed.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Hyperdetailed.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Spectrum</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Spectrum.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Spectrum.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Synesthesia</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Synesthesia.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Synesthesia.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Disco</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Disco.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Disco.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Cubism</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Cubism.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Cubism.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Psychedelica</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Psychedelica.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Psychedelica.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -106,19 +106,19 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Lowpoly</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Lowpoly.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Lowpoly.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Pixel Art</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Pixel_Art.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Pixel_Art.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Databending</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Databending.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Databending.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Deep Dream</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Deep_Dream.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Deep_Dream.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -131,7 +131,7 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Painting By Salvador Dali</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Painting_By_Salvador_Dali.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Painting_By_Salvador_Dali.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -144,11 +144,11 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Marker Art</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Marker_Art.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Marker_Art.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Bone China</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Bone_China.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Bone_China.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -161,23 +161,23 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Amethyst</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Amethyst.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Amethyst.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Milky Quartz</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Milky_Quartz.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Milky_Quartz.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Liquid Crystal</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Liquid_Crystal.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Liquid_Crystal.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Tornado</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Tornado.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Tornado.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Clouds</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Clouds.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Clouds.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -191,7 +191,7 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Glow-In-The-Dark</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Glow-In-The-Dark.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Glow-In-The-Dark.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -204,15 +204,15 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Ray Tracing Reflections</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Ray_Tracing_Reflections.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Ray_Tracing_Reflections.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Chromatic Aberration</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Chromatic_Aberration.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Chromatic_Aberration.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Cracked</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Cracked.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Cracked.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -225,7 +225,7 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Hexagonal</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Hexagonal.png?raw=true" width="256" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Hexagonal.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 
@@ -238,7 +238,7 @@
     </tr>
     <tr align="center" valign="middle">
         <th>Angelic</th>
-    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Angelic.png?raw=true" width="256" /></td>
+    	<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Cursed/Angelic.webp?raw=true" width="256" /></td>
     </tr>
 </table>
 

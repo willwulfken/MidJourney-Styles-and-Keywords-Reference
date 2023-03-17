@@ -29,35 +29,35 @@ Keep in mind that you can use any seed number that you'd like and it's not limit
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_1.png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_1.png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_1.png?raw=true" width="256" /></td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_1.png?raw=true" width="256" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_1.webp?raw=true" width="256" /></td>
         </tr>
         <tr align=center valign=middle>
             <th>--seed 4775</th>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4775.png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4775.png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4775.png?raw=true" width="256" /></td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_4775.png?raw=true" width="256" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_4775.webp?raw=true" width="256" /></td>
         </tr>
         <tr align=center valign=middle>
             <th>--seed 4776</th>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4776_(1).png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4776_(1).png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4776_(1).png?raw=true" width="256" /></td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_4776.png?raw=true" width="256" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_4776.webp?raw=true" width="256" /></td>
         </tr>
         <tr align=center valign=middle>
             <th>--seed 4777</th>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4777.png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4777.png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4777.png?raw=true" width="256" /></td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_4777.png?raw=true" width="256" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_4777.webp?raw=true" width="256" /></td>
         </tr>
         <tr align=center valign=middle>
             <th>--seed 4778</th>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4778.png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4778.png?raw=true" width="256" /></td>
             <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Seed_and_Sameseed/Seed/sphere_seed_4778.png?raw=true" width="256" /></td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_4778.png?raw=true" width="256" /></td>
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Seed_and_Sameseed/Seed/Sphere_seed_4778.webp?raw=true" width="256" /></td>
         </tr>
     </table>
 

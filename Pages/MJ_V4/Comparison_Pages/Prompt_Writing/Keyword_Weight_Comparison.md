@@ -34,31 +34,31 @@
     <tr align=center valign=middle>
         <th rowspan="4">Vaporwave</th>
         <th>0</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0_Vaporwave_0.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0.5_Vaporwave_0.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_1_Vaporwave_0.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_2_Vaporwave_0.png?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0_Vaporwave_0.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0.5_Vaporwave_0.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_1_Vaporwave_0.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_2_Vaporwave_0.webp?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
         <th>0.5</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0_Vaporwave_0.5.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0.5_Vaporwave_0.5.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_1_Vaporwave_0.5.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_2_Vaporwave_0.5.png?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0_Vaporwave_0.5.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0.5_Vaporwave_0.5.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_1_Vaporwave_0.5.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_2_Vaporwave_0.5.webp?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
         <th>1</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0_Vaporwave_1.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0.5_Vaporwave_1.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_1_Vaporwave_1.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_2_Vaporwave_1.png?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0_Vaporwave_1.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0.5_Vaporwave_1.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_1_Vaporwave_1.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_2_Vaporwave_1.webp?raw=true" width="192" /></td>
     </tr>
     <tr align=center valign=middle>
         <th>2</th>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0_Vaporwave_2.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0.5_Vaporwave_2.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_1_Vaporwave_2.png?raw=true" width="192" /></td>
-        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_2_Vaporwave_2.png?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0_Vaporwave_2.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_0.5_Vaporwave_2.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_1_Vaporwave_2.webp?raw=true" width="192" /></td>
+        <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Keyword_Weight_Comparison/Galaxy_Vaporwave/Galaxy_2_Vaporwave_2.webp?raw=true" width="192" /></td>
     </tr>
 </table>
 
