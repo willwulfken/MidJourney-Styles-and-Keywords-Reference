@@ -685,5 +685,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md">⬅ Go Back To Version Comparison</a></h6>
+<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_Alpha.md">⬅ Go Back To Version Comparison</a></h6>
 </div>

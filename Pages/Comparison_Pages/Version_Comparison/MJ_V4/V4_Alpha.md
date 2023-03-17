@@ -16,7 +16,7 @@
 <br>
 
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha/button_V4_alpha_active.webp?raw=true" alt="V4 Alpha" width="140.5" />]()
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Style/button_V4_style_inactive.webp?raw=true" alt="V4 Style" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Style.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Style/button_V4_style_inactive.webp?raw=true" alt="V4 Style" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_Style.md)
 
 </div>
 
@@ -30,7 +30,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Sphere</th>
@@ -121,7 +121,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Hyperdetailed</th>
@@ -228,7 +228,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>4k</th>
@@ -305,7 +305,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Painting By Salvador Dali</th>
@@ -346,7 +346,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Sketch</th>
@@ -429,7 +429,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Brushed Aluminum</th>
@@ -495,7 +495,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Plasma Globe</th>
@@ -524,7 +524,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Ray Traced</th>
@@ -571,7 +571,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Aqua</th>
@@ -612,7 +612,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Cinematic</th>
@@ -641,7 +641,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>2-Dimensional</th>
@@ -682,7 +682,7 @@
         <th width=120></th>
         <th><br>V4 "Alpha 1"<p>(11-5-22)</p></th>
         <th><br>V4 "Alpha 2"<p>(11-22-22)</p></th>
-        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
+        <th><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/Subpages/V4_Alpha_3.md"><br>V4 "Alpha 3.6"<p>(2-1-23)</p></a></th>
     </tr>
     <tr align="center" valign="middle">
         <th>Angelic</th>

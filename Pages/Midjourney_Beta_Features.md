@@ -4,7 +4,7 @@
 
 <h3>🌌 Midjourney V4 Alpha</h3>
 <br>
-<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md">📇 Version Comparison - V4 Alpha</a>
+<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_Alpha.md">📇 Version Comparison - V4 Alpha</a>
 <br>
 <a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V1_V2_V3_V4.md">📇 Version Comparison - V1 vs V2 vs V3 vs V4</a>
 <br>

@@ -15,7 +15,7 @@
 
 <br>
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha/button_V4_alpha_inactive.webp?raw=true" alt="V4 Alpha" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha/button_V4_alpha_inactive.webp?raw=true" alt="V4 Alpha" width="140.5" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_Alpha.md)
 [<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Style/button_V4_style_active.webp?raw=true" alt="V4 Style" width="140.5" />]()
 
 </div>
@@ -27,7 +27,7 @@
 
 <table>
     <tr align="center" valign="middle">
-        <th width=120><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_C.md"> </a></th>
+        <th width=120><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_C.md"> </a></th>
         <th><br>V4 "Alpha 2.5" Style 4a<p>(11-22-22)</p></th>
         <th><br>V4 "Alpha 2.5" Style 4b<p>(11-22-22)</p></th>
     </tr>

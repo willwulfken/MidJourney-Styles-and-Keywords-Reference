@@ -13,8 +13,8 @@
 
 <br>
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Buttons/g/half_res/button_v4_alpha_g_half_res.webp?raw=true" alt="V4 Alpha" width="160" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Alpha.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Buttons/g/half_res/button_v4_style_g_half_res.webp?raw=true" alt="V4 Style" width="160" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_Style.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Buttons/g/half_res/button_v4_alpha_g_half_res.webp?raw=true" alt="V4 Alpha" width="160" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_Alpha.md)
+[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Buttons/g/half_res/button_v4_style_g_half_res.webp?raw=true" alt="V4 Style" width="160" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_Style.md)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <table>
     <tr align="center" valign="middle">
-        <th width=120><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/V4_Alpha/V4_C.md"> </a></th>
+        <th width=120><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_C.md"> </a></th>
         <th><br>V4 Alpha Ç̶͈̗̗̣̲͍͌͑̍͘͜ú̴̱̦̉͛̒̚r̴͖̫͑́̽͊̿́̋̚ş̸̨̧̯͙͕̿̑̇͋͠ȅ̷̲̥͍̺̲̩̟̩̀̿̾̎͗̊d̴̢͎̱̼̳̗̻̣̑̅͐̓<p>(12-13-22)</p></th>
     </tr>
     <tr align="center" valign="middle">
