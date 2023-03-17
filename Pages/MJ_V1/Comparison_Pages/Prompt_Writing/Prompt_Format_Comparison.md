@@ -34,100 +34,100 @@
 	<tr align=center valign=middle>
 		<td><i>&#60;style&#62;</i></td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Sphere.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Vaporwave.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_Vaporwave.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i>, <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere,_Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere,_Vaporwave.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave,_Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave,_Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i>::<i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere--double_colon--Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere--double_colon--Vaporwave.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave--double_colon--Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave--double_colon--Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i>; <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere--semicolon--_Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere--semicolon--_Vaporwave.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave--semicolon--_Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave--semicolon--_Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i>:<i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere--colon--Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere--colon--Vaporwave.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave--colon--Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave--colon--Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> - <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_-_Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_-_Vaporwave.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_-_Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_-_Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> (<i>&#60;style-2&#62;</i>)</th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_(Vaporwave).png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_(Vaporwave).webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_(Sphere).png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_(Sphere).webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> in the style of <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_in_the_style_of_Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_in_the_style_of_Vaporwave.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_in_the_style_of_Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_in_the_style_of_Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> made of <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_made_of_Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_made_of_Vaporwave.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_made_of_Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_made_of_Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> of a <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_of_a_Vaporwave.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Sphere/Vaporwave/Sphere_of_a_Vaporwave.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_of_a_Sphere.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Sphere/Vaporwave_of_a_Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -143,55 +143,55 @@
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i>, Art By Alex Grey</th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Art_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Art_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave,_Art_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave,_Art_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i>, Art Made By Alex Grey</th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Art_Made_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Art_Made_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave,_Art_Made_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave,_Art_Made_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> Art Made By Alex Grey</th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Art_Made_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Art_Made_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave_Art_Made_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave_Art_Made_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i>, Painting By Alex Grey</th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Painting_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Painting_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave,_Painting_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave,_Painting_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i>, Painted By Alex Grey</th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Painted_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/Painted_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave,_Painted_By_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave,_Painted_By_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> in The Style of Alex Grey</th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/in_The_Style_of_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Alex_Grey/in_The_Style_of_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave_in_The_Style_of_Alex_Grey.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Comparison_Page_Images/Prompt_Format_Comparison/Vaporwave/Alex_Grey/Vaporwave_in_The_Style_of_Alex_Grey.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>

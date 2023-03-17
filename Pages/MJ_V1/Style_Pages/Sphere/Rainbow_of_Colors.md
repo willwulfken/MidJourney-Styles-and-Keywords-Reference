@@ -17,73 +17,73 @@
 <table>
 	<tr align=center valign=middle>
 		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Light-Gray.png?raw=true" width=256 /><p><code>Light-Gray</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_White.png?raw=true" width=256 /><p><code>White</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Light-Gray.webp?raw=true" width=256 /><p><code>Light-Gray</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_White.webp?raw=true" width=256 /><p><code>White</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Black.png?raw=true" width=256 /><p><code>Black</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dark-Gray.png?raw=true" width=256 /><p><code>Dark-Gray</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gray.png?raw=true" width=256 /><p><code>Gray</code></p></td>
-	</tr>
-	<tr align=center valign=middle>
-		<td>-</td>
-		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Brown.png?raw=true" width=256 /><p><code>Brown</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Black.webp?raw=true" width=256 /><p><code>Black</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dark-Gray.webp?raw=true" width=256 /><p><code>Dark-Gray</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Gray.webp?raw=true" width=256 /><p><code>Gray</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
 		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Maroon.png?raw=true" width=256 /><p><code>Maroon</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Brown.webp?raw=true" width=256 /><p><code>Brown</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
 		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Red.png?raw=true" width=256 /><p><code>Red</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Maroon.webp?raw=true" width=256 /><p><code>Maroon</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
 		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Orange.png?raw=true" width=256 /><p><code>Orange</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Red.webp?raw=true" width=256 /><p><code>Red</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
 		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Yellow.png?raw=true" width=256 /><p><code>Yellow</code></p></td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Green.png?raw=true" width=256 /><p><code>Green</code></p></td>
-		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lime.png?raw=true" width=256 /><p><code>Lime</code></p></td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Teal.png?raw=true" width=256 /><p><code>Teal</code></p></td>
-		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cyan.png?raw=true" width=256 /><p><code>Cyan</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Orange.webp?raw=true" width=256 /><p><code>Orange</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
 		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Blue.png?raw=true" width=256 /><p><code>Blue</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Yellow.webp?raw=true" width=256 /><p><code>Yellow</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Indigo.png?raw=true" width=256 /><p><code>Indigo</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Green.webp?raw=true" width=256 /><p><code>Green</code></p></td>
 		<td>-</td>
-		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lime.webp?raw=true" width=256 /><p><code>Lime</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Teal.webp?raw=true" width=256 /><p><code>Teal</code></p></td>
 		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Violet.png?raw=true" width=256 /><p><code>Violet</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Purple.png?raw=true" width=256 /><p><code>Purple</code></p></td>
-	</tr>
-	<tr align=center valign=middle>
-		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Magenta.png?raw=true" width=256 /><p><code>Magenta</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fuchsia.png?raw=true" width=256 /><p><code>Fuchsia</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cyan.webp?raw=true" width=256 /><p><code>Cyan</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
 		<td>-</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pink.png?raw=true" width=256 /><p><code>Pink</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Blue.webp?raw=true" width=256 /><p><code>Blue</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Indigo.webp?raw=true" width=256 /><p><code>Indigo</code></p></td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Violet.webp?raw=true" width=256 /><p><code>Violet</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Purple.webp?raw=true" width=256 /><p><code>Purple</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Magenta.webp?raw=true" width=256 /><p><code>Magenta</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fuchsia.webp?raw=true" width=256 /><p><code>Fuchsia</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>-</td>
+		<td>-</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pink.webp?raw=true" width=256 /><p><code>Pink</code></p></td>
 	</tr>
 </table>
 
