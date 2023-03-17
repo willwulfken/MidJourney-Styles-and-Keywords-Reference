@@ -78,10 +78,10 @@
 				</tr>
 				<tr align=center valign=middle>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Midjourney_Styles/Sphere.png?raw=true" width="256" />
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.png?raw=true" width="256" />
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 					</td>
 				</tr>
 			</table>
@@ -93,10 +93,10 @@
 				</tr>
 				<tr align=center valign=middle>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Midjourney_Styles/Sphere.png?raw=true" width="256" />
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Midjourney_Styles/Sphere.png?raw=true" width="256" />
+						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 					</td>
 				</tr>
 			</table>
