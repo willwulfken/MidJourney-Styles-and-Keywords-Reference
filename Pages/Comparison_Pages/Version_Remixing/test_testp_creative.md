@@ -25,31 +25,31 @@
 	</tr>
 	<tr align=center valign=middle>
 		<th>test</th>
-		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_(1).png?raw=true" width="256" /><p><b><code>test</code></b></p></th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_testp_(1).png?raw=true" width="256" /><p><code>test ➡ testp</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_test-creative_(2).png?raw=true" width="256" /><p><code>test ➡ test-c</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_testp-creative_(1).png?raw=true" width="256" /><p><code>test ➡ testp-c</code></p></td>
+		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_(1).webp?raw=true" width="256" /><p><b><code>test</code></b></p></th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_testp_(1).webp?raw=true" width="256" /><p><code>test ➡ testp</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_test-creative_(2).webp?raw=true" width="256" /><p><code>test ➡ test-c</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_testp-creative_(1).webp?raw=true" width="256" /><p><code>test ➡ testp-c</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<th>testp</th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_test_(2).png?raw=true" width="256" /><p><code>testp ➡ test</code></p></td>
-		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_(2).png?raw=true" width="256" /><p><b><code>testp</code></b></p></th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_test-creative_(1).png?raw=true" width="256" /><p><code>testp ➡ test-c</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_testp-creative_(1).png?raw=true" width="256" /><p><code>testp ➡ testp-c</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_test_(2).webp?raw=true" width="256" /><p><code>testp ➡ test</code></p></td>
+		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_(2).webp?raw=true" width="256" /><p><b><code>testp</code></b></p></th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_test-creative_(1).webp?raw=true" width="256" /><p><code>testp ➡ test-c</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_testp-creative_(1).webp?raw=true" width="256" /><p><code>testp ➡ testp-c</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<th>test-creative</th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_test_(1).png?raw=true" width="256" /><p><code>test-c ➡ test</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_testp_(1).png?raw=true" width="256" /><p><code>test-c ➡ testp</code></p></td>
-		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_(2).png?raw=true" width="256" /><p><b><code>test-c</code></b></p></th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_testp-creative_(1).png?raw=true" width="256" /><p><code>test-c ➡ testp-c</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_test_(1).webp?raw=true" width="256" /><p><code>test-c ➡ test</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_testp_(1).webp?raw=true" width="256" /><p><code>test-c ➡ testp</code></p></td>
+		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_(2).webp?raw=true" width="256" /><p><b><code>test-c</code></b></p></th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_testp-creative_(1).webp?raw=true" width="256" /><p><code>test-c ➡ testp-c</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<th>testp-creative</th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_test_(2).png?raw=true" width="256" /><p><code>testp-c ➡ test</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_testp_(2).png?raw=true" width="256" /><p><code>testp-c ➡ testp</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_test-creative_(1).png?raw=true" width="256" /><p><code>testp-c ➡ test-c</code></p></td>
-		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_(2).png?raw=true" width="256" /><p><b><code>testp-c</code></b></p></th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_test_(2).webp?raw=true" width="256" /><p><code>testp-c ➡ test</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_testp_(2).webp?raw=true" width="256" /><p><code>testp-c ➡ testp</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_test-creative_(1).webp?raw=true" width="256" /><p><code>testp-c ➡ test-c</code></p></td>
+		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_(2).webp?raw=true" width="256" /><p><b><code>testp-c</code></b></p></th>
 	</tr>
 </table>
 
@@ -68,39 +68,39 @@
 	</tr>
 	<tr align=center valign=middle>
 		<th>test</th>
-		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_(1).png?raw=true" width="256" /><p><b><code>test</code></b></p></th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_V1_(2).png?raw=true" width="256" /><p><code>test ➡ V1</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_V2_(3).png?raw=true" width="256" /><p><code>test ➡ V2</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_V3_(4).png?raw=true" width="256" /><p><code>test ➡ V3</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_V4_(3).png?raw=true" width="256" /><p><code>test ➡ V4</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_Niji_(1).png?raw=true" width="256" /><p><code>test ➡ Niji</code></p></td>
+		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_(1).webp?raw=true" width="256" /><p><b><code>test</code></b></p></th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_V1_(2).webp?raw=true" width="256" /><p><code>test ➡ V1</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_V2_(3).webp?raw=true" width="256" /><p><code>test ➡ V2</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_V3_(4).webp?raw=true" width="256" /><p><code>test ➡ V3</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_V4_(3).webp?raw=true" width="256" /><p><code>test ➡ V4</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test/Galaxy_test_Niji_(1).webp?raw=true" width="256" /><p><code>test ➡ Niji</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<th>testp</th>
-		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_(2).png?raw=true" width="256" /><p><b><code>testp</code></b></p></th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_V1_(2).png?raw=true" width="256" /><p><code>testp ➡ V1</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_V2_(1).png?raw=true" width="256" /><p><code>testp ➡ V2</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_V3_(2).png?raw=true" width="256" /><p><code>testp ➡ V3</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_V4_(2).png?raw=true" width="256" /><p><code>testp ➡ V4</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_Niji_(3).png?raw=true" width="256" /><p><code>testp ➡ Niji</code></p></td>
+		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_(2).webp?raw=true" width="256" /><p><b><code>testp</code></b></p></th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_V1_(2).webp?raw=true" width="256" /><p><code>testp ➡ V1</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_V2_(1).webp?raw=true" width="256" /><p><code>testp ➡ V2</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_V3_(2).webp?raw=true" width="256" /><p><code>testp ➡ V3</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_V4_(2).webp?raw=true" width="256" /><p><code>testp ➡ V4</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp/Galaxy_testp_Niji_(3).webp?raw=true" width="256" /><p><code>testp ➡ Niji</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<th>test-c</th>
-		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_(2).png?raw=true" width="256" /><p><b><code>test-c</code></b></p></th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_V1_(2).png?raw=true" width="256" /><p><code>test-c ➡ V1</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_V2_(4).png?raw=true" width="256" /><p><code>test-c ➡ V2</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_V3_(2).png?raw=true" width="256" /><p><code>test-c ➡ V3</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_V4_(1).png?raw=true" width="256" /><p><code>test-c ➡ V4</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_Niji_(1).png?raw=true" width="256" /><p><code>test-c ➡ Niji</code></p></td>
+		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_(2).webp?raw=true" width="256" /><p><b><code>test-c</code></b></p></th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_V1_(2).webp?raw=true" width="256" /><p><code>test-c ➡ V1</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_V2_(4).webp?raw=true" width="256" /><p><code>test-c ➡ V2</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_V3_(2).webp?raw=true" width="256" /><p><code>test-c ➡ V3</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_V4_(1).webp?raw=true" width="256" /><p><code>test-c ➡ V4</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/test-creative/Galaxy_test-creative_Niji_(1).webp?raw=true" width="256" /><p><code>test-c ➡ Niji</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<th>testp-c</th>
-		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_(2).png?raw=true" width="256" /><p><b><code>testp-c</code></b></p></th>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V1_(1).png?raw=true" width="256" /><p><code>testp-c ➡ V1</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V2_(2).png?raw=true" width="256" /><p><code>testp-c ➡ V2</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V3_(1).png?raw=true" width="256" /><p><code>testp-c ➡ V3</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V4_(1).png?raw=true" width="256" /><p><code>testp-c ➡ V4</code></p></td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_Niji_(3).png?raw=true" width="256" /><p><code>testp-c ➡ Niji</code></p></td>
+		<th><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_(2).webp?raw=true" width="256" /><p><b><code>testp-c</code></b></p></th>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V1_(1).webp?raw=true" width="256" /><p><code>testp-c ➡ V1</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V2_(2).webp?raw=true" width="256" /><p><code>testp-c ➡ V2</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V3_(1).webp?raw=true" width="256" /><p><code>testp-c ➡ V3</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_V4_(1).webp?raw=true" width="256" /><p><code>testp-c ➡ V4</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Comparison_Page_Images/Version_Remixing/testp-creative/Galaxy_testp-creative_Niji_(3).webp?raw=true" width="256" /><p><code>testp-c ➡ Niji</code></p></td>
 	</tr>
 </table>
 
