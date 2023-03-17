@@ -27,7 +27,7 @@
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/_sphere_--seed4776.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.png?raw=true"  width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.webp?raw=true"  width="256" />
 		</td>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
@@ -127,7 +127,7 @@
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/_landscape_--seed4776.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/_landscape_--seed4776.png?raw=true"  width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/_landscape_--seed4776.webp?raw=true"  width="256" />
 		</td>
 		<td>
 			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Landscape.webp?raw=true" width="256" />

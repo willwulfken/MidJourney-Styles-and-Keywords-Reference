@@ -23,263 +23,263 @@
         </tr>
         <tr align=center valign=middle>
             <td>(Just The Style)</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Realistic</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Realistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Realistic.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Realistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Realistic.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Realistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Realistic.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Photorealistic</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Photorealistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Photorealistic.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Photorealistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Photorealistic.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Photorealistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Photorealistic.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Surreal</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Surreal.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Surreal.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Surreal.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Surreal.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Surreal.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Surreal.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Simple</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Simple.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Simple.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Simple.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Simple.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Simple.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Simple.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Hyperdetailed</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Hyperdetailed.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Hyperdetailed.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Hyperdetailed.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Hyperdetailed.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Hyperdetailed.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Hyperdetailed.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Groovy</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Groovy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Groovy.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Groovy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Groovy.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Groovy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Groovy.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Psychedelia</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Psychedelia.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Psychedelia.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Psychedelia.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Psychedelia.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Psychedelia.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Psychedelia.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Magical</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Magical.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Magical.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Magical.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Magical.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Magical.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Magical.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Cyberpunk</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Cyberpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Cyberpunk.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Cyberpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Cyberpunk.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Cyberpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Cyberpunk.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Lunarpunk</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Lunarpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Lunarpunk.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Lunarpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Lunarpunk.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Lunarpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Lunarpunk.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Sparklecore</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Sparklecore.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Sparklecore.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Sparklecore.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Sparklecore.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Sparklecore.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Sparklecore.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Octane Render</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Octane_Render.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Octane_Render.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Octane_Render.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Octane_Render.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Octane_Render.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Octane_Render.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Databending</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Databending.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Databending.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Databending.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Databending.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Databending.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Databending.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Painting By Salvador Dali</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Painting_By_Salvador_Dali.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Painting_By_Salvador_Dali.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Painting_By_Salvador_Dali.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Painting_By_Salvador_Dali.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Painting_By_Salvador_Dali.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Painting_By_Salvador_Dali.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Gel Pen</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Gel_Pen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Gel_Pen.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Gel_Pen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Gel_Pen.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Gel_Pen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Gel_Pen.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Liquid</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Liquid.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Liquid.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Liquid.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Liquid.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Liquid.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Liquid.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Melted</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Melted.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Melted.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Melted.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Melted.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Melted.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Melted.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Crystalline</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Crystalline.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Crystalline.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Crystalline.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Crystalline.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Crystalline.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Crystalline.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Frozen</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Frozen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Frozen.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Frozen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Frozen.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Frozen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Frozen.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Vaporized</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Vaporized.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Vaporized.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Vaporized.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Vaporized.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Vaporized.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Vaporized.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Opalescent</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Opalescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Opalescent.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Opalescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Opalescent.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Opalescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Opalescent.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glowing</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Glowing.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Glowing.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Glowing.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Glowing.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Glowing.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Glowing.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glow-In-The-Dark</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Glow-In-The-Dark.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Glow-In-The-Dark.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Glow-In-The-Dark.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Glow-In-The-Dark.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Glow-In-The-Dark.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Glow-In-The-Dark.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Radiant</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Radiant.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Radiant.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Radiant.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Radiant.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Radiant.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Radiant.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Matte</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Matte.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Matte.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Matte.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Matte.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Matte.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Matte.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glossy</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Glossy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Glossy.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Glossy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Glossy.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Glossy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Glossy.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Shimmering</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Shimmering.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Shimmering.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Shimmering.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Shimmering.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Shimmering.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Shimmering.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Iridescent</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Iridescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Bismuth/Bismuth_Iridescent.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Iridescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Aurora/Aurora_Iridescent.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Iridescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Milky_Quartz/Milky_Quartz_Iridescent.webp?raw=true" width="256" />
             </td>
         </tr>
     </table>
@@ -302,263 +302,263 @@
         </tr>
         <tr align=center valign=middle>
             <td>(Just The Style)</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Realistic</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Realistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Realistic.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Realistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Realistic.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Realistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Realistic.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Photorealistic</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Photorealistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Photorealistic.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Photorealistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Photorealistic.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Photorealistic.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Photorealistic.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Surreal</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Surreal.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Surreal.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Surreal.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Surreal.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Surreal.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Surreal.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Simple</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Simple.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Simple.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Simple.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Simple.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Simple.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Simple.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Hyperdetailed</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Hyperdetailed.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Hyperdetailed.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Hyperdetailed.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Hyperdetailed.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Hyperdetailed.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Hyperdetailed.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Groovy</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Groovy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Groovy.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Groovy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Groovy.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Groovy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Groovy.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Psychedelia</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Psychedelia.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Psychedelia.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Psychedelia.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Psychedelia.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Psychedelia.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Psychedelia.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Magical</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Magical.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Magical.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Magical.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Magical.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Magical.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Magical.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Cyberpunk</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Cyberpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Cyberpunk.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Cyberpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Cyberpunk.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Cyberpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Cyberpunk.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Lunarpunk</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Lunarpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Lunarpunk.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Lunarpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Lunarpunk.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Lunarpunk.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Lunarpunk.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Sparklecore</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Sparklecore.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Sparklecore.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Sparklecore.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Sparklecore.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Sparklecore.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Sparklecore.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Octane Render</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Octane_Render.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Octane_Render.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Octane_Render.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Octane_Render.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Octane_Render.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Octane_Render.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Databending</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Databending.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Databending.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Databending.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Databending.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Databending.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Databending.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Painting By Salvador Dali</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Painting_By_Salvador_Dali.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Painting_By_Salvador_Dali.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Painting_By_Salvador_Dali.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Painting_By_Salvador_Dali.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Painting_By_Salvador_Dali.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Painting_By_Salvador_Dali.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Gel Pen</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Gel_Pen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Gel_Pen.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Gel_Pen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Gel_Pen.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Gel_Pen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Gel_Pen.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Liquid</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Liquid.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Liquid.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Liquid.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Liquid.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Liquid.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Liquid.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Melted</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Melted.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Melted.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Melted.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Melted.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Melted.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Melted.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Crystalline</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Crystalline.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Crystalline.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Crystalline.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Crystalline.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Crystalline.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Crystalline.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Frozen</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Frozen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Frozen.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Frozen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Frozen.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Frozen.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Frozen.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Vaporized</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Vaporized.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Vaporized.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Vaporized.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Vaporized.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Vaporized.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Vaporized.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Opalescent</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Opalescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Opalescent.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Opalescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Opalescent.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Opalescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Opalescent.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glowing</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Glowing.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Glowing.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Glowing.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Glowing.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Glowing.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Glowing.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glow-In-The-Dark</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Glow-In-The-Dark.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Glow-In-The-Dark.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Glow-In-The-Dark.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Glow-In-The-Dark.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Glow-In-The-Dark.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Glow-In-The-Dark.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Radiant</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Radiant.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Radiant.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Radiant.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Radiant.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Radiant.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Radiant.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Matte</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Matte.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Matte.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Matte.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Matte.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Matte.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Matte.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Glossy</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Glossy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Glossy.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Glossy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Glossy.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Glossy.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Glossy.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Shimmering</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Shimmering.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Shimmering.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Shimmering.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Shimmering.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Shimmering.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Shimmering.webp?raw=true" width="256" />
             </td>
         </tr>
         <tr align=center valign=middle>
             <td>Iridescent</td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Iridescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Mushroom/Mushroom_Iridescent.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Iridescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Dragon/Dragon_Iridescent.webp?raw=true" width="256" />
             </td>
-            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Iridescent.png?raw=true" width="256" />
+            <td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Adjective_Comparison/Seashell/Seashell_Iridescent.webp?raw=true" width="256" />
             </td>
         </tr>
     </table>

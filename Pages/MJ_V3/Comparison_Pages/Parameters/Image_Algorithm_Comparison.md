@@ -18,11 +18,11 @@
     <tr align=center valign=middle>
         <td>
             <p><code>--hd</code></p>
-            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_hd.png?raw=true" width="512" /></p>
+            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_hd.webp?raw=true" width="512" /></p>
         </td>
         <td>
             <p><code>--version 2 --hd</code></p>
-            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_version2_hd.png?raw=true" width="512" /></p>
+            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_version2_hd.webp?raw=true" width="512" /></p>
         </td>
     </tr>
 </table>
@@ -33,15 +33,15 @@
     <tr align=center valign=middle>
         <td>
             <p><code>--version 3</code></p>
-            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_seed4776.png?raw=true" width="256" /></p>
+            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_seed4776.webp?raw=true" width="256" /></p>
         </td>
         <td>
             <p><code>--version 2</code></p>
-            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_version2_seed4776.png?raw=true" width="256" /></p> 
+            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_version2_seed4776.webp?raw=true" width="256" /></p> 
         </td>
         <td>
             <p><code>--version 1</code></p>
-            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_version1_seed4776.png?raw=true" width="256" /></p>
+            <p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Image_Algorithm_Summary/_sphere_version1_seed4776.webp?raw=true" width="256" /></p>
         </td>
     </tr>
 </table>

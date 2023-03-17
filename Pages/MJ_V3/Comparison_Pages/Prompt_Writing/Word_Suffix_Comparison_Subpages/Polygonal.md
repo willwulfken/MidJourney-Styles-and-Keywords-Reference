@@ -20,7 +20,7 @@
 			<br>
 		</th>
         <td>
-			<p><code>Polygonal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonal.png?raw=true" width="256" /></p>
+			<p><code>Polygonal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonal.webp?raw=true" width="256" /></p>
         </td>
 		<th>
 			<br>
@@ -28,41 +28,41 @@
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Polygons</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygons.png?raw=true" width="256" /></p>
+			<p><code>Polygons</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygons.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Polygonally</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonally.png?raw=true" width="256" /></p>
+			<p><code>Polygonally</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonally.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Polygonality</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonality.png?raw=true" width="256" /></p>
-        </td>
-	</tr>
-	<tr align=center valign=middle>
-        <td>
-			<p><code>Polygonized</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonized.png?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Polygonalist</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalist.png?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Polygonalistic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalistic.png?raw=true" width="256" /></p>
+			<p><code>Polygonality</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonality.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Polygonalcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalcore.png?raw=true" width="256" /></p>
+			<p><code>Polygonized</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonized.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Polygonalwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalwave.png?raw=true" width="256" /></p>
+			<p><code>Polygonalist</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalist.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Polygonalpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalpunk.png?raw=true" width="256" /></p>
+			<p><code>Polygonalistic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalistic.webp?raw=true" width="256" /></p>
+        </td>
+	</tr>
+	<tr align=center valign=middle>
+        <td>
+			<p><code>Polygonalcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalcore.webp?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Polygonalwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalwave.webp?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Polygonalpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalpunk.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
         <td>
-			<p><code>Polygonalboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalboop.png?raw=true" width="256" /></p>
+			<p><code>Polygonalboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Polygonalboop.webp?raw=true" width="256" /></p>
         </td>
 		<td>-</td>
 	</tr>
