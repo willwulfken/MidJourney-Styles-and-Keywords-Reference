@@ -21,7 +21,7 @@
 			<br>
 		</th>
 		<th>
-			<p><code>Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Happy.png?raw=true" width="256" /></p>
+			<p><code>Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Happy.webp?raw=true" width="256" /></p>
 		</th>
 		<th>
 			<br>
@@ -29,46 +29,46 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_Happy.png?raw=true" width="256" /></p>
+			<p><code>sphere Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_Happy.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere, Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-Happy.png?raw=true" width="256" /></p>
+			<p><code>sphere, Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-Happy.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>Happy sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Happy_sphere.png?raw=true" width="256" /></p>
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<p><code>sphere; Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-semicolon-Happy.png?raw=true" width="256" /></p>
-		</td>
-		<td>
-			<p><code>sphere:Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-Happy.png?raw=true" width="256" /></p>
-		</td>
-		<td>
-			<p><code>sphere::Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-Happy.png?raw=true" width="256" /></p>
+			<p><code>Happy sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Happy_sphere.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere - Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_-_Happy.png?raw=true" width="256" /></p>
+			<p><code>sphere; Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-semicolon-Happy.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere(Happy)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere(Happy).png?raw=true" width="256" /></p>
+			<p><code>sphere:Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-Happy.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere in the style of Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Happy.png?raw=true" width="256" /></p>
+			<p><code>sphere::Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-Happy.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere made of Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_made_of_Happy.png?raw=true" width="256" /></p>
+			<p><code>sphere - Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_-_Happy.webp?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere(Happy)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere(Happy).webp?raw=true" width="256" /></p>
+		</td>
+		<td>
+			<p><code>sphere in the style of Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Happy.webp?raw=true" width="256" /></p>
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>
+			<p><code>sphere made of Happy</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_made_of_Happy.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<br>
 		</td>
 		<td>
-			<p><code>Happy of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Happy_of_a_sphere.png?raw=true" width="256" /></p>
+			<p><code>Happy of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Happy_of_a_sphere.webp?raw=true" width="256" /></p>
 		</td>
 </table>
 
