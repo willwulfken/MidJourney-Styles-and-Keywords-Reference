@@ -27,13 +27,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_0.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_0.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_10.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_10.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_20.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_20.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -48,13 +48,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_30.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_30.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_40.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_40.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_50.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_50.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -69,13 +69,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_60.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_60.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_70.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_70.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_80.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_80.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -89,10 +89,10 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_90.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_90.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_100.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Chaos_Comparison/Anime_chaos_100.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>

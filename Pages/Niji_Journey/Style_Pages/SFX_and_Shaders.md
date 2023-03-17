@@ -20,7 +20,7 @@
 
 	| Ray Tracing Reflections |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Ray_Tracing_Reflections.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -29,7 +29,7 @@
 
 	| Chromatic Aberration |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Chromatic_Aberration.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -38,13 +38,13 @@
 
 	| Scan Lines |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Scan_Lines.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Scan_Lines.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Tessellated |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Tessellated.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Tessellated.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -53,7 +53,7 @@
 
 	| Ray Traced |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Ray_Traced.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Ray_Traced.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 

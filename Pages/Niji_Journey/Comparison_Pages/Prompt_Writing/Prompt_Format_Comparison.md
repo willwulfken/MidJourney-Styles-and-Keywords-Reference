@@ -34,73 +34,73 @@
 	<tr align=center valign=middle>
 		<td><i>&#60;style&#62;</i></td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Anime.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Anime.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Marker_Art.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Marker_Art.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_Marker_Art.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_Marker_Art.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_Anime.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_Anime.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i>, <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime,_Marker_Art.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime,_Marker_Art.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art,_Anime.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art,_Anime.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> - <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_-_Marker_Art.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_-_Marker_Art.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_-_Anime.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_-_Anime.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> (<i>&#60;style-2&#62;</i>)</th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_(Marker_Art).png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_(Marker_Art).webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_(Anime).png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_(Anime).webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> in the style of <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_in_the_style_of_Marker_Art.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_in_the_style_of_Marker_Art.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_in_the_style_of_Anime.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_in_the_style_of_Anime.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> made of <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_made_of_Marker_Art.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_made_of_Marker_Art.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_made_of_Anime.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_made_of_Anime.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<th><i>&#60;style&#62;</i> of a <i>&#60;style-2&#62;</i></th>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_of_a_Marker_Art.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Anime/Marker_Art/Anime_of_a_Marker_Art.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_of_a_Anime.png?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/Comparison_Page_Images/Prompt_Format_Comparison/Marker_Art/Anime/Marker_Art_of_a_Anime.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>

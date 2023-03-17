@@ -20,7 +20,7 @@
 
 	| Celtic Knot |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Celtic_Knot.png?raw=true" width="256" /> |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Celtic_Knot.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
