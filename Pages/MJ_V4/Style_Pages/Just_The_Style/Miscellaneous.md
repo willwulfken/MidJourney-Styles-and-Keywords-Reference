@@ -19,67 +19,67 @@
 
 | Floss |
 | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Floss.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Floss.png?raw=true" width="256" /> |
 
 <br>
 
 | Red Shift Render | Indigo-Render |
 | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Red_Shift_Render.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Indigo-Render.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Red_Shift_Render.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Indigo-Render.png?raw=true" width="256" /> |
 
 <br>
 
 | Amethyst-Deceiver | Indigo-Milk-Cap |
 | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Amethyst-Deceiver.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Indigo-Milk-Cap.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Amethyst-Deceiver.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Indigo-Milk-Cap.png?raw=true" width="256" /> |
 
 <br>
 
 | Manila |
 | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Manila.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Manila.png?raw=true" width="256" /> |
 
 <br>
 
 | Pythagoras Tree | Dorure Gliding | Mold |
 | :-: | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pythagoras_Tree.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dorure_Gliding.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mold.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pythagoras_Tree.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dorure_Gliding.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mold.png?raw=true" width="256" /> |
 
 <br>
 
 | Eggcrate |
 | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Eggcrate.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Eggcrate.png?raw=true" width="256" /> |
 
 <br>
 
 | High-Pass | Low-Pass |
 | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/High-Pass.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Low-Pass.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/High-Pass.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Low-Pass.png?raw=true" width="256" /> |
 
 <br>
 
 | Medium | Binder |
 | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Medium.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Binder.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Medium.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Binder.png?raw=true" width="256" /> |
 
 <br>
 
 | Detelecine |
 | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Detelecine.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Detelecine.png?raw=true" width="256" /> |
 
 <br>
 
 | Flux | Fluxus |
 | :-: | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Flux.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fluxus.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Flux.png?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fluxus.png?raw=true" width="256" /> |
 
 <br>
 
 | <br>Sphube<p><div align="center"><i><h6>@TwoDukes</h6></i></div></p> |
 | :-: |
-| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sphube.webp?raw=true" width="256" /> |
+| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sphube.png?raw=true" width="256" /> |
 
 </div></p>
 

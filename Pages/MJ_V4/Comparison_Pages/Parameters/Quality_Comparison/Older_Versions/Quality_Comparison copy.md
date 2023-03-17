@@ -27,7 +27,34 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.25.webp?raw=true" width="256" />
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.25.png?raw=true" width="256" />
+            <br><code>25%</code>
+        </td>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.5.png?raw=true" width="256" />
+            <br><code>50%</code>
+        </td>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_1.png?raw=true" width="256" />
+            <br><code>100% (Default)</code>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<table>
+    <tr align=center valign=middle>
+        <th>--quality 2</th>
+        <th>--quality 5</th>
+    </tr>
+    <tr align=center valign=middle>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_2.png?raw=true" width="256" />
+            <br><code>200%</code>
+        </td>
+        <td>
+            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_5.png?raw=true" width="256" />
             <br><code>500%</code>
         </td>
     </tr>

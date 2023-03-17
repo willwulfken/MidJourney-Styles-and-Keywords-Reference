@@ -28,7 +28,91 @@
 	<tr align=center valign=middle>
 		<td><i>&#60;word-1&#62;&#60;word-2&#62;</i></td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scanlines.webp?raw=true" width="256" />
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scanlines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deepdream.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><i>&#60;word-1&#62; &#60;word-2&#62;</i></td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan--space--Lines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep--space--Dream.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><i>&#60;word-1&#62;_&#60;word-2&#62;</i></td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan_Lines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep_Dream.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><i>&#60;word-1&#62;-&#60;word-2&#62;</i></td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan-Lines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep-Dream.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><i>&#60;word-1&#62;+&#60;word-2&#62;</i></td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan+Lines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep+Dream.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><i>&#60;word-1&#62;&&#60;word-2&#62;</i></td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan&Lines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep&Dream.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><i>&#60;word-1&#62;~&#60;word-2&#62;</i></td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan~Lines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep~Dream.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><i>&#60;word-1&#62;.&#60;word-2&#62;</i></td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan.Lines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep.Dream.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><i>&#60;word-1&#62;/&#60;word-2&#62;</i></td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan--slash--Lines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep--slash--Dream.png?raw=true" width="256" />
+		</td>
+	</tr>
+	<tr align=center valign=middle>
+		<td><i>&#60;word-1&#62;\&#60;word-2&#62;</i></td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan--backslash--Lines.png?raw=true" width="256" />
+		</td>
+		<td>
+			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep--backslash--Dream.png?raw=true" width="256" />
 		</td>
 	</tr>
 </table>

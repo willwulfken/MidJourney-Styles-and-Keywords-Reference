@@ -25,7 +25,51 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>Sphere</td>
-		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Sphere.webp?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Sphere.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Sphere_ar3-2.png?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Sphere_ar2-3.png?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>Aurora Borealis</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Aurora_Borealis.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Aurora_Borealis_ar3-2.png?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Aurora_Borealis_ar2-3.png?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>Vaporwave</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Vaporwave.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Vaporwave_ar3-2.png?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Vaporwave_ar2-3.png?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>Synesthesia</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Synesthesia.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Synesthesia_ar3-2.png?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Synesthesia_ar2-3.png?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>Deep_Dream</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Deep_Dream.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Deep_Dream_ar3-2.png?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Deep_Dream_ar2-3.png?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>Art_By_M.C._Escher</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Art_By_M.C._Escher.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Art_By_M.C._Escher_ar3-2.png?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Art_By_M.C._Escher_ar2-3.png?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>Milky_Quartz</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Milky_Quartz.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Milky_Quartz_ar3-2.png?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Milky_Quartz_ar2-3.png?raw=true" width="256" /><p><code>1024x1536</code></p></td>
+	</tr>
+	<tr align=center valign=middle>
+		<td>Ray_Tracing_Reflections</td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Ray_Tracing_Reflections.png?raw=true" width="256" /><p><code>1024x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Ray_Tracing_Reflections_ar3-2.png?raw=true" width="256" /><p><code>1536x1024</code></p></td>
+		<td><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Resolution_Comparison/Ray_Tracing_Reflections_ar2-3.png?raw=true" width="256" /><p><code>1024x1536</code></p></td>
 	</tr>
 </table>
 
