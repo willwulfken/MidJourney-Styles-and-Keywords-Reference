@@ -933,7 +933,7 @@
 
 	<br>
 	
-	| Hedge Trimming | Site-Specific art | Public Art |
+	| Hedge Trimming | Site-Specific Art | Public Art |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Hedge_Trimming.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Site-Specific_art.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Public_Art.webp?raw=true" width="256" /> |
 	
