@@ -908,7 +908,7 @@
 
 	<br>
 
-	| Tie-dye | Confetti |
+	| Tie-Dye | Confetti |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tie-dye.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Confetti.webp?raw=true" width="256" /> |
 
