@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
 
 </div>
 
@@ -20,7 +20,7 @@
 			<br>
 		</th>
         <td>
-			<p><code>Extradimensional</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensional.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensional</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensional.webp?raw=true" width="256" /></p>
         </td>
 		<th>
 			<br>
@@ -28,46 +28,46 @@
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Extradimensionally</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionally.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensionally</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionally.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Extradimensionality</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionality.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensionality</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionality.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Extradimensionalized</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalized.webp?raw=true" width="256" /></p>
-        </td>
-	</tr>
-	<tr align=center valign=middle>
-        <td>
-			<p><code>Extradimensionalist</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalist.webp?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Extradimensionalistic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalistic.webp?raw=true" width="256" /></p>
-        </td>
-        <td>
-			<p><code>Extradimensionalcore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalcore.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensionalized</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalized.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Extradimensionalwave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalwave.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensionalist</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalist.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Extradimensionalpunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalpunk.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensionalistic</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalistic.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Extradimensionalboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalboop.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensionalcore</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalcore.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-			<p><code>Extradimension</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimension.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensionalwave</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalwave.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Extradimensionalism</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalism.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensionalpunk</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalpunk.webp?raw=true" width="256" /></p>
         </td>
         <td>
-			<p><code>Extra-Dimensional</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extra-Dimensional.webp?raw=true" width="256" /></p>
+			<p><code>Extradimensionalboop</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalboop.webp?raw=true" width="256" /></p>
+        </td>
+	</tr>
+	<tr align=center valign=middle>
+        <td>
+			<p><code>Extradimension</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimension.webp?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Extradimensionalism</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extradimensionalism.webp?raw=true" width="256" /></p>
+        </td>
+        <td>
+			<p><code>Extra-Dimensional</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Extra-Dimensional.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 </table>
@@ -79,5 +79,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md">⬅ Go Back To Word Suffix Comparison</a></h6>
+<h6><a href="/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md">⬅ Go Back To Word Suffix Comparison</a></h6>
 </div>

@@ -5,8 +5,8 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Supernova.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison_Subpages/Supernova.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
 
 </div>
 
@@ -46,7 +46,7 @@
 			<p><code>sphere:Supernova</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-Supernova.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere::Supernova</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-Supernova.webp?raw=true" width="256" /></p>
+			<p><code>sphere::Supernova</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-Supernova.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
@@ -79,5 +79,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md">⬅ Go Back To Prompt Format Comparison</a></h6>
+<h6><a href="/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md">⬅ Go Back To Prompt Format Comparison</a></h6>
 </div>

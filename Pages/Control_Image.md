@@ -21,19 +21,19 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles_(sphere)/_sphere_--seed4776.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/_sphere_--seed4776.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/_sphere_--seed4776.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/_sphere_--seed4776.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.webp?raw=true"  width="256" />
+			<img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/_sphere_--seed4776.webp?raw=true"  width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Sphere.webp?raw=true" width="256" />
+			<img src="/Images/Niji_Journey/MidJourney_Styles/Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
@@ -49,19 +49,19 @@
 				</tr>
 				<tr align=center valign=middle>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
+						<img src="/Images/MJ_V4/V4_Alpha_1/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
+						<img src="/Images/MJ_V4/V4_Alpha_2/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
+						<img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
+						<img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
+						<img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Sphere.webp?raw=true" width="160" />
 					</td>
 				</tr>
 			</table>
@@ -78,10 +78,10 @@
 				</tr>
 				<tr align=center valign=middle>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
+						<img src="/Images/Midjourney_Beta_Features/test/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
+						<img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 					</td>
 				</tr>
 			</table>
@@ -93,10 +93,10 @@
 				</tr>
 				<tr align=center valign=middle>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
+						<img src="/Images/Midjourney_Beta_Features/testp/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/testp_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
+						<img src="/Images/Midjourney_Beta_Features/testp_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 					</td>
 				</tr>
 			</table>
@@ -121,16 +121,16 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V1/Midjourney_Styles/landscape.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V1/Midjourney_Styles/landscape.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(landscape)/_landscape_--seed4776.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V2/MidJourney_Styles_(landscape)/_landscape_--seed4776.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles_(landscape)/_landscape_--seed4776.webp?raw=true"  width="256" />
+			<img src="/Images/MJ_V3/MidJourney_Styles_(landscape)/_landscape_--seed4776.webp?raw=true"  width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Landscape.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Landscape.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>
@@ -144,13 +144,13 @@
 				</tr>
 				<tr align=center valign=middle>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Landscape.webp?raw=true" width="160" />
+						<img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Landscape.webp?raw=true" width="160" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Landscape.webp?raw=true" width="160" />
+						<img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Landscape.webp?raw=true" width="160" />
 					</td>
 					<td>
-						<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Landscape.webp?raw=true" width="160" />
+						<img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Landscape.webp?raw=true" width="160" />
 					</td>
 				</tr>
 			</table>
@@ -160,13 +160,13 @@
 </table>
 
 <a href="https://github.com/Arthur-Von-WikleTits/Egg"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Buttons/test/rect_dark.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Buttons/test/rect_light.png?raw=true"></a>
+  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Buttons/test/rect_dark.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Buttons/test/rect_light.png?raw=true"></a>
 </picture>
 
 </div>
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

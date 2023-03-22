@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
 
 </div>
 
@@ -20,7 +20,7 @@
 			<br>
 		</th>
         <td>
-            <p><code>Ray Trace</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Trace.webp?raw=true" width="256" /></p>
+            <p><code>Ray Trace</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Trace.webp?raw=true" width="256" /></p>
         </td>
 		<th>
 			<br>
@@ -28,35 +28,35 @@
 	</tr>
 	<tr align=center valign=middle>
         <td>
-            <p><code>Ray Traced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Traced.webp?raw=true" width="256" /></p>
+            <p><code>Ray Traced</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Traced.webp?raw=true" width="256" /></p>
         </td>
         <td>
-            <p><code>Ray Tracey</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Tracey.webp?raw=true" width="256" /></p>
+            <p><code>Ray Tracey</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Tracey.webp?raw=true" width="256" /></p>
         </td>
         <td>
-            <p><code>Ray Tracing</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Tracing.webp?raw=true" width="256" /></p>
-        </td>
-	</tr>
-	<tr align=center valign=middle>
-        <td>
-            <p><code>Ray-Tracecore</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Tracecore.webp?raw=true" width="256" /></p>
-        </td>
-        <td>
-            <p><code>Ray-Tracewave</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Tracewave.webp?raw=true" width="256" /></p>
-        </td>
-        <td>
-            <p><code>Ray-Tracepunk</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Tracepunk.webp?raw=true" width="256" /></p>
+            <p><code>Ray Tracing</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray_Tracing.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 	<tr align=center valign=middle>
         <td>
-            <p><code>Ray-Traceboop</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Traceboop.webp?raw=true" width="256" /></p>
+            <p><code>Ray-Tracecore</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Tracecore.webp?raw=true" width="256" /></p>
         </td>
         <td>
-            <p><code>Ray-Traced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Traced.webp?raw=true" width="256" /></p>
+            <p><code>Ray-Tracewave</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Tracewave.webp?raw=true" width="256" /></p>
         </td>
         <td>
-            <p><code>RayTraced</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_RayTraced.webp?raw=true" width="256" /></p>
+            <p><code>Ray-Tracepunk</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Tracepunk.webp?raw=true" width="256" /></p>
+        </td>
+	</tr>
+	<tr align=center valign=middle>
+        <td>
+            <p><code>Ray-Traceboop</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Traceboop.webp?raw=true" width="256" /></p>
+        </td>
+        <td>
+            <p><code>Ray-Traced</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_Ray-Traced.webp?raw=true" width="256" /></p>
+        </td>
+        <td>
+            <p><code>RayTraced</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Word_Suffix_Comparison/sphere_RayTraced.webp?raw=true" width="256" /></p>
         </td>
 	</tr>
 </table>
@@ -68,5 +68,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md">⬅ Go Back To Word Suffix Comparison</a></h6>
+<h6><a href="/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md">⬅ Go Back To Word Suffix Comparison</a></h6>
 </div>

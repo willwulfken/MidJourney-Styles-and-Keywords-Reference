@@ -6,7 +6,7 @@
 
 	| Sphere |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
 
 </div></p></details>
 
@@ -18,7 +18,7 @@
 
 	| Photorealistic |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Photorealistic.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Photorealistic.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -29,7 +29,7 @@
 
 	| Retro |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Retro.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Retro.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -38,7 +38,7 @@
 
 	| Sci-fi |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sci-fi.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sci-fi.webp?raw=true" width="256" /> |
 
 
 	</div></p></details>
@@ -48,7 +48,7 @@
 
 	| Vaporwave |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Vaporwave.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Vaporwave.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -57,7 +57,7 @@
 
 	| Cartoon |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cartoon.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cartoon.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -73,13 +73,13 @@
 
 	| Chaotic |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Chaotic.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Chaotic.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Intricate Surface Detail |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Intricate_Surface_Detail.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Intricate_Surface_Detail.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -88,7 +88,7 @@
 
 	| Diffraction Patterns |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Diffraction_Patterns.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Diffraction_Patterns.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -97,7 +97,7 @@
 
 	| Cubism |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cubism.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cubism.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -106,7 +106,7 @@
 
 	| Psychedelica |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Psychedelica.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Psychedelica.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -115,7 +115,7 @@
 
 	| Synesthesia |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Synesthesia.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Synesthesia.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -124,13 +124,13 @@
 
 	| Liquify |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Liquify.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Liquify.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Lissajous |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lissajous.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lissajous.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -145,7 +145,7 @@
 
 	| 8-bit |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/8-bit.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/8-bit.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -154,7 +154,7 @@
 
 	| Microsoft Paint |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Microsoft_Paint.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Microsoft_Paint.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -163,13 +163,13 @@
 
 	| Lowpoly |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lowpoly.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lowpoly.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Pixel Art |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Pixel_Art.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Pixel_Art.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -178,7 +178,7 @@
 
 	| Floyd–Steinberg Dithering |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/FloydSteinberg_Dithering.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/FloydSteinberg_Dithering.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -187,7 +187,7 @@
 
 	| Databending |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Databending.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Databending.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -196,7 +196,7 @@
 
 	| Deep Dream |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Deep_Dream.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Deep_Dream.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -212,7 +212,7 @@
 
 	| Painting By Alex Grey |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Painting_By_Alex_Grey.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Painting_By_Alex_Grey.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -221,7 +221,7 @@
 
 	| Art By M.C. Escher |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Art_By_M.C._Escher.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Art_By_M.C._Escher.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -238,7 +238,7 @@
 
 		| Sketch |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sketch.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sketch.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -247,7 +247,7 @@
 
 		| Marker Art |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -260,7 +260,7 @@
 
 		| Paper-Marbling |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Paper-Marbling.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Paper-Marbling.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -269,7 +269,7 @@
 
 		| Splatter Paint |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Splatter_Paint.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Splatter_Paint.webp?raw=true" width="256" /> |
 		
 	  </div></p></details>
 	
@@ -282,7 +282,7 @@
 
 		| Carved Lacquer |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 	
@@ -299,7 +299,7 @@
 
 	| CGA |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/CGA.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/CGA.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -308,7 +308,7 @@
 
 	| Technicolor |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Technicolor.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Technicolor.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -324,7 +324,7 @@
 
 		| Anodized Titanium |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Anodized_Titanium.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Anodized_Titanium.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -333,25 +333,25 @@
 
 		| Amethyst |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Amethyst.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Amethyst.webp?raw=true" width="256" /> |
 
 		<br>
 
 		| Milky Quartz |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Milky_Quartz.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Milky_Quartz.webp?raw=true" width="256" /> |
 
 		<br>
 
 		| Opal |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Opal.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Opal.webp?raw=true" width="256" /> |
 
 		<br>
 
 		| Agate |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Agate.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Agate.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -362,7 +362,7 @@
 
 	| Liquid Crystal |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -371,7 +371,7 @@
 
 	| Orbeez |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Orbeez.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Orbeez.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -380,7 +380,7 @@
 
 	| Clouds |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Clouds.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Clouds.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -395,7 +395,7 @@
 
 	| Fullerene |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Fullerene.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Fullerene.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -404,7 +404,7 @@
 	
 	| Seashell |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Seashell.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Seashell.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -419,7 +419,7 @@
 
 	| Glitter |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Glitter.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Glitter.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -428,7 +428,7 @@
 
 	| Glow-In-The-Dark |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Glow-In-The-Dark.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Glow-In-The-Dark.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -443,7 +443,7 @@
 
 	| Crepuscular Rays |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Crepuscular_Rays.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Crepuscular_Rays.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -452,7 +452,7 @@
 
 	| Plasma Globe |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Plasma_Globe.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Plasma_Globe.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -467,7 +467,7 @@
 
 	| Chromatic Aberration |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -476,7 +476,7 @@
 
 	| Tessellated |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Tessellated.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Tessellated.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -485,7 +485,7 @@
 
 	| Ray Traced |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Ray_Traced.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Ray_Traced.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -500,7 +500,7 @@
 
 	| 2-Dimensional |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/2-Dimensional.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/2-Dimensional.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -515,7 +515,7 @@
 
 	| Lactarius-Indigo |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lactarius-Indigo.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lactarius-Indigo.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -524,7 +524,7 @@
 
 	| Autumn |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Autumn.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Autumn.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -540,7 +540,7 @@
 
 	| Halloween |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Halloween.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Halloween.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -556,13 +556,13 @@
 
 	| Galaxy |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Galaxy.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Galaxy.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Supernova |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Supernova.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Supernova.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -578,7 +578,7 @@
 
 	| Bokeh |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Bokeh.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Bokeh.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -586,7 +586,7 @@
 
 	| Lens Flare |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lens_Flare.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lens_Flare.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -601,7 +601,7 @@
 
 	| Hexagonal |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Hexagonal.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Hexagonal.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -610,7 +610,7 @@
 
 	| Sphere |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -619,7 +619,7 @@
 
 	| Klein Bottle |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Klein_Bottle.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Klein_Bottle.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -628,7 +628,7 @@
 
 	| Polygonal |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Polygonal.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Polygonal.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -636,5 +636,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

@@ -6,12 +6,12 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive_third.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Stylize_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive_third.webp?raw=true" alt="MidJourney V4" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_third.webp?raw=true" alt="MidJourney V5" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V5/Comparison_Pages/Parameters/Stylize_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive_third.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Parameters/Stylize_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive_third.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Stylize_Comparison/Stylize_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_third.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Comparison_Pages/Parameters/Stylize_Comparison.md)
 <br>
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_test_active_half.webp?raw=true" alt="test" height="64" />]()
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_testp_inactive_half.webp?raw=true" alt="testp" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Midjourney_Beta_Features/testp/Comparison_Pages/Parameters/Stylize_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_test_active_half.webp?raw=true" alt="test" height="64" />]()
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_testp_inactive_half.webp?raw=true" alt="testp" height="64" />](/Pages/Midjourney_Beta_Features/testp/Comparison_Pages/Parameters/Stylize_Comparison.md)
 
 </div>
 
@@ -27,10 +27,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_1250.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_1250.webp?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_1500.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_1500.webp?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -44,10 +44,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_1750.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_1750.webp?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_2000.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_2000.webp?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -61,10 +61,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_2250.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_2250.webp?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_2500.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_2500.webp?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -78,10 +78,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_2750.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_2750.webp?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_3000.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_3000.webp?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -95,10 +95,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_3250.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_3250.webp?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_3500.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_3500.webp?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -112,10 +112,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_3750.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_3750.webp?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_4000.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_4000.webp?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -129,10 +129,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_4250.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_4250.webp?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_4500.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_4500.webp?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -146,10 +146,10 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_4750.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_4750.webp?raw=true" width=384 />
         </td>
         <td>
-            <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_5000.webp?raw=true" width=384 />
+            <img src="/Images/Midjourney_Beta_Features/test/Comparison_Pages/Stylize_Parameter/sphere_stylize_5000.webp?raw=true" width=384 />
         </td>
     </tr>
 </table>
@@ -160,5 +160,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />]()
+[<img src="/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />]()
 
 </div>
 
@@ -12,7 +12,7 @@
 
 	| Sphere |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
 
 </div></p></details>
 
@@ -26,7 +26,7 @@
 
 	| Chaotic |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Chaotic.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Chaotic.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -41,7 +41,7 @@
 
 	| 4k |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/4k.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/4k.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -50,7 +50,7 @@
 
 	| Deep Dream |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Deep_Dream.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Deep_Dream.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -68,7 +68,7 @@
 
 		| Marker Art |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
+		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -81,7 +81,7 @@
 
 		| Carved Lacquer |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
+		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 	
@@ -100,7 +100,7 @@
 
 		| Cyan |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Cyan.webp?raw=true" width="256" /> |
+		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Cyan.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -109,7 +109,7 @@
 
 		| Aqua |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Aqua.webp?raw=true" width="256" /> |
+		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Aqua.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -119,7 +119,7 @@
 
 	| CGA |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/CGA.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/CGA.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -128,7 +128,7 @@
 
 	| Technicolor |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Technicolor.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Technicolor.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -144,7 +144,7 @@
 
 		| Milky Quartz |
 		| :-: |
-		| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Milky_Quartz.webp?raw=true" width="256" /> |
+		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Milky_Quartz.webp?raw=true" width="256" /> |
 
 	  </div></p></details>
 
@@ -155,7 +155,7 @@
 
 	| Liquid Crystal |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -164,7 +164,7 @@
 
 	| Clouds |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Clouds.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Clouds.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -179,7 +179,7 @@
 
 	| Glow-In-The-Dark |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Glow-In-The-Dark.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Glow-In-The-Dark.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -194,7 +194,7 @@
 
 	| Plasma Globe |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Plasma_Globe.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Plasma_Globe.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -209,7 +209,7 @@
 
 	| Ray Tracing Reflections |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -218,7 +218,7 @@
 
 	| Chromatic Aberration |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -233,7 +233,7 @@
 
 	| 2-Dimensional |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/2-Dimensional.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/2-Dimensional.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -248,7 +248,7 @@
 
 	| Lactarius-Indigo |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Lactarius-Indigo.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Lactarius-Indigo.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -266,7 +266,7 @@
 
 	| Supernova |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Supernova.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Supernova.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -282,7 +282,7 @@
 
 	| Cinematic |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Cinematic.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Cinematic.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -297,7 +297,7 @@
 
 	| Hexagonal |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Hexagonal.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Hexagonal.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -306,7 +306,7 @@
 
 	| Sphere |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
@@ -321,7 +321,7 @@
 
 	| Happy |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Happy.webp?raw=true" width="256" /> |
+	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Happy.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -330,5 +330,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

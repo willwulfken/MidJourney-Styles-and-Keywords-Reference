@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Drawing_and_Art_Mediums.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Drawing_and_Art_Mediums.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Style_Pages/Sphere/Drawing_and_Art_Mediums.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Style_Pages/Sphere/Drawing_and_Art_Mediums.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
 <br>
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V5/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_active_half.webp?raw=true" alt="Niji Journey" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Style_Pages/Drawing_and_Art_Mediums.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Drawing_and_Art_Mediums.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_active_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Style_Pages/Drawing_and_Art_Mediums.md)
 
 
 </div>
@@ -23,25 +23,25 @@
 
 	| Sketch | Drawing | Doodle |
 	| :-: | :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Drawing.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Sketch.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Doodle.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Drawing.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Sketch.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Doodle.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Stipple |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Stipple.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Stipple.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Illustration | Storybook Illustration |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Illustration.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Storybook_Illustration.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Illustration.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Storybook_Illustration.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Whimsical Illustration |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Whimsical_Illustration.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Whimsical_Illustration.webp?raw=true" width="256" /> |
 
 	
 
@@ -49,7 +49,7 @@
 
 	| Colored Pencil |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Colored_Pencil.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Colored_Pencil.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -58,13 +58,13 @@
 
 	| Ballpoint Pen |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Ballpoint_Pen.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Ballpoint_Pen.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Marker Art |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -77,19 +77,19 @@
 
 	| Painting |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Painting.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Painting.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Japanese Painting |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Japanese_Painting.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Japanese_Painting.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Paper-Marbling |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Paper-Marbling.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Paper-Marbling.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -98,7 +98,7 @@
 
 	| Splatter Paint |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Splatter_Paint.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Splatter_Paint.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -111,7 +111,7 @@
 
 	| Comic Book |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Comic_Book.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Comic_Book.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -120,7 +120,7 @@
 
 	| Pokemon Card | Pokémon Card |
 	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card (2).webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card (2).webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -133,7 +133,7 @@
 
 	| Wall Decal |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Wall_Decal.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Wall_Decal.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -142,13 +142,13 @@
 
 	| Bejeweled |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Bejeweled.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Bejeweled.webp?raw=true" width="256" /> |
 
 	<br>
 
 	| Carved Lacquer |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -156,12 +156,12 @@
 
 	| Bone China |
 	| :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Niji_Journey/MidJourney_Styles/Bone_China.webp?raw=true" width="256" /> |
+	| <img src="/Images/Niji_Journey/MidJourney_Styles/Bone_China.webp?raw=true" width="256" /> |
 
 	</div></p></details>
   </p></details>
 	    
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
 </div>

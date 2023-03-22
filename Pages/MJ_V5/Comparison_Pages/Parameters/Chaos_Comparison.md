@@ -6,13 +6,13 @@
 
 <div align="center">
 
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Comparison_Pages/Parameters/Chaos_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Comparison_Pages/Parameters/Chaos_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Comparison_Pages/Parameters/Chaos_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Comparison_Pages/Parameters/Chaos_Comparison/Chaos_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Comparison_Pages/Parameters/Chaos_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Comparison_Pages/Parameters/Chaos_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Parameters/Chaos_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Chaos_Comparison/Chaos_Comparison.md)
 <br>
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_active_half.webp?raw=true" alt="MidJourney V5" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V5/Comparison_Pages/Parameters/Chaos_Comparison.md)
-[<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/Niji_Journey/Comparison_Pages/Parameters/Chaos_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_active_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Comparison_Pages/Parameters/Chaos_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Comparison_Pages/Parameters/Chaos_Comparison.md)
 
 </div>
 
@@ -29,13 +29,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_0.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_0.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_10.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_10.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_20.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_20.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -50,13 +50,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_30.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_30.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_40.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_40.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_50.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_50.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -71,13 +71,13 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_60.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_60.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_70.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_70.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_80.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_80.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -91,10 +91,10 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_90.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_90.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_100.webp?raw=true" width="256" />
+			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_100.webp?raw=true" width="256" />
 		</td>
 	</tr>
 </table>
@@ -105,5 +105,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
 </div>
