@@ -504,10 +504,14 @@
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Megapixel.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/2_Megapixels.webp?raw=true" width="256" /> |
 
+	<br>
+
 	| 10 Megapixels | 12 Megapixels | 16 Megapixels |
 	| :-: | :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/10_Megapixels.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/12_Megapixels.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/16_Megapixels.webp?raw=true" width="256" /> |
 
+	<br>
+	
 	| 20 Megapixels | 22 Megapixels |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/20_Megapixels.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/22_Megapixels.webp?raw=true" width="256" /> |
