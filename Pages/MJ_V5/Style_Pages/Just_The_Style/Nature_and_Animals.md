@@ -25,6 +25,21 @@
   </div></p></details>
 
 
+- <details><summary>🌲🐹 Animals</summary><p><div align="center">
+
+	| Dragon |
+	| :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Dragon.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Pegasus | Minotaur |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Pegasus.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Minotaur.webp?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
 - <details><summary>🌲⛄ Seasons and Weather</summary><p><div align="center">
 	
 	| Autumn |

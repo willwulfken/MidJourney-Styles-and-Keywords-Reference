@@ -47,7 +47,7 @@
 
 	<br>
 	
-	| Loop-de-loop | Loopy |
+	| Loop-De-Loop | Loopy |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Loop-de-loop.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Loopy.webp?raw=true" width="256" /> |
 

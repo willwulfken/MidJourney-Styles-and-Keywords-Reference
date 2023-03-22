@@ -105,7 +105,7 @@
 
 	<br>
 
-	| Stop Motion | Stop-motion Animation Frame |
+	| Stop Motion | Stop-Motion Animation Frame |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Stop_Motion.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles_(tree)/Camera/Tree_Stop-motion_Animation_Frame.webp?raw=true" width="256" /> |
 

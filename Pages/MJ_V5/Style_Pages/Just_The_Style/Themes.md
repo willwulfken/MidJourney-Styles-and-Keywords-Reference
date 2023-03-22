@@ -102,9 +102,9 @@
 
 	<br>
 	
-	| Abstract | Lyrical Abstraction |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Abstract.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lyrical_Abstraction.webp?raw=true" width="256" /> |
+	| Abstract | Abstraction | Lyrical Abstraction |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Abstract.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Abstraction.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Lyrical_Abstraction.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -213,9 +213,9 @@
 	
 	<br>
 	
-	| Retro-Futurism | Afrofuturist |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Retro-Futurism.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Afrofuturist.webp?raw=true" width="256" /> |
+	| Retro-Futurism | Cassette Futurism | Afrofuturist |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Retro-Futurism.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cassette_Futurism.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Afrofuturist.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -294,9 +294,9 @@
 
 	<br>
 
-	| Fairycore | Fairy Folk |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Fairycore.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Fairy_Folk.webp?raw=true" width="256" /> |
+	| Fairycore | Fairy Folk | Spriggancore |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Fairycore.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Fairy_Folk.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Spriggancore.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -306,9 +306,9 @@
 
 	<br>
 
-	| Ghostcore | Spiritcore |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Ghostcore.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Spiritcore.webp?raw=true" width="256" /> |
+	| Cryptidcore | Ghostcore | Spiritcore |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cryptidcore.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Ghostcore.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Spiritcore.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -670,9 +670,9 @@
 	
 	<br>
 
-	| Vaporwave | Chillwave |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Vaporwave.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Chillwave.webp?raw=true" width="256" /> |
+	| Vaporwave | Synthwave | Chillwave |
+	| :-: | :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Vaporwave.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Synthwave.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Chillwave.webp?raw=true" width="256" /> |
 	
 	<br>
 

@@ -95,7 +95,7 @@
 
 	<br>
 
-	| Stop Motion | Stop-motion Animation Frame |
+	| Stop Motion | Stop-Motion Animation Frame |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Stop_Motion.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Stop-motion_Animation_Frame.webp?raw=true" width="256" /> |
 

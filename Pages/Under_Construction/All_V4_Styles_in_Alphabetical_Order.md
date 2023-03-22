@@ -2166,7 +2166,7 @@
 	| Lomo | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lomo.webp?raw=true" width="256" /> |
 	| Lonely | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lonely.webp?raw=true" width="256" /> |
 	| Long Exposure | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Long_Exposure.webp?raw=true" width="256" /> |
-	| Loop-de-loop | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Loop-de-loop.webp?raw=true" width="256" /> |
+	| Loop-De-Loop | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Loop-de-loop.webp?raw=true" width="256" /> |
 	| Loopy | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Loopy.webp?raw=true" width="256" /> |
 	| Lossy | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lossy.webp?raw=true" width="256" /> |
 	| Lounge | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lounge.webp?raw=true" width="256" /> |
@@ -3540,7 +3540,7 @@
 	| Stonepunk | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stonepunk.webp?raw=true" width="256" /> |
 	| Stoneware | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stoneware.webp?raw=true" width="256" /> |
 	| Stop Motion | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stop_Motion.webp?raw=true" width="256" /> |
-	| Stop-motion Animation Frame | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stop-motion_Animation_Frame.webp?raw=true" width="256" /> |
+	| Stop-Motion Animation Frame | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Stop-motion_Animation_Frame.webp?raw=true" width="256" /> |
 	| Storage Room | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Storage_Room.webp?raw=true" width="256" /> |
 	| Store-Brand | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Store-Brand.webp?raw=true" width="256" /> |
 	| Storm | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Storm.webp?raw=true" width="256" /> |
