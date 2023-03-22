@@ -19,7 +19,7 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td><img src="https://i.imgur.com/HFiUP8R.png" width=64 /></td>
-		<td><a href="https://www.thedreamingstate.com/portfolio/art/prompter/">Prompter by Shane McGeehan</a></td>
+		<td><a href="https://prompterguide.com">Prompter by Shane McGeehan</a></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td><img src="https://i.imgur.com/TeCLPhD.jpg" width=64 /></td>
