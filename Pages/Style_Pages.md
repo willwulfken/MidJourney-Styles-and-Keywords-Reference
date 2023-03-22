@@ -159,6 +159,17 @@
 	<h3><pre>MidJourney V4 (Just The Style)</pre></h3>
 
 	<br>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Just_The_Style/Rainbow_of_Colors.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width = 288>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_rainbow_of_midjourney_colors_light.webp?raw=true" width = 288>
+	<img alt="🌈 Rainbow of Midjourney Colors" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width = 288>
+	</picture></a>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Just_The_Style/Emojis.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_emojis_half.webp?raw=true" width = 288>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_emojis_half_light.webp?raw=true" width = 288>
+	<img alt="😊 Emojis" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_emojis_half.webp?raw=true" width = 288>
+	</picture></a>
+	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V4/Style_Pages/Just_The_Style/Themes.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
 	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes_light.webp?raw=true" width = 190>
@@ -590,6 +601,12 @@
 	<h3><pre>MidJourney V3 (Just The Style)</pre></h3>
 
 	<br>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Rainbow_of_Colors.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
+	<img alt="🌈 Rainbow of Midjourney Colors" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	</picture></a>
+	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Just_The_Style/Themes.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
 	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes_light.webp?raw=true" width = 190>
@@ -736,6 +753,12 @@
 
 	<h3><pre>MidJourney V3 (Sphere)</pre></h3>
 
+	<br>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Rainbow_of_Colors.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
+	<img alt="🌈 Rainbow of Midjourney Colors" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	</picture></a>
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Themes.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
@@ -924,6 +947,12 @@
 
 	<h3><pre>MidJourney V2 (Sphere)</pre></h3>
 
+	<br>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Rainbow_of_Colors.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
+	<img alt="🌈 Rainbow of Midjourney Colors" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	</picture></a>
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V2/Style_Pages/Sphere/Themes.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
@@ -1114,6 +1143,12 @@
 
 	<h3><pre>MidJourney V1 (Sphere)</pre></h3>
 
+	<br>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Rainbow_of_Colors.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
+	<img alt="🌈 Rainbow of Midjourney Colors" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	</picture></a>
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Themes.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
