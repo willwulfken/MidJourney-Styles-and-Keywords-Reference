@@ -717,6 +717,12 @@
 
 	<br>
 
+	| 90s Computer Graphics | 1990s Computer Graphics |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_90scomputergraphics.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_1990s_Computer_Graphics.webp?raw=true" width="256" /> |
+	
+	<br>
+	
 	| Commodore 64 | Commodore 64 Palette |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Commodore_64.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Commodore_64_Palette.webp?raw=true" width="256" /> |
@@ -863,12 +869,6 @@
 	| Network |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Network.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| 90s Computer Graphics | 1990s Computer Graphics |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_90scomputergraphics.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_1990s_Computer_Graphics.webp?raw=true" width="256" /> |
 	
 	<br>
 	

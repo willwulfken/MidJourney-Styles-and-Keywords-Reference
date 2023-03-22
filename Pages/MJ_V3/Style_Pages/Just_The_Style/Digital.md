@@ -1099,6 +1099,12 @@
 
 	<br>
 
+	| 90s Computer Graphics | 1990s Computer Graphics |
+	| :-: | :-: |
+	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/90s_Computer_Graphics.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/1990s_Computer_Graphics.webp?raw=true" width="256" /> |
+	
+	<br>
+	
 	| Commodore 64 | Commodore 64 Palette |
 	| :-: | :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Commodore_64.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Commodore_64_Palette.webp?raw=true" width="256" /> |
@@ -1245,12 +1251,6 @@
 	| Network |
 	| :-: |
 	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/Wave_13/Network.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| 90s Computer Graphics | 1990s Computer Graphics |
-	| :-: | :-: |
-	| <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/90s_Computer_Graphics.webp?raw=true" width="256" /> | <img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/MJ_V3/MidJourney_Styles/1990s_Computer_Graphics.webp?raw=true" width="256" /> |
 	
 	<br>
 	
