@@ -520,7 +520,7 @@
   </div></p></details>
 
 
-- <details><summary>➰🔢Numbers and Number Systems</summary><p>
+- <details><summary>➰🔢 Numbers and Number Systems</summary><p>
 
   - <details><summary>🔢 Numbers</summary><p><div align="center">
 
