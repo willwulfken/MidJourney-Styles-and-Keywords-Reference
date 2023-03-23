@@ -79,11 +79,11 @@
 		<td>-</td>
 		<td><img src="/Images/MJ_V3/MidJourney_Styles/Colors/Extended_Colors/Chartreuse.webp?raw=true" width=256 /><p><code>Chartreuse</code></p></td>
 		<td><img src="/Images/MJ_V3/MidJourney_Styles/Colors/Light_Colors/Light-Lime.webp?raw=true" width=256 /><p><code>Light-Lime</code></p></td>
-		<td><img src="/Images/MJ_V3/MidJourney_Styles/Colors/Basic_Colors/Lime.webp?raw=true" width=256 /><p><code>Lime</code></p></td>
+		<td><img src="/Images/MJ_V3/MidJourney_Styles/Colors/Vivid_Colors/Vivid-Lime.webp?raw=true" width=256 /><p><code>Vivid-Lime</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>-</td>
-		<td><img src="/Images/MJ_V3/MidJourney_Styles/Colors/Extended-Colors/Olive-Green.webp?raw=true" width=256 /><p><code>Olive-Green</code></p></td>
+		<td><img src="/Images/MJ_V3/MidJourney_Styles/Colors/Extended_Colors/Olive-Green.webp?raw=true" width=256 /><p><code>Olive-Green</code></p></td>
 		<td><img src="/Images/MJ_V3/MidJourney_Styles/Colors/Dark_Colors/Dark-Lime.webp?raw=true" width=256 /><p><code>Dark-Lime</code></p></td>
 		<td><img src="/Images/MJ_V3/MidJourney_Styles/Colors/Light_Colors/Light-Green.webp?raw=true" width=256 /><p><code>Light-Green</code></p></td>
 		<td><img src="/Images/MJ_V3/MidJourney_Styles/Colors/Basic_Colors/Lime.webp?raw=true" width=256 /><p><code>Lime</code></p></td>
