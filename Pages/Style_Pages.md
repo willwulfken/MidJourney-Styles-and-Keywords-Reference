@@ -9,6 +9,12 @@
 	<h3><pre>🎇 MidJourney V5 Alpha (Just The Style)</pre></h3>
 
 	<br>
+	<a href="/Pages/MJ_V5/Style_Pages/Just_The_Style/Rainbow_of_Colors.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full_light.webp?raw=true" width = 580>
+	<img alt="🌈 Rainbow of Midjourney Colors" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_rainbow_of_midjourney_colors_full.webp?raw=true" width = 580>
+	</picture></a>
+	<br>
 	<a href="/Pages/MJ_V5/Style_Pages/Just_The_Style/Themes.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes_light.webp?raw=true" width = 190>

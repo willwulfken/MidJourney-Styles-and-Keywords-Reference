@@ -6,6 +6,7 @@
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Style_Pages/Sphere/Rainbow_of_Colors.md)
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Rainbow_of_Colors.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_full.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Rainbow_of_Colors.md)
 
 [<img src="/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_active.webp?raw=true" alt="Just The Style" width="140.5" />](/Pages/MJ_V3/Style_Pages/Just_The_Style/Rainbow_of_Colors.md)
 [<img src="/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_sphere_inactive.webp?raw=true" alt="Sphere" width="140.5" />](/Pages/MJ_V3/Style_Pages/Sphere/Rainbow_of_Colors.md)
