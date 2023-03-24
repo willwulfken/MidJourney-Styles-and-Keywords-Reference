@@ -71,14 +71,14 @@
         <th>Cartoon</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cartoon.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Steampunk</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Steampunk.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Fractalpunk</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Fractalpunk.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
 </table>
 
 
@@ -90,10 +90,10 @@
         <th width=120></th>
         <th><br>V5 "Alpha 1"<p>(3-15-23)</p></th>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Hyperdetailed</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Hyperdetailed.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Chaotic</th>
         <td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Chaotic.webp?raw=true" width="256" /></td>
@@ -102,26 +102,26 @@
         <th>Intricate Surface Detail</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Intricate_Surface_Detail.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Flat Design</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Flat_Design.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Spectrum</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Spectrum.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Synesthesia</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Synesthesia.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Disco</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Disco.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Halftone</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Halftone.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Diffraction Patterns</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Diffraction_Patterns.webp?raw=true" width="256" /></td>
@@ -130,22 +130,22 @@
         <th>Cubism</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cubism.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Neo-Tokyo</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Neo-Tokyo.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Psychedelica</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Psychedelica.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Sacred Geometry</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sacred_Geometry.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Extreme Bubble Design</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Extreme_Bubble_Design.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Liquify</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Liquify.webp?raw=true" width="256" /></td>
@@ -165,13 +165,13 @@
     </tr>
     <!--<tr align="center" valign="middle">
         <th>4k</th>
-        <td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/4k.webp?raw=true" width="256" /></td>
+        <td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/4K.webp?raw=true" width="256" /></td>
     </tr>-->
     <tr align="center" valign="middle">
         <th>8-bit</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/8-bit.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <!--tr align="center" valign="middle">
         <th>Cyberdelic</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cyberdelic.webp?raw=true" width="256" /></td>
     </tr>
@@ -203,10 +203,10 @@
         <th>Deep Dream</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Deep_Dream.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Tetris</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Tetris.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
 </table>
 
 <br><br>
@@ -249,7 +249,7 @@
         <th>Sketch</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Sketch.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Stipple</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Stipple.webp?raw=true" width="256" /></td>
     </tr>
@@ -260,7 +260,7 @@
     <tr align="center" valign="middle">
         <th>Ballpoint Pen</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Ballpoint_Pen.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Marker Art</th>
         <td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Marker_Art.webp?raw=true" width="256" /></td>
@@ -273,22 +273,22 @@
         <th>Splatter Paint</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Splatter_Paint.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Wall Decal</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Wall_Decal.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Bejeweled</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Bejeweled.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Carved Lacquer</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Bone China</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Bone_China.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Glitter</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Glitter.webp?raw=true" width="256" /></td>
@@ -302,10 +302,10 @@
         <th width=120></th>
         <th><br>V5 "Alpha 1"<p>(3-15-23)</p></th>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Brushed Aluminum</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Brushed_Aluminum.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Anodized Titanium</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Anodized_Titanium.webp?raw=true" width="256" /></td>
@@ -326,7 +326,7 @@
         <th>Liquid Crystal</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <!--tr align="center" valign="middle">
         <th>Tornado</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Tornado.webp?raw=true" width="256" /></td>
     </tr>-->
@@ -373,22 +373,22 @@
         <th>Ray Traced</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Ray_Traced.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Ray Tracing Reflections</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Chromatic Aberration</th>
         <td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Scan Lines</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Scan_Lines.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Cracked</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cracked.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Tessellated</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Tessellated.webp?raw=true" width="256" /></td>
@@ -402,9 +402,9 @@
         <th width=120></th>
         <th><br>V5 "Alpha 1"<p>(3-15-23)</p></th>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Aqua</th>
-        <td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Aqua.webp?raw=true" width="256" /></td>
+        <td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Colors/Blue/Aqua/Aqua.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Electric Colors</th>
@@ -413,7 +413,7 @@
     <tr align="center" valign="middle">
         <th>CMYK</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/CMYK.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>CGA</th>
         <td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/CGA.webp?raw=true" width="256" /></td>
@@ -431,10 +431,10 @@
         <th width=120></th>
         <th><br>V5 "Alpha 1"<p>(3-15-23)</p></th>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Cinematic</th>
         <td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Cinematic.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
     <tr align="center" valign="middle">
         <th>Bokeh</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Bokeh.webp?raw=true" width="256" /></td>
@@ -468,15 +468,15 @@
         <th>Polygonal</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Polygonal.webp?raw=true" width="256" /></td>
     </tr>
-    <!--<tr align="center" valign="middle">
+    <tr align="center" valign="middle">
         <th>Celtic Knot</th>
     	<td><img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Celtic_Knot.webp?raw=true" width="256" /></td>
-    </tr>-->
+    </tr>
 </table>
 
-<br><br>
+<!--<br><br>
 
-<!--<table>
+<table>
     <tr align="center" valign="middle">
         <th width=120></th>
         <th><br>V5 "Alpha 1"<p>(3-15-23)</p></th>
