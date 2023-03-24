@@ -38,10 +38,10 @@
 	</tr>
 	<tr align=center valign=middle>
 		<th>V4 Alpha</th>
-		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4_Alpha/Galaxy_V4_V1_(4).webp?raw=true" width="256" /><p><code>V4 ➡ V1</code></p></td>
-		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4_Alpha/Galaxy_V4_V2_(4).webp?raw=true" width="256" /><p><code>V4 ➡ V2</code></p></td>
-		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4_Alpha/Galaxy_V4_V3_(2).webp?raw=true" width="256" /><p><code>V4 ➡ V3</code></p></td>
-		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4_Alpha/Galaxy_V4_(2).webp?raw=true" width="256" /><p><b><code>V4</code></b></p></td>
+		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4/Galaxy_V4_V1_(4).webp?raw=true" width="256" /><p><code>V4 ➡ V1</code></p></td>
+		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4/Galaxy_V4_V2_(4).webp?raw=true" width="256" /><p><code>V4 ➡ V2</code></p></td>
+		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4/Galaxy_V4_V3_(2).webp?raw=true" width="256" /><p><code>V4 ➡ V3</code></p></td>
+		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4/Galaxy_V4_(2).webp?raw=true" width="256" /><p><b><code>V4</code></b></p></td>
 	</tr>
 </table>
 
@@ -124,11 +124,11 @@
 	</tr>
 	<tr align=center valign=middle>
 		<th>V4 Alpha</th>
-		<th><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4_Alpha/Galaxy_V4_(2).webp?raw=true" width="256" /><p><b><code>V4</code></b></p></th>
-		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4_Alpha/Galaxy_V4_test_(2).webp?raw=true" width="256" /><p><code>V4 ➡ test</code></p></td>
-		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4_Alpha/Galaxy_V4_testp_(2).webp?raw=true" width="256" /><p><code>V4 ➡ testp</code></p></td>
-		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4_Alpha/Galaxy_V4_test-creative_(2).webp?raw=true" width="256" /><p><code>V4 ➡ test creative</code></p></td>
-		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4_Alpha/Galaxy_V4_testp-creative_(2).webp?raw=true" width="256" /><p><code>V4 ➡ testp creative</code></p></td>
+		<th><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4/Galaxy_V4_(2).webp?raw=true" width="256" /><p><b><code>V4</code></b></p></th>
+		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4/Galaxy_V4_test_(2).webp?raw=true" width="256" /><p><code>V4 ➡ test</code></p></td>
+		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4/Galaxy_V4_testp_(2).webp?raw=true" width="256" /><p><code>V4 ➡ testp</code></p></td>
+		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4/Galaxy_V4_test-creative_(2).webp?raw=true" width="256" /><p><code>V4 ➡ test creative</code></p></td>
+		<td><img src="/Images/Comparison_Page_Images/Version_Remixing/MJ_V4/Galaxy_V4_testp-creative_(2).webp?raw=true" width="256" /><p><code>V4 ➡ testp creative</code></p></td>
 	</tr>
 </table>
 

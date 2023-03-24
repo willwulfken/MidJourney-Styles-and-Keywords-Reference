@@ -357,7 +357,7 @@
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_remaster_half_light.webp?raw=true" width = 377>
   <img alt="✨ Remaster" src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_remaster_half.webp?raw=true" width = 377>
 </picture></a>
-<a href="/Pages/Comparison_Pages/Version_Remixing/V1-V4_Alpha.md" title="Remixing images by generating variations from one version to another"><picture>
+<a href="/Pages/Comparison_Pages/Version_Remixing/V1-V4.md" title="Remixing images by generating variations from one version to another"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_remixing.webp?raw=true" width = 377>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_remixing_light.webp?raw=true" width = 377>
   <img alt="🧬 Version Remixing" src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_version_remixing.webp?raw=true" width = 377>
