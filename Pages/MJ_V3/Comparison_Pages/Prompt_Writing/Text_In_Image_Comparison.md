@@ -8,9 +8,10 @@
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive_third.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active_third.webp?raw=true" alt="MidJourney V3" height="64" />]()
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive_third.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Comparison_Pages/Prompt_Writing/Text_In_Image_Comparison.md)
 
 </div>
 
