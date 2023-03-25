@@ -119,6 +119,12 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Creepy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Horror.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Frightened.webp?raw=true" width="256" /> |
 
 	<br>
+
+	| Spooky | Haunting |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Spooky.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Haunting.webp?raw=true" width="256" /> |
+	
+	<br>
 	
 	| Soulful | Sublime | Ideal |
 	| :-: | :-: | :-: |
@@ -496,36 +502,94 @@
 	</div></p></details>
 
 
-- <details><summary>➰☯ Symbols</summary><p>
+- <details><summary>➰🔠 Letters, Numbers, and Glyphs</summary><p>
 
-  - <details><summary>☯♓ Zodiac Signs</summary><p><div align="center">
+  - <details><summary>🔠 Letters</summary><p><div align="center">
 
-    | Capricornus | Aquarius | Pisces |
-    | :-: | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Capricornus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aquarius.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pisces.webp?raw=true" width="256" /> |
-
-    <br>
-
-    | Aries | Taurus | Gemini |
-    | :-: | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aries.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Taurus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gemini.webp?raw=true" width="256" /> |
-
-    <br>
-
-    | Cancer | Leo | Virgo |
-    | :-: | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cancer.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Leo.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Virgo.webp?raw=true" width="256" /> |
-
-    <br>
-
-    | Libra | Scorpio | Sagittarius |
-    | :-: | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Libra.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Scorpio.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sagittarius.webp?raw=true" width="256" /> |
+	| A | B | C |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/A.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/B.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/C.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| D | E | F |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/D.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/E.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/F.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| G | H | I |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/G.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/H.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/I.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| J | K | L |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/J.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/K.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/L.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| M | N | O |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/M.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/N.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/O.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| P | Q | R |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/P.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/Q.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/R.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| S | T | U |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/S.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/T.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/U.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| V | W | X |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/V.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/W.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/X.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Y | Z |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/Y.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Letters/Z.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
 
-  - <details><summary>☯🔣 Unicode Symbols</summary><p><div align="center">
+  - <details><summary>🔢 Numbers</summary><p><div align="center">
+
+	| 0 | 1 | 2 |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/0.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/1.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/2.webp?raw=true" width="256" /> |
+	
+	
+	<br>
+	
+	| 3 | 4 | 5 |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/3.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/4.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/5.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| 6 | 7 | 8 |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/6.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/7.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/8.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| 9 |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Unicode_Characters/Numbers/9.webp?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+  - <details><summary>🔣 Unicode Symbols</summary><p><div align="center">
 
 	| <br>,<p><div align="center"><i><h6>Comma</h6></i></div></p> | <br>&#x27;<p><div align="center"><i><h6>Apostrophe</h6></i></div></p> |
 	| :-: | :-: |
@@ -752,6 +816,35 @@
 	| <br>⁘<p><div align="center"><i><h6>Four Dots</h6></i></div></p> | <br>⁛<p><div align="center"><i><h6>Four Dots</h6></i></div></p> | <br>⁞<p><div align="center"><i><h6>Vertical Four Dots</h6></i></div></p> |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Unicode_Symbols/Four_Dots.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Unicode_Symbols/Spaced_Four_Dots.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Unicode_Symbols/Vertical_Four_Dots.webp?raw=true" width="256" /> |
+
+	</div></p></details>
+  </p></details>
+
+- <details><summary>➰☯ Symbols</summary><p>
+
+  - <details><summary>☯♓ Zodiac Signs</summary><p><div align="center">
+
+    | Capricornus | Aquarius | Pisces |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Capricornus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aquarius.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pisces.webp?raw=true" width="256" /> |
+
+    <br>
+
+    | Aries | Taurus | Gemini |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aries.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Taurus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gemini.webp?raw=true" width="256" /> |
+
+    <br>
+
+    | Cancer | Leo | Virgo |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cancer.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Leo.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Virgo.webp?raw=true" width="256" /> |
+
+    <br>
+
+    | Libra | Scorpio | Sagittarius |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Libra.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Scorpio.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sagittarius.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 

@@ -56,6 +56,12 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Figure_Drawing.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Caricature.webp?raw=true" width="256" /> |
 
 	<br>
+	
+	| Hand-Drawn Animation |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hand-Drawn_Animation.webp?raw=true" width="256" /> |
+
+	<br>
 
 	| Illustration | Storybook Illustration | Illustrated-Booklet |
 	| :-: | :-: | :-: |
@@ -81,9 +87,9 @@
 	
 	<br>
 	
-	| Storyboard |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Storyboard.webp?raw=true" width="256" /> |
+	| Storyboard | Automatic Drawing |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Storyboard.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Automatic_Drawing.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -206,9 +212,9 @@
 
 	<br>
 
-	| Still Life | Still-Life |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Still_Life.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Still-Life.webp?raw=true" width="256" /> |
+	| Still Life | Still-Life | Still-Life Painting |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Still_Life.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Still-Life.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Still-Life_Painting.webp?raw=true" width="256" /> |
 	
 	<br>
 
@@ -260,9 +266,9 @@
 
 	<br>
 	
-	| Panel Painting | Sand Painting |
+	| Panel Painting | Action Painting |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Panel_Painting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sand_Painting.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Panel_Painting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Action_Painting.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -278,9 +284,15 @@
 	
 	<br>
 	
-	| Cave Art | Rock Art | Sandpainting |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rock_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cave_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sandpainting.webp?raw=true" width="256" /> |
+	| Cave Art | Rock Art |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rock_Art.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Sand Painting | Sandpainting |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sand_Painting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cave_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sandpainting.webp?raw=true" width="256" /> |
 
 	<br>
 	
@@ -423,9 +435,9 @@
 
 	<br>
 
-	| Concept Art | Logo |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Concept_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Logo.webp?raw=true" width="256" /> |
+	| Concept Art | Conceptual Art | Logo |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Concept_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Conceptual_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Logo.webp?raw=true" width="256" /> |
 	
 	<br>
 
@@ -728,6 +740,12 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bejeweled.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Engraved_Gem.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lapidary.webp?raw=true" width="256" /> |
 
 	<br>
+
+	| Jewelry Design |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jewelry_Design.webp?raw=true" width="256" /> |
+
+	<br>
 	
 	| Relief-Carving | Ice-Carving | Intaglio |
 	| :-: | :-: | :-: |
@@ -738,6 +756,12 @@
 	| Drypoint | Metalcut | Photogravure |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Drypoint.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Metalcut.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Photogravure.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Metalworking |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Metalworking.webp?raw=true" width="256" /> |
 
 	<br>
 

@@ -199,9 +199,13 @@
 
 - <details><summary>🖼📊 Charts and Diagrams</summary><p><div align="center">
 
-	| Chart | Graph | Diagram |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chart.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Graph.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Diagram.webp?raw=true" width="256" /> |
+	| Chart | Graph |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chart.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Graph.webp?raw=true" width="256" /> |
+	
+	| Diagram | Diagrammatic |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Diagram.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Diagrammatic.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -429,9 +433,15 @@
 	
 	<br>
 	
-	| Neo-Tokyo | Neo-Concretism | Neo-Impressionism |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Neo-Tokyo.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Neo-Concretism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Neo-Impressionism.webp?raw=true" width="256" /> |
+	| Neo-Tokyo | Neo-Concretism |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Neo-Tokyo.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Neo-Concretism.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Neo-Impressionism | Neo-Expressionism |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Neo-Impressionism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Neo-Expressionism.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -732,6 +742,12 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lo-fi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hi-fi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/High_Fidelity.webp?raw=true" width="256" /> |
 
 	<br>
+
+	| Sound Art | Performance Art |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sound_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Performance_Art.webp?raw=true" width="256" /> |
+
+	<br>
 	
 	| Biomorphic | Ornamental |
 	| :-: | :-: |
@@ -757,9 +773,15 @@
 
 	<br>
 
-	| Eccentrism | Ambiguous Art |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Eccentrism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ambiguous_Art.webp?raw=true" width="256" /> |
+	| Eccentrism | Ambiguous Art | Art Brut |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Eccentrism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ambiguous_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Art_Brut.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Non-Objective Art |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Non-Objective_Art.webp?raw=true" width="256" /> |
 
 	<br>
 	
@@ -805,9 +827,15 @@
 
 	<br>
 
-	| Pictorialism | Goth | Gothic |
+	| Pictorialism |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pictorialism.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Goth | Gothic | Gothic Horror |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pictorialism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Goth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gothic.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Goth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gothic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Gothic_Horror.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -829,9 +857,9 @@
 
 	<br>
 
-	| Sumatraism | Anachronism |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sumatraism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Anachronism.webp?raw=true" width="256" /> |
+	| Sumatraism | Anachronism | Fluxus Art Movement |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sumatraism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Anachronism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Fluxus_Art_Movement.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -862,6 +890,12 @@
 	| Impressionism | Post-Impressionism | Dau al Set |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Impressionism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Post-Impressionism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dau_al_Set.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Traditional Art | Temporary Art |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Traditional_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Temporary_Art.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -913,10 +947,10 @@
 
 	<br>
 
-	| Multidimensional Art | Temporary Art | Op Art |
+	| Multidimensional Art | Op Art | Trompe-L'œil |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Multidimensional_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Temporary_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Op_Art.webp?raw=true" width="256" /> |
-
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Multidimensional_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Op_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Trompe-Loeil (2).webp?raw=true" width="256" /> |
+	
 	<br>
 
 	| Fourier Art | Nebulous Art | Mozarabic Art |

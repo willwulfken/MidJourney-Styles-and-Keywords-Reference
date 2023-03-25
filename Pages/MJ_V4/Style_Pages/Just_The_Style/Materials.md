@@ -358,10 +358,16 @@
 	
 	<br>
 	
-	| Foil | Rusty | Tarnish |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Foil.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rusty.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tarnish.webp?raw=true" width="256" /> |
-	
+	| Foil | Rusty |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Foil.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rusty.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Tarnish | Tarnished Metal |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tarnish.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tarnished_Metal.webp?raw=true" width="256" /> |
+
 	<br>
 	
 	| Pewter | Copper | Tin |
@@ -382,10 +388,16 @@
 	
 	<br>
 	
-	| Iron | Wrought Iron | Damascus |
+	| Iron | Iron Metal | Wrought Iron |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Iron.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wrought_Iron.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Damascus.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Iron.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Iron_Metal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wrought_Iron.webp?raw=true" width="256" /> |
 	
+	<br>
+
+	| Damascus | Damascus Metal |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Damascus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Damascus_Metal.webp?raw=true" width="256" /> |
+
 	<br>
 	
 	| Steel | Stainless Steel | Damascus Steel |
@@ -442,9 +454,9 @@
 	
 	<br>
 
-	| Mercury | Mercury Metal |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mercury.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mercury_Metal.webp?raw=true" width="256" /> |
+	| Mercury | Mercury Metal | Liquid Mercury |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mercury.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mercury_Metal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Liquid_Mercury.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -465,16 +477,22 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Indium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Melted_Indium.webp?raw=true" width="256" /> |
 
 
-	| Magnesium | Zinc |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Magnesium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Zinc.webp?raw=true" width="256" /> |
+	| Magnesium | Magnesium Metal | Zinc |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Magnesium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Magnesium_Metal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Zinc.webp?raw=true" width="256" /> |
 
 	<br>
 	
-	| Lead | Tungsten | Cobalt |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lead.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tungsten.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cobalt.webp?raw=true" width="256" /> |
+	| Lead | Lead Metal |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lead.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lead_Metal.webp?raw=true" width="256" /> |
 	
+	<br>
+
+	| Tungsten | Cobalt |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tungsten.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cobalt.webp?raw=true" width="256" /> |
+
 	<br>
 	
 	| Zirconium | Cubic Zirconium |
@@ -483,16 +501,34 @@
 	
 	<br>
 	
-	| Sodium | Potassium | Uranium |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sodium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Potassium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Uranium.webp?raw=true" width="256" /> |
+	| Sodium | Sodium Metal |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sodium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sodium_Metal.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Potassium | Potassium Metal |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Potassium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Potassium_Metal.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Uranium |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Uranium.webp?raw=true" width="256" /> |
 
 	<br>
 	
-	| Constantan | Hepatizon | Nichrome |
+	| Constantan | Hepatizon | Hepatizon Metal |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Constantan.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hepatizon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nichrome.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Constantan.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hepatizon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hepatizon_Metal.webp?raw=true" width="256" /> |
 	
+	<br>
+
+	| Nichrome | Nichrome Metal | Nichrome Wire |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nichrome.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nichrome_Metal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nichrome_Wire.webp?raw=true" width="256" /> |
+
 	<br>
 	
 	| Iron Filings | Copper-Sulfate | Metal Foam |
@@ -501,9 +537,15 @@
 	
 	<br>
 	
-	| Solder | Metallic Fiber | Armature Wire |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Solder.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Metallic_Fiber.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Armature_Wire.webp?raw=true" width="256" /> |
+	| Solder | Solder Metal |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Solder.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Solder_Metal.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Metallic Fiber | Armature Wire |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Metallic_Fiber.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Armature_Wire.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -577,9 +619,21 @@
 
 	<br>
 
-	| Ruby | Sapphire | Emerald |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ruby.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sapphire.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Emerald.webp?raw=true" width="256" /> |
+	| Ruby | Ruby Crystal |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ruby.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ruby_Crystal.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Ruby Stone | Ruby Gemstone |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ruby_Stone.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ruby_Gemstone.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Sapphire | Emerald |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sapphire.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Emerald.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -589,16 +643,28 @@
 
 	<br>
 	
-	| Lapis Lazuli | Onyx | Selenite |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lapis_Lazuli.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Onyx.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Selenite.webp?raw=true" width="256" /> |
+	| Lapis Lazuli | Selenite |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lapis_Lazuli.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Selenite.webp?raw=true" width="256" /> |
 	
 	<br>
-	
-	| Jasper | Opal | Opalite |
+
+	| Onyx | Onyx Stone | Onyx Crystal |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jasper.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Opal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Opalite.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Onyx.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Onyx_Stone.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Onyx_Crystal.webp?raw=true" width="256" /> |
+
+	<br>
 	
+	| Jasper | Jasper Stone | Jasper Crystal |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jasper.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jasper_Stone.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jasper_Crystal.webp?raw=true" width="256" /> |
+	
+	<br>
+
+	| Opal | Opalite |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Opal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Opalite.webp?raw=true" width="256" /> |
+
 	<br>
 	
 	| Topaz | Agate | Carnelian |
@@ -625,10 +691,16 @@
 	
 	<br>
 	
-	| Marcasite | Calomel | Realgar |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marcasite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Calomel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Realgar.webp?raw=true" width="256" /> |
+	| Marcasite | Realgar |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marcasite.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Realgar.webp?raw=true" width="256" /> |
 	
+	<br>
+
+	| Calomel | Calomel Stone | Calomel Crystal |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Calomel.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Calomel_Stone.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Calomel_Crystal.webp?raw=true" width="256" /> |
+
 	<br>
 	
 	| Cuprite | Aqeeq | Lechatelierite |
@@ -647,6 +719,12 @@
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chrysoprase.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chalcedony.webp?raw=true" width="256" /> |
 	
+	<br>
+	
+	| Lonsdaleite Crystal |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Lonsdaleite_Crystal.webp?raw=true" width="256" /> |
+
 	<br>
 	
 	| Jewelry | Colloidal Crystal |
@@ -1260,10 +1338,16 @@
 
 - <details><summary>🧱✨ Powders and Particulates</summary><p><div align="center">
 
-	| Powder | Smoke |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Powder.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Smoke.webp?raw=true" width="256" /> | 
+	| Powder | Smoke | Smoke Ring |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Powder.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Smoke.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Smoke_Ring.webp?raw=true" width="256" /> |
 	
+	<br>
+	
+	| Mushroom Cloud |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Mushroom_Cloud.webp?raw=true" width="256" /> |
+
 	<br>
 	
 	| Smoke Plume | Wafting Smoke | Accumulated Smoke |

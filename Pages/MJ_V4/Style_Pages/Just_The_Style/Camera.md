@@ -39,9 +39,9 @@
 
 	<br>
 	
-	| Filmic | Cinematic |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Filmic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cinematic.webp?raw=true" width="256" /> | 
+	| Filmic | Film Noir Style | Cinematic |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Filmic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Film_Noir_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cinematic.webp?raw=true" width="256" /> | 
 	
 	<br>
 	
@@ -63,6 +63,12 @@
 
 	<br>
 
+	| Product Photography |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Product_Photography.webp?raw=true" width="256" /> |
+
+	<br>
+
 	| Photoshoot |
 	| :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Photoshoot.webp?raw=true" width="256" /> |
@@ -72,12 +78,6 @@
 	| Portrait | Full Body Portrait | Portraiture |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Portrait.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Full_Body_Portrait.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Portraiture.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Cinematic Haze |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cinematic_Haze.webp?raw=true" width="256" /> |
 
 	<br>
 	
@@ -90,6 +90,12 @@
 	| Pose | Gesture | Profile |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pose.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gesture.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Profile.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Cinematic Haze |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cinematic_Haze.webp?raw=true" width="256" /> |
 
 	<br>
 	
@@ -347,6 +353,12 @@
 	| Wide Angle | Ultra-Wide Angle | 360 Angle |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wide_Angle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ultra-Wide_Angle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/360_Angle.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Shift-Lens |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Shift-Lens.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -379,13 +391,13 @@
 	
 	| Polarization-Filter | Polarizer |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Polarization-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Polarizer.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Polarization-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Polarizer.webp?raw=true" width="256" /> |
 	
 	<br>
 	
-	| Infrared-Filter | Infrared-Cut-Off-Filter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Infrared-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Infrared-Cut-Off-Filter.webp?raw=true" width="256" /> |
+	| Infrared Filter | Infrared-Filter | Infrared-Cut-Off-Filter |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Infrared_Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Infrared-Filter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Infrared-Cut-Off-Filter.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -446,6 +458,12 @@
 	| Depth | Depth of Field | DOF |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Depth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Depth_of_Field.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/DOF.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Person Medium Depth of Field | Person Deep Depth of Field |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Person_Medium_Depth_of_Field.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Person_Deep_Depth_of_Field.webp?raw=true" width="256" /> |
 
 	<br>
 

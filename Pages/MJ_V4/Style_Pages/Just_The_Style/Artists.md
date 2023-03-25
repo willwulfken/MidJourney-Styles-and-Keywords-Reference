@@ -186,6 +186,12 @@
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Painted_by_Andy_Warhol.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_David_Hockney.webp?raw=true" width="256" /> |
 
+	<br>
+	
+	| Painting By Lisa Frank |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painting_By_Lisa_Frank.webp?raw=true" width="256" /> |
+
   </div></p></details>
 
 

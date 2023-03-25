@@ -16,6 +16,60 @@
 <br>
 
 
+- <details><summary>🌲🌞 Time of Day</summary><p><div align="center">
+
+	| Morning | Midday | Day |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Morning.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Midday.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Day.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Noon | Afternoon |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Noon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Afternoon.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Dusk | Night |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dusk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Night.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Midnight | Twilight | Dawn |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Midnight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Twilight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dawn.webp?raw=true" width="256" /> |
+	
+  </div></p></details>
+
+
+- <details><summary>🌲🌤️ Sky</summary><p><div align="center">
+
+	| Aurora | Aurorae | Auroral Light |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aurora.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aurorae.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Auroral_Light.webp?raw=true" width="256" /> |
+
+	<br>
+	
+	| Aurora Borealis | Aurora Australis |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Aurora_Borealis.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Aurora_Australis.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Northern Lights | Southern Lights |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Northern_Lights.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Southern_Lights.webp?raw=true" width="256" /> |
+
+	<br>
+	
+	| Zodiacal Light | Upper-Atmospheric Lightning |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Zodiacal_Light.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Upper-Atmospheric_Lightning.webp?raw=true" width="256" /> |
+
+  </div></p></details>
+
+
 - <details><summary>🌲🏝 Biomes and Landscapes</summary><p><div align="center">
 
 	| Biome | Landscape | Surroundings |
@@ -123,6 +177,12 @@
 	| Desert | Desertwave | Dunes |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Desert.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Desertwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dunes.webp?raw=true" width="256" /> |
+
+	<br>
+	
+	| Mesa | Mesa Bryce |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Mesa.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Mesa_Bryce.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -300,9 +360,9 @@
 
 	<br>
 
-	| Grass | Grassy |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grass.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grassy.webp?raw=true" width="256" /> |
+	| Grass | Grassy | Tree |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grass.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grassy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Tree.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -366,9 +426,9 @@
 
 	<br>
 	
-	| Lily Pads | Water Lilies |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lily_Pads.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Water_Lilies.webp?raw=true" width="256" /> |
+	| Lily Pad | Lily Pads | Water Lilies |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Lily_Pad.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lily_Pads.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Water_Lilies.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -811,33 +871,6 @@
 	| :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Frozen-in-Time_Photograph.webp?raw=true" width="256" /> |
 
-  </div></p></details>
-
-
-- <details><summary>🌲🌞 Time of Day</summary><p><div align="center">
-
-	| Morning | Midday | Day |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Morning.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Midday.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Day.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Noon | Afternoon |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Noon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Afternoon.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Dusk | Night |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dusk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Night.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Midnight | Twilight | Dawn |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Midnight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Twilight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dawn.webp?raw=true" width="256" /> |
-	
   </div></p></details>
 
 

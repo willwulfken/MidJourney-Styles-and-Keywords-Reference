@@ -67,6 +67,18 @@
 	
 	<br>
 	
+	| Anticrepuscular Rays | Light Pillars | Tyndall Effect |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Anticrepuscular_Rays.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Light_Pillars.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Tyndall_Effect.webp?raw=true" width="256" /> |
+
+	<br>
+	
+	| Afterglow | Airglow | Alpenglow |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Afterglow.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Airglow.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Alpenglow.webp?raw=true" width="256" /> |
+
+	<br>
+	
 	| Artificial Lighting | Natural Lighting |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Artificial_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Natural_Lighting.webp?raw=true" width="256" /> |
@@ -112,12 +124,6 @@
 	| Candlelight | Torch | Torch Light |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Candlelight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Torch.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Torch_Light.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Northern Lights |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Northern_Lights.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -193,9 +199,15 @@
 
 	<br>
 	
-	| X-Ray | Lightspeed |
+	| X-Ray | Orbital X-Ray |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/X-Ray.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lightspeed.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/X-Ray.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Orbital_X-Ray.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Lightspeed |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lightspeed.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -457,6 +469,12 @@
 	| Shadow | Shadows | Ray Traced Shadows |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Shadow.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Shadows.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ray_Traced_Shadows.webp?raw=true" width="256" /> |
+
+	<br>
+	
+	| Drop-Shadow | Shade |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Drop-Shadow.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Shade.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 

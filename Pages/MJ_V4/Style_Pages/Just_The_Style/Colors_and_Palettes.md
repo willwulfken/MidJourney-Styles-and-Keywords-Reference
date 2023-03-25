@@ -190,9 +190,15 @@
 
 - <details><summary>🎨 Color Based Designs</summary><p><div align="center">
 
-	| Color | Colorized | Color Wheel |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Color.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colorized.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Color_Wheel.webp?raw=true" width="256" /> |
+	| Color | Colour |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Color.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colour.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Colorized | Color Wheel |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colorized.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Color_Wheel.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -382,10 +388,16 @@
 
 - <details><summary>🎨🖌 Monochromatic Palettes</summary><p><div align="center">
 
-	| Monochromatic | Monochrome | Black and White |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Monochromatic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Monochrome.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Black_and_White.webp?raw=true" width="256" /> |
+	| Monochromatic | Monochrome |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Monochromatic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Monochrome.webp?raw=true" width="256" /> |
 	
+	<br>
+
+	| Black and White | Grayscale |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Black_and_White.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Grayscale.webp?raw=true" width="256" /> |
+
 	<br>
 	
 	| Desaturated | Sepia |

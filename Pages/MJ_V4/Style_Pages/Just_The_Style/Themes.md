@@ -240,15 +240,9 @@
 	
 	<br>
 
-	| Aurora | Aurorae | Auroracore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aurora.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aurorae.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Auroracore.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Aurora Borealis | <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
+	| Auroracore | <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aurora_Borealis.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Weirdcore_Aurora.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Auroracore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Weirdcore_Aurora.webp?raw=true" width="256" /> |
 
 	<br>
 	
@@ -340,6 +334,75 @@
 	| :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Illuminati.webp?raw=true" width="256" /> |
 
+  </div></p></details>
+
+
+- <details><summary>🎭🌅 Atmosphere</summary><p><div align="center">
+
+	| Dark Atmosphere | Light Atmosphere | Reflective Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Dark_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Light_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Reflective_Atmosphere.webp?raw=true" width="256" /> |
+	
+	<br>
+
+	| Hazy Atmosphere | Enchanting Atmosphere |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Hazy_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Enchanting_Atmosphere.webp?raw=true" width="256" /> |
+	
+	<br>
+
+	| Dreamy Atmosphere | Mystical Atmosphere | Ethereal Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Dreamy_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Mystical_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Ethereal_Atmosphere.webp?raw=true" width="256" /> |
+	
+	<br>
+
+	| Playful Atmosphere | Whimsical Atmosphere | Serendipitous Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Playful_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Whimsical_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Serendipitous_Atmosphere.webp?raw=true" width="256" /> |
+	
+	<br>
+
+	| Mysterious Atmosphere | Sophisticated Atmosphere | Enigmatic Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Mysterious_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Sophisticated_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Enigmatic_Atmosphere.webp?raw=true" width="256" /> |
+	
+	<br>
+
+	| Mellow Atmosphere | Calm Atmosphere | Tranquil Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Mellow_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Calm_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Tranquil_Atmosphere.webp?raw=true" width="256" /> |
+	
+	<br>
+
+	| Chill Atmosphere | Relaxing Atmosphere | Peaceful Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Chill_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Relaxing_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Peaceful_Atmosphere.webp?raw=true" width="256" /> |
+	
+	<br>
+
+	| Blissful Atmosphere | Serene Atmosphere | Zen Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Blissful_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Serene_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Zen_Atmosphere.webp?raw=true" width="256" /> |
+		
+	<br>
+
+	| Moody Atmosphere | Intense Atmosphere | Melancholic Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Moody_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Intense_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Melancholic_Atmosphere.webp?raw=true" width="256" /> |
+		
+	<br>
+
+	| Nostalgic Atmosphere | Festive Atmosphere | Industrial Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Nostalgic_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Festive_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Industrial_Atmosphere.webp?raw=true" width="256" /> |
+			
+	<br>
+
+	| Rustic Atmosphere | Gothic Atmosphere | Romantic Atmosphere |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Rustic_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Gothic_Atmosphere.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Romantic_Atmosphere.webp?raw=true" width="256" /> |
+	
   </div></p></details>
 
 
@@ -646,9 +709,9 @@
 	
 	<br>
 	
-	| Musica |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Musica.webp?raw=true" width="256" /> |
+	| Musica | 8-Bit Music Visualization |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Musica.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/8-Bit_Music_Visualization.webp?raw=true" width="256" /> |
 
 	<br>
 	
@@ -712,6 +775,12 @@
 	| Anime | Animecore | Manga |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Anime.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Animecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Manga.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Horror Anime | Vampirella Styled |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Horror_Anime.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Vampirella_Styled.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -780,6 +849,72 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gloomcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dullcore.webp?raw=true" width="256" /> |
 
 	<br>
+
+	| Horror Styled | Horrorism | Cosmic Horror |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Horror_Styled.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Horrorism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Cosmic_Horror.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| HorrorBooru | Macabre |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/HorrorBooru.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Macabre.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| 20s Horror Style | 20s Styled Horror Movie |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/20s_Horror_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/20s_Styled_Horror_Movie.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| 30s Horror Style | 30s Styled Horror Movie |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/30s_Horror_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/30s_Styled_Horror_Movie.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| 40s Horror Style | 40s Styled Horror Movie |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/40s_Horror_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/40s_Styled_Horror_Movie.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| 50s Horror Style | 50s Styled Horror Movie |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/50s_Horror_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/50s_Styled_Horror_Movie.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| 60s Horror Style | 60s Styled Horror Movie |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/60s_Horror_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/60s_Styled_Horror_Movie.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| 70s Horror Style | 70s Styled Horror Movie |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/70s_Horror_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/70s_Styled_Horror_Movie.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| 80s Horror Style | 80s Styled Horror Movie |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/80s_Horror_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/80s_Styled_Horror_Movie.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| 90s Horror Style | 90s Styled Horror Movie |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/90s_Horror_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/90s_Styled_Horror_Movie.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| 2000s Horror Style | 2000s Styled Horror Movie |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/2000s_Horror_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/2000s_Styled_Horror_Movie.webp?raw=true" width="256" /> |
+
+	<br>
 	
 	| Dazecore | Sleepycore |
 	| :-: | :-: |
@@ -802,15 +937,15 @@
 
 	<br>
 	
-	| Archetype |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Archetype.webp?raw=true" width="256" /> |
-	
+	| Archetype | Circus | Circus Archetype |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Archetype.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Circus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Circus_Archetype.webp?raw=true" width="256" /> |
+
 	<br>
 	
-	| Airborne |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Airborne.webp?raw=true" width="256" /> |
+	| Airborne | Cloudism |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Airborne.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Cloudism.webp?raw=true" width="256" /> |
 
 	<br>
 	

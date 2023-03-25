@@ -185,10 +185,16 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/AR.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/VR.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/HQ.webp?raw=true" width="256" /> |
 
 	<br>
+
+	| Demoscene Art |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Demoscene_Art.webp?raw=true" width="256" /> |
+
+	<br>
 	
-    | Virtualcore | Technocore |
-    | :-: | :-: |
-    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Virtualcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Technocore.webp?raw=true" width="256" /> |
+    | Televisual | Virtualcore | Technocore |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Televisual.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Virtualcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Technocore.webp?raw=true" width="256" /> |
 
     <br>
 
@@ -333,9 +339,15 @@
 	
 	<br>
 
-	| Raster | Vector Graphics |
+	| Raster | Raster Art |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Raster.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vector_Graphics.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Raster.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Raster_Art.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Vector Graphics | Vector Art |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vector_Graphics.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vector_Art.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -362,10 +374,16 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/3D_Model.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/3D_Render.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Precision_Rendering.webp?raw=true" width="256" /> |
 	
 	<br>
+
+	| Wiremap |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wiremap.webp?raw=true" width="256" /> |
+
+	<br>
 	
-	| Wiremap | Lowpoly | Low Poly |
+	| Lowpoly | Low Poly | Low-Poly Art |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wiremap.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lowpoly.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Low_Poly.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lowpoly.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Low_Poly.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Low-Poly_Art.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -399,9 +417,15 @@
 	
 	<br>
 
-	| Pixel-Perfect | ASCII | Tilemap |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pixel-Perfect.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/ASCII.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tilemap.webp?raw=true" width="256" /> |
+	| Pixel-Perfect | Tilemap |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Pixel-Perfect.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Tilemap.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| ASCII | ASCII Art |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/ASCII.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/ASCII_Art.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -531,9 +555,9 @@
 
 - <details><summary>🖥👩‍💻 Glitchy</summary><p><div align="center">
 
-	| Glitchcore | Matrix |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Glitchcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Matrix.webp?raw=true" width="256" /> |
+	| Glitchcore | Glitch Art | Matrix |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Glitchcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Glitch_Art.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Matrix.webp?raw=true" width="256" /> |
 
 	<br>
 	

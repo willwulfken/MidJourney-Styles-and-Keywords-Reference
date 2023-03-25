@@ -459,6 +459,7 @@
 	<br>
 
 	| Seamless Texture |
+	| :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Seamless_Texture.webp?raw=true" width="256" /> |
 
 	<br>
@@ -757,7 +758,7 @@
 	  </div></p></details>
 
 
-  - <details><summary>🎲 Other Physical Mediums</summary><p><div align="center">
+    - <details><summary>🎲 Other Physical Mediums</summary><p><div align="center">
 
 		| Enamel Pin |
 		| :-: |
@@ -765,7 +766,6 @@
 
 	  </div></p></details>
 	
-	</p></details>
   </p></details>
 
 
@@ -1045,6 +1045,12 @@
 	| :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Ultraviolet.webp?raw=true" width="256" /> |
 
+	<br>
+
+	| X-Ray | Orbital X-Ray |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/X-Ray.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Orbital_X-Ray.webp?raw=true" width="256" /> |
+
 	</div></p></details>
 
 
@@ -1132,8 +1138,22 @@
 
 - <details><summary>🌲 Nature and Animals</summary><p>
 
+  - <details><summary>🌲🌱 Plants</summary><p><div align="center">
+
+	| Lily Pad |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Lily_Pad.webp?raw=true" width="256" /> |
+
+	</div></p></details>
+
   - <details><summary>🌲🍄 Fungi</summary><p><div align="center">
 
+	| Mushroom |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mushroom.webp?raw=true" width="256" /> |
+	
+	<br>
+	
 	| Lactarius-Indigo |
 	| :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3/Midjourney_Styles/Lactarius-Indigo.webp?raw=true" width="256" /> |

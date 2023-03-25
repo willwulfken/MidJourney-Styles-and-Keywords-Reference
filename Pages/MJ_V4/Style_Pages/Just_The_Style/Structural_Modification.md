@@ -194,6 +194,12 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Zig-Zag.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Deflate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Inflate.webp?raw=true" width="256" /> |
 
 	<br>
+	
+	| Fold | Folds |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Fold.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Folds.webp?raw=true" width="256" /> |
+
+	<br>
 
 	| Incline | Declinate | Biflected |
 	| :-: | :-: | :-: |

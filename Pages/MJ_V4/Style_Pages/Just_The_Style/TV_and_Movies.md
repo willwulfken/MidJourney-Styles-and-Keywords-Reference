@@ -155,6 +155,12 @@
 	| :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Godzilla.webp?raw=true" width="256" /> |
 
+	<br>
+
+	| Vampire Hunter D Styled |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Vampire_Hunter_D_Styled.webp?raw=true" width="256" /> |
+	
 	</div></p></details>
 
 	
