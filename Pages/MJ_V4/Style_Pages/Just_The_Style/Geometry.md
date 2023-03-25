@@ -39,7 +39,7 @@
 	
 	| Triangle | Chevron |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Triangle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chevron.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Triangle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chevron.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -84,13 +84,13 @@
 
 	| 3D Shape | Orb |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/3D_Shape.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Orb.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/3D_Shape.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Orb.webp?raw=true" width="256" /> |
 	
 	<br>
 
 	| Cube | Cuboid |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cube.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cuboid.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Cube.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cuboid.webp?raw=true" width="256" /> |
 	
 	<br>
 	

@@ -228,7 +228,7 @@
 	
 	| Marble | Gypsum | Borax |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marble.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gypsum.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Borax.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Marble.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gypsum.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Borax.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -438,7 +438,7 @@
 	
 	| Chromium | Chrome |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chromium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chrome.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Chromium.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Chrome.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -579,7 +579,7 @@
 	
 	| Seaglass | Obsidian |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Seaglass.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Obsidian.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Seaglass.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Obsidian.webp?raw=true" width="256" /> |
 	
 	<br>
 
@@ -663,7 +663,7 @@
 
 	| Opal | Opalite |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Opal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Opalite.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Opal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Opalite.webp?raw=true" width="256" /> |
 
 	<br>
 	
@@ -750,7 +750,7 @@
 
 	| Silk | Satin |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Silk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Satin.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Silk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Satin.webp?raw=true" width="256" /> |
 
 	<br>
 	
@@ -1022,7 +1022,7 @@
 
 	| Ice | Blue-Ice | Dry Ice |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ice.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Blue-Ice.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dry_Ice.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ice.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Blue-Ice.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Dry_Ice.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -1195,7 +1195,7 @@
 
 	| Sea Foam | Emulsion |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Sea_Foam.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Emulsion.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Sea_Foam.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Emulsion.webp?raw=true" width="256" /> |
 	
 	<br>
 
@@ -1257,7 +1257,7 @@
 
 	| Epoxy | Paste |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Epoxy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Paste.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Epoxy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Paste.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -1301,7 +1301,7 @@
 
 	| Vapor | Vaporized |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vapor.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vaporized.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Vapor.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vaporized.webp?raw=true" width="256" /> |
 
 	<br>
 	

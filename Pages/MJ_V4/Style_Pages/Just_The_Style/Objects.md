@@ -98,7 +98,7 @@
 	
 	| Coconut |
 	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Coconut.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Coconut.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
@@ -469,7 +469,7 @@
 
 	| Maze |
 	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Maze.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Maze.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -688,7 +688,7 @@
 
 	| Seashell | Toilet | Bean-Bag |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Seashell.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Toilet.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bean-Bag.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Seashell.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Toilet.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bean-Bag.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -766,7 +766,7 @@
 	
 	| Rubber Band | Rubber Band Ball | Silly Band |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rubber_Band.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rubber_Band_Ball.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Silly_Band.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rubber_Band.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Rubber_Band_Ball.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Silly_Band.webp?raw=true" width="256" /> |
 	
 	<br>
 	
