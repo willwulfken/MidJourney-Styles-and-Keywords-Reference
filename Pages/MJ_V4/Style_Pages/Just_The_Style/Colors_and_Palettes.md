@@ -24,7 +24,7 @@
 
 		| White | Black | Brown |
 		| :-: | :-: | :-: |
-		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/White.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Black.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Brown.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/White.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Black.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Brown.webp?raw=true" width="256" /> |
 		
 		<br>
 		
@@ -36,7 +36,7 @@
 		
 		| Maroon | Red | Orange |
 		| :-: | :-: | :-: |
-		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Maroon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Red.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Orange.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Maroon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Red.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Orange.webp?raw=true" width="256" /> |
 		
 		<br>
 		
@@ -54,7 +54,7 @@
 		
 		| Indigo | Purple | Violet |
 		| :-: | :-: | :-: |
-		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Indigo.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Purple.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Violet.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Indigo.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Purple.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Violet.webp?raw=true" width="256" /> |
 		
 		<br>
 		
@@ -87,7 +87,7 @@
 		
 		| Turquoise | Aqua | Azure |
 		| :-: | :-: | :-: |
-		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Turquoise.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aqua.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Azure.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Turquoise.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aqua.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Azure.webp?raw=true" width="256" /> |
 
 		</div></p></details>
 
@@ -175,7 +175,7 @@
 		
 		| Vivid-Green | Vivid-Cyan | Vivid-Blue |
 		| :-: | :-: | :-: |
-		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Green.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Cyan.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Blue.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Green.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Vivid-Cyan.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Blue.webp?raw=true" width="256" /> |
 		
 		<br>
 		

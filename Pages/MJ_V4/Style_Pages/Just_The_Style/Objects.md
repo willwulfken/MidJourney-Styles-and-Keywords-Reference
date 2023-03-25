@@ -680,9 +680,9 @@
 
 - <details><summary>🎷🚽 Other Objects</summary><p><div align="center">
 
-	| Dichroic-Prism | Dispersive-Prism |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dichroic-Prism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dispersive-Prism.webp?raw=true" width="256" /> |
+	| Dichroic-Prism | Dispersive-Prism | Bubble |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dichroic-Prism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dispersive-Prism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Bubble.webp?raw=true" width="256" /> |
 
 	<br>
 

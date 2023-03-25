@@ -1025,6 +1025,12 @@
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ice.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Blue-Ice.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Dry_Ice.webp?raw=true" width="256" /> |
 	
 	<br>
+
+	| Blue Ice |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Blue_Ice.webp?raw=true" width="256" /> |
+
+	<br>
 	
 	| Snow | Snowflake |
 	| :-: | :-: |
