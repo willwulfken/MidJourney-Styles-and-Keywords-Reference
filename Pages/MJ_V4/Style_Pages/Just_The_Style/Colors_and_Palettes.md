@@ -175,7 +175,7 @@
 		
 		| Vivid-Green | Vivid-Cyan | Vivid-Blue |
 		| :-: | :-: | :-: |
-		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Green.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Vivid-Cyan.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Blue.webp?raw=true" width="256" /> |
+		| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Green.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Cyan.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Vivid-Blue.webp?raw=true" width="256" /> |
 		
 		<br>
 		
