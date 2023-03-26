@@ -17,17 +17,116 @@
 <br>
 
 
-- <details><summary>💡🏮 Types of Lights</summary><p><div align="center">
+- <details><summary>💡🔦 Lighting Styles and Techniques</summary><p><div align="center">
 
-	| Spotlight | Floodlight |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Spotlight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Floodlight.webp?raw=true" width="256" /> |
-	
+	| Lighting | Illuminated | Illumination |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Illuminated.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Illumination.webp?raw=true" width="256" /> |
+		
 	<br>
 	
 	| Frontlight | Halfrear Lighting | Backlight |
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Frontlight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Halfrear_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Backlight.webp?raw=true" width="256" /> | 
+
+    <br>
+
+	| Dim | Dim Lighting | Dark Lighting |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dim.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dim_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dark_Lighting.webp?raw=true" width="256" /> |
+
+	<br>
+	
+	| Bright | Ultrabright | Blinding Light |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bright.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ultrabright.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Blinding_Light.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Moody Lighting | Mood Lighting |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Moody_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mood_Lighting.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Cinematic Lighting | Studio Lighting | Cove Lighting |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cinematic_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Studio_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cove_Lighting.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Soft Lighting | Hard Lighting | Accent Lighting |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Soft_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hard_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Accent_Lighting.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Volumetric | Volumetric Lighting | Contre-Jour |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Volumetric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Volumetric_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Contre-Jour.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Rembrandt Lighting | Split Lighting | Beautiful Lighting |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rembrandt_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Split_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Beautiful_Lighting.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Low-Key Lighting | High-Key Lighting |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Low-Key_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/High-Key_Lighting.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Downlighting | Uplighting |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Downlighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Uplighting.webp?raw=true" width="256" /> |
+	
+	<br>
+	
+	| Under-Illumination | Over-Illumination |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Under-Illumination.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Over-Illumination.webp?raw=true" width="256" /> |
+
+	<br>
+	
+	| Veiling Flare | Caustic Lighting | Ethereal Lighting |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Veiling_Flare.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Caustic_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ethereal_Lighting.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Nightclub Lighting | DJ Lighting |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nightclub_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/DJ_Lighting.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Concert Lighting | Museum Lighting |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Concert_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Museum_Lighting.webp?raw=true" width="256" /> |
+
+	<br>
+
+	| Light Pollution |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Light_Pollution.webp?raw=true" width="256" /> |
+
+	<br>
+	
+	| Epic Light |
+	| :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Epic_Light.webp?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
+- <details><summary>💡🏮 Types of Lights</summary><p><div align="center">
+
+	| Spotlight | Floodlight |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Spotlight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Floodlight.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -46,18 +145,6 @@
 	| Flickering Light | Bubble Light |
     | :-: | :-: |
     | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Flickering_Light.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bubble_Light.webp?raw=true" width="256" /> |
-
-    <br>
-
-	| Dim | Dim Lighting | Dark Lighting |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dim.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dim_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dark_Lighting.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Bright | Ultrabright | Blinding Light |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Bright.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ultrabright.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Blinding_Light.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -136,18 +223,6 @@
 	| Glow Stick | Blacklight |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Glow_Stick.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Blacklight.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Laser | Laser Light Show |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Laser.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Laser_Light_Show.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Dye-Laser | Ion-Laser | Gas-Laser |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dye-Laser.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ion-Laser.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gas-Laser.webp?raw=true" width="256" /> |
 
 	<br>
 
@@ -317,6 +392,21 @@
   </div></p></details>
 
 
+- <details><summary>💡💥 Types of Lasers</summary><p><div align="center">
+
+	| Laser | Laser Light Show |
+	| :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Laser.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Laser_Light_Show.webp?raw=true" width="256" /> |
+
+	<br>
+	
+	| Dye-Laser | Ion-Laser | Gas-Laser |
+	| :-: | :-: | :-: |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dye-Laser.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ion-Laser.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Gas-Laser.webp?raw=true" width="256" /> |
+
+	</div></p></details>
+
+
 - <details><summary>💡📺 Types of Displays</summary><p><div align="center">
 	
 	| 7 Segment Display | Dot Matrix Display | Electroluminescent Display |
@@ -352,93 +442,6 @@
 	| Jumbotron |
 	| :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Jumbotron.webp?raw=true" width="256" /> |
-
-	</div></p></details>
-
-
-- <details><summary>💡🔦 Lighting Styles and Techniques</summary><p><div align="center">
-
-	| Lighting | Illuminated | Illumination |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Illuminated.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Illumination.webp?raw=true" width="256" /> |
-	
-	<br>
-
-	| Moody Lighting | Mood Lighting |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Moody_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Mood_Lighting.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Cinematic Lighting | Studio Lighting | Cove Lighting |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cinematic_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Studio_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cove_Lighting.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Soft Lighting | Hard Lighting | Accent Lighting |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Soft_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Hard_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Accent_Lighting.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Volumetric | Volumetric Lighting | Contre-Jour |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Volumetric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Volumetric_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Contre-Jour.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Rembrandt Lighting | Split Lighting | Beautiful Lighting |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rembrandt_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Split_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Beautiful_Lighting.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Low-Key Lighting | High-Key Lighting |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Low-Key_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/High-Key_Lighting.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Downlighting | Uplighting |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Downlighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Uplighting.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Under-Illumination | Over-Illumination |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Under-Illumination.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Over-Illumination.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Veiling Flare | Caustic Lighting | Ethereal Lighting |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Veiling_Flare.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Caustic_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Ethereal_Lighting.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Nightclub Lighting | DJ Lighting |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nightclub_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/DJ_Lighting.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Concert Lighting | Museum Lighting |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Concert_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Museum_Lighting.webp?raw=true" width="256" /> |
-
-	<br>
-
-	| Light Pollution |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Light_Pollution.webp?raw=true" width="256" /> |
-
-	<br>
-	
-	| Epic Light |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Epic_Light.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
