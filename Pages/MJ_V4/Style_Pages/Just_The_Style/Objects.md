@@ -598,7 +598,7 @@
 
 	| Car | Airplane | Rocket Ship |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Car.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Airplane.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Rocket_Ship.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Car.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Airplane.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Rocket_Ship.webp?raw=true" width="256" /> |
 	
 	<br>
 	
@@ -748,7 +748,7 @@
 
 	| Nail | Metal Nail |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nail.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Metal_Nail.png?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Nail.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Metal_Nail.webp?raw=true" width="256" /> |
 
 	<br>
 	
