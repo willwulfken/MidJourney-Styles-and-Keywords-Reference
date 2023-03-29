@@ -123,9 +123,9 @@
 
 	<br>
 
-	| Marconi and Cheese |
+	| Macaroni and Cheese |
 	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marconi_and_Cheese.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Macaroni_and_Cheese.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 

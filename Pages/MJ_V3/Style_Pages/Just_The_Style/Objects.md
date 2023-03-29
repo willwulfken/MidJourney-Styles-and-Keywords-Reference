@@ -125,9 +125,9 @@
 
 	<br>
 
-	| Marconi and Cheese |
+	| Macaroni and Cheese |
 	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Marconi_and_Cheese.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles/Macaroni_and_Cheese.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 

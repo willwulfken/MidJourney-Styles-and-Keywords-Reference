@@ -1289,9 +1289,9 @@
 
 	<br>
 	
-	| Capcha | Recapcha |
+	| Captcha | Recaptcha |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Capcha.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Recapcha.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Captcha.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles/Recaptcha.webp?raw=true" width="256" /> |
 
 	<br>
 	

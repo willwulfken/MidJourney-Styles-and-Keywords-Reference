@@ -597,7 +597,7 @@
 	| Canvas | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Canvas.webp?raw=true" width="256" /> |
 	| Canyon | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Canyon.webp?raw=true" width="256" /> |
 	| Capacitance Electronic Disc | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Capacitance_Electronic_Disc.webp?raw=true" width="256" /> |
-	| Capcha | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Capcha.webp?raw=true" width="256" /> |
+	| Captcha | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Captcha.webp?raw=true" width="256" /> |
 	| Capricornus | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Capricornus.webp?raw=true" width="256" /> |
 	| Caption | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Caption.webp?raw=true" width="256" /> |
 	| Caption "Hello" | <img src="/Images/MJ_V4/V4_Alpha_3.5/?raw=true" width="256" /> |
@@ -2260,7 +2260,7 @@
 	| Marble | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marble.webp?raw=true" width="256" /> |
 	| Marbles | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marbles.webp?raw=true" width="256" /> |
 	| Marcasite | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marcasite.webp?raw=true" width="256" /> |
-	| Marconi and Cheese | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marconi_and_Cheese.webp?raw=true" width="256" /> |
+	| Macaroni and Cheese | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Macaroni_and_Cheese.webp?raw=true" width="256" /> |
 	| Margarine | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Margarine.webp?raw=true" width="256" /> |
 	| Marker Art | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
 	| Maroon | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Maroon.webp?raw=true" width="256" /> |
@@ -3105,7 +3105,7 @@
 	| Realgar | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Realgar.webp?raw=true" width="256" /> |
 	| Realism | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Realism.webp?raw=true" width="256" /> |
 	| Realistic | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Realistic.webp?raw=true" width="256" /> |
-	| Recapcha | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Recapcha.webp?raw=true" width="256" /> |
+	| Recaptcha | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Recaptcha.webp?raw=true" width="256" /> |
 	| Rectangle | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rectangle.webp?raw=true" width="256" /> |
 	| Rectangular | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rectangular.webp?raw=true" width="256" /> |
 	| Rectangular Prism | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Rectangular_Prism.webp?raw=true" width="256" /> |

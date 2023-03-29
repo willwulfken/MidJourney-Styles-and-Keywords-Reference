@@ -1266,9 +1266,9 @@
 
 	<br>
 	
-	| Capcha | Recapcha |
+	| Captcha | Recaptcha |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Capcha.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Recapcha.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Captcha.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Recaptcha.webp?raw=true" width="256" /> |
 
 	<br>
 	
