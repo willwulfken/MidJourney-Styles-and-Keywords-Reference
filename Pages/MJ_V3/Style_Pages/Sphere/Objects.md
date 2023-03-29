@@ -127,7 +127,7 @@
 
 	| Macaroni and Cheese |
 	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Macaroni_and_Cheese.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Sphere_Macaroni_and_Cheese.webp?raw=true" width="256" /> |
 
 	</div></p></details>
 
