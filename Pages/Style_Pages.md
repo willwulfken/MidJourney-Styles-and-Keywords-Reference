@@ -112,11 +112,11 @@
 	</picture></a>-->
 	<br>
 	<a href="/Pages/MJ_V5/Style_Pages/Just_The_Style/Geometry.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_style_geometry_full.webp?raw=true" width = 580>
-	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_style_geometry_full_light.webp?raw=true" width = 580>
-	<img alt="💠 Geometry" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/Differed_Lengths/button_style_geometry_full.webp?raw=true" width = 580>
+	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry_light.webp?raw=true" width = 190>
+	<img alt="💠 Geometry" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry.webp?raw=true" width = 190>
 	</picture></a>
-	<!--<a href="/Pages/MJ_V5/Style_Pages/Just_The_Style/Structural_Modification.md"><picture>
+	<a href="/Pages/MJ_V5/Style_Pages/Just_The_Style/Structural_Modification.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification.webp?raw=true" width = 190>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification_light.webp?raw=true" width = 190>
 	<img alt="♻ Structural Modification" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification.webp?raw=true" width = 190>
@@ -126,7 +126,7 @@
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles_light.webp?raw=true" width = 190>
 	<img alt="➰ Intangibles" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
 	</picture></a>
-	<br>
+	<!--<br>
 	<a href="/Pages/MJ_V5/Style_Pages/Just_The_Style/Song_Lyrics.md"><picture>
 	<source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics.webp?raw=true" width = 190>
 	<source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics_light.webp?raw=true" width = 190>

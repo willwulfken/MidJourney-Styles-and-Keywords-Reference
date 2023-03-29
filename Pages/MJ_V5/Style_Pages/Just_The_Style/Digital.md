@@ -1028,9 +1028,9 @@
 
 	<br>
 	
-	| Capcha | Recapcha |
+	| Captcha | Recaptcha |
 	| :-: | :-: |
-	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Capcha.webp?raw=true" width="256" /> | <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Recapcha.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Captcha.webp?raw=true" width="256" /> | <img src="/Images/MJ_V5/V5_Alpha_1/Midjourney_Styles/Recaptcha.webp?raw=true" width="256" /> |
 
 	<br>
 	
