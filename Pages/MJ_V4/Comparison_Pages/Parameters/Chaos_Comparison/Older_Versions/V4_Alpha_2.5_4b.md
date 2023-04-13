@@ -12,7 +12,7 @@
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />]()
 <br>
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Comparison_Pages/Parameters/Chaos_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Comparison_Pages/Parameters/Chaos_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Comparison_Pages/Parameters/Chaos_Comparison.md)
 
 [<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/button_V4_all_inactive.webp?raw=true" alt="V4 All" width="140.5" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Chaos_Comparison/Chaos_Comparison_V4_All.md)
 [<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_2.5_active.webp?raw=true" alt="V4 Alpha 2.5" width="140.5" />](/Pages/MJ_V4/Comparison_Pages/Parameters/Chaos_Comparison/Older_Versions/V4_Alpha_2.5_4a.md)

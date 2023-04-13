@@ -14,7 +14,7 @@
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_active.webp?raw=true" alt="MidJourney V3" height="64" />]()
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_test_inactive.webp?raw=true" alt="test" height="64" />](/Pages/Midjourney_Beta_Features/test/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/Midjourney_Beta_Features/button_version_testp_inactive.webp?raw=true" alt="testp" height="64" />](/Pages/Midjourney_Beta_Features/testp/Comparison_Pages/Prompt_Writing/Prompt_Format_Comparison.md)
 

@@ -13,7 +13,7 @@
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />]()
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29)
 [<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_beta_upscale_inactive_half.webp?raw=true" alt="Beta Upscale" height="64" />](/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md)
 
 [<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3_active.webp?raw=true" alt="V4 Alpha 3" width="140.5" />]()

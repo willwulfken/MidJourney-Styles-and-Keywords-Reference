@@ -404,135 +404,135 @@
 <h3><pre>Niji Journey (Just The Style)</pre></h3>
 
 <br>
-<a href="/Pages/Niji_Journey/Style_Pages/Themes.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Themes.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes_light.webp?raw=true" width = 190>
 <img alt="🎭 Themes" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_themes.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Design_Styles.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Design_Styles.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_design_styles.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_design_styles_light.webp?raw=true" width = 190>
 <img alt="🖼 Design Styles" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_design_styles.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Digital.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Digital.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_digital.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_digital_light.webp?raw=true" width = 190>
 <img alt="🖥 Digital" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_digital.webp?raw=true" width = 190>
 </picture></a>
 <br>
-<a href="/Pages/Niji_Journey/Style_Pages/Artists.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Artists.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists_light.webp?raw=true" width = 190>
 <img alt="📔 Artists" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_artists.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Drawing_and_Art_Mediums.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Drawing_and_Art_Mediums.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_drawing_and_art_mediums.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_drawing_and_art_mediums_light.webp?raw=true" width = 190>
 <img alt="🖌 Drawing and Art Mediums" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_drawing_and_art_mediums.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Colors_and_Palettes.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Colors_and_Palettes.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_colors_and_palettes.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_colors_and_palettes_light.webp?raw=true" width = 190>
 <img alt="🎨 Colors and Palettes" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_colors_and_palettes.webp?raw=true" width = 190>
 </picture></a>
 <br>
-<a href="/Pages/Niji_Journey/Style_Pages/Materials.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Materials.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_materials.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_materials_light.webp?raw=true" width = 190>
 <img alt="🧱 Materials" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_materials.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Objects.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Objects.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_objects.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_objects_light.webp?raw=true" width = 190>
 <img alt="🎷 Objects" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_objects.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Material_Properties.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Material_Properties.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties_light.webp?raw=true" width = 190>
 <img alt="📦 Material Properties" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_material_properties.webp?raw=true" width = 190>
 </picture></a>
 <br>
-<a href="/Pages/Niji_Journey/Style_Pages/Lighting.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Lighting.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_lighting.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_lighting_light.webp?raw=true" width = 190>
 <img alt="💡 Lighting" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_lighting.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/SFX_and_Shaders.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/SFX_and_Shaders.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_sfx.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_sfx_light.webp?raw=true" width = 190>
 <img alt="🌈 SFX and Shaders" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_sfx.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Dimensionality.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Dimensionality.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_dimensionality.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_dimensionality_light.webp?raw=true" width = 190>
 <img alt="🌌 Dimensionality" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_dimensionality.webp?raw=true" width = 190>
 </picture></a>
 <br>
-<a href="/Pages/Niji_Journey/Style_Pages/Nature_and_Animals.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Nature_and_Animals.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_nature_and_animals.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_nature_and_animals_light.webp?raw=true" width = 190>
 <img alt="🌲 Nature and Animals" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Geography_and_Culture.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Geography_and_Culture.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geography_and_culture.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geography_and_culture_light.webp?raw=true" width = 190>
 <img alt="🗺 Geography and Culture" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Outer_Space.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Outer_Space.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_outer_space.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_outer_space_light.webp?raw=true" width = 190>
 <img alt="☄ Outer Space" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_.webp?raw=true" width = 190>
 </picture></a>
 <br>
-<a href="/Pages/Niji_Journey/Style_Pages/Camera.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Camera.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera_light.webp?raw=true" width = 190>
 <img alt="📷 Camera, Film, and Lenses" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_camera.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Perspective.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Perspective.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective_light.webp?raw=true" width = 190>
 <img alt="🛤️ Perspective" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_perspective.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/TV_and_Movies.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/TV_and_Movies.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_tv_and_movies.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_tv_and_movies_light.webp?raw=true" width = 190>
 <img alt="🎬 TV Shows and Movies" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_tv_and_movies.webp?raw=true" width = 190>
 </picture></a>
 <br>
-<a href="/Pages/Niji_Journey/Style_Pages/Geometry.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Geometry.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry_light.webp?raw=true" width = 190>
 <img alt="💠 Geometry" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_geometry.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Structural_Modification.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Structural_Modification.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification_light.webp?raw=true" width = 190>
 <img alt="♻ Structural Modification" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_structural_modification.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Intangibles.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Intangibles.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles_light.webp?raw=true" width = 190>
 <img alt="➰ Intangibles" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_intangibles.webp?raw=true" width = 190>
 </picture></a>
 <br>
-<a href="/Pages/Niji_Journey/Style_Pages/Song_Lyrics.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Song_Lyrics.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics_light.webp?raw=true" width = 190>
 <img alt="🎙 Song Lyrics" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_song_lyrics.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Combinations.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Combinations.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_combinations.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_combinations_light.webp?raw=true" width = 190>
 <img alt="🖇🎰 Combinations" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_combinations.webp?raw=true" width = 190>
 </picture></a>
-<a href="/Pages/Niji_Journey/Style_Pages/Experimental.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Experimental.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_experimental.webp?raw=true" width = 190>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_experimental_light.webp?raw=true" width = 190>
 <img alt="🧪 Experimental" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_experimental.webp?raw=true" width = 190>
 </picture></a>
 <br>
-<a href="/Pages/Niji_Journey/Style_Pages/Miscellaneous.md"><picture>
+<a href="/Pages/Niji_Journey/Niji_V4/Style_Pages/Miscellaneous.md"><picture>
 <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>
 <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous_light.webp?raw=true" width = 580>
 <img alt="🎛 Miscellaneous" src="/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_style_miscellaneous.webp?raw=true" width = 580>

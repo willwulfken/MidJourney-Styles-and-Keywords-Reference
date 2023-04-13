@@ -33,7 +33,7 @@
 			<img src="/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles/Sphere.webp?raw=true" width="256" />
 		</td>
 		<td>
-			<img src="/Images/Niji_Journey/MidJourney_Styles/Sphere.webp?raw=true" width="256" />
+			<img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Sphere.webp?raw=true" width="256" />
 		</td>
 	</tr>
 	<tr align=center valign=middle>

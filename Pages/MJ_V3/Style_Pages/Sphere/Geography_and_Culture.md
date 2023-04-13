@@ -8,7 +8,7 @@
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="MidJourney V4" height="64" />](/Pages/MJ_V4/Style_Pages/Just_The_Style/Geography_and_Culture.md)
 <br>
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_inactive_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Geography_and_Culture.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Style_Pages/Geography_and_Culture.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Style_Pages/Geography_and_Culture.md)
 
 [<img src="/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_just_the_style_inactive.webp?raw=true" alt="Just The Style" width="140.5" />](/Pages/MJ_V3/Style_Pages/Just_The_Style/Geography_and_Culture.md)
 [<img src="/Images/Repo_Parts/Buttons/Image_Type_Buttons/button_sphere_active.webp?raw=true" alt="Sphere" width="140.5" />](/Pages/MJ_V3/Style_Pages/Sphere/Geography_and_Culture.md)
