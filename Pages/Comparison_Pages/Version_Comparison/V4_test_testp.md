@@ -9,7 +9,7 @@
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_inactive.webp?raw=true" alt="Midjourney V4" height="64" />](/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_Alpha.md)
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_inactive.webp?raw=true" alt="Midjourney V5" height="64" />](/Pages/Comparison_Pages/Version_Comparison/MJ_V5/V5_Alpha.md)
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_v4_vs_niji_inactive_half.webp?raw=true" alt="V4 vs Niji Journey" height="64" />](/Pages/Comparison_Pages/Version_Comparison/V4_niji.md)
+[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Comparison_Pages/Version_Comparison/Niji_Journey.md)
 [<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_hd_inactive_half.webp?raw=true" alt="hd" height="64" />](/Pages/Comparison_Pages/Version_Comparison/HD/hd.md)
 <br>
 [<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_v4_test_testp_active_half.webp?raw=true" alt="V4 vs --test vs --testp" height="64" />](/Pages/Comparison_Pages/Version_Comparison/V4_test_testp.md)
