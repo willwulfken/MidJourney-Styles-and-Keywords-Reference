@@ -95,6 +95,18 @@
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Cartoon.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Cartoon.webp?raw=true" width="256" /></td>
     </tr>
+    <tr align="center" valign="middle">
+        <th>Steampunk</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Steampunk.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Steampunk.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Steampunk.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Fractalpunk</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Fractalpunk.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Fractalpunk.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Fractalpunk.webp?raw=true" width="256" />--></td>
+    </tr>
 </table>
 
 
@@ -109,6 +121,12 @@
         <th>Niji Journey (V5)<br>Style Expressive</th>
     </tr>
     <tr align="center" valign="middle">
+        <th>Hyperdetailed</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Hyperdetailed.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Hyperdetailed.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Hyperdetailed.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Chaotic</th>
         <td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Chaotic.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Chaotic.webp?raw=true" width="256" /></td>
@@ -121,10 +139,34 @@
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Intricate_Surface_Detail.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
+        <th>Flat Design</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Flat_Design.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Flat_Design.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Flat_Design.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Spectrum</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Spectrum.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Spectrum.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Spectrum.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Synesthesia</th>
     	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Synesthesia.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Synesthesia.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Synesthesia.webp?raw=true" width="256" /></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Disco</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Disco.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Disco.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Disco.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Halftone</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Halftone.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Halftone.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Halftone.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Diffraction Patterns</th>
@@ -139,10 +181,28 @@
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Cubism.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
+        <th>Neo-Tokyo</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Neo-Tokyo.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Neo-Tokyo.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Neo-Tokyo.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Psychedelica</th>
     	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Psychedelica.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Psychedelica.webp?raw=true" width="256" /></td>
         <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Psychedelica.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Sacred Geometry</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Sacred_Geometry.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Sacred_Geometry.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Sacred_Geometry.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Extreme Bubble Design</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Extreme_Bubble_Design.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Extreme_Bubble_Design.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Extreme_Bubble_Design.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Liquify</th>
@@ -168,10 +228,28 @@
         <th>Niji Journey (V5)<br>Style Expressive</th>
     </tr>
     <tr align="center" valign="middle">
+        <th>4k</th>
+        <td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/4k.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/4k.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/4k.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>8-bit</th>
     	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/8-bit.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/8-bit.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/8-bit.webp?raw=true" width="256" /></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Cyberdelic</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Cyberdelic.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Cyberdelic.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Cyberdelic.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Disney</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Disney.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Disney.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Disney.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Microsoft Paint</th>
@@ -209,6 +287,12 @@
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Deep_Dream.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Deep_Dream.webp?raw=true" width="256" /></td>
     </tr>
+    <tr align="center" valign="middle">
+        <th>Tetris</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Tetris.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Tetris.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Tetris.webp?raw=true" width="256" />--></td>
+    </tr>
 </table>
 
 <br><br>
@@ -221,10 +305,28 @@
         <th>Niji Journey (V5)<br>Style Expressive</th>
     </tr>
     <tr align="center" valign="middle">
+        <th>Painting By Salvador Dali</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Painting_By_Salvador_Dali.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Painting_By_Salvador_Dali.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Painting_By_Salvador_Dali.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Painting By Van Gogh</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Painting_By_Van_Gogh.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Painting_By_Van_Gogh.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Painting_By_Van_Gogh.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Painting By Alex Grey</th>
     	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Painting_By_Alex_Grey.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Painting_By_Alex_Grey.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Painting_By_Alex_Grey.webp?raw=true" width="256" /></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Painting By Bob Ross</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Painting_By_Bob_Ross.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Painting_By_Bob_Ross.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Painting_By_Bob_Ross.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Art By M.C. Escher</th>
@@ -250,6 +352,24 @@
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Sketch.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
+        <th>Stipple</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Stipple.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Stipple.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Stipple.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Colored Pencil</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Colored_Pencil.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Colored_Pencil.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Colored_Pencil.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Ballpoint Pen</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Ballpoint_Pen.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Ballpoint_Pen.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Ballpoint_Pen.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Marker Art</th>
         <td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Marker_Art.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Marker_Art.webp?raw=true" width="256" /></td>
@@ -268,10 +388,28 @@
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Splatter_Paint.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
+        <th>Wall Decal</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Wall_Decal.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Wall_Decal.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Wall_Decal.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Bejeweled</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Bejeweled.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Bejeweled.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Bejeweled.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Carved Lacquer</th>
     	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Bone China</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Bone_China.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Bone_China.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Bone_China.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Glitter</th>
@@ -289,6 +427,12 @@
         <th>Niji Journey (V4)</th>
         <th>Niji Journey (V5)</th>
         <th>Niji Journey (V5)<br>Style Expressive</th>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Brushed Aluminum</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Brushed_Aluminum.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Brushed_Aluminum.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Brushed_Aluminum.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Anodized Titanium</th>
@@ -319,6 +463,12 @@
     	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Tornado</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Tornado.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Tornado.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Tornado.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Lactarius-Indigo</th>
@@ -380,10 +530,28 @@
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Ray_Traced.webp?raw=true" width="256" /></td>
     </tr>
     <tr align="center" valign="middle">
+        <th>Ray Tracing Reflections</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
         <th>Chromatic Aberration</th>
         <td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /></td>
         <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Scan Lines</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Scan_Lines.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Scan_Lines.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Scan_Lines.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Cracked</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Cracked.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Cracked.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Cracked.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Tessellated</th>
@@ -401,6 +569,24 @@
         <th>Niji Journey (V4)</th>
         <th>Niji Journey (V5)</th>
         <th>Niji Journey (V5)<br>Style Expressive</th>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Aqua</th>
+        <td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Aqua.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Aqua.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Aqua.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Electric Colors</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Electric_Colors.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Electric_Colors.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Electric_Colors.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>CMYK</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/CMYK.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/CMYK.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/CMYK.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>CGA</th>
@@ -424,6 +610,12 @@
         <th>Niji Journey (V4)</th>
         <th>Niji Journey (V5)</th>
         <th>Niji Journey (V5)<br>Style Expressive</th>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Cinematic</th>
+        <td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Cinematic.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Cinematic.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Cinematic.webp?raw=true" width="256" />--></td>
     </tr>
     <tr align="center" valign="middle">
         <th>Bokeh</th>
@@ -472,7 +664,37 @@
         <td><img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Polygonal.webp?raw=true" width="256" /></td>
         <td><img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Polygonal.webp?raw=true" width="256" /></td>
     </tr>
+    <tr align="center" valign="middle">
+        <th>Celtic Knot</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Celtic_Knot.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Celtic_Knot.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Celtic_Knot.webp?raw=true" width="256" />--></td>
+    </tr>
 </table>
+
+<br><br>
+
+<table>
+    <tr align="center" valign="middle">
+        <th width=120></th>
+        <th>Niji Journey (V4)</th>
+        <th>Niji Journey (V5)</th>
+        <th>Niji Journey (V5)<br>Style Expressive</th>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Angelic</th>
+    	<td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Angelic.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Angelic.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Angelic.webp?raw=true" width="256" />--></td>
+    </tr>
+    <tr align="center" valign="middle">
+        <th>Happy</th>
+        <td><img src="/Images/Niji_Journey/Niji_V4/MidJourney_Styles/Happy.webp?raw=true" width="256" /></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5/MidJourney_Styles/Happy.webp?raw=true" width="256" />--></td>
+        <td>-<!--<img src="/Images/Niji_Journey/Niji_V5_Expressive/MidJourney_Styles/Happy.webp?raw=true" width="256" />--></td>
+    </tr>
+</table>
+
 
 </div>
 
