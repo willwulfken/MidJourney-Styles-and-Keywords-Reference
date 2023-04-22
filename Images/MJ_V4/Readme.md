@@ -41,5 +41,9 @@
 <h4><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main/Images/MJ_V4/V4_Alpha_3.6/Midjourney_Styles_(tree)">Link To Style Images (Tree)</a></h4>
 
 <h2>V4 "Alpha 3.7"</h2>
-<h3>Generated Between 3-23-23 and TBD</h3>
+<h3>Generated Between 3-23-23 and 4-18-23</h3>
 <h4><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main/Images/MJ_V4/V4_Alpha_3.7/Midjourney_Styles">Link To Style Images</a></h4>
+
+<h2>V4 "Alpha 3.8"</h2>
+<h3>Generated Between 4-18-23 and TBD</h3>
+<h4><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main/Images/MJ_V4/V4_Alpha_3.8/Midjourney_Styles">Link To Style Images</a></h4>
