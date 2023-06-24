@@ -29,7 +29,7 @@
 	| :-: | :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Frontlight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Halfrear_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Backlight.webp?raw=true" width="256" /> | 
 
-    <br>
+	<br>
 
 	| Dim | Dim Lighting | Dark Lighting |
 	| :-: | :-: | :-: |
