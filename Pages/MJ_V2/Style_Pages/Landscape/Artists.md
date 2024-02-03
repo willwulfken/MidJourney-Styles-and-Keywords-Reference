@@ -398,9 +398,9 @@
 
 	<br>
 
-	| Painted By Angus McKie | Painted By Akari Toriyama | Painted By Al Williamson |
+	| Painted By Angus McKie | Painted By Akira Toriyama | Painted By Al Williamson |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Angus_McKie.webp?raw=true" width="256" /> | <img src="/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Akari_Toriyama.webp?raw=true" width="256" /> | <img src="/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Al_Williamson.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Angus_McKie.webp?raw=true" width="256" /> | <img src="/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Akira_Toriyama.webp?raw=true" width="256" /> | <img src="/Images/MJ_V2/MidJourney_Styles_(landscape)/landscape_Painted_By_Al_Williamson.webp?raw=true" width="256" /> |
 
 	<br>
 

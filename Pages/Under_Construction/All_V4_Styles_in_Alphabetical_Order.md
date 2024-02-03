@@ -2671,7 +2671,7 @@
 	| Paint | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Paint.webp?raw=true" width="256" /> |
 	| Painted By Adolph Menzel | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Adolph_Menzel.webp?raw=true" width="256" /> |
 	| Painted By Affadi | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Affadi.webp?raw=true" width="256" /> |
-	| Painted By Akari Toriyama | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Akari_Toriyama.webp?raw=true" width="256" /> |
+	| Painted By Akira Toriyama | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Akira_Toriyama.webp?raw=true" width="256" /> |
 	| Painted By Akihiko Yoshida | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Akihiko_Yoshida.webp?raw=true" width="256" /> |
 	| Painted By Al Williamson | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Al_Williamson.webp?raw=true" width="256" /> |
 	| Painted By Alan Lee | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Painted_By_Alan_Lee.webp?raw=true" width="256" /> |

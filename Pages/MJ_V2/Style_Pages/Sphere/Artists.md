@@ -398,9 +398,9 @@
 
 	<br>
 
-	| Painting By Angus McKie | Painting By Akari Toriyama | Painting By Al Williamson |
+	| Painting By Angus McKie | Painting By Akira Toriyama | Painting By Al Williamson |
 	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Angus_McKie.webp?raw=true" width="256" /> | <img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Akari_Toriyama.webp?raw=true" width="256" /> | <img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Al_Williamson.webp?raw=true" width="256" /> |
+	| <img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Angus_McKie.webp?raw=true" width="256" /> | <img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Akira_Toriyama.webp?raw=true" width="256" /> | <img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/sphere_Painted_By_Al_Williamson.webp?raw=true" width="256" /> |
 
 	<br>
 	
