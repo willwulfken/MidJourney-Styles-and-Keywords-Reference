@@ -41,6 +41,10 @@
 		<td><img src="https://i.imgur.com/ZeebGCK.png" width=64 /></td>
 		<td><a href="https://wiki.artmechanicum.com/wiki/Main_Page">Art Mechanicum</a></td>
 	</tr>
+	<tr align=center valign=middle>
+		<td><img src="https://i.imgur.com/ROEbAzw.jpeg" width=64 /></td>
+		<td><a href="https://midlibrary.io/">Midlibrary</a></td>
+	</tr>
 </table>
 
 </div>
